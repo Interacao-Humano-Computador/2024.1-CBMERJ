@@ -29,7 +29,7 @@ As etapas desempenham um papel fundamental nesse modelo, garantindo que os dados
 
 A avaliação assume um papel central, sendo realizada após a conclusão de cada atividade e antes do início da próxima. É necessário passar por uma avaliação ao concluir uma etapa e antes de iniciar outra, garantindo a qualidade e adequação do trabalho realizado em todas as fases do processo.</p>
 
-![Ciclo de vida em estrela](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-CBMERJ/main/docs/imgs/ciclodevidaemestrela.png)
+![Ciclo de vida em estrela](https://github.com/Interacao-Humano-Computador/2024.1-CBMERJ/blob/main/docs/figuras/planejamento/ciclodevidaemestrela.png)
 <div style="text-align: center">
     <p> <b>Figura 2:</b> Diagrama de atividades do ciclo de vida em estrela (Fonte: BARBOSA e SILVA. 2021).</p>
 </div>
@@ -63,7 +63,7 @@ Com isso, são propostas as seguintes atividades:
 
 Mayhew propôs esse modelo de ciclo de vida para a engenharia de usabilidade que combina várias abordagens da área de Interação Humano-Computador em um único ciclo. A análise dos requisitos é guiada pelo perfil do usuário, análise de tarefas, características e limitações da plataforma. Na etapa de design e avaliação, o objetivo é criar uma solução para IHC. Por fim, na etapa de implementação, é crucial obter feedback dos usuários após um período de uso para possíveis melhorias futuras no sistema.<p>
 
-![Engenharia de Usabilidade de Mayhew](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-CBMERJ/main/docs/imgs/engenhariadeusabilidademayhew.png)
+![Engenharia de Usabilidade de Mayhew](https://github.com/Interacao-Humano-Computador/2024.1-CBMERJ/blob/main/docs/figuras/planejamento/engenhariadeusabilidademayhew.png)
 <div style="text-align: center">
     <p> <b>Figura 3</b> Diagrama de atividades da Engenharia de Usabilidade de Mayhew (Fonte: BARBOSA, SILVA. 2010).</p>
 </div>
