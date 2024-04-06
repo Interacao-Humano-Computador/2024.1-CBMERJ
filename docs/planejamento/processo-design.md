@@ -68,7 +68,7 @@ Mayhew propôs esse modelo de ciclo de vida para a engenharia de usabilidade que
 
 
 ## Referências Bibliográficas
-> 1. BARBOSA, Simone. SILVA, Bruno. Processos	de	Design	de	IHC: Capítulo 4. 2010. Disponível em: <https://thiagov.github.io/resources/ihc/aula4.pdf>. Acesso em: 05 de mar. 2024.
+> 1. BARBOSA, Simone. SILVA, Bruno. **Processos	de	Design	de	IHC: Capítulo 4.** 2010. Disponível em: <https://thiagov.github.io/resources/ihc/aula4.pdf>. Acesso em: 05 de mar. 2024.
  
 
 ## Histórico de Versões
