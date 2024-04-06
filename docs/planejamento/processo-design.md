@@ -16,7 +16,7 @@ Entre os principais processos de design, destacam-se abordagens como o ciclo de 
 
 O ciclo de vida simples concentra-se em duas principais atividades: design (ou redesign) e construção de uma versão interativa. Durante o design, os designers exploram alternativas para encontrar soluções que atendam às necessidades e requisitos definidos na análise, apresentando os resultados por meio de descrições textuais ou esboços dos modelos. Em seguida, constroem versões interativas das soluções propostas para demonstrar como as interfaces ou interações funcionam na prática. Essa abordagem visa facilitar uma compreensão nítida e uma comunicação eficiente das ideias de design, contribuindo para o desenvolvimento eficaz de sistemas interativos. Esse modelo geralmente é recomendado para designers experientes devido à sua simplicidade e falta de detalhamento nas etapas.
 
-![Ciclo de vida de simples](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-CBMERJ/main/docs/imgs/ciclo-de-vida-simples.png)
+![Ciclo de vida de simples](https://github.com/Interacao-Humano-Computador/2024.1-CBMERJ/blob/main/docs/figuras/planejamento/ciclo-de-vida-simples.png)
 <div style="text-align: center">
     <p> <b>Figura 1: </b>Diagrama de atividades do ciclo de vida simples (Fonte: BARBOSA e SILVA. 2021).</p>
 </div>
