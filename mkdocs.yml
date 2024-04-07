@@ -46,7 +46,7 @@ markdown_extensions:
 nav: 
   - Início: index.md
   - Atas:
-      - Ata 1: atas/file-name.md
+      - Ata 1: atas/ata_1.md
   - Apresentações:
       - Apresentação 1: apresentacoes/file-name.md
   - Planejamento:
