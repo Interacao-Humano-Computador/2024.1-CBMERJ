@@ -21,7 +21,13 @@
 
 ## SIGAA
 
-<p align="justify">add overview</p>
+<p align="justify">O Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) é o ambiente destinado ao controle e administração das disciplinas e de todos os dados pertinentes à vida acadêmica dos alunos. Nele, estão concentradas as informações sobre ensino, pesquisa e extensão. A integrante <a href="https://github.com/libruna">Bruna Lima</a> foi a responsável pela avaliação do site que teve foco principal nos problemas de interação e interface e facilidade de aprendizado de uso da plataforma. O método de avaliação utilizado foi a inspeção por percurso cognitivo.
+
+Os principais pontos de melhoria encontrados estão relacionados a:</p>
+
+- Dificuldade em encontrar funcionalidades dentro do sistema devido às múltiplas camadas e combinações de opções que devem ser selecionadas corretamente antes de chegar ao objetivo final;
+- Alguns dos termos utilizados não são familiares aos estudantes.
+
 [Link para visualizar a avaliação completa e mais detalhada](avaliacoes/sigaa.pdf)
 
 ## Meu SUS Digital
@@ -59,6 +65,8 @@ O site CBMERJ - Corpo de Bombeiros do Estado do Rio de Janeiro -, que teve como 
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 06/04/2024 | Criação da página de sites avaliados                         | [Bruna Lima](https://github.com/libruna) | []()         | 
+| `1.0`   | 06/04/2024 | Criação da página de sites avaliados                         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
+| `1.1`   | 07/04/2024 | Inclusão da avaliação do CBMERJ                        | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
+| `1.2`   | 07/04/2024 | Inclusão da avaliação do SIGAA                        | [Bruna Lima](https://github.com/libruna) | []()         | 
 
 </center>

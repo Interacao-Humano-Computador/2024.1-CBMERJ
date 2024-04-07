@@ -2,15 +2,17 @@
 
 ## Introdução
 
-<p align="justify">De acordo com Barbosa e Silva (2021, p.107)<a id="anchor_1" href="#REF1"><sup>1<sup></a>, o design surge da intervenção humana em resposta a necessidades. Ao analisarmos os elementos envolvidos e suas interações, somos capazes de identificar problemas, características indesejáveis e áreas de melhoria em uma determinada situação. Essas intervenções envolvem atividades de design, que podem ser caracterizadas como:  
+<p align="justify">De acordo com Barbosa e Silva (2021, p.107)<a id="anchor_1" href="#REF1"><sup>1</sup></a>, o design surge da intervenção humana em resposta a necessidades. Ao analisarmos os elementos envolvidos e suas interações, somos capazes de identificar problemas, características indesejáveis e áreas de melhoria em uma determinada situação. Essas intervenções envolvem atividades de design, que podem ser caracterizadas como:</p>
 
-- **Análise da situação atual:** Estudar e interpretar a situação atual; 
-- **Síntese de uma intervenção:** Planejar e executar uma intervenção na situação atual; 
-- **Avaliação da nova situação:** Verificar o efeito da intervenção, comparando a situação analisada anteriormente com a nova situação atingida após a intervenção. 
+<ul>
+  <li><strong>Análise da situação atual:</strong> Estudar e interpretar a situação atual;</li>
+  <li><strong>Síntese de uma intervenção:</strong> Planejar e executar uma intervenção na situação atual;</li>
+  <li><strong>Avaliação da nova situação:</strong> Verificar o efeito da intervenção, comparando a situação analisada anteriormente com a nova situação atingida após a intervenção.</li>
+</ul>
 
-Cada processo de design detalha essas atividades de uma forma particular, definindo como e a sequência em que devem ser realizadas, quais podem ser repetidas e por quais motivos, os artefatos envolvidos, entre outros aspectos. Esses processos fornecem um caminho estruturado, orientando desde a compreensão inicial das necessidades até a implementação e avaliação das soluções propostas. 
+<p>Cada processo de design detalha essas atividades de uma forma particular, definindo como e a sequência em que devem ser realizadas, quais podem ser repetidas e por quais motivos, os artefatos envolvidos, entre outros aspectos. Esses processos fornecem um caminho estruturado, orientando desde a compreensão inicial das necessidades até a implementação e avaliação das soluções propostas.</p>
 
-Entre os principais processos de design, destacam-se abordagens como o ciclo de vida simples, o ciclo de vida em estrela, a Engenharia de Usabilidade de Nielsen e a Engenharia de Usabilidade de Mayhew. Cada um oferece uma perspectiva sobre como abordar os desafios do design, com suas próprias etapas e metodologias específicas.</p>
+<p>Entre os principais processos de design, destacam-se abordagens como o ciclo de vida simples, o ciclo de vida em estrela, a Engenharia de Usabilidade de Nielsen e a Engenharia de Usabilidade de Mayhew. Cada um oferece uma perspectiva sobre como abordar os desafios do design, com suas próprias etapas e metodologias específicas.</p>
 
 ## Ciclo de vida simples
 
