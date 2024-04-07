@@ -2,7 +2,7 @@
 <h2 align="center"> 2024.1 </h2>
 
 ## Sobre o projeto
-
+    Esse projeto se trata do desenvolvimento de uma análise IHC pelos integrantes do Grupo 7 da disciplina Interação Humano-Computador da Universidade de Brasília. O objeto de análise é o site do Corpo de Bombeiros do Estado do Rio de Janeiro.
 
 ## Membros da equipe
 
@@ -54,7 +54,8 @@
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 04/04/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) | [](https://github.com/)         |
+| `1.0`   | 04/04/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         |
+| `2.0`   | 05/04/2024 | Adição de informação em "Sobre o Projeto" | [Mariana Letícia](https://github.com/Marianannn)| [](https://github.com/)         |
 
 </center>
 
