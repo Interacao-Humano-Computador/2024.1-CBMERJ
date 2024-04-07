@@ -2,7 +2,9 @@
 <h2 align="center"> 2024.1 </h2>
 
 ## Sobre o projeto
-    Esse projeto se trata do desenvolvimento de uma análise IHC pelos integrantes do Grupo 7 da disciplina Interação Humano-Computador da Universidade de Brasília. O objeto de análise é o site do Corpo de Bombeiros do Estado do Rio de Janeiro.
+<div>
+    <p> Esse projeto se trata do desenvolvimento de uma análise IHC pelos integrantes do Grupo 7 da disciplina Interação Humano-Computador da Universidade de Brasília. O objeto de análise é o site do Corpo de Bombeiros do Estado do Rio de Janeiro.</p>
+</div>
 
 ## Membros da equipe
 
