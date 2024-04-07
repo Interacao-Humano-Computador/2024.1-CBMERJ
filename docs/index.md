@@ -1,17 +1,60 @@
-# Welcome to MkDocs
+<h1 align="center"> Corpo de Bombeiros Militar do Estado do Rio de Janeiro </h1>
+<h2 align="center"> 2024.1 </h2>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Sobre o projeto
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Membros da equipe
 
-## Project layout
+<div align="center">
+    <div style="display: flex; flex-direction: row; gap: 15px; flex-wrap: wrap; justify-content: center;">
+        <div>
+            <a href="https://github.com/libruna">
+                <img src="https://github.com/libruna.png" alt="Bruna Lima" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
+                <h5 style="text-align: center; margin-top: 5px;">Bruna Lima</h5>
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/danialarcao">
+                <img src="https://github.com/danialarcao.png" alt="Daniela Alarcão" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
+                <h5 style="text-align: center; margin-top: 5px;">Daniela Alarcão</h5>
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/GenilsonJrs">
+                <img src="https://github.com/GenilsonJrs.png" alt="Genilson Silva" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
+                <h5 style="text-align: center; margin-top: 5px;">Genilson Silva</h5>
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/LucasAvelar2711">
+                <img src="https://github.com/LucasAvelar2711.png" alt="Lucas Avelar" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
+                <h5 style="text-align: center; margin-top: 5px;">Lucas Avelar</h5>
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/Marianannn">
+                <img src="https://github.com/Marianannn.png" alt="Mariana Letícia" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
+                <h5 style="text-align: center; margin-top: 5px;">Mariana Letícia</h5>
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/PedroHhenriq">
+                <img src="https://github.com/PedroHhenriq
+.png" alt="Pedro Henrique" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
+                <h5 style="text-align: center; margin-top: 5px;">Pedro Henrique</h5>
+            </a>
+        </div>
+    </div>
+</div>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<center>
+
+## Histórico de Versões
+
+| Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
+| ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| `1.0`   | 04/04/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) | [](https://github.com/)         |
+
+</center>
+
