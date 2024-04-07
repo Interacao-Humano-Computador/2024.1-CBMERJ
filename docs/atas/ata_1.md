@@ -1,8 +1,8 @@
 <h1 align="center"> Ata 1 </h1>
 
-## Data/Horário
-
 **Redator(a):** Mariana Letícia
+
+## Data/Horário
 
 <center>
 
@@ -12,8 +12,10 @@
 
 </center>
 
+## Participantes
+
 <center>
-  
+
 | Participantes | Presentes na reunião 
 | :-----------: | :----------------------: 
 | [Bruna Lima](https://github.com/libruna) | sim
