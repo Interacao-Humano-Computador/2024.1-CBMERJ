@@ -1,5 +1,5 @@
 # Cronograma realizado durante o semestre letivo
- Este é o cronograma doque foi realizado em comparação ao cronograma.
+ Este é o cronograma do que foi realizado em comparação ao cronograma.
 
 | Atividade                    | Local         | Período de desenvolvimento - início | Período de desenvolvimento - fim | Responsáveis      | Período de Revisão - início | Período de Revisão - fim | Revisores |
 |------------------------------|---------------|-------------------------------------|---------------------------------|-------------------|-----------------------------|-------------------------|-----------|
