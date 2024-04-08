@@ -51,6 +51,7 @@ nav:
       - Apresentação 1: apresentacoes/file-name.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
+      - Cronograma Realizado: planejamento/CronogramaRealizado.md
       - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
       - Processo de Design: planejamento/processo-de-design.md

@@ -117,3 +117,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |  3 | Implementar git page                                 | Google Meets | 2024-06-06 00:00:00                         | 2024-06-18 00:00:00 | Daniela         | 2024-06-17 00:00:00  | 2024-06-18 00:00:00 | todos       |
 
         Tabela 8: Cronograma do Ponto de controle 8 (Fonte:Lucas Avelar,2024)
+
+
+| Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
+| ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| `1.0`   | 06/04/2024 | Criação da página de Cronograma                         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
+| `2.0`   | 06/04/2024 | Criação da página de sites escolhidos                     | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 

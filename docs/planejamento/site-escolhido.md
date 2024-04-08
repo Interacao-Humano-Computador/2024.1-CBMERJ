@@ -27,3 +27,9 @@
 - Mesmo sendo um site do governo ele não possui acessibilidade a pessoas com necessidades especiais
 
 [link para a avaliação detalhada](https://drive.google.com/file/d/1kQxBZX7ceb8yqGvYbOTTB9pGGsW2FqH7/view?usp=sharing)
+
+
+| Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
+| ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| `1.0`   | 06/04/2024 | Criação da página de sites escolhidos                     | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
+| `2.0`   | 08/04/2024 | Adição de conteúdo sobre o site escolhido              | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 

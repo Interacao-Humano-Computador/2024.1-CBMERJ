@@ -37,4 +37,4 @@ comunicação e capacidade de resposta às necessidades conforme o andamento do 
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 05/04/2024 | Criação da página                         | [Pedro Henrique](https://github.com/PedroHhenriq) |   
+| `1.0`   | 05/04/2024 | Criação da página                         | [Pedro Henrique](https://github.com/PedroHhenriq) |   [Mariana Letícia](https://github.com/Marianannn) |
