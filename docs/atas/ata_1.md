@@ -67,7 +67,7 @@ Não foi definida a data da próxima reunião
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 02/04/2024 | criação da ata | [Mariana Letícia](https://github.com/Marianannn) | []()         | 
-| `2.0`   | 07/04/2024 | adição da ata no git pages | [Mariana Letícia](https://github.com/Marianannn) | []()         | 
+| `1.0`   | 02/04/2024 | criação da ata | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)         | 
+| `2.0`   | 07/04/2024 | adição da ata no git pages | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)        | 
 
 </center>
