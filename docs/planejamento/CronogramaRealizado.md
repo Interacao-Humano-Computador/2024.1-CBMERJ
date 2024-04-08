@@ -13,8 +13,10 @@
 | Gravar apresentação          | Google Meets  | 2024-04-08                          | 2024-04-08                      | todos             | 2024-04-08                  | 2024-04-08              | todos     |
 | Implementar git page         | Google Meets  | 2024-04-04                          | 2024-04-08                      | Daniela           | 2024-04-08                  | 2024-04-08              | todos     |
 
-    Na Tabela 1, temos as entregas realizadas para o Ponto de Controle 1.
+<p>Na Tabela 1, temos as entregas realizadas para o Ponto de Controle 1.</p>
 
+
+## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |

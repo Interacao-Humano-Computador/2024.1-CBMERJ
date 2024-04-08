@@ -20,7 +20,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |  8 | Gravar apresentação        | Google Meets | 2024-04-07 00:00:00                         | 2024-04-07 00:00:00 | todos            | 2024-04-06 00:00:00  | 2024-04-07 00:00:00 | todos       |
 |  9 | Implementar git page       | Google Meets | 2024-04-02 00:00:00                         | 2024-04-06 00:00:00 | Daniela          | 2024-04-06 00:00:00  | 2024-04-07 00:00:00 | todos       |
 
-        Tabela 1: Cronograma do Ponto de controle 1 (Fonte:Lucas Avelar,2024)
+<p>Tabela 1: Cronograma do Ponto de controle 1 (Fonte:Lucas Avelar,2024)</p>
+
+
 
 ## Cronograma Ponto de Controle 2
 
@@ -35,7 +37,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |  7 | Gravar apresentação                            | Google Meets | 2024-04-09 00:00:00                         | 2024-04-19 00:00:00 | todos          | 2024-04-19 00:00:00  | 2024-04-19 00:00:00 | todos       |
 |  8 | Implementar git page                           | Google Meets | 2024-04-09 00:00:00                         | 2024-04-19 00:00:00 | Daniela        | 2024-04-19 00:00:00  | 2024-04-19 00:00:00 | todos       |
 
-        Tabela 2: Cronograma do Ponto de controle 2 (Fonte:Lucas Avelar,2024)Cronograma do Ponto de controle 1 (Fonte:Lucas Avelar,2024)
+<p>Tabela 2: Cronograma do Ponto de controle 2 (Fonte:Lucas Avelar,2024)Cronograma do Ponto de controle 1 (Fonte:Lucas Avelar,2024)</p>
+
+
 
 ## Cronograma Ponto de Controle 3
 
@@ -48,7 +52,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |  5 | Gravar apresentação                          | Google Meets | 2024-04-09 00:00:00                         | 2024-04-25 00:00:00 | todos           | 2024-04-25 00:00:00  | 2024-04-25 00:00:00 | todos       |
 |  6 | Implementar git page                         | Google Meets | 2024-04-09 00:00:00                         | 2024-04-25 00:00:00 | Daniela         | 2024-04-25 00:00:00  | 2024-04-25 00:00:00 | todos       |
 
-        Tabela 3: Cronograma do Ponto de controle 3 (Fonte:Lucas Avelar,2024)
+<p>Tabela 3: Cronograma do Ponto de controle 3 (Fonte:Lucas Avelar,2024)</p>
+
+
 
 ## Cronograma Ponto de Controle 4
 
@@ -60,7 +66,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |  4 | Gravar apresentação                                                      | Google Meets | 2024-04-30 00:00:00                         | 2024-06-04 00:00:00 | todos             | 2024-06-04 00:00:00  | 2024-06-04 00:00:00 | todos       |
 |  5 | Implementar git page                                                     | Google Meets | 2024-04-30 00:00:00                         | 2024-05-04 00:00:00 | Daniela           | 2024-06-03 00:00:00  | 2024-06-04 00:00:00 | todos       |
 
-        Tabela 4: Cronograma do Ponto de controle 4 (Fonte:Lucas Avelar,2024)
+<p>Tabela 4: Cronograma do Ponto de controle 4 (Fonte:Lucas Avelar,2024) </p>
 
 ## Cronograma Ponto de Controle 5
 
@@ -73,7 +79,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |  5 | Gravar apresentação                                                      | Google Meets | 2024-05-09 00:00:00                         | 2024-05-17 00:00:00 | todos              | 2024-05-17 00:00:00  | 2024-05-17 00:00:00 | todos       |
 |  6 | Implementar git page                                                     | Google Meets | 2024-05-09 00:00:00                         | 2024-05-17 00:00:00 | Daniela            | 2024-05-17 00:00:00  | 2024-05-17 00:00:00 | todos       |
 
-        Tabela 5: Cronograma do Ponto de controle 5 (Fonte:Lucas Avelar,2024)
+<p>Tabela 5: Cronograma do Ponto de controle 5 (Fonte:Lucas Avelar,2024)</p>
+
+
 
 ## Cronograma Ponto de Controle 6
 
@@ -94,7 +102,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 | 13 | Gravar apresentação                                      | Google Meets | 2024-05-26 00:00:00                         | 2024-05-10 00:00:00 | todos          | 2024-05-10 00:00:00  | 2024-05-10 00:00:00 | todos       |
 | 14 | Implementar git page                                     | Google Meets | 2024-06-26 00:00:00                         | 2024-05-10 00:00:00 | Daniela        | 2024-05-10 00:00:00  | 2024-05-10 00:00:00 | todos       |
 
-        Tabela 6: Cronograma do Ponto de controle 6 (Fonte:Lucas Avelar,2024)
+<p>Tabela 6: Cronograma do Ponto de controle 6 (Fonte:Lucas Avelar,2024)</p>
 
 ## Cronograma Ponto de Controle 7
 
@@ -106,7 +114,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |  4 | Gravar apresentação                                                                | Google Meets | 2024-06-04 00:00:00                         | 2024-06-04 00:00:00 | todos           | 2024-06-04 00:00:00  | 2024-06-04 00:00:00 | todos       |
 |  5 | Implementar git page                                                               | Google Meets | 2024-06-04 00:00:00                         | 2024-06-04 00:00:00 | Daniela         | 2024-06-03 00:00:00  | 2024-06-04 00:00:00 | todos       |
 
-        Tabela 7: Cronograma do Ponto de controle 7 (Fonte:Lucas Avelar,2024)
+<p>Tabela 7: Cronograma do Ponto de controle 7 (Fonte:Lucas Avelar,2024)</p>
 
 ## Cronograma Ponto de Controle 8
 
@@ -116,8 +124,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |  2 | Gravar apresentação                                  | Google Meets | 2024-06-06 00:00:00                         | 2024-06-18 00:00:00 | todos           | 2024-06-17 00:00:00  | 2024-06-18 00:00:00 | todos       |
 |  3 | Implementar git page                                 | Google Meets | 2024-06-06 00:00:00                         | 2024-06-18 00:00:00 | Daniela         | 2024-06-17 00:00:00  | 2024-06-18 00:00:00 | todos       |
 
-        Tabela 8: Cronograma do Ponto de controle 8 (Fonte:Lucas Avelar,2024)
+<p>Tabela 8: Cronograma do Ponto de controle 8 (Fonte:Lucas Avelar,2024)</p>
 
+## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |

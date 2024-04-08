@@ -10,6 +10,7 @@
 | :--: | :-----: |:----: 
 | 02/04 | 20h30 até 21h30 | Google Meets
 
+**Tabela:**  tabela de data e horário.
 </center>
 
 ## Participantes
@@ -25,6 +26,8 @@
 | [Mariana Letícia](https://github.com/Marianannn) | sim
 | [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) | não
   
+
+**Tabela:**  tabela de participantes.
 </center>
 
 ## Pautas

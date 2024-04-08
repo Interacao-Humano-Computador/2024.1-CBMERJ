@@ -29,6 +29,8 @@
 [link para a avaliação detalhada](https://drive.google.com/file/d/1kQxBZX7ceb8yqGvYbOTTB9pGGsW2FqH7/view?usp=sharing)
 
 
+## Histórico de Versões
+
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 06/04/2024 | Criação da página de sites escolhidos                     | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 

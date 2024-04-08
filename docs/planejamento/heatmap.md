@@ -9,6 +9,8 @@ Os números de 0 a 6 representam a quantidade de integrantes disponíveis no hor
 
 Os dias e horários de maior disponibilidade de toda a equipe são, respectivamente: Terça-feira, Quarta-feira, Quinta-feira e Sexta-feira, das 19h às 20h.
 
+## Histórico de Versões
+
 | Versão | Data       | Descrição            | Autor(es)                                         | Revisor(es)                                       |
 | ------ | ---------- | -------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | `1.0`  | 08/04/2024 | Inclusão do heatmap   | [Bruna Lima](https://github.com/libruna)         | [Genilson Silva](https://github.com/GenilsonJrs) |
