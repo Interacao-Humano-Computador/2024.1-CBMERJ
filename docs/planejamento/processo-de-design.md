@@ -10,7 +10,7 @@ As etapas desempenham um papel fundamental nesse modelo, garantindo que os dados
 A avaliação assume um papel central, sendo realizada após a conclusão de cada atividade e antes do início da próxima. É necessário passar por uma avaliação ao concluir uma etapa e antes de iniciar outra, garantindo a qualidade e adequação do trabalho realizado em todas as fases do processo.  
 
 <p align="center">
-  <img src="../imgs/ciclodevidaemestrela.png" alt="Ciclo de vida em Estrela" width="50%" />
+  <img src="planejamento/img/processo-de-design/ciclo-de-vida-simples.png" alt="Ciclo de vida em Estrela" width="50%" />
 </p>
 <p align="center">[Fonte: BARBOSA, SILVA. 2010 (Adaptada)] </p>
 

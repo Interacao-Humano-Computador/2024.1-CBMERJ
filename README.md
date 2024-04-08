@@ -42,8 +42,7 @@
         </div>
         <div>
             <a href="https://github.com/PedroHhenriq">
-                <img src="https://github.com/PedroHhenriq
-.png" alt="Pedro Henrique" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
+                <img src="https://github.com/PedroHhenriq.png" alt="Pedro Henrique" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
                 <h5 style="text-align: center; margin-top: 5px;">Pedro Henrique</h5>
             </a>
         </div>
