@@ -60,15 +60,17 @@ Mayhew propôs esse modelo de ciclo de vida para a engenharia de usabilidade que
 ## Ciclo de vida escolhido para o projeto
 <p align="justify">Após análises e discussões em equipe sobre os diferentes ciclos de vida mencionados anteriormente, chegamos à decisão de adotar o ciclo de vida proposto por Mayhew. Reconhecendo o nível de experiência da equipe, entendemos a importância de selecionar um ciclo de vida robusto, com etapas bem definidas, para orientar o desenvolvimento do nosso projeto. Acreditamos que ao seguir um processo criterioso e estruturado, como o sugerido por Mayhew, poderemos reduzir significativamente as margens de erro e obter uma compreensão mais clara das diversas etapas do projeto. Esta abordagem nos permitirá avançar com confiança e eficiência, garantindo uma execução bem-sucedida do projeto.<p>
 
-
 ## Bibliografia
 
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário._
 
-
 ## Histórico de Versões
+
+<center>
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 04/04/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)         | 
-| `1.1`   | 05/04/2024 | Adição dos Processos                      | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna)         | 
+| `1.0`   | 02/04/2024 | Criação da página | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)         | 
+| `2.0`   | 07/04/2024 | Adição dos Processos | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna)         | 
+
+</center>
