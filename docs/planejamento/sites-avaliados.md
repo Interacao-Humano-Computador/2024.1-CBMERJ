@@ -95,13 +95,8 @@ O site CBMERJ - Corpo de Bombeiros do Estado do Rio de Janeiro -, que teve como 
 | `1.0`   | 06/04/2024 | Criação da página de sites avaliados                         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
 | `1.1`   | 07/04/2024 | Inclusão da avaliação do CBMERJ                        | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
 | `1.2`   | 07/04/2024 | Inclusão da avaliação do SIGAA                        | [Bruna Lima](https://github.com/libruna) | []()         |
-<<<<<<< HEAD
 | `1.3`   | 08/04/2024 | Inclusão da avaliação do Meu Sus Digital                        | [Daniela Alarcão](https://github.com/danialarcao) | [Mariana Letícia](https://github.com/Marianannn)    |
 | `1.4`   | 08/04/2024 | Inclusão da avaliação do Correios                        | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Daniela Alarcão](https://github.com/danialarcao)    |
- 
-
-=======
-| `1.3`   | 07/04/2024 | Inclusão da avaliação do Caixa Tem                        | [Genilson Junior](https://github.com/GenilsonJrs) | []()         |  
->>>>>>> 228a78070a71fd3366572b2c3a662e0324139ce5
+| `1.5`   | 08/04/2024 | Inclusão da avaliação do Caixa Tem                        | [Genilson Junior](https://github.com/GenilsonJrs) | [Lucas Avelar](https://github.com/LucasAvelar2711)         |  
 
 </center>
