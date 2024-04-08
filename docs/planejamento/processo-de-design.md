@@ -62,7 +62,7 @@ Mayhew propôs esse modelo de ciclo de vida para a engenharia de usabilidade que
 
 ## Bibliografia
 
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário._
+ 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário._
 
 ## Histórico de Versões
 
