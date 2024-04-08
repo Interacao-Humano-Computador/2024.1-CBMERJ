@@ -1,6 +1,21 @@
 ## Introdução
+De acordo com Barbosa e Silva (2021, p.107), o design surge da intervenção humana em resposta a necessidades. Ao analisarmos os elementos envolvidos e suas interações, somos capazes de identificar problemas, características indesejáveis e áreas de melhoria em uma determinada situação. Essas intervenções envolvem atividades de design, que podem ser caracterizadas como:
+
+- <strong>Análise da situação atual:</strong> Estudar e interpretar a situação atual;
+- <strong>Síntese de uma intervenção:</strong> Planejar e executar uma intervenção na situação atual;
+- <strong>Avaliação da nova situação:</strong> Verificar o efeito da intervenção, comparando a situação analisada anteriormente com a nova situação atingida após a intervenção.
+
+Cada processo de design detalha essas atividades de uma forma particular, definindo como e a sequência em que devem ser realizadas, quais podem ser repetidas e por quais motivos, os artefatos envolvidos, entre outros aspectos. Esses processos fornecem um caminho estruturado, orientando desde a compreensão inicial das necessidades até a implementação e avaliação das soluções propostas.
+
+Entre os principais processos de design, destacam-se abordagens como o ciclo de vida simples, o ciclo de vida em estrela, a Engenharia de Usabilidade de Nielsen e a Engenharia de Usabilidade de Mayhew. Cada um oferece uma perspectiva sobre como abordar os desafios do design, com suas próprias etapas e metodologias específicas.
 
 ## Ciclo de vida Simples
+O ciclo de vida simples concentra-se em duas principais atividades: design (ou redesign) e construção de uma versão interativa. Durante o design, os designers exploram alternativas para encontrar soluções que atendam às necessidades e requisitos definidos na análise, apresentando os resultados por meio de descrições textuais ou esboços dos modelos. Em seguida, constroem versões interativas das soluções propostas para demonstrar como as interfaces ou interações funcionam na prática. Essa abordagem visa facilitar uma compreensão nítida e uma comunicação eficiente das ideias de design, contribuindo para o desenvolvimento eficaz de sistemas interativos. Esse modelo geralmente é recomendado para designers experientes devido à sua simplicidade e falta de detalhamento nas etapas.
+
+<p align="center">
+  <img src="../img/processo-de-design/ciclo-de-vida-simples.png" alt="Ciclo de vida simples" width="50%" />
+</p>
+<p align="center">Diagrama de atividades do ciclo de vida simples (Fonte: BARBOSA e SILVA. 2021)</p>
 
 ## Ciclo de vida em Estrela
 No modelo de Ciclo de Vida em Estrela, o projetista tem liberdade para determinar a sequência das etapas, no entanto, é essencial realizar uma avaliação após cada uma delas. 
@@ -65,11 +80,14 @@ Mayhew propôs esse modelo de ciclo de vida para a engenharia de usabilidade que
 </p>
 <p align="center">(Fonte: Mayhew, 1999) </p>
 
+## Ciclo de vida escolhido para o projeto
+Após análises e discussões em equipe sobre os diferentes ciclos de vida mencionados anteriormente, chegamos à decisão de adotar o ciclo de vida proposto por Mayhew. Reconhecendo o nível de experiência da equipe, entendemos a importância de selecionar um ciclo de vida robusto, com etapas bem definidas, para orientar o desenvolvimento do nosso projeto. Acreditamos que ao seguir um processo criterioso e estruturado, como o sugerido por Mayhew, poderemos reduzir significativamente as margens de erro e obter uma compreensão mais clara das diversas etapas do projeto. Esta abordagem nos permitirá avançar com confiança e eficiência, garantindo uma execução bem-sucedida do projeto.
 
 ## Referências Bibliográficas
 > 1. BARBOSA, Simone. SILVA, Bruno. Processos	de	Design	de	IHC: Capítulo 4. 2010. Disponível em: <https://thiagov.github.io/resources/ihc/aula4.pdf>. Acesso em: 05 de mar. 2024.
+> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
 
-
+## Histórico de Versões
 | Versão | Data       | Descrição            | Autor(es)                                         | Revisor(es)                                       |
 | ------ | ---------- | -------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | `1.0`  | 02/04/2024 | Criação da página    | [Bruna Lima](https://github.com/libruna)         | [Genilson Silva](https://github.com/GenilsonJrs) |
