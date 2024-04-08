@@ -18,7 +18,7 @@
 
 O ciclo de vida simples concentra-se em duas principais atividades: design (ou redesign) e construção de uma versão interativa. Durante o design, os designers exploram alternativas para encontrar soluções que atendam às necessidades e requisitos definidos na análise, apresentando os resultados por meio de descrições textuais ou esboços dos modelos. Em seguida, constroem versões interativas das soluções propostas para demonstrar como as interfaces ou interações funcionam na prática. Essa abordagem visa facilitar uma compreensão nítida e uma comunicação eficiente das ideias de design, contribuindo para o desenvolvimento eficaz de sistemas interativos. Esse modelo geralmente é recomendado para designers experientes devido à sua simplicidade e falta de detalhamento nas etapas.
 
-<img src="https://github.com/Interacao-Humano-Computador/2024.1-CBMERJ/blob/main/docs/figuras/planejamento/ciclo-de-vida-simples.png" alt="Ciclo de vida simples" style="display: block; margin: 0 auto;">
+<img alt="Ciclo de vida simples" src="../img/processo-de-design/ciclo-de-vida-simples.png" style="display: block; margin: 0 auto;">
 <p align="justify"><strong>Figura 1:</strong> Diagrama de atividades do ciclo de vida simples (Fonte: BARBOSA e SILVA. 2021).</p>
 
 ## Ciclo de vida em estrela
@@ -29,7 +29,7 @@ As etapas desempenham um papel fundamental nesse modelo, garantindo que os dados
 
 A avaliação assume um papel central, sendo realizada após a conclusão de cada atividade e antes do início da próxima. É necessário passar por uma avaliação ao concluir uma etapa e antes de iniciar outra, garantindo a qualidade e adequação do trabalho realizado em todas as fases do processo.</p>
 
-<img src="https://github.com/Interacao-Humano-Computador/2024.1-CBMERJ/blob/main/docs/figuras/planejamento/ciclodevidaemestrela.png" alt="Ciclo de vida em estrela" style="display: block; margin: 0 auto;">
+<img alt="Ciclo de vida simples" src="../img/processo-de-design/ciclodevidaemestrela.png" style="display: block; margin: 0 auto;">
 <p align="justify"><strong>Figura 2:</strong> Diagrama de atividades do ciclo de vida em estrela (Fonte: BARBOSA e SILVA. 2021).</p>
 
 ## Engenharia de Usabilidade de Nielsen
@@ -61,7 +61,7 @@ Com isso, são propostas as seguintes atividades:
 
 Mayhew propôs esse modelo de ciclo de vida para a engenharia de usabilidade que combina várias abordagens da área de Interação Humano-Computador em um único ciclo. A análise dos requisitos é guiada pelo perfil do usuário, análise de tarefas, características e limitações da plataforma. Na etapa de design e avaliação, o objetivo é criar uma solução para IHC. Por fim, na etapa de implementação, é crucial obter feedback dos usuários após um período de uso para possíveis melhorias futuras no sistema.<p>
 
-<img src="https://github.com/Interacao-Humano-Computador/2024.1-CBMERJ/blob/main/docs/figuras/planejamento/engenhariadeusabilidademayhew.png" alt="Engenharia de Usabilidade de Mayhew" style="display: block; margin: 0 auto;">
+<img alt="Ciclo de vida simples" src="../img/processo-de-design/engenhariadeusabilidademayhew.png" style="display: block; margin: 0 auto;">
 <p align="justify"><strong>Figura 3:</strong> Diagrama de atividades da Engenharia de Usabilidade de Mayhew (Fonte: BARBOSA, SILVA. 2010).</p>
 
 ## Ciclo de vida escolhido para o projeto
