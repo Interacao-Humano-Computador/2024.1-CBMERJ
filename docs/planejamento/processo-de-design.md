@@ -1,5 +1,3 @@
-<h1 align="center"> Processo de Design </h1>
-
 ## Introdução
 
 <p align="justify">De acordo com Barbosa e Silva (2021, p.107)<a id="anchor_1" href="#REF1"><sup>1</sup></a>, o design surge da intervenção humana em resposta a necessidades. Ao analisarmos os elementos envolvidos e suas interações, somos capazes de identificar problemas, características indesejáveis e áreas de melhoria em uma determinada situação. Essas intervenções envolvem atividades de design, que podem ser caracterizadas como:</p>
@@ -68,19 +66,15 @@ Mayhew propôs esse modelo de ciclo de vida para a engenharia de usabilidade que
 
 <p align="justify">Após análises e discussões em equipe sobre os diferentes ciclos de vida mencionados anteriormente, chegamos à decisão de adotar o ciclo de vida proposto por Mayhew. Reconhecendo o nível de experiência da equipe, entendemos a importância de selecionar um ciclo de vida robusto, com etapas bem definidas, para orientar o desenvolvimento do nosso projeto. Acreditamos que ao seguir um processo criterioso e estruturado, como o sugerido por Mayhew, poderemos reduzir significativamente as margens de erro e obter uma compreensão mais clara das diversas etapas do projeto. Esta abordagem nos permitirá avançar com confiança e eficiência, garantindo uma execução bem-sucedida do projeto.<p>
 
-## Referências Bibliográficas
+## Bibliografia
 
-- <a id="REF1" href="#anchor_1">1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário._
+- <a id="REF1" href="#anchor_1"></a>1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário._
 
 
 ## Histórico de Versões
-
-<center>
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 04/04/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)         | 
 | `1.1`   | 05/04/2024 | Adição dos Processos                      | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna)         | 
 | `1.2`   | 05/04/2024 | Adição da introdução, ciclo de vida simples e ciclo escolhido para o projeto                      | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)         | 
-
-</center>
