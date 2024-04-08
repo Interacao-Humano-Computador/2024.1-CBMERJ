@@ -9,10 +9,7 @@ As etapas desempenham um papel fundamental nesse modelo, garantindo que os dados
 
 A avaliação assume um papel central, sendo realizada após a conclusão de cada atividade e antes do início da próxima. É necessário passar por uma avaliação ao concluir uma etapa e antes de iniciar outra, garantindo a qualidade e adequação do trabalho realizado em todas as fases do processo.  
 
-<p align="center">
-  <img src="planejamento/img/processo-de-design/ciclo-de-vida-simples.png" alt="Ciclo de vida em Estrela" width="50%" />
-</p>
-<p align="center">[Fonte: BARBOSA, SILVA. 2010 (Adaptada)] </p>
+<img alt="LogoGit" src="../img/processo-de-design/ciclodevidaemestrela.png" width="60px">
 
 ## Engenharia de Usabilidade de Nielsen
 Na Engenharia de Usabilidade de Nielsen, durante todo o processo de desenvolvimento de um produto, são realizadas diversas atividades, muitas das quais ocorrem nas fases iniciais do projeto, mesmo antes da concepção da interface com o usuário. 
@@ -38,6 +35,7 @@ Com isso, são propostas as seguintes atividades:
 - Realize testes empíricos 
 
 - Pratique design iterativo 
+
 ## Engenharia de Usabilidade de Mayhew
 Na Engenharia de Usabilidade de Mayhew, sua concepção é constituída em 3 fases principais: 
 
