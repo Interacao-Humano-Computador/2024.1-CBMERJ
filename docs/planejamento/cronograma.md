@@ -10,7 +10,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 |    | Atividade                  | Local        | Período de desenvolvimento das atividades   | Unnamed: 3          | Responsáveis     | Período de Revisão   | Unnamed: 6          | Revisores   |
 |---:|:---------------------------|:-------------|:--------------------------------------------|:--------------------|:-----------------|:---------------------|:--------------------|:------------|
-|  0 | nan                        | nan          | início                                      | fim                 | nan              | início               | fim                 | nan         |
+|  0 | .                            | .              | início                                      | fim                 | .                  | início               | fim                 | .            |
 |  1 | Planejamento do projeto    | Google Meets | 2024-04-02 00:00:00                         | 2024-04-06 00:00:00 | Mariana e Lucas  | 2024-04-06 00:00:00  | 2024-04-07 00:00:00 | Bruna       |
 |  2 | Planejamento da equipe     | Google Meets | 2024-04-02 00:00:00                         | 2024-04-06 00:00:00 | todos            | 2024-04-06 00:00:00  | 2024-04-07 00:00:00 | Daniela     |
 |  3 | Lista de sites avaliados   | Google Meets | 2024-04-02 00:00:00                         | 2024-04-05 00:00:00 | todos            | 2024-04-06 00:00:00  | 2024-04-07 00:00:00 | Genilson    |
@@ -27,7 +27,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 |    | Atividade                                      | Local        | Período de desenvolvimento das atividades   | Unnamed: 3          | Responsáveis   | Período de Revisão   | Unnamed: 6          | Revisores   |
 |---:|:-----------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:---------------|:---------------------|:--------------------|:------------|
-|  0 | nan                                            | nan          | início                                      | fim                 | nan            | início               | fim                 | nan         |
+|  0 | .                                              | .            | início                                      | fim                 | .              | início               | fim                 | .           |
 |  1 | Perfil do usuário                              | Google Meets | 2024-04-09 00:00:00                         | 2024-04-19 00:00:00 | Genilson       | 2024-04-19 00:00:00  | 2024-04-19 00:00:00 | Bruna       |
 |  2 | Aspectos éticos de pesquisa envolvendo pessoas | Google Meets | 2024-04-09 00:00:00                         | 2024-04-19 00:00:00 | Mariana        | 2024-04-19 00:00:00  | 2024-04-19 00:00:00 | Daniela     |
 |  3 | Personas                                       | Google Meets | 2024-04-09 00:00:00                         | 2024-04-17 00:00:00 | Daniela        | 2024-04-19 00:00:00  | 2024-04-19 00:00:00 | Genilson    |
@@ -43,7 +43,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 |    | Atividade                                    | Local        | Período de desenvolvimento das atividades   | Unnamed: 3          | Responsáveis    | Período de Revisão   | Unnamed: 6          | Revisores   |
 |---:|:---------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:----------------|:---------------------|:--------------------|:------------|
-|  0 | nan                                          | nan          | início                                      | fim                 | nan             | início               | fim                 | nan         |
+|  0 | .                                            | .            | início                                      | fim                 | .               | início               | .                   | .           |
 |  1 | Princípios Gerais do Projeto                 | Google Meets | 2024-04-09 00:00:00                         | 2024-04-25 00:00:00 | Pedro           | 2024-04-25 00:00:00  | 2024-04-25 00:00:00 | Bruna       |
 |  2 | Metas de usabilidade                         | Google Meets | 2024-04-09 00:00:00                         | 2024-04-25 00:00:00 | Bruna e Mariana | 2024-04-25 00:00:00  | 2024-04-25 00:00:00 | Daniela     |
 |  3 | Guia de estilo                               | Google Meets | 2024-04-09 00:00:00                         | 2024-04-24 00:00:00 | Genilson        | 2024-04-25 00:00:00  | 2024-04-25 00:00:00 | Lucas       |
@@ -70,7 +70,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 |    | Atividade                                                                | Local        | Período de desenvolvimento das atividades   | Unnamed: 3          | Responsáveis       | Período de Revisão   | Unnamed: 6          | Revisores   |
 |---:|:-------------------------------------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:-------------------|:---------------------|:--------------------|:------------|
-|  0 | nan                                                                      | nan          | início                                      | fim                 | nan                | início               | fim                 | nan         |
+|  0 | .                                                                        | .            | início                                      | fim                 | .                  | início               | fim                 | .           |
 |  1 | relato dos resultados do story board e da análise de tarefas             | Google Meets | 2024-05-09 00:00:00                         | 2024-05-17 00:00:00 | Genilson e Daniela | 2024-05-17 00:00:00  | 2024-05-17 00:00:00 | Bruna       |
 |  2 | relato dos resultados da análise de tarefas                              | Google Meets | 2024-05-09 00:00:00                         | 2024-05-16 00:00:00 | Mariana            | 2024-05-17 00:00:00  | 2024-05-17 00:00:00 | Bruna       |
 |  3 | Planejamento da avaliação do protótipo de papel                          | Google Meets | 2024-05-09 00:00:00                         | 2024-05-17 00:00:00 | Lucas              | 2024-05-17 00:00:00  | 2024-05-17 00:00:00 | Daniela     |
@@ -84,7 +84,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 |    | Atividade                                                | Local        | Período de desenvolvimento das atividades   | Unnamed: 3          | Responsáveis   | Período de Revisão   | Unnamed: 6          | Revisores   |
 |---:|:---------------------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:---------------|:---------------------|:--------------------|:------------|
-|  0 | nan                                                      | nan          | início                                      | fim                 | nan            | início               | fim                 | nan         |
+|  0 | .                                                        | .            | início                                      | fim                 | .              | início               | fim                 | .           |
 |  1 | Planejamento de verificação dos artefatos da etapa 1     | Google Meets | 2024-05-21 00:00:00                         | 2024-05-21 00:00:00 | Todos          | 2024-04-26 00:00:00  | 2024-04-26 00:00:00 | Bruna       |
 |  2 | Planejamento de verificação dos artefatos da etapa 2     | Google Meets | 2024-05-21 00:00:00                         | 2024-05-22 00:00:00 | Todos          | 2024-04-26 00:00:00  | 2024-04-26 00:00:00 | Daniela     |
 |  3 | Planejamento de verificação dos artefatos da etapa 3     | Google Meets | 2024-05-21 00:00:00                         | 2024-05-23 00:00:00 | Todos          | 2024-04-26 00:00:00  | 2024-04-26 00:00:00 | Genilson    |
@@ -106,7 +106,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 |    | Atividade                                                                          | Local        | Período de desenvolvimento das atividades   | Unnamed: 3          | Responsáveis    | Período de Revisão   | Unnamed: 6          | Revisores   |
 |---:|:-----------------------------------------------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:----------------|:---------------------|:--------------------|:------------|
-|  0 | nan                                                                                | nan          | início                                      | fim                 | nan             | início               | fim                 | nan         |
+|  0 | .                                                                                  | .            | início                                      | fim                 | .               | início               | fim                 | .           |
 |  1 | Relato dos resultados do protótipo de papel                                        | Google Meets | 2024-05-28 00:00:00                         | 2024-06-05 00:00:00 | Mariana e Lucas | 2024-06-03 00:00:00  | 2024-06-04 00:00:00 | Pedro       |
 |  2 | Planejamento da avaliação do protótipo de alta fidelidade                          | Google Meets | 2024-05-29 00:00:00                         | 2024-06-05 00:00:00 | todos           | 2024-06-03 00:00:00  | 2024-06-04 00:00:00 | Daniela     |
 |  3 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Google Meets | 2024-05-30 00:00:00                         | 2024-06-05 00:00:00 | todos           | 2024-06-03 00:00:00  | 2024-06-04 00:00:00 | Genilson    |
@@ -119,7 +119,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 |    | Atividade                                            | Local        | Período de desenvolvimento das atividades   | Unnamed: 3          | Responsáveis    | Período de Revisão   | Unnamed: 6          | Revisores   |
 |---:|:-----------------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:----------------|:---------------------|:--------------------|:------------|
-|  0 | nan                                                  | nan          | início                                      | fim                 | nan             | início               | fim                 | nan         |
+|  0 | .                                                    | .            | início                                      | fim                 | .              | início               | fim                 | .          |
 |  1 | Retalho da avaliação dos protótipos de alta qualidade| Google Meets | 2024-06-06 00:00:00                         | 2024-06-17 00:00:00 | Mariana e Lucas | 2024-06-17 00:00:00  | 2024-06-18 00:00:00 | Todos       |
 |  2 | Gravar apresentação                                  | Google Meets | 2024-06-06 00:00:00                         | 2024-06-18 00:00:00 | todos           | 2024-06-17 00:00:00  | 2024-06-18 00:00:00 | todos       |
 |  3 | Implementar git page                                 | Google Meets | 2024-06-06 00:00:00                         | 2024-06-18 00:00:00 | Daniela         | 2024-06-17 00:00:00  | 2024-06-18 00:00:00 | todos       |
