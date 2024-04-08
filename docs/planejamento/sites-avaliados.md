@@ -37,7 +37,20 @@ Os principais pontos de melhoria encontrados estão relacionados a:</p>
 
 ## Caixa TEM
 
-<p align="justify">add overview</p>
+<p align="justify">
+O aplicativo e site Caixa Tem é uma plataforma desenvolvida pela Caixa Econômica Federal, uma instituição financeira no Brasil, criado com o intuito de fornecer serviços financeiros e sociais aos cidadãos brasileiros, especialmente aqueles que recebem benefícios do governo, como o Auxílio Emergencial e o Bolsa Família. Como responsável, o integrante <a href="https://github.com/GenilsonJrs">Genilson Junior</a> realizou a avaliação do site com foco na interface, funcionalidades e maiores dificuldades entre usuários. Entre as principais correções a serem feitas, se encontram: 
+</p>
+ 
+- Melhoria na visibilidade das informações da conta
+
+- Feedback claro para erros durante transferências
+
+- Organização e consistência das funcionalidades
+
+- Eliminação de informações repetidas
+
+- Melhoria na clareza das opções de pagamento
+
 [Link para visualizar a avaliação completa e mais detalhada](avaliacoes/CaixaTem.pdf)
 
 ## Correios
@@ -67,6 +80,7 @@ O site CBMERJ - Corpo de Bombeiros do Estado do Rio de Janeiro -, que teve como 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 06/04/2024 | Criação da página de sites avaliados                         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
 | `1.1`   | 07/04/2024 | Inclusão da avaliação do CBMERJ                        | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
-| `1.2`   | 07/04/2024 | Inclusão da avaliação do SIGAA                        | [Bruna Lima](https://github.com/libruna) | []()         | 
+| `1.2`   | 07/04/2024 | Inclusão da avaliação do SIGAA                        | [Bruna Lima](https://github.com/libruna) | []()         |
+| `1.3`   | 07/04/2024 | Inclusão da avaliação do Caixa Tem                        | [Genilson Junior](https://github.com/GenilsonJrs) | []()         |  
 
 </center>
