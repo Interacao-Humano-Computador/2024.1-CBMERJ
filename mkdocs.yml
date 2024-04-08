@@ -50,6 +50,7 @@ nav:
   - Apresentações:
       - Apresentação 1: apresentacoes/file-name.md
   - Planejamento:
+      - Heatmap: planejamento/heatmap.md
       - Cronograma: planejamento/cronograma.md
       - Cronograma Realizado: planejamento/CronogramaRealizado.md
       - Ferramentas: planejamento/ferramentas.md
