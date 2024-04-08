@@ -32,8 +32,16 @@ Os principais pontos de melhoria encontrados estão relacionados a:</p>
 
 ## Meu SUS Digital
 
-<p align="justify">add overview</p>
-[Link para visualizar a avaliação completa e mais detalhada](avaliacoes/file.pdf)
+<p align="justify">O site Meu SUS Digital é uma ferramenta que disponibiliza para a população serviços de saúde através do meio digital. Dentre eles: emissão de documentos e certificados, acompanhamento da posição na fila do Sistema Nacional de Transplantes, acompanhamento de resultado de exames laborais etc. A integrante <a href="https://github.com/danialarcao">Daniela Alarcão</a> foi a responsável pela avaliação do site. O método de avaliação utilizado foi o de "Observação de uso".</p>
+
+Os principais pontos de melhoria encontrados estão relacionados a: <br>
+
+- Lentidão no carregamento de algumas funcionalidades.
+- Falta de eficiência por parte do site na automatização de tarefas repetidas.
+- Excesso de informações. 
+
+</p>
+[Link para visualizar a avaliação completa e mais detalhada](avaliacoes/MeuSusDigital.pdf)
 
 ## Caixa TEM
 
@@ -42,8 +50,14 @@ Os principais pontos de melhoria encontrados estão relacionados a:</p>
 
 ## Correios
 
-<p align="justify">add overview</p>
-[Link para visualizar a avaliação completa e mais detalhada](avaliacoes/file.pdf)
+<p align="justify">O site dos correios é uma plataforma governamental do serviço do governo de frete de mercadorias em trânsito pelo Brasil. Ele também na maioria dos casos é o responsável por fazer a entrega de mercadorias importadas ou fazer a exportação até os limites brasileiros. Nessa plataforma, a principal funcionalidade é a de saber o paradeiro do seu produto/encomenda. O integrante <a href= https://github.com/LucasAvelar2711>Lucas Avelar</a> foi o responsável pela a avaliação do site. O método utilizado foi o de "Inspeção por percurso cognitivo"</p>
+
+Os principais pontos de melhoria encontrados estão relacionados a: <br>
+
+- Dificuldade em usar serviços dos correios como um CNPJ.
+- Presença de muitos menus e sub-menus.
+- Atendimento e informação para com o cliente.
+[Link para visualizar a avaliação completa e mais detalhada](avaliacoes/Correios.pdf)
 
 ## CBMERJ
 
@@ -67,6 +81,10 @@ O site CBMERJ - Corpo de Bombeiros do Estado do Rio de Janeiro -, que teve como 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 06/04/2024 | Criação da página de sites avaliados                         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
 | `1.1`   | 07/04/2024 | Inclusão da avaliação do CBMERJ                        | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
-| `1.2`   | 07/04/2024 | Inclusão da avaliação do SIGAA                        | [Bruna Lima](https://github.com/libruna) | []()         | 
+| `1.2`   | 07/04/2024 | Inclusão da avaliação do SIGAA                        | [Bruna Lima](https://github.com/libruna) | []()         |
+| `1.3`   | 08/04/2024 | Inclusão da avaliação do Meu Sus Digital                        | [Daniela Alarcão](https://github.com/danialarcao) | [Mariana Letícia](https://github.com/Marianannn)    |
+| `1.4`   | 08/04/2024 | Inclusão da avaliação do Correios                        | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Daniela Alarcão](https://github.com/danialarcao)    |
+ 
+
 
 </center>
