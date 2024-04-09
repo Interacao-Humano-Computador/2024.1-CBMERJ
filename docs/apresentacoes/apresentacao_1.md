@@ -3,11 +3,10 @@
 <p>Segue abaixo o link da apresentação:</p>
 
 <center>
+
 [Link para o vídeo da apresentação](https://youtu.be/Phbg8mNid14)
 
-<video width="480" height="360" controls>
-  <source src="https://youtu.be/Phbg8mNid14" type="video/mp4">
-</video>
+<iframe width="480" height="360" src="https://youtu.be/Phbg8mNid14" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Fonte: autores.
 </center>
@@ -41,7 +40,9 @@ Fonte: autores.
 * "**Não**" indica que a questão não foi respondida de forma satisfatória.
 * "**Incompleto**" indica que a questão foi parcialmente respondida.
 
+## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 08/04/2024 | Criação da página de Apresentação 1                         | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)        | 
+| `2.0`   | 08/04/2024 | Adição do vídeo da apresentação 1                       | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)        | 
