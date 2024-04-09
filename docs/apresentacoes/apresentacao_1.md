@@ -6,7 +6,6 @@
 
 [Link para o vídeo da apresentação](https://youtu.be/Phbg8mNid14)
 
-<iframe width="480" height="360" src="https://youtu.be/Phbg8mNid14" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Fonte: autores.
 </center>
