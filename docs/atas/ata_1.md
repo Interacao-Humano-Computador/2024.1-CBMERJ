@@ -5,6 +5,7 @@
 ## Data/Horário
 
 <p>Segue abaixo na tabela 1, informações sobre a data, horário e local onde ocorreu a reunião 1:</p>
+
 <center>
 
 | Data | Horário | Local
