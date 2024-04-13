@@ -16,7 +16,7 @@
 
 ### A escolha
 
-<p align="justify">Fizemos uma análise heurística e o plenajemanto com base no framework decide, e encontramos as seguintes motivações para escolha do site CBMERJ: </p>
+<p align="justify">Fizemos uma análise heurística e o planejemanto com base no framework decide, e encontramos as seguintes motivações para escolha do site CBMERJ: </p>
 
 - Público alvo de fácil acesso: por ser um site de bombeiros, o qual não apenas trata de ações básicas do bombeiro - como apagar incêndios -, como trata também de informações administrativas, concursos de bombeiro, registro de alvará de funcionamento, etc. o usuário se torna muito mais acessível para o contato por parte dos avaliadores
 
@@ -35,3 +35,4 @@
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 06/04/2024 | Criação da página de sites escolhidos                     | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
 | `2.0`   | 08/04/2024 | Adição de conteúdo sobre o site escolhido              | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
+| `3.0`   | 13/04/2024 | Acrescentando informações no Sobre o site CBMERJ       | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 

@@ -57,7 +57,8 @@
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 04/04/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         |
-| `2.0`   | 05/04/2024 | Adição de informação em "Sobre o Projeto" | [Mariana Letícia](https://github.com/Marianannn)| [](https://github.com/)         |
+| `2.0`   | 05/04/2024 | Adição de informação em "Sobre o Projeto" | [Mariana Letícia](https://github.com/Marianannn)| [Bruna Lima](https://github.com/libruna)         |
+| `3.0`   | 13/04/2024 | Adicionando revisão no histórico de revisões | [Mariana Letícia](https://github.com/Marianannn)| [Bruna Lima](https://github.com/libruna)         |
 
 </center>
 

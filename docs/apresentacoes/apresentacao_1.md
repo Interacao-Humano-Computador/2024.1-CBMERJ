@@ -6,11 +6,14 @@
 
 [Link para o vídeo da apresentação](https://youtu.be/Phbg8mNid14)
 
+<iframe width="1000vw" height="400vh" src="https://youtu.be/Phbg8mNid14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<p>Vídeo 1: reunião 1</p>
 Fonte: autores.
+
 </center>
 
-<p>Na apresentação acima, os integrantes exporam os aspectos exigidos pelo plano de ensino da matéria IHC. Esses aspectos são:</p>
+<p>Na apresentação acima, os integrantes exporam os aspectos exigidos pelo plano de ensino da matéria IHC. Esses aspectos estão abaixo na Tabela 1:</p>
 
 | Questão | Resposta |
 |---|---|
@@ -32,6 +35,12 @@ Fonte: autores.
 | 16 - Possui opção de contraste de cores? | **Sim** |
 | 17 - O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | **Sim** |
 
+<center>
+
+<p>Tabela 1: critérios de entrega da etapa 1</p>
+
+</center>
+
 **Observações:**
 
 * A coluna "Resposta" indica se a questão foi respondida de forma satisfatória no Github Pages.
@@ -45,3 +54,4 @@ Fonte: autores.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 08/04/2024 | Criação da página de Apresentação 1                         | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)        | 
 | `2.0`   | 08/04/2024 | Adição do vídeo da apresentação 1                       | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)        | 
+| `3.0`   | 13/04/2024 | Adição do um novo formato ao vídeo da apresentação 1            | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)        | 

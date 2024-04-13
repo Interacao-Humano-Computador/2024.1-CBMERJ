@@ -4,16 +4,19 @@
 
 ## Data/Horário
 
+<p>Segue abaixo na tabela 1, informações sobre a data, horário e local onde ocorreu a reunião 1:</p>
 <center>
 
 | Data | Horário | Local
 | :--: | :-----: |:----: 
 | 02/04 | 20h30 até 21h30 | Google Meets
 
-**Tabela:**  tabela de data e horário.
+**Tabela 1:**  tabela de data e horário.
 </center>
 
 ## Participantes
+
+<p>Segue abaixo na Tabela 2, informações sobre quais participantes estiveram presentes na reunião:</p>
 
 <center>
 
@@ -27,15 +30,15 @@
 | [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) | não
   
 
-**Tabela:**  tabela de participantes.
+**Tabela 2:**  tabela de participantes.
 </center>
 
 ## Pautas
 
 - Heatmap
-- Selecionamos os horários das reuniões
-- criamos o cronograma da etapa 1
-- site paraa o projeto foi escolhido.
+- Quais seriam os horários das reuniões
+- Criação do cronograma da etapa 1
+- Escolher site para o projeto
 
 ## Assuntos tratados
 
@@ -50,13 +53,13 @@
 
 #### Definição do cronograma de atividades da etapa
 
-- Mariana e Lucas ficarão responsáveis pela finalização dos cronogramas e do planjamento do projeto;
-- todos serão responsáveis pelo planejamento  da equipe e pela lista de sites avaliados;
-- todos serão responsáveis pela seleção do site para o projeto; Lucas e Daniela Estarão responsáveis pela descrição das ferramentas do projeto;
-- Bruna e Genilson estarão responsáveis pelo processo de design;
-- Pedro ficou responsável pela definição da metodologia;
-- Todos ficaram responsáveis pela gravação da apresentação;
-- e Daniela ficou responsável pela implementação do gitpages
+- Mariana e Lucas ficarão responsáveis pela finalização dos cronogramas e do planejamento do projeto
+- Todos serão responsáveis pelo planejamento da equipe e pela lista de sites avaliados
+- Todos serão responsáveis pela seleção do site para o projeto; Lucas e Daniela Estarão responsáveis pela descrição das ferramentas do projeto
+- Bruna e Genilson estarão responsáveis pelo processo de design
+- Pedro ficou responsável pela definição da metodologia
+- Todos ficaram responsáveis pela gravação da apresentação
+- Daniela ficou responsável pela implementação do gitpages
 
 ## Gravação da Reunião
 A reunião não foi gravada por ter sido feita no google meets
@@ -72,5 +75,6 @@ Não foi definida a data da próxima reunião
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 02/04/2024 | criação da ata | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)         | 
 | `2.0`   | 07/04/2024 | adição da ata no git pages | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)        | 
+| `3.0`   | 13/04/2024 | Correção de erros de português | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)        | 
 
 </center>
