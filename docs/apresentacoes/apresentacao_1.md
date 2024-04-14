@@ -1,6 +1,6 @@
 ## Introdução
 
-<p>Segue abaixo o link da apresentação:</p>
+<p>Segue abaixo o link da apresentação e o vídeo no youtube, sendo representado pelo Vídeo 1:</p>
 
 <center>
 
