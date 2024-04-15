@@ -1,9 +1,16 @@
+repo_url: https://github.com/Interacao-Humano-Computador/2024.1-CBMERJ/tree/main
 site_name: CBMERJ - Grupo 7
 theme:
   name: material
   language: pt-BR
   features: 
-     - toc.integrate
+    - toc.integrate
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
   palette:
     - scheme: default
       primary: red
@@ -18,11 +25,9 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Alternar para modo claro
-
 extra:
   extra_css:
   - style.css
-
 copyright: |
   &copy; 2024 - IHC
 
