@@ -64,6 +64,8 @@ nav:
       - Sites Avaliados: planejamento/sites-avaliados.md
       - Site Escolhido: planejamento/site-escolhido.md
   - Análise de Requisitos:
+      - Perfil do Usuário: analise_requisitos/perfil_usuario.md
+      - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
+      - Personas: analise_requisitos/personas.md
+      - Cenários: analise_requisitos/cenarios.md
       - Análise de tarefas: analise_requisitos/analise_tarefas.md
-      - Aspectos Éticos: analise_requisitos/file_name.md
-      - Perfil do Usuário: analise_requisitos/file_name.md
