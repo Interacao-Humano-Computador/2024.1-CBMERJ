@@ -25,7 +25,5 @@
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 07/04/2024 | Criação da página.                         | [Daniela Alarcão](https://github.com/danialarcao) |   
-| `2.0`   | 08/04/2024 | Adição de conteúdo e envio ao git pages.                        | [Daniela Alarcão](https://github.com/danialarcao) |   
-
-atualização
+| `1.0`   | 07/04/2024 | Criação da página.                         | [Daniela Alarcão](https://github.com/danialarcao) |   [Mariana Letícia](https://github.com/Marianannn) |
+| `2.0`   | 08/04/2024 | Adição de conteúdo e envio ao git pages.                        | [Daniela Alarcão](https://github.com/danialarcao) |   [Mariana Letícia](https://github.com/Marianannn) |

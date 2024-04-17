@@ -1,9 +1,16 @@
+repo_url: https://github.com/Interacao-Humano-Computador/2024.1-CBMERJ/tree/main
 site_name: CBMERJ - Grupo 7
 theme:
   name: material
   language: pt-BR
   features: 
-     - toc.integrate
+    - toc.integrate
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
   palette:
     - scheme: default
       primary: red
@@ -18,11 +25,9 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Alternar para modo claro
-
 extra:
   extra_css:
   - style.css
-
 copyright: |
   &copy; 2024 - IHC
 
@@ -48,11 +53,19 @@ nav:
   - Atas:
       - Ata 1: atas/ata_1.md
   - Apresentações:
-      - Apresentação 1: apresentacoes/file-name.md
+      - Apresentação 1: apresentacoes/apresentacao_1.md
   - Planejamento:
+      - Heatmap: planejamento/heatmap.md
       - Cronograma: planejamento/cronograma.md
+      - Cronograma Realizado: planejamento/CronogramaRealizado.md
       - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
       - Processo de Design: planejamento/processo-de-design.md
       - Sites Avaliados: planejamento/sites-avaliados.md
       - Site Escolhido: planejamento/site-escolhido.md
+  - Análise de Requisitos:
+      - Perfil do Usuário: analise_requisitos/perfil_usuario.md
+      - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
+      - Personas: analise_requisitos/personas.md
+      - Cenários: analise_requisitos/cenarios.md
+      - Análise de tarefas: analise_requisitos/analise_tarefas.md

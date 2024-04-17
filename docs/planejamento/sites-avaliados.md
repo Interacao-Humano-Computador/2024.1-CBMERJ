@@ -75,14 +75,14 @@ Os principais pontos de melhoria encontrados estão relacionados a: <br>
 ## CBMERJ
 
 <p align="justify">
-O site CBMERJ - Corpo de Bombeiros do Estado do Rio de Janeiro -, que teve como responsável a aluna <a href="https://github.com/Marianannn">Mariana Letícia</a> , tem como objetivo além de auxiliar e notificar a população sobre as funções básicas que os bombeiros executam, possibilitar uma gama de outras funcionalidades mais relacionados ao meio técnico administrativo.
+O site CBMERJ - Corpo de Bombeiros do Estado do Rio de Janeiro -, que teve como responsável a aluna <a href="https://github.com/Marianannn">Mariana Letícia</a> , tem como objetivo além de auxiliar e notificar a população sobre as funções básicas que os bombeiros executam, possibilitar uma gama de outras funcionalidades mais relacionados ao meio técnico administrativo. Segue abaixo, os problemas identificados após uma análise heurística sobre o site:
 </p>
 
-- Problemas de interação e interface: falta de exclarecimento e opções a cerca do que fazer com os formulários; excesso de link os quais não auxiliam o usuário a localizar o link que precisa; --> gravidade média
+- Problemas de interação e interface: falta de esclarecimento e opções a cerca do que fazer com os formulários; excesso de link os quais não auxiliam o usuário a localizar o link que precisa --> *gravidade média*
 
-- Conformidade com o padrão: falta de padronização de cores e formatos dos formulários com as páginas principais do site; --> gravidade cosmética
+- Conformidade com o padrão: falta de padronização de cores e formatos dos formulários com as páginas principais do site --> *gravidade cosmética*
 
-- Problema de visibilidade do status do problema: ao usuário deixar de preencher qualquer informação do formulário, o site apresenta um comportamento inesperado, e além de não indicar o que ocorreu, ele indica como o usuário como contornar a situação. --> gravidade alta
+- Problema de visibilidade do status do problema: ao usuário deixar de preencher qualquer informação do formulário, o site apresenta um comportamento inesperado, e além de não indicar o que ocorreu, ele indica como o usuário como contornar a situação --> *gravidade alta*
 
 [Link para visualizar a avaliação completa e mais detalhada](https://drive.google.com/file/d/1kQxBZX7ceb8yqGvYbOTTB9pGGsW2FqH7/view?usp=sharing)
 
@@ -94,9 +94,10 @@ O site CBMERJ - Corpo de Bombeiros do Estado do Rio de Janeiro -, que teve como 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 06/04/2024 | Criação da página de sites avaliados                         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
 | `1.1`   | 07/04/2024 | Inclusão da avaliação do CBMERJ                        | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
-| `1.2`   | 07/04/2024 | Inclusão da avaliação do SIGAA                        | [Bruna Lima](https://github.com/libruna) | []()         |
+| `1.2`   | 07/04/2024 | Inclusão da avaliação do SIGAA                        | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn) |         |
 | `1.3`   | 08/04/2024 | Inclusão da avaliação do Meu Sus Digital                        | [Daniela Alarcão](https://github.com/danialarcao) | [Mariana Letícia](https://github.com/Marianannn)    |
 | `1.4`   | 08/04/2024 | Inclusão da avaliação do Correios                        | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Daniela Alarcão](https://github.com/danialarcao)    |
 | `1.5`   | 08/04/2024 | Inclusão da avaliação do Caixa Tem                        | [Genilson Junior](https://github.com/GenilsonJrs) | [Lucas Avelar](https://github.com/LucasAvelar2711)         |  
+| `2.0`   | 13/04/2024 | Adicionando e corrigindo conteúdos sobre o site escolhido                        | [Mariana Letícia](https://github.com/Marianannn) | [Lucas Avelar](https://github.com/LucasAvelar2711)         |  
 
 </center>

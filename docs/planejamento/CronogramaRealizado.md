@@ -13,4 +13,12 @@
 | Gravar apresentação          | Google Meets  | 2024-04-08                          | 2024-04-08                      | todos             | 2024-04-08                  | 2024-04-08              | todos     |
 | Implementar git page         | Google Meets  | 2024-04-04                          | 2024-04-08                      | Daniela           | 2024-04-08                  | 2024-04-08              | todos     |
 
-    Na Tabela 1, temos as entregas realizadas para o Ponto de Controle 1.
+<p>Na Tabela 1, temos as entregas realizadas para o Ponto de Controle 1.</p>
+
+
+## Histórico de Versões
+
+| Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
+| ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| `1.0`   | 06/04/2024 | Criação da página de Cronograma                         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
+| `2.0`   | 08/04/2024 | Criação da página de sites escolhidos                     | [Lucas Avelas](https://github.com/LucasAvelar2711) | [Bruna Lima](https://github.com/libruna)         | 
