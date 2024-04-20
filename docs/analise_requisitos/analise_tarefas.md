@@ -1,7 +1,6 @@
 ## Introdução
 A análise de tarefas é muito importante para compreender como os usuários realizam suas atividades, os objetivos que buscam alcançar e os desafios enfrentados no processo. Segundo Diaper (2003), ela engloba métodos para coletar, classificar e interpretar dados sobre o desempenho de sistemas que incluem pelo menos uma pessoa como componente. Essa abordagem é essencial tanto para a análise da situação atual quanto para o (re)design de sistemas computacionais, além de ser fundamental na avaliação de intervenções que introduzem novos sistemas.
 
-## Metodologia
 Entre os métodos mais comuns de análise de tarefas, destacam-se a Análise Hierárquica de Tarefas (HTA), que descreve as tarefas em uma hierarquia; o GOMS, que desmembra as tarefas em metas, operadores, métodos e regras de seleção; e o ConcurTaskTrees (CTT), que permite representar visualmente as tarefas e as condições de concorrência entre elas.
 
 Abaixo, descrevemos brevemente cada um desses métodos:
@@ -17,7 +16,7 @@ Abaixo, descrevemos brevemente cada um desses métodos:
 ### 1. Solicitação de Requerimento Padrão
 A Solicitação de Requerimento Padrão refere-se ao processo de regularização legal de edificações junto ao Corpo de Bombeiros do Rio de Janeiro. Isso envolve o preenchimento e submissão de um requerimento padrão.
 
-**Metodologia escolhida:**
+## Metodologia
 
 **Análise**
 
