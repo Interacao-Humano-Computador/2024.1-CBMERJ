@@ -19,8 +19,7 @@ A Solicitação de Requerimento Padrão refere-se ao processo de regularização
 
 Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes.
 
-**Análise Hierárquica de Tarefas**
-A figura 1 e a tabela 1 apresentam a análise hierárquica dessa tarefa em sua forma de diagrama e textual, respectivamente.
+**Análise Hierárquica de Tarefas:** A figura 1 e a tabela 1 apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
 
 |    Objetivos/Operações    |    Problemas e recomendações    |
 | :-----------------------: | ------------------------------- | 
@@ -31,12 +30,13 @@ A figura 1 e a tabela 1 apresentam a análise hierárquica dessa tarefa em sua f
 | 2. Confirmar o recebimento das informações | **ação:** Disponibilizar para o contribuinte o requerimento para download.<br> **recomendação:** Retornar mensagens de erro claras quando alguma das informação não é preenchida corretamente. |
 <p align="center">Tabela 1: Análise hierárquica da tarefa "Solicitação de Requerimento Padrão" (Fonte: Bruna Lima, 2024). </p>
 
-![Figura 1 - Diagrama da Análise hierárquica da "Solicitação de Requerimento Padrão" (Fonte: Bruna Lima, 2024).](img/hta-diagrama-tarefa-1.png)
+![](img/hta-diagrama-tarefa-1.png)
+<p align="center">Figura 1 - Diagrama da Análise hierárquica da "Solicitação de Requerimento Padrão" (Fonte: Bruna Lima, 2024). </p>
 
-**Árvores de Tarefas Concorrentes**
-A figura 2 contém a análise representada em diagrama da tarefa de "Solicitação de Requerimento Padrão" com uso da técnica de Árvores de Tarefas Concorrentes.
+**Árvores de Tarefas Concorrentes:** A figura 2 contém a análise representada em diagrama da tarefa de "Solicitação de Requerimento Padrão" com uso da técnica de Árvores de Tarefas Concorrentes.
 
-![Figura 2 - Diagrama da Árvores de Tarefas Concorrentes da "Solicitação de Requerimento Padrão" (Fonte: Bruna Lima, 2024).](img/ctt-diagrama-tarefa-1.png)
+![](img/ctt-diagrama-tarefa-1.png)
+<p align="center">Figura 2 - Diagrama da Árvores de Tarefas Concorrentes da "Solicitação de Requerimento Padrão" (Fonte: Bruna Lima, 2024). </p>
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
