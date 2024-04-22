@@ -50,13 +50,13 @@
 </div>
 
 <center>
-
+[Genilson Silva](https://github.com/GenilsonJrs)
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 04/04/2024 | Adição do link do gitpages                | [Daniela Alarcão](https://github.com/danialarcao) | [Mariana Letícia](https://github.com/Marianannn)         |
-| `2.0`   | 04/04/2024 | Adição de informação em "Sobre o Projeto" | [Mariana Letícia](https://github.com/Marianannn)| [](https://github.com/)         |
+| `2.0`   | 04/04/2024 | Adição de informação em "Sobre o Projeto" | [Mariana Letícia](https://github.com/Marianannn)| [Genilson Silva](https://github.com/GenilsonJrs)         |
 
 </center>
 

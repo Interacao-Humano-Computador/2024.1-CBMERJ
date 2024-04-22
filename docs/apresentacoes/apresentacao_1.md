@@ -8,7 +8,7 @@
 
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/Phbg8mNid14?si=8GXY_Bha07orwlM-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>Vídeo 1: reunião 1</p>
+<p>Vídeo 1: apresentação 1</p>
 Fonte: autores.
 
 </center>
