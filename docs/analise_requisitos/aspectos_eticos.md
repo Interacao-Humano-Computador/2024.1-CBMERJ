@@ -6,6 +6,7 @@
 - Ser transparente sobre métodos e procedimentos da pesquisa. 
 
 ## Termo de consetimento
+<p style="text-align: justify;"> O modelo do termo de consentimento está ilustrado abaixo (Figura 1):  </p>
 
 ![Termo de consentimento](img/TermoConsentimento.png)<br>
 *Figura 1 - Termo de consentimento.* <br>
