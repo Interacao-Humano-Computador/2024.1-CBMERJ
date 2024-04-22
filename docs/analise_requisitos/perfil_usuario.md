@@ -39,4 +39,4 @@ Para construir o questionário utilizado, elaboramos um total de x questões, ab
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 16/04/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)      |
-| `1.1`   | 19/04/2024 | Inclusão da introdução e metodologia                       |  [Bruna Lima](https://github.com/libruna) |         |
+| `1.1`   | 19/04/2024 | Inclusão da introdução e metodologia                       |  [Bruna Lima](https://github.com/libruna) |             [Genilson Silva](https://github.com/GenilsonJrs)      | |

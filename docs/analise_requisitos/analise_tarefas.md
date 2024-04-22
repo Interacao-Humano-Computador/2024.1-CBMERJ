@@ -38,6 +38,10 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 ![](img/ctt-diagrama-tarefa-1.png)
 <p align="center">Figura 2 - Diagrama da Árvores de Tarefas Concorrentes da "Solicitação de Requerimento Padrão" (Fonte: Bruna Lima, 2024). </p>
 
+### 2. Acesso aos recursos de guia para redes sociais
+
+
+
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
 
@@ -46,4 +50,6 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/04/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     [Bruna Lima](https://github.com/libruna)     |
-| `1.1`   | 20/04/2024 | Adição da introdução, metodologia e da tarefa 1                      | [Bruna Lima](https://github.com/libruna)  |         |
+| `1.1`   | 20/04/2024 | Adição da introdução, metodologia e da tarefa 1                         | [Bruna Lima](https://github.com/libruna) |     [Genilson Silva](https://github.com/GenilsonJrs)     |
+| `1.2`   | 21/04/2024 | Adição da tarefa 2                       | [Genilson Silva](https://github.com/GenilsonJrs) |     [Mariana Letícia](https://github.com/Marianannn)     |
+
