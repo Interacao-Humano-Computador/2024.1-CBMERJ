@@ -24,7 +24,7 @@ Para construir o questionário utilizado, elaboramos um total de x questões, ab
 ## Resultados coletados
 
 ### 1. Faixa etária
-![](img\2_grafico_faixa_etaria.png)
+![](img/2_grafico_faixa_etaria.png)
 <p align="center">Figura 1 - Gráfico (Faixa etária). </p>
 
 ### 2. Gênero
@@ -32,61 +32,61 @@ Para construir o questionário utilizado, elaboramos um total de x questões, ab
 <p align="center">Figura 2 - Gráfico (Gênero). </p>
 
 ### 3. Estado civil
-![](img\4_grafico_estado_civil.png)
+![](img/4_grafico_estado_civil.png)
 <p align="center">Figura 3 - Gráfico (Estado Civil). </p>
 
 ### 4. Escolaridade
-![](img\5_grafico_escolaridade.png)
+![](img/5_grafico_escolaridade.png)
 <p align="center">Figura 4 - Gráfico (Escolaridade). </p>
 
 ### 5. Região
-![](img\6_grafico_regiao.png)
+![](img/6_grafico_regiao.png)
 <p align="center">Figura 5 - Gráfico (Região). </p>
 
 ### 6. Renda
-![](img\7_grafico_renda.png)
+![](img/7_grafico_renda.png)
 <p align="center">Figura 6 - Gráfico (Renda) </p>
 
 ### 7. Idiomas
-![](img\8_grafico_idiomas.png)
+![](img/8_grafico_idiomas.png)
 <p align="center">Figura 7 - Gráfico (Idiomas) </p>
 
 ### 8. Estilo de aprendizado
-![](img\9_grafico_estilo_aprendizado.png)
+![](img/9_grafico_estilo_aprendizado.png)
 <p align="center">Figura 8 - Gráfico (Estilo preferido de aprendizado) </p>
 
 ### 9. Frequência de leitura
-![](img\10_grafico_leitura.png)
+![](img/10_grafico_leitura.png)
 <p align="center">Figura 9 - Gráfico (Frequência de leitura). </p>
 
 ### 10. Facilidade com tecnologia
-![](img\11_grafico_tecnologia.png)
+![](img/11_grafico_tecnologia.png)
 <p align="center">Figura 10 - Gráfico (Facilidade com Tecnologia). </p>
 
 ### 11. Frequência de uso
-![](img\12_grafico_frequencia_site.png)
+![](img/12_grafico_frequencia_site.png)
 <p align="center">Figura 11 - Gráfico (Frequência de uso do site). </p>
 
 ### 12 . Utilização do site
-![](img\13_grafico_utiliza_site.png)
+![](img/13_grafico_utiliza_site.png)
 <p align="center">Figura 12 - Gráfico de Faixa etária. </p>
 
 ### 13. Linguagem e clareza
-![](img\14_grafico_linguagem_site.png)
+![](img/14_grafico_linguagem_site.png)
 <p align="center">Figura 13 - Gráfico (Clareza da linguagem do site). </p>
 
 ### 14. Ferramentas utilizadas
-![](img\15_grafico_ferramentas_site.png)
+![](img/15_grafico_ferramentas_site.png)
 <p align="center">Figura 14 - Gráfico (Ferramentas do site). </p>
 
 ### 15. Erros no site
 Respostas obtidas em relação aos erros encontradas no site:
-![](img\Pergunta_erros_site.png)
+![](img/Pergunta_erros_site.png)
 <p align="center">Figura 15 - Pergunta 1 (Erros) </p>
  
  ### 16. Sugestões
  Respostas obtidas em relação as sugestões de melhoria do site:
-![](img\Pergunta_sugestao_site.png)
+![](img/Pergunta_sugestao_site.png)
 <p align="center">Figura 16 - Pergunta 2 (Sugestões) </p>
 
 
