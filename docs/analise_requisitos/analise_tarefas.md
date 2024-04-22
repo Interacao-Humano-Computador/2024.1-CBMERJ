@@ -38,7 +38,24 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 ![](img/ctt-diagrama-tarefa-1.png)
 <p align="center">Figura 2 - Diagrama da Árvores de Tarefas Concorrentes da "Solicitação de Requerimento Padrão" (Fonte: Bruna Lima, 2024). </p>
 
-### 2. Acesso aos recursos de guia para redes sociais
+### 2. Locais certificados
+<p style="text-align: justify;">A aba "Locais certificados" é uma funcionalidade que disponibiliza uma relação de locais de Diversões Públicas autorizados a funcionar. Para a análise dessa funcionalidade, foram aplicadas as técnicas de Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes. </p>
+
+**Análise Hierárquica de Tarefas:** A figura 3 e a tabela 2 apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
+
+|    Objetivos/Operações    |    Problemas e recomendações    |
+| :-----------------------: | ------------------------------- | 
+| 0. Acessar a lista de Locais de Diversões Públicas Autorizados a funcionar. | **input:** Acessar o menu de cidadão na tela inicial.<br> **feedback:** Apresentar a lista de locais autorizados. <br> **plano:** Exibir informações atualizadas sobre os locais de diversão pública autorizados.<br> **recomendação:** Implementar filtros de pesquisa para facilitar a localização dos estabelecimentos. | 
+| 1. Visualizar dados dos locais e suas autorizações.  | **plano:** Exibir informações detalhadas sobre cada local, incluindo: nome, endereço, capacidade de lotação, validade da autorização, classificação da finalidade da edificação e responsáveis pela edificação. |
+| 2. Confirmar a disponibilidade da lista atualizada. | **ação:** Disponibilizar lista para visualização e download. <br>**recomendação:** Garantir que a lista seja regularmente atualizada para refletir as mais recentes autorizações concedidas.  |
+| 3. Facilitar o acesso à informação. | **ação:** Disponibilizar uma interface de fácil navegação e busca rápida. <br>**recomendação:** Certificar-se de que a plataforma seja acessível em diferentes dispositivos e navegadores. |
+<p align="center">Tabela 2: Análise hierárquica da aba "Locais certificados" (Fonte: Daniela Alarcão, 2024). </p>
+
+--- Figura 3 <br>
+--- Árvores de Tarefas Concorrentes
+
+
+### 3. Acesso aos recursos de guia para redes sociais
 
 
 
