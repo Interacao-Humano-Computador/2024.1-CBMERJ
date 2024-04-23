@@ -1,3 +1,5 @@
+## Introdução
+
 <p style="text-align: justify;"> Levar em consideração os aspectos éticos ao realizar uma pesquisa é fundamental para a proteção dos direitos e para o bem-estar daqueles que participarão da pesquisa. Além disso, a integridade ética é um pilar primordial para assegurar a confiança do público na pesquisa, garantindo a validade e a credibilidade dos resultados obtidos. Dentre as boas práticas que devem ser adotadas em uma pesquisa, temos: </p>
 - Buscar conhecer os críterios de conduta adequados;
 - Obter consentimento informado dos participantes;

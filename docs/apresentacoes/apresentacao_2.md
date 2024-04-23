@@ -21,9 +21,9 @@ Fonte: autores.
 | 1 | O histórico de versão padronizado? | **Sim** |
 | 2 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | **Sim** |
 | 3 | Vídeo de apresentação na categoria “não listado” no youtube? | **Sim** |
-| 4 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | **Não** |
-| 5 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | **Sim** |
-| 6      | Um texto fazendo uma introdução dos artefatos?                                                                                 | |
+| 4 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | **Sim** |
+| 5 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? |  |
+| 6      | Um texto fazendo uma introdução dos artefatos?                                                                                 | **Sim** |
 | 7      | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. ||
 | 8      | A(s) ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).       ||
 | 9      | A gravação da reunião do grupo.                                                                                               ||
@@ -34,7 +34,7 @@ Fonte: autores.
 | 14     | Que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação?                         ||
 | 15     | O termo de consentimento livre e esclarecido dos participantes?                                                               ||
 | 16     | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (quanto mais melhor)?         <br> • 1 entrevistas; <br> • 2 grupos de foco; <br> • 3 questionários; <br> • 4 brainstorming de necessidades e desejos dos usuários; <br> • 5 classificação de cartões (card sorting); <br> • 6 estudos de campo;  <br> • 7 investigação contextual. ||
-| 17     | Os Cenários?                                                                                                                   ||
+| 17     | Os Cenários?                                                                                                                   | **Sim** |
 | 18     | A Análise de tarefas?                                                                                                          ||
 | 19     | Uma atividade para cada integrante do grupos que deve estar modelizado em ao menos duas técnicas para especificar as tarefas? <br> • O HTA com diagrama, legenda e representação em tabela). <br> • GOMS (Goals, Operators, Methods, and Selection Rules) representado pelos modelos: KLM, CMNGOMS, CPM-GOMS, CTT ||
 | 20     | Utilizaram alguma técnica para especificar as tarefas?                                                                          ||
