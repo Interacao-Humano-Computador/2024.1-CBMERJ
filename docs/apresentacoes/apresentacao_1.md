@@ -48,6 +48,9 @@ Fonte: autores.
 * "**Não**" indica que a questão não foi respondida de forma satisfatória.
 * "**Incompleto**" indica que a questão foi parcialmente respondida.
 
+## Bibliografia
+> 1. Plano de Ensino FIHC 012024 Turma 1. (2024). Recuperado de https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf
+
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
