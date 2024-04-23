@@ -59,6 +59,36 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 
 
 
+### 4. Acesso a informações sobre concurso
+
+<p>Em relação ao Acesso a informações sobre o concurso, essa é uma funcionalidade do  site com o objetivo de fornecer os editais, status de homologação, informações sobre fases do concurso, situações dos concursandos e a lista de concursos prestados e em curso. Segue abaixo a análise dessa tarefa.</p>
+
+**Análise Hierárquica de Tarefas:** A figura _ e tabela _ apresentam os dados analisados a partir dessa análise:
+
+<center>
+
+|    Objetivos/Operações    |    Problemas e recomendações    |
+| :-----------------------: | ------------------------------- | 
+| 0. Acessar dados sobre um concurso em especifico 1>2    | **input:** Acessar o menu "SOBRE O CBMERJ" na tela inicial.<br> **feedback:** Carregar a página últimos concursos <br> **plano:** Pesquisar uma informação de um concurso em específico<br> **recomendação:** pesquisar por palavras na página para encontrar o concurso em específico | 
+| 1. Conferir o concurso desejado 1>2  | **plano:** Ler um por um cada concurso disponibilizado na tela até encontrar o desejado |
+| 1.2 Selecionar o concurso desejado 1/2  |  |
+| 2. Identificar a informação almejada 1>2 | **plano:** Ler uma por uma cada informação disponibilizada na tela até encontrar a desejado <br>**ação:** depois de encontrado, selecionar a informação desejada |
+| 2.2. Selecionar a informação desejada 1/2  |  |
+
+</center>
+
+<p align="center">Tabela _: Análise hierárquica da tarefa "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
+
+<center>
+
+![](img/diagrama_hierarquia_3.jpg)
+
+</center>
+
+<p align="center">Figura _ - Diagrama da Árvores de Tarefas Concorrentes da "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
+
+**Árvores de Tarefas Concorrentes:**
+
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
 
@@ -69,4 +99,5 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 | `1.0`   | 13/04/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     [Bruna Lima](https://github.com/libruna)     |
 | `1.1`   | 20/04/2024 | Adição da introdução, metodologia e da tarefa 1                         | [Bruna Lima](https://github.com/libruna) |     [Genilson Silva](https://github.com/GenilsonJrs)     |
 | `1.2`   | 21/04/2024 | Adição da tarefa 2                       | [Genilson Silva](https://github.com/GenilsonJrs) |     [Mariana Letícia](https://github.com/Marianannn)     |
+| `1.3`   | 23/04/2024 | Adição da tarefa 4                       | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)         |
 
