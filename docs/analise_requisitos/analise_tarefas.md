@@ -79,15 +79,35 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 
 <p align="center">Tabela _: Análise hierárquica da tarefa "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
 
+<br>
+
+Logo baixo, há a figura _ a qual demonstra a tabela _ acima de modo visual:
+
+<br>
+
 <center>
 
 ![](img/diagrama_hierarquia_3.jpg)
 
 </center>
 
+<p align="center">Figura _ - Análise hierárquica da tarefa da "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
+
+<br>
+
+**Árvores de Tarefas Concorrentes:** a análise de tarefa feita por esse modelo está representada abaixo na figura _, contendo a relação que as tarefas tem umas com as outras e a nomeação de cada tarefa.
+
+<br>
+
+<center>
+
+![Diagrama de tarefas concorrentes 4](img/diagrama_ctt4.jpg)
+
+</center>
+
 <p align="center">Figura _ - Diagrama da Árvores de Tarefas Concorrentes da "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
 
-**Árvores de Tarefas Concorrentes:**
+<br>
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
