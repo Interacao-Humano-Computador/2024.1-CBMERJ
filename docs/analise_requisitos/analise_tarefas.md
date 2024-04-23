@@ -8,9 +8,47 @@ Para cada funcionalidade analisada, iremos aplicar pelo menos dois métodos. Aba
 
 ### Análise Hierárquica de Tarefas (HTA)
 
+A Análise Hierárquica de Tarefas (HTA) é uma abordagem utilizada para quebrar uma tarefa complexa em sub-tarefas menores, facilitando a compreensão do processo geral.
+
+De acordo com Stanton et al. no livro "Human Factors Methods: A Practical Guide for Engineering and Design", a HTA "é um método para descrever uma tarefa complexa ao dividi-la em sub-tarefas menores e mais gerenciáveis, o que ajuda na visualização organizada para compreender e melhorar a experiência do usuário. 
+
+Etapas básicas da HTA:
+
+Definição do Objetivo: Comece definindo o objetivo principal da tarefa. A clareza do propósito é fundamental.
+Divisão em Sub-tarefas: Em seguida, divida a tarefa em componentes menores. Isso ajuda a compreender as partes individuais da tarefa.
+Estruturação Hierárquica: Organize as sub-tarefas em uma estrutura que mostre sua relação hierárquica.
+Sequência e Relações: Determine a sequência ideal e as dependências entre as sub-tarefas.
+Recursos e Restrições: Identifique os recursos necessários para cada sub-tarefa, bem como as restrições que possam afetar seu andamento.
+A HTA é amplamente utilizada para avaliar a usabilidade de interfaces e identificar áreas de melhoria. Kirwan & Ainsworth, em seu livro "A Guide to Task Analysis", destacam que a HTA "permite uma análise estruturada do trabalho e fornece uma visão geral dos componentes críticos de uma tarefa complexa, ajudando a otimizar processos".
+
 ### GOMS (Goals, Operators, Methods, and Selection Rules)
 
+O modelo GOMS (Goals, Operators, Methods, and Selection Rules) é uma abordagem analítica usada para entender as interações humanas com sistemas computacionais, especialmente no contexto de interfaces de usuário. 
+
+De acordo com Card, Moran e Newell, que introduziram o modelo no livro "The Psychology of Human-Computer Interaction", o GOMS "é uma estrutura que descreve como os usuários interagem com sistemas computacionais, identificando objetivos, operações, métodos e regras de seleção para alcançar esses objetivos".
+
+Componentes do Modelo GOMS (Acrônimo formado pelas etapas):
+
+Objetivos (Goals): Os objetivos representam o resultado final que o usuário busca atingir. 
+Operadores (Operators): Os operadores são as ações que o usuário executa para alcançar um objetivo, como pressionar teclas.
+Métodos (Methods): Os métodos são sequências de operadores usadas para atingir um objetivo específico. 
+Regras de Seleção (Selection Rules): As regras de seleção determinam qual método será usado quando há mais de um disponível. Essas regras ajudam a definir o comportamento do usuário em diferentes contextos.
+
 ### Árvores de Tarefas Concorrentes (ConcurTaskTrees – CTT)
+
+As Árvores de Tarefas Concorrentes, ou Árvores de Tarefas Paralelas, são uma estrutura visual usada para representar a relação entre tarefas que podem ser realizadas simultaneamente ou em uma ordem flexível. Elas são especialmente úteis em projetos de interação humano-computador, onde a multitarefa é comum. Em vez de uma sequência linear de atividades, as Árvores de Tarefas Concorrentes demonstram como diferentes tarefas podem ocorrer ao mesmo tempo.
+
+Componentes das Árvores de Tarefas Concorrentes:
+
+Nó Raiz: O ponto de partida da árvore, representando o objetivo ou a tarefa principal.
+Ramos Paralelos: Diferentemente das árvores de tarefas tradicionais, as Árvores de Tarefas Concorrentes permitem ramos que representam tarefas que podem ser executadas simultaneamente.
+Nós de Sincronização: Estes nós indicam onde diferentes ramos precisam convergir para continuar o processo, sinalizando pontos de junção ou sincronização entre tarefas.
+Dependências: As Árvores de Tarefas Concorrentes destacam as relações de dependência entre as tarefas, indicando quais atividades precisam ser concluídas antes que outras possam começar.
+As Árvores de Tarefas Concorrentes são amplamente usadas para mapear processos de trabalho complexos ou interfaces de usuário que suportam multitarefa. Elas também ajudam a identificar oportunidades para otimizar fluxos de trabalho e aumentar a eficiência.
+
+Árvores de Tarefas Concorrentes permitem uma compreensão mais clara das tarefas que podem ser realizadas em paralelo, facilitando a análise de processos e a otimização de sistemas para maior eficiência e flexibilidade".
+
+
 
 ## Análise de Tarefas
 
