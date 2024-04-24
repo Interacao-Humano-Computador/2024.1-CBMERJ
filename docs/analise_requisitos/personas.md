@@ -14,21 +14,21 @@ A construção das Personas deriva do perfil de usuário e de seus aspectos, que
 ## Tabela de Personas
 - Lygia Araújo
 <p align="center">
-  <img src="./img/persona1.jpg" alt="Persona Primária" width="50%" />
+  <img src="../img/persona1.jpg" alt="Persona Primária" width="50%" />
 </p>
 <p align="center">Figura 1 - Persona Primária (Criado pelo site: Uxpressia) </p>
 
 - Leonardo Souza
 <p align="center">
-  <img src="./img/persona2.jpg" alt="Persona Secundária" width="50%" />
+  <img src="../img/persona2.jpg" alt="Persona Secundária" width="50%" />
 </p>
 <p align="center">Figura 2 - Persona Secundária (Criado pelo site: Uxpressia)  </p>
 
 - Maria Luiza Lacerda
 <p align="center">
-  <img src="./img/persona3.jpg" alt="Anti Persona" width="50%" />
+  <img src="../img/persona3.jpg" alt="Anti Persona" width="50%" />
 </p>
-<p align="center">Anti Persona (Criado pelo site: Uxpressia)  </p>
+<p align="center">Figura 3 - Anti Persona (Criado pelo site: Uxpressia)  </p>
 
 ## Bibliografia
 > 1. UXPRESSION. Disponível em: <https://uxpressia.com/personas-online-tool>
