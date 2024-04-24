@@ -10,15 +10,15 @@ Cada processo de design detalha essas atividades de uma forma particular, defini
 Entre os principais processos de design, destacam-se abordagens como o ciclo de vida simples, o ciclo de vida em estrela, a Engenharia de Usabilidade de Nielsen e a Engenharia de Usabilidade de Mayhew. Cada um oferece uma perspectiva sobre como abordar os desafios do design, com suas próprias etapas e metodologias específicas.
 
 ## Ciclo de vida Simples
-O ciclo de vida simples concentra-se em duas principais atividades: design (ou redesign) e construção de uma versão interativa. Durante o design, os designers exploram alternativas para encontrar soluções que atendam às necessidades e requisitos definidos na análise, apresentando os resultados por meio de descrições textuais ou esboços dos modelos. Em seguida, constroem versões interativas das soluções propostas para demonstrar como as interfaces ou interações funcionam na prática. Essa abordagem visa facilitar uma compreensão nítida e uma comunicação eficiente das ideias de design, contribuindo para o desenvolvimento eficaz de sistemas interativos. Esse modelo geralmente é recomendado para designers experientes devido à sua simplicidade e falta de detalhamento nas etapas.
+O ciclo de vida simples concentra-se em duas principais atividades: design (ou redesign) e construção de uma versão interativa, como mostrado na figura 1. Durante o design, os designers exploram alternativas para encontrar soluções que atendam às necessidades e requisitos definidos na análise, apresentando os resultados por meio de descrições textuais ou esboços dos modelos. Em seguida, constroem versões interativas das soluções propostas para demonstrar como as interfaces ou interações funcionam na prática. Essa abordagem visa facilitar uma compreensão nítida e uma comunicação eficiente das ideias de design, contribuindo para o desenvolvimento eficaz de sistemas interativos. Esse modelo geralmente é recomendado para designers experientes devido à sua simplicidade e falta de detalhamento nas etapas.
 
 <p align="center">
   <img src="../img/processo-de-design/ciclo-de-vida-simples.png" alt="Ciclo de vida simples" width="50%" />
 </p>
-<p align="center">Diagrama de atividades do ciclo de vida simples (Fonte: BARBOSA e SILVA. 2021)</p>
+<p align="center">Figura 1 - Diagrama de atividades do ciclo de vida simples (Fonte: BARBOSA e SILVA. 2021)</p>
 
 ## Ciclo de vida em Estrela
-No modelo de Ciclo de Vida em Estrela, o projetista tem liberdade para determinar a sequência das etapas, no entanto, é essencial realizar uma avaliação após cada uma delas. 
+No modelo de Ciclo de Vida em Estrela, o projetista tem liberdade para determinar a sequência das etapas, no entanto, é essencial realizar uma avaliação após cada uma delas, bem como apresentado na figura 2. 
 
 As etapas desempenham um papel fundamental nesse modelo, garantindo que os dados coletados e os requisitos especificados estejam em conformidade com as necessidades dos usuários. Além disso, são utilizadas para detectar problemas de usabilidade nas representações de design, nos protótipos e no produto final. 
 
@@ -27,7 +27,7 @@ A avaliação assume um papel central, sendo realizada após a conclusão de cad
 <p align="center">
   <img src="../img/processo-de-design/ciclodevidaemestrela.png" alt="Ciclo de vida em Estrela" width="50%" />
 </p>
-<p align="center">[Fonte: BARBOSA, SILVA. 2010 (Adaptada)] </p>
+<p align="center">Figura 2 - Cilco de vida em estrela [Fonte: BARBOSA, SILVA. 2010 (Adaptada)] </p>
 
 ## Engenharia de Usabilidade de Nielsen
 Na Engenharia de Usabilidade de Nielsen, durante todo o processo de desenvolvimento de um produto, são realizadas diversas atividades, muitas das quais ocorrem nas fases iniciais do projeto, mesmo antes da concepção da interface com o usuário. 
@@ -73,12 +73,12 @@ As opiniões dos usuários devem ser coletadas após um período de uso, a fim d
 
 
 
-Mayhew propôs esse modelo de ciclo de vida para a engenharia de usabilidade que combina várias abordagens da área de Interação Humano-Computador em um único ciclo. A análise dos requisitos é guiada pelo perfil do usuário, análise de tarefas, características e limitações da plataforma. Na etapa de design e avaliação, o objetivo é criar uma solução para IHC. Por fim, na etapa de implementação, é crucial obter feedback dos usuários após um período de uso para possíveis melhorias futuras no sistema. 
+Mayhew propôs esse modelo de ciclo de vida para a engenharia de usabilidade que combina várias abordagens da área de Interação Humano-Computador em um único ciclo. A análise dos requisitos é guiada pelo perfil do usuário, análise de tarefas, características e limitações da plataforma. Na etapa de design e avaliação, o objetivo é criar uma solução para IHC. Por fim, na etapa de implementação, é crucial obter feedback dos usuários após um período de uso para possíveis melhorias futuras no sistema. Na figura 3, podemos ver como se da a organização e divisão dessas fases.
 
 <p align="center">
   <img src="../img/processo-de-design/engenhariadeusabilidademayhew.png" alt="Engenharia de Usabilidade de Mayhew" width="50%" />
 </p>
-<p align="center">(Fonte: Mayhew, 1999) </p>
+<p align="center">Figura 3 - Engenharia de usabilidade de Mayhew (Fonte: Mayhew, 1999) </p>
 
 ## Ciclo de vida escolhido para o projeto
 Após análises e discussões em equipe sobre os diferentes ciclos de vida mencionados anteriormente, chegamos à decisão de adotar o ciclo de vida proposto por Mayhew. Reconhecendo o nível de experiência da equipe, entendemos a importância de selecionar um ciclo de vida robusto, com etapas bem definidas, para orientar o desenvolvimento do nosso projeto. Acreditamos que ao seguir um processo criterioso e estruturado, como o sugerido por Mayhew, poderemos reduzir significativamente as margens de erro e obter uma compreensão mais clara das diversas etapas do projeto. Esta abordagem nos permitirá avançar com confiança e eficiência, garantindo uma execução bem-sucedida do projeto.
