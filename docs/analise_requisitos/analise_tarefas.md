@@ -118,7 +118,7 @@ A figura 4 e 5 apresentadas a seguir nesta ordem, mostra a Análise Hierárquica
 
 <p>Em relação ao Acesso a informações sobre o concurso, essa é uma funcionalidade do  site com o objetivo de fornecer os editais, status de homologação, informações sobre fases do concurso, situações dos concursandos e a lista de concursos prestados e em curso. Segue abaixo a análise dessa tarefa.</p>
 
-**Análise Hierárquica de Tarefas:** A figura _ e tabela _ apresentam os dados analisados a partir dessa análise:
+**Análise Hierárquica de Tarefas:** A figura 6 e tabela 3 apresentam os dados analisados a partir dessa análise:
 
 <center>
 
@@ -132,11 +132,11 @@ A figura 4 e 5 apresentadas a seguir nesta ordem, mostra a Análise Hierárquica
 
 </center>
 
-<p align="center">Tabela _: Análise hierárquica da tarefa "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
+<p align="center">Tabela 3: Análise hierárquica da tarefa "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
 
 <br>
 
-Logo baixo, há a figura _ a qual demonstra a tabela _ acima de modo visual:
+Logo baixo, há a figura 6 a qual demonstra a tabela 3 acima de modo visual:
 
 <br>
 
@@ -146,11 +146,11 @@ Logo baixo, há a figura _ a qual demonstra a tabela _ acima de modo visual:
 
 </center>
 
-<p align="center">Figura _ - Análise hierárquica da tarefa da "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
+<p align="center">Figura 6 - Análise hierárquica da tarefa da "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
 
 <br>
 
-**Árvores de Tarefas Concorrentes:** a análise de tarefa feita por esse modelo está representada abaixo na figura _, contendo a relação que as tarefas tem umas com as outras e a nomeação de cada tarefa.
+**Árvores de Tarefas Concorrentes:** a análise de tarefa feita por esse modelo está representada abaixo na figura 7, contendo a relação que as tarefas tem umas com as outras e a nomeação de cada tarefa.
 
 <br>
 
@@ -160,7 +160,7 @@ Logo baixo, há a figura _ a qual demonstra a tabela _ acima de modo visual:
 
 </center>
 
-<p align="center">Figura _ - Diagrama da Árvores de Tarefas Concorrentes da "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
+<p align="center">Figura 7 - Diagrama da Árvores de Tarefas Concorrentes da "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
 
 <br>
 

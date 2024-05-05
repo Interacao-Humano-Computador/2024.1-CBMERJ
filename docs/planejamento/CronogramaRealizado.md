@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este é o cronograma realizado, o qual representa o que e como de fato as atividades foram realizadas em comparação ao cronograma do planejamento.
+Este é o cronograma realizado, o qual representa o que e como de fato as atividades foram realizadas em comparação ao cronograma do planejamento. Segue abaixo as tabelas de 1 a 2 as quais explicitam os cronogramas realizados.
 
 
 # Tabelas
@@ -21,7 +21,7 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 | Gravar apresentação          | Google Meets  | 2024-04-08                          | 2024-04-08                      | todos             | 2024-04-08                  | 2024-04-08              | todos     |
 | Implementar git page         | Google Meets  | 2024-04-04                          | 2024-04-08                      | Daniela           | 2024-04-08                  | 2024-04-08              | todos     |
 
-<p>Na Tabela 1, temos as entregas realizadas para o Ponto de Controle 1.</p>
+<p style="text-align: justify;">Tabela 1: Cronograma do Ponto de controle 1 (Fonte:Lucas Avelar,2024)</p>
 
 <br>
 <br>
@@ -37,9 +37,9 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 |  5 | Ferramentas do projeto                         | Google Meets | 09/04/2024 | 19/04/2024  | Daniela          | 19/04/2024   | 19/04/2024  | Mariana     |
 |  6 | Cenários                                       | Google Meets | 16/04/2024 | 17/04/2024  | Mariana          | 17/04/2024   | 17/04/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro      |
 |  7 | Gravar apresentação                            | Google Meets | 19/04/2024 | 03/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro          | 03/04/2024   | 03/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
-|  8 | Implementar git page                           | Google Meets | 09/04/2024 | --/04/2024  | Daniela        | 19/04/2024   | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+|  8 | Implementar git page                           | Google Meets | 09/04/2024 | 03/04/2024  | Daniela        | 19/04/2024   | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
 
-<p>Tabela 2: Cronograma do Ponto de controle 2 (Fonte:Lucas Avelar,2024)</p>
+<p>Tabela 2: Cronograma do Ponto de controle 2 (Fonte:Mariana Leticia,2024)</p>
 
 ## Histórico de Versões
 
