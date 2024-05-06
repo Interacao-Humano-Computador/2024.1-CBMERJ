@@ -95,9 +95,9 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 <p align="center">Figura 3 - Diagrama da Árvores de Tarefas Concorrentes de "Locais certificados" (Fonte: Daniela Alarcão, 2024). </p>
 
 
-### 3. Acesso aos recursos de guia para redes sociais
+### 3. Sistema de gestão de emergências integrado
 
-O acesso a funcionalidade do guia para redes sociais refere-se ao processo de linkagem de contatos de constribuintes e informações em outros sites e/ou aplicativos, junto ao Corpo de Bombeiros do Rio de Janeiro. Isso envolve o acessoa aba, vizualização e contatos e acesso linkado a redes.
+O acesso a funcionalidade de Comunicação de Emergência refere-se a um meio de comunicação robusto que permite a coordenação eficiente entre os bombeiros, serviços de emergência e outras agências relevantes. Isso pode incluir mensagens de texto em massa, alertas de emergência e comunicação por voz em tempo real.
 
 Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes.
 
@@ -105,13 +105,13 @@ A figura 4 e 5 apresentadas a seguir nesta ordem, mostra a Análise Hierárquica
 
 - Análise Hierárquica de Tarefas
 <p align="center">
-  <img src="../img/Diagrama-da-Analise-Hierarquica.png" alt="Análise Hierárquica de Tarefas" width="50%" />
+  <img src="../img/gjr-analise-hierarquica-de-tarefas.png" alt="Análise Hierárquica de Tarefas" width="50%" />
 </p>
 <p align="center">Figura 4 - Análise Hierárquica de Tarefas (Fonte: Genilson Junior, 2024)  </p>
 
 - Árvores de Tarefas Concorrentes
 <p align="center">
-  <img src="../img/Arvores-de-Tarefas-Concorrentes.png" alt="Árvores de Tarefas Concorrentes" width="50%" />
+  <img src="../img/gjr-arvore-de-tarefas-concorrentes.png" alt="Árvores de Tarefas Concorrentes" width="50%" />
 </p>
 <p align="center">Figura 5 - Árvores de Tarefas Concorrentes (Fonte: Genilson Junior, 2024)  </p>
 
