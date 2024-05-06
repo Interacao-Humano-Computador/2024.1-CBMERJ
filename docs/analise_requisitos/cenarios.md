@@ -89,5 +89,5 @@ contextuais, de uma situação de uso da aplicação, envolvendo usuários, proc
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 16/04/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |          |
-| `2.0`   | 17/04/2024 | Criação dos cenários                      | [Mariana Letícia](https://github.com/Marianannn) |          |
+| `1.0`   | 16/04/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)       |
+| `2.0`   | 17/04/2024 | Criação dos cenários                      | [Mariana Letícia](https://github.com/Marianannn) |     [Bruna Lima](https://github.com/libruna)      |
