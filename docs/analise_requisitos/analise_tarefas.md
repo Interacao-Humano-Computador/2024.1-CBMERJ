@@ -190,6 +190,24 @@ Desta maneira, foram utilizadas duas das seguintes técnicas de analise de taref
 ![](img/Arvore_de_tarefa_concorrente_9.png)
 <p align="center">Figura 9 - Diagrama da Árvore de Tarefa Concorrente do "Catálogo Telefônico" (Fonte: Pedro Henrique, 2024). </p>
 
+### 6. Consulta de processos.
+
+O governo do Rio de janeiro está mudando seus processos do meio fisico (UPO) para o Digital (SEI-RJ)> No site dos bombeiros existe uma aba no rodapé do mesmo que mostra alguns links uteis para o usuário entre eles o link do UPO para consultar andamento de seu processo no meio fisico, mas o link da pagina nao redireciona para o endereço certo (Site UPO), Mas é uma funcionalidade muito interessante visto que muitos processo govrenamentais envolvem o corpo de bombeiros
+
+Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes.
+
+|    Objetivos/Operações    |    Problemas e recomendações    |
+| :-----------------------: | ------------------------------- | 
+| 0. Consultar processos no estado do Rio de Janeiro. | **input:** Acessar o site do UPO.<br> **feedback:** Apresentar menu solicitanto informações.<br> **plano:** Exibir dados do atual processo e como vai o andamento.<br> **recomendação:** Corrigir endereço do link. | 
+| 1. Visualizar dados dos processos em andamento.  | **plano:** Exibir informações detalhadas sobre o mesmo, |
+| 2. Confirmar Dados e ser avisado pelo governo via e mail. | **ação:** Colocar seu e mail para receber atualizações. <br>**recomendação:** Editar ou melhorar encaminhamento de email, Alguns usuários reclamam que não são atualizazdas do processo.  |
+| 3. Integrar mais rapidamente a plataforma do SEI_RJ. | **plano:** Melhorar o acesso do cidadão a plataforma mais atualizada. <br>**recomendação:** Retirar link do do UPO do site por enquanto. |
+<p align="center">Tabela 5 - Análise hierárquica do sistema UPO pelo site do CBMRJ (Fonte: Lucas Avelar, 2024). </p>
+
+**Árvores de Tarefas Concorrentes:** A figura 8 apresenta a análise dessa tarefa, representada em diagrama, com o uso de Árvores de Tarefas Concorrentes. 
+![](img/UPO_BRJ.png)
+<p align="center">Figura 10 - Diagrama da Árvores de Tarefas Concorrentes de "Locais certificados" (Fonte: Lucas Avelar, 2024). </p>
+
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
 
