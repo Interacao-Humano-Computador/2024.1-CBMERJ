@@ -165,6 +165,31 @@ Logo baixo, há a figura 6 a qual demonstra a tabela 3 acima de modo visual:
 
 <br>
 
+### 5. Acesso ao Catálogo Telefônico
+<p style="text-align: justify;"> O catálogo telefônico é uma funcionalidade que refere-se a disponibilização e apresentação de uma lista telefônica das unidades do CBM do estado.
+
+Desta maneira, foram utilizadas duas das seguintes técnicas de analise de tarefas (Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes), conforme pode ser visto abaixo: </p>
+
+**Análise Hierárquica de Tarefas:** A tabela 4 exibe uma representação de forma textual da análise hierárquica, enquanto a figura 8 apresentação um diagrama:
+
+|    Objetivos/Operações    |    Problemas e recomendações    |
+| :-----------------------: | ------------------------------- | 
+| 0. Acessar ao Catálogo Telefônico 1>2 | **input:** Acessar o menu "Contato" na tela inicial.<br> **feedback:** Carregar a página catálago telefônico <br> **plano:** Apresentar uma lista telefônica <br> **recomendação:** Implementar filtros para encontrar unidades de forma mais rápida. | 
+| 1. Visualizar lista telefônica  | **plano:** Exibir uma lista com informações telefônicas com dados de OBM, Seção, Telefone e Endereço respectivo de cada unidade. |
+| 2. Baixar conteúdo 1/2 | **ação:** Disponibilizar o catálogo para download. <br>**recomendação:** Assegurar que a lista esteja sempre com dados atualizados.  |
+| 2.1 Baixar lista telefônica |  |
+| 2.2 Baixar contatos móveis do CBMERJ |   |
+
+<p align="center"> Tabela 4 - Análise hierárquica do "Catálogo Telefônico" (Fonte: Pedro Henrique, 2024). </p>
+
+![](img/Analise_hierarquica_de_tarefas_8.png)
+<p align="center"> Figura 8 - Diagrama de Análise hierárquica do "Catálogo Telefônico" (Fonte: Pedro Henrique, 2024). </p>
+
+**Árvores de Tarefas Concorrentes:** A figura 9 apresenta uma representação do diagrama com a utilização da técnica de Árvores de Tarefas Concorrentes a partir da analise da tarefa "Catálogo Telefônico":
+
+![](img/Arvore_de_tarefa_concorrente_9.png)
+<p align="center">Figura 9 - Diagrama da Árvore de Tarefa Concorrente do "Catálogo Telefônico" (Fonte: Pedro Henrique, 2024). </p>
+
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
 
@@ -177,3 +202,4 @@ Logo baixo, há a figura 6 a qual demonstra a tabela 3 acima de modo visual:
 | `1.2`   | 21/04/2024 | Adição da tarefa 2                       | [Genilson Silva](https://github.com/GenilsonJrs) |     [Mariana Letícia](https://github.com/Marianannn)     |
 | `1.3`   | 23/04/2024 | Adição da tarefa 4                       | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)         |
 | `1.4`   | 06/05/2024 | Adição da tarefa "Locais certificados"                    | [Daniela Alarcão](https://github.com/danialarcao) | [Bruna Lima](https://github.com/libruna)         |
+| `1.5`   | 06/05/2024 | Adição da tarefa 5 "Catálogo Telefônico"                    | [Pedro Henrique](https://github.com/PedroHhenriq) | [Genilson Silva](https://github.com/GenilsonJrs)        |
