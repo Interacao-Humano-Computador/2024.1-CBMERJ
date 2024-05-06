@@ -61,7 +61,6 @@
 
 
 ## Gravação da Reunião
-	colocar o link da reuniâo (precisa ser no youtube)
 
 	[Link para o vídeo da apresentação 2](https://www.youtube.com/watch?v=AmeY7bwyP5M&ab_channel=ihcgrupo7)
 
