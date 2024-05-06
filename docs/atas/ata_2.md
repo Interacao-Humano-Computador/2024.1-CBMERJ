@@ -62,9 +62,8 @@
 
 ## Gravação da Reunião
 
-	[Link para o vídeo da apresentação 2](https://www.youtube.com/watch?v=AmeY7bwyP5M&ab_channel=ihcgrupo7)
-
-<iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=AmeY7bwyP5M&ab_channel=ihcgrupo7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Link para o vídeo da apresentação 2](https://www.youtube.com/watch?v=AmeY7bwyP5M&ab_channel=ihcgrupo7)
+<!-- <iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=AmeY7bwyP5M&ab_channel=ihcgrupo7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 <p>Vídeo 1: reunião 2</p>
 Fonte: autores.
