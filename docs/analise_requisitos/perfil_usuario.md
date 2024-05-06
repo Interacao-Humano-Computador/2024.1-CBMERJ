@@ -169,5 +169,5 @@ Desta maneira, podemos descrever as caractéristicas gerais do perfil do usuári
 | `1.0`   | 16/04/2024 | Criação da página  | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)      |
 | `1.1`   | 19/04/2024 | Inclusão da introdução e metodologia  |  [Bruna Lima](https://github.com/libruna) |  [Genilson Silva](https://github.com/GenilsonJrs)      | 
 | `1.2`   | 22/04/2024 | Inclusão do resultado dos questionários e descrição do grupo de foco |  [Pedro Henrique](https://github.com/PedroHhenriq) |   [Genilson Silva](https://github.com/GenilsonJrs)   |
-| `1.3`   | 22/04/2024 | Inclusão dos resultados do grupo de foco |  [Bruna Lima](https://github.com/libruna)  |    |
+| `1.3`   | 22/04/2024 | Inclusão dos resultados do grupo de foco |  [Bruna Lima](https://github.com/libruna)  |  [Genilson Silva](https://github.com/GenilsonJrs)  |
 | `1.4`   | 06/05/2024 | Inclusão da análise de resultados |  [Pedro Henrique](https://github.com/PedroHhenriq)  | [Genilson Silva](https://github.com/GenilsonJrs)   |

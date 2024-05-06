@@ -204,7 +204,7 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 | 3. Integrar mais rapidamente a plataforma do SEI_RJ. | **plano:** Melhorar o acesso do cidadão a plataforma mais atualizada. <br>**recomendação:** Retirar link do do UPO do site por enquanto. |
 <p align="center">Tabela 5 - Análise hierárquica do sistema UPO pelo site do CBMRJ (Fonte: Lucas Avelar, 2024). </p>
 
-**Árvores de Tarefas Concorrentes:** A figura 8 apresenta a análise dessa tarefa, representada em diagrama, com o uso de Árvores de Tarefas Concorrentes. 
+**Árvores de Tarefas Concorrentes:** A figura 10 apresenta a análise dessa tarefa, representada em diagrama, com o uso de Árvores de Tarefas Concorrentes. 
 ![](img/UPO_BRJ.png)
 <p align="center">Figura 10 - Diagrama da Árvores de Tarefas Concorrentes de "Locais certificados" (Fonte: Lucas Avelar, 2024). </p>
 
