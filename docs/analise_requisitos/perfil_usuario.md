@@ -21,8 +21,10 @@ Para construir o questionário utilizado, elaboramos um total de x questões, ab
 - Questões complexas ou que requerem explicações detalhadas podem não ser adequadas para questionários, dificultando a obtenção de informações profundas sobre certos tópicos.
 
 ## Resultados coletados
+Abaixo estão os resultados obtidos por meio dos questionários realizados. Entre as figuras 1 à 14, temos gráficos que representam as porcentagens atribuídas a cada opção de escolha oferecida em cada pergunta. Além disso, as figuras 15 e 16 apresentam as respostas textuais de acordo com o que foi questionado:
 
 ### 1. Faixa etária
+
 ![](img/2_grafico_faixa_etaria.png)
 <p align="center">Figura 1 - Gráfico (Faixa etária). </p>
 
@@ -141,6 +143,21 @@ No Grupo de Foco conduzido com os usuários mencionados acima, foram feitas uma 
     - **Márcio:** Melhorias sobre o histórico de incêndio, caixa de pesquisa (tipo de informação que poderia estar na página inicial e que não tem como pesquisar) e as informações sobre os eventos que são difíceis de encontrar.
 
 ## Análise dos resultados
+Em relação ao perfil do usuário, por meio dos dados obtidos identificamos que os usuários se encaixam predominantemente no gênero feminino no intervalo entre 18 e 24 anos, se concentrando principalmente na região do centro-oeste e possuindo como nível de escolaridade ensino médio, apesar também de terem bastante graduados.
+
+Além disso, identificamos que os usuários possuem bastante ou alguma familiariedade com tecnologia no geral, apesar de não utilizarem o site como costume. Não obstante, os usuários acreditam que o site em alguns momentos não apresenta linguagem clara, assim como pensam conseguir utilizar somente algumas ferramentas do site de forma adequada. 
+
+Desta maneira, podemos descrever as caractéristicas gerais do perfil do usuário como:
+
+#### Definição do Perfil do Usuário
+|||
+| ------------------ | -------------- |
+|    Idade   |   18 e 24 anos   |
+|    Gênero    |   Predominantemente feminino   |  
+|    Região  |   Centro-oeste   |  
+|    Escolaridade  |   Ensino médio   |  
+|||
+
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
@@ -153,3 +170,4 @@ No Grupo de Foco conduzido com os usuários mencionados acima, foram feitas uma 
 | `1.1`   | 19/04/2024 | Inclusão da introdução e metodologia  |  [Bruna Lima](https://github.com/libruna) |  [Genilson Silva](https://github.com/GenilsonJrs)      | 
 | `1.2`   | 22/04/2024 | Inclusão do resultado dos questionários e descrição do grupo de foco |  [Pedro Henrique](https://github.com/PedroHhenriq) |   [Genilson Silva](https://github.com/GenilsonJrs)   |
 | `1.3`   | 22/04/2024 | Inclusão dos resultados do grupo de foco |  [Bruna Lima](https://github.com/libruna)  |    |
+| `1.4`   | 06/05/2024 | Inclusão da análise de resultados |  [Pedro Henrique](https://github.com/PedroHhenriq)  | [Genilson Silva](https://github.com/GenilsonJrs)   |
