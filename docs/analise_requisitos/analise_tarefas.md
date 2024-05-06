@@ -4,13 +4,52 @@ A análise de tarefas é muito importante para compreender como os usuários rea
 ### Metodologia
 Entre os métodos mais comuns de análise de tarefas, destacam-se a Análise Hierárquica de Tarefas (HTA), que descreve as tarefas em uma hierarquia; o GOMS, que desmembra as tarefas em metas, operadores, métodos e regras de seleção; e o ConcurTaskTrees (CTT), que permite representar visualmente as tarefas e as condições de concorrência entre elas.
 
-Para cada funcionalidade analisada, iremos aplicar pelo menos dois métodos. Abaixo, descrevemos brevemente cada um deles:
+Para cada funcionalidade analisada, iremos aplicar  dois métodos, Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes. Abaixo, descrevemos brevemente Todos os métodos:
 
 ### Análise Hierárquica de Tarefas (HTA)
 
-### GOMS (Goals, Operators, Methods, and Selection Rules)
+A Análise Hierárquica de Tarefas (HTA) é uma abordagem utilizada para quebrar uma tarefa complexa em sub-tarefas menores, facilitando a compreensão do processo geral.
+
+De acordo com Stanton et al. no livro "Human Factors Methods: A Practical Guide for Engineering and Design", a HTA "é um método para descrever uma tarefa complexa ao dividi-la em sub-tarefas menores e mais gerenciáveis, o que ajuda na visualização organizada para compreender e melhorar a experiência do usuário. 
+
+Etapas básicas da HTA:
+
+Definição do Objetivo: Comece definindo o objetivo principal da tarefa. A clareza do propósito é fundamental.
+Divisão em Sub-tarefas: Em seguida, divida a tarefa em componentes menores. Isso ajuda a compreender as partes individuais da tarefa.
+Estruturação Hierárquica: Organize as sub-tarefas em uma estrutura que mostre sua relação hierárquica.
+Sequência e Relações: Determine a sequência ideal e as dependências entre as sub-tarefas.
+Recursos e Restrições: Identifique os recursos necessários para cada sub-tarefa, bem como as restrições que possam afetar seu andamento.
+A HTA é amplamente utilizada para avaliar a usabilidade de interfaces e identificar áreas de melhoria. Kirwan & Ainsworth, em seu livro "A Guide to Task Analysis", destacam que a HTA "permite uma análise estruturada do trabalho e fornece uma visão geral dos componentes críticos de uma tarefa complexa, ajudando a otimizar processos".
 
 ### Árvores de Tarefas Concorrentes (ConcurTaskTrees – CTT)
+
+As Árvores de Tarefas Concorrentes, ou Árvores de Tarefas Paralelas, são uma estrutura visual usada para representar a relação entre tarefas que podem ser realizadas simultaneamente ou em uma ordem flexível. Elas são especialmente úteis em projetos de interação humano-computador, onde a multitarefa é comum. Em vez de uma sequência linear de atividades, as Árvores de Tarefas Concorrentes demonstram como diferentes tarefas podem ocorrer ao mesmo tempo.
+
+Componentes das Árvores de Tarefas Concorrentes:
+
+Nó Raiz: O ponto de partida da árvore, representando o objetivo ou a tarefa principal.
+Ramos Paralelos: Diferentemente das árvores de tarefas tradicionais, as Árvores de Tarefas Concorrentes permitem ramos que representam tarefas que podem ser executadas simultaneamente.
+Nós de Sincronização: Estes nós indicam onde diferentes ramos precisam convergir para continuar o processo, sinalizando pontos de junção ou sincronização entre tarefas.
+Dependências: As Árvores de Tarefas Concorrentes destacam as relações de dependência entre as tarefas, indicando quais atividades precisam ser concluídas antes que outras possam começar.
+As Árvores de Tarefas Concorrentes são amplamente usadas para mapear processos de trabalho complexos ou interfaces de usuário que suportam multitarefa. Elas também ajudam a identificar oportunidades para otimizar fluxos de trabalho e aumentar a eficiência.
+
+Árvores de Tarefas Concorrentes permitem uma compreensão mais clara das tarefas que podem ser realizadas em paralelo, facilitando a análise de processos e a otimização de sistemas para maior eficiência e flexibilidade".
+
+### GOMS (Goals, Operators, Methods, and Selection Rules)
+
+O modelo GOMS (Goals, Operators, Methods, and Selection Rules) é uma abordagem analítica usada para entender as interações humanas com sistemas computacionais, especialmente no contexto de interfaces de usuário. 
+
+De acordo com Card, Moran e Newell, que introduziram o modelo no livro "The Psychology of Human-Computer Interaction", o GOMS "é uma estrutura que descreve como os usuários interagem com sistemas computacionais, identificando objetivos, operações, métodos e regras de seleção para alcançar esses objetivos".
+
+Componentes do Modelo GOMS (Acrônimo formado pelas etapas):
+
+Objetivos (Goals): Os objetivos representam o resultado final que o usuário busca atingir. 
+Operadores (Operators): Os operadores são as ações que o usuário executa para alcançar um objetivo, como pressionar teclas.
+Métodos (Methods): Os métodos são sequências de operadores usadas para atingir um objetivo específico. 
+Regras de Seleção (Selection Rules): As regras de seleção determinam qual método será usado quando há mais de um disponível. Essas regras ajudam a definir o comportamento do usuário em diferentes contextos.
+
+
+
 
 ## Análise de Tarefas
 
@@ -58,7 +97,73 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 
 ### 3. Acesso aos recursos de guia para redes sociais
 
+O acesso a funcionalidade do guia para redes sociais refere-se ao processo de linkagem de contatos de constribuintes e informações em outros sites e/ou aplicativos, junto ao Corpo de Bombeiros do Rio de Janeiro. Isso envolve o acessoa aba, vizualização e contatos e acesso linkado a redes.
 
+Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes.
+
+A figura 4 e 5 apresentadas a seguir nesta ordem, mostra a Análise Hierárquica de Tarefase e a Árvores de Tarefas Concorrentes.
+
+- Análise Hierárquica de Tarefas
+<p align="center">
+  <img src="../img/Diagrama-da-Analise-Hierarquica.png" alt="Análise Hierárquica de Tarefas" width="50%" />
+</p>
+<p align="center">Figura 4 - Análise Hierárquica de Tarefas (Fonte: Genilson Junior, 2024)  </p>
+
+- Árvores de Tarefas Concorrentes
+<p align="center">
+  <img src="../img/Arvores-de-Tarefas-Concorrentes.png" alt="Árvores de Tarefas Concorrentes" width="50%" />
+</p>
+<p align="center">Figura 5 - Árvores de Tarefas Concorrentes (Fonte: Genilson Junior, 2024)  </p>
+
+### 4. Acesso a informações sobre concurso
+
+<p>Em relação ao Acesso a informações sobre o concurso, essa é uma funcionalidade do  site com o objetivo de fornecer os editais, status de homologação, informações sobre fases do concurso, situações dos concursandos e a lista de concursos prestados e em curso. Segue abaixo a análise dessa tarefa.</p>
+
+**Análise Hierárquica de Tarefas:** A figura 6 e tabela 3 apresentam os dados analisados a partir dessa análise:
+
+<center>
+
+|    Objetivos/Operações    |    Problemas e recomendações    |
+| :-----------------------: | ------------------------------- | 
+| 0. Acessar dados sobre um concurso em especifico 1>2    | **input:** Acessar o menu "SOBRE O CBMERJ" na tela inicial.<br> **feedback:** Carregar a página últimos concursos <br> **plano:** Pesquisar uma informação de um concurso em específico<br> **recomendação:** pesquisar por palavras na página para encontrar o concurso em específico | 
+| 1. Conferir o concurso desejado 1>2  | **plano:** Ler um por um cada concurso disponibilizado na tela até encontrar o desejado |
+| 1.2 Selecionar o concurso desejado 1/2  |  |
+| 2. Identificar a informação almejada 1>2 | **plano:** Ler uma por uma cada informação disponibilizada na tela até encontrar a desejado <br>**ação:** depois de encontrado, selecionar a informação desejada |
+| 2.2. Selecionar a informação desejada 1/2  |  |
+
+</center>
+
+<p align="center">Tabela 3: Análise hierárquica da tarefa "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
+
+<br>
+
+Logo baixo, há a figura 6 a qual demonstra a tabela 3 acima de modo visual:
+
+<br>
+
+<center>
+
+![](img/diagrama_hierarquia_3.jpg)
+
+</center>
+
+<p align="center">Figura 6 - Análise hierárquica da tarefa da "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
+
+<br>
+
+**Árvores de Tarefas Concorrentes:** a análise de tarefa feita por esse modelo está representada abaixo na figura 7, contendo a relação que as tarefas tem umas com as outras e a nomeação de cada tarefa.
+
+<br>
+
+<center>
+
+![Diagrama de tarefas concorrentes 4](img/diagrama_ctt4.jpg)
+
+</center>
+
+<p align="center">Figura 7 - Diagrama da Árvores de Tarefas Concorrentes da "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
+
+<br>
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
@@ -70,4 +175,5 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 | `1.0`   | 13/04/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     [Bruna Lima](https://github.com/libruna)     |
 | `1.1`   | 20/04/2024 | Adição da introdução, metodologia e da tarefa 1                         | [Bruna Lima](https://github.com/libruna) |     [Genilson Silva](https://github.com/GenilsonJrs)     |
 | `1.2`   | 21/04/2024 | Adição da tarefa 2                       | [Genilson Silva](https://github.com/GenilsonJrs) |     [Mariana Letícia](https://github.com/Marianannn)     |
+| `1.3`   | 23/04/2024 | Adição da tarefa 4                       | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)         |
 

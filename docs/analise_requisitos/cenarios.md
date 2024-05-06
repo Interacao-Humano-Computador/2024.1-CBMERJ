@@ -79,10 +79,11 @@ contextuais, de uma situação de uso da aplicação, envolvendo usuários, proc
 
 ## Referências Bibliográficas
 
-<p>Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 8.3, p. 172]
-Rosson, Mary Beth; Carroll, John M.. Usability engineering: scenario-based development of human-computer interaction. Interactive Technologies. Addison-Wesley, 2001.
-Cooper, Alan. The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition). [S.l.]: IDG Books Worldwide, 2003
-</p>
+> 1. Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 8.3, p. 172]
+
+> 2. Rosson, Mary Beth; Carroll, John M.. Usability engineering: scenario-based development of human-computer interaction. Interactive Technologies. Addison-Wesley, 2001.
+
+> 3. Cooper, Alan. The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition). [S.l.]: IDG Books Worldwide, 2003
 
 ## Histórico de Versões
 

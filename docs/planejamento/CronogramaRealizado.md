@@ -1,5 +1,13 @@
 # Cronograma realizado durante o semestre letivo
- Este é o cronograma do que foi realizado em comparação ao cronograma.
+
+## Introdução
+
+Este é o cronograma realizado, o qual representa o que e como de fato as atividades foram realizadas em comparação ao cronograma do planejamento. Segue abaixo as tabelas de 1 a 2 as quais explicitam os cronogramas realizados.
+
+
+# Tabelas
+
+## Cronograma Ponto de Controle 1
 
 | Atividade                    | Local         | Período de desenvolvimento - início | Período de desenvolvimento - fim | Responsáveis      | Período de Revisão - início | Período de Revisão - fim | Revisores |
 |------------------------------|---------------|-------------------------------------|---------------------------------|-------------------|-----------------------------|-------------------------|-----------|
@@ -13,12 +21,31 @@
 | Gravar apresentação          | Google Meets  | 2024-04-08                          | 2024-04-08                      | todos             | 2024-04-08                  | 2024-04-08              | todos     |
 | Implementar git page         | Google Meets  | 2024-04-04                          | 2024-04-08                      | Daniela           | 2024-04-08                  | 2024-04-08              | todos     |
 
-<p>Na Tabela 1, temos as entregas realizadas para o Ponto de Controle 1.</p>
+<p style="text-align: justify;">Tabela 1: Cronograma do Ponto de controle 1 (Fonte:Lucas Avelar,2024)</p>
 
+<br>
+<br>
+
+## Cronograma Ponto de Controle 2
+
+|    | Atividade                                      | Local        | Inicio período de desenvolvimento das atividades   | Fim do período de desenvolvimento das atividades          | Responsáveis   | Inicio Período de Revisão   | Fim do período de revisão          | Revisores   |
+|---:|:-----------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:---------------|:---------------------|:--------------------|:------------|
+|  1 | Perfil do usuário                              | Google Meets | 16/04/2024 | 22/04/2024  | Bruna Pedro       | 22/04/2024   | 22/04/2024  | Bruna       |
+|  2 | Aspectos éticos de pesquisa envolvendo pessoas | Google Meets | 16/04/2024 | 17/04/2024  | Daniela        | 17/04/2024   | 17/04/2024  | Daniela     |
+|  3 | Personas                                       | Google Meets | 16/04/2024 | 21/04/2024  | Genilson        | 21/04/2024   | 21/04/2024  | Genilson    |
+|  4 | Análise de tarefas do usuário                  | Google Meets | 13/04/2024 | 21/04/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro          | 21/04/2024   | 21/04/2024  | Lucas       |
+|  5 | Ferramentas do projeto                         | Google Meets | 09/04/2024 | 19/04/2024  | Daniela          | 19/04/2024   | 19/04/2024  | Mariana     |
+|  6 | Cenários                                       | Google Meets | 16/04/2024 | 17/04/2024  | Mariana          | 17/04/2024   | 17/04/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro      |
+|  7 | Gravar apresentação                            | Google Meets | 19/04/2024 | 03/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro          | 03/04/2024   | 03/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+|  8 | Implementar git page                           | Google Meets | 09/04/2024 | 03/04/2024  | Daniela        | 19/04/2024   | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+
+<p>Tabela 2: Cronograma do Ponto de controle 2 (Fonte:Mariana Leticia,2024)</p>
 
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 06/04/2024 | Criação da página de Cronograma                         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
-| `2.0`   | 08/04/2024 | Criação da página de sites escolhidos                     | [Lucas Avelas](https://github.com/LucasAvelar2711) | [Bruna Lima](https://github.com/libruna)         | 
+| `1.0`   | 06/04/2024 | Criação da página de Cronograma Realizado                        | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
+| `2.0`   | 08/04/2024 | Adição da tabela da etapa 1                     | [Lucas Avelas](https://github.com/LucasAvelar2711) | [Bruna Lima](https://github.com/libruna)         | 
+| `2.1`   | 01/04/2024 | Adição de conteúdo em Cronograma realizado, tabela da etapa 2                     | [Mariana Letícia](https://github.com/Marianannn)  | [Lucas Avelas](https://github.com/LucasAvelar2711)        | 
+| `2.2`   | 01/04/2024 | Adição da introdução da página                     | [Mariana Letícia](https://github.com/Marianannn)  | [Lucas Avelas](https://github.com/LucasAvelar2711)        | 

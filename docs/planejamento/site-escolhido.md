@@ -20,7 +20,7 @@
 
 <p align="justify">Fizemos uma análise heurística e o planejemanto com base no framework decide, e encontramos as seguintes motivações para escolha do site CBMERJ: </p>
 
-- Público alvo de fácil acesso: por ser um site de bombeiros, o qual não apenas trata de ações básicas do bombeiro - como apagar incêndios -, como trata também de informações administrativas, concursos de bombeiro, registro de alvará de funcionamento, etc. o usuário se torna muito mais acessível para o contato por parte dos avaliadores
+- Público alvo de fácil acesso: o público alvo do site são cidadãos comuns, bombeiros e aspirantes a bombeiro, os quais moram no estado do Rio de Janeiro. Isso porque, por ser um site de bombeiros, o qual não apenas trata de ações básicas do bombeiro - como apagar incêndios -, como trata também de informações administrativas, concursos de bombeiro, registro de alvará de funcionamento, etc. o usuário se torna muito mais acessível para o contato por parte dos avaliadores.
 
 - O site apresenta problemas catastróficos: na página de formulário do requerimento padrão, o site não consegue retornar ao usuário a visibilidade do status do sistema, e nem o que este pode fazer após um erro do sistema ter ocorrido. Segue abaixo a Figura 1 a qual demonstra o erro após não preencher todos ou dados, ou ao se preencher nenhum dos itens do formulário e clicar em "imprimir":
 
@@ -66,6 +66,6 @@
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 06/04/2024 | Criação da página de sites escolhidos                     | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
 | `2.0`   | 08/04/2024 | Adição de conteúdo sobre o site escolhido              | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
-| `3.0`   | 13/04/2024 | Acrescentando informações no Sobre o site CBMERJ       | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
-| `4.0`   | 14/04/2024 | Adicionando prints do site escolhido e outros problemas do site      | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
+| `2.1`   | 13/04/2024 | Acrescentando informações no Sobre o site CBMERJ       | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
+| `2.2`   | 14/04/2024 | Adicionando prints do site escolhido e outros problemas do site      | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
  

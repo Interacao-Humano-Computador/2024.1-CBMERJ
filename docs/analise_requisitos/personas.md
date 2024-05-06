@@ -8,27 +8,27 @@ O uso de personas traz benefícios significativos para equipes de design e desen
 ## Metodologia
 Após reunir e organizar informações durante a fase de coleta de requisitos, são elaboradas personas fictícias, porém representativas. Cada persona é uma síntese dos dados e das características dos usuários daquele contexto. As personas são enriquecidas com informações demográficas, comportamentais, metas, desafios e outras características pertinentes. Esses detalhes humanizam a persona, tornando-a mais concreta e acessível para compreensão.
 
-A construção das Personas deriva do perfil de usuário e de seus aspectos, que foram delineados com base nos resultados obtidos a partir do questionário aplicado. Esse processo envolve uma análise detalhada das informações coletadas, identificando padrões, necessidades comuns e peculiaridades entre os usuários.
+A construção das Personas deriva do perfil de usuário e de seus aspectos, que foram delineados com base nos resultados obtidos a partir do questionário aplicado. Esse processo envolve uma análise detalhada das informações coletadas, identificando padrões, necessidades comuns e peculiaridades entre os usuários. Com isso, se deu a construção das personas presentes nas figuras 1, 2 e 3.
 
 
 ## Tabela de Personas
 - Lygia Araújo
 <p align="center">
-  <img src="/img/persona1.jpg" alt="Persona Primária" width="50%" />
+  <img src="../img/persona1.jpg" alt="Persona Primária" width="50%" />
 </p>
-<p align="center">(Criado pelo site: Uxpressia) </p>
+<p align="center">Figura 1 - Persona Primária (Criado pelo site: Uxpressia) </p>
 
 - Leonardo Souza
 <p align="center">
-  <img src="/img/persona2.jpg" alt="Persona Secundária" width="50%" />
+  <img src="../img/persona2.jpg" alt="Persona Secundária" width="50%" />
 </p>
-<p align="center">(Criado pelo site: Uxpressia)  </p>
+<p align="center">Figura 2 - Persona Secundária (Criado pelo site: Uxpressia)  </p>
 
 - Maria Luiza Lacerda
 <p align="center">
-  <img src="/img/persona3.jpg" alt="Anti Persona" width="50%" />
+  <img src="../img/persona3.jpg" alt="Anti Persona" width="50%" />
 </p>
-<p align="center">(Criado pelo site: Uxpressia)  </p>
+<p align="center">Figura 3 - Anti Persona (Criado pelo site: Uxpressia)  </p>
 
 ## Bibliografia
 > 1. UXPRESSION. Disponível em: <https://uxpressia.com/personas-online-tool>

@@ -28,22 +28,14 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 |    | Atividade                                      | Local        | Inicio período de desenvolvimento das atividades   | Fim do período de desenvolvimento das atividades          | Responsáveis   | Inicio Período de Revisão   | Fim do período de revisão          | Revisores   |
 |---:|:-----------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:---------------|:---------------------|:--------------------|:------------|
-|  1 | Perfil do usuário                              | Google Meets | 09/04/2024
-                          | 19/04/2024  | Genilson       | 19/04/2024   | 19/04/2024  | Bruna       |
-|  2 | Aspectos éticos de pesquisa envolvendo pessoas | Google Meets | 09/04/2024
-                          | 19/04/2024  | Mariana        | 19/04/2024   | 19/04/2024  | Daniela     |
-|  3 | Personas                                       | Google Meets | 09/04/2024
-                          | 17/04/2024  | Daniela        | 19/04/2024   | 19/04/2024  | Genilson    |
-|  4 | Análise de tarefas do usuário                  | Google Meets | 09/04/2024
-                          | 18/04/2024  | Bruna          | 19/04/2024   | 19/04/2024  | Lucas       |
-|  5 | Ferramentas do projeto                         | Google Meets | 09/04/2024
-                          | 19/04/2024  | Pedro          | 19/04/2024   | 19/04/2024  | Mariana     |
-|  6 | Cenários                                       | Google Meets | 09/04/2024
-                          | 18/04/2024  | Lucas          | 19/04/2024   | 19/04/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro      |
-|  7 | Gravar apresentação                            | Google Meets | 09/04/2024
-                          | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro          | 19/04/2024   | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
-|  8 | Implementar git page                           | Google Meets | 09/04/2024
-                          | 19/04/2024  | Daniela        | 19/04/2024   | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+|  1 | Perfil do usuário                              | Google Meets | 09/04/2024 | 19/04/2024  | Genilson       | 19/04/2024   | 19/04/2024  | Bruna       |
+|  2 | Aspectos éticos de pesquisa envolvendo pessoas | Google Meets | 09/04/2024 | 19/04/2024  | Mariana        | 19/04/2024   | 19/04/2024  | Daniela     |
+|  3 | Personas                                       | Google Meets | 09/04/2024 | 17/04/2024  | Daniela        | 19/04/2024   | 19/04/2024  | Genilson    |
+|  4 | Análise de tarefas do usuário                  | Google Meets | 09/04/2024 | 18/04/2024  | Bruna          | 19/04/2024   | 19/04/2024  | Lucas       |
+|  5 | Ferramentas do projeto                         | Google Meets | 09/04/2024 | 19/04/2024  | Pedro          | 19/04/2024   | 19/04/2024  | Mariana     |
+|  6 | Cenários                                       | Google Meets | 09/04/2024 | 18/04/2024  | Lucas          | 19/04/2024   | 19/04/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro      |
+|  7 | Gravar apresentação                            | Google Meets | 09/04/2024 | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro          | 19/04/2024   | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+|  8 | Implementar git page                           | Google Meets | 09/04/2024 | 19/04/2024  | Daniela        | 19/04/2024   | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
 
 <p>Tabela 2: Cronograma do Ponto de controle 2 (Fonte:Lucas Avelar,2024)</p>
 
@@ -53,18 +45,13 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 |    | Atividade                                    | Local        | Inicio período de desenvolvimento das atividades   | Fim do período de desenvolvimento das atividades          | Responsáveis    | Inicio período de Revisão   | Fim do período de revisão          | Revisores   |
 |---:|:---------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:----------------|:---------------------|:--------------------|:------------|
-|  1 | Princípios Gerais do Projeto                 | Google Meets | 09/04/2024
-                          | 25/04/2024  | Pedro           | 25/04/2024   | 25/04/2024  | Bruna       |
-|  2 | Metas de usabilidade                         | Google Meets | 09/04/2024
-                          | 25/04/2024  | Bruna e Mariana | 25/04/2024   | 25/04/2024  | Daniela     |
-|  3 | Guia de estilo                               | Google Meets | 09/04/2024
-                          | 24/04/2024  | Genilson        | 25/04/2024   | 25/04/2024  | Lucas       |
-|  4 | Características da plataforma para o projeto | Google Meets | 09/04/2024
-                          | 26/04/2024  | Lucas e Daniela | 25/04/2024   | 25/04/2024  | Mariana     |
+|  1 | Princípios Gerais do Projeto                 | Google Meets | 09/04/2024| 25/04/2024  | Pedro           | 25/04/2024   | 25/04/2024  | Bruna       |
+|  2 | Metas de usabilidade                         | Google Meets | 09/04/2024| 25/04/2024  | Bruna e Mariana | 25/04/2024   | 25/04/2024  | Daniela     |
+|  3 | Guia de estilo                               | Google Meets | 09/04/2024| 24/04/2024  | Genilson        | 25/04/2024   | 25/04/2024  | Lucas       |
+|  4 | Características da plataforma para o projeto | Google Meets | 09/04/2024| 26/04/2024  | Lucas e Daniela | 25/04/2024   | 25/04/2024  | Mariana     |
 |  5 | Gravar apresentação                          | Google Meets | 09/04/2024
-                          | 25/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro           | 25/04/2024   | 25/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
-|  6 | Implementar git page                         | Google Meets | 09/04/2024
-                          | 25/04/2024  | Daniela         | 25/04/2024   | 25/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+| 25/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro           | 25/04/2024   | 25/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+|  6 | Implementar git page                         | Google Meets | 09/04/2024| 25/04/2024  | Daniela         | 25/04/2024   | 25/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
 
 <p>Tabela 3: Cronograma do Ponto de controle 3 (Fonte:Lucas Avelar,2024)</p>
 
