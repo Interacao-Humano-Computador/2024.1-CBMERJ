@@ -61,4 +61,5 @@ Fonte: autores.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 23/04/2024 | Criação da página de Apresentação 2                         | [Mariana Letícia](https://github.com/Marianannn) |         | 
+| `1.0`   | 23/04/2024 | Criação da página de Apresentação 2                         | [Mariana Letícia](https://github.com/Marianannn) |     [Bruna Lima](https://github.com/libruna)     | 
+| `1.1`   | 06/05/2024 | Revisão de artefatos                        | [Bruna Lima](https://github.com/libruna) |     [Mariana Letícia](https://github.com/Marianannn)    | 
