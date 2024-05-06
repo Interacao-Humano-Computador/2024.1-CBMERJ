@@ -88,9 +88,9 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 | 1. Visualizar dados dos locais e suas autorizações 1 + 2.  | **plano:** Exibir informações detalhadas sobre cada local, incluindo: nome, endereço, capacidade de lotação, validade da autorização, classificação da finalidade da edificação e responsáveis pela edificação. |
 | 2. Confirmar a disponibilidade da lista atualizada. | **ação:** Disponibilizar lista para visualização e download. <br>**recomendação:** Garantir que a lista seja regularmente atualizada para refletir as mais recentes autorizações concedidas.  |
 | 3. Facilitar o acesso à informação. | **ação:** Disponibilizar uma interface de fácil navegação e busca rápida. <br>**recomendação:** Certificar-se de que a plataforma seja acessível em diferentes dispositivos e navegadores. |
-<p align="center">Tabela 2: Análise hierárquica da aba "Locais certificados" (Fonte: Daniela Alarcão, 2024). </p>
+<p align="center">Tabela 2 - Análise hierárquica da aba "Locais certificados" (Fonte: Daniela Alarcão, 2024). </p>
 
-**Árvores de Tarefas Concorrentes:** A figura 3 apresenta a análise dessa tarefa representada em diagrama com o uso da técnica de Árvores de Tarefas Concorrentes. 
+**Árvores de Tarefas Concorrentes:** A figura 3 apresenta a análise dessa tarefa, representada em diagrama, com o uso da técnica de Árvores de Tarefas Concorrentes. 
 ![](img/ÁrvoreDani.png)
 <p align="center">Figura 3 - Diagrama da Árvores de Tarefas Concorrentes de "Locais certificados" (Fonte: Daniela Alarcão, 2024). </p>
 
@@ -176,4 +176,4 @@ Logo baixo, há a figura 6 a qual demonstra a tabela 3 acima de modo visual:
 | `1.1`   | 20/04/2024 | Adição da introdução, metodologia e da tarefa 1                         | [Bruna Lima](https://github.com/libruna) |     [Genilson Silva](https://github.com/GenilsonJrs)     |
 | `1.2`   | 21/04/2024 | Adição da tarefa 2                       | [Genilson Silva](https://github.com/GenilsonJrs) |     [Mariana Letícia](https://github.com/Marianannn)     |
 | `1.3`   | 23/04/2024 | Adição da tarefa 4                       | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)         |
-
+| `1.4`   | 06/05/2024 | Adição da tarefa "Locais certificados"                    | [Daniela Alarcão](https://github.com/danialarcao) | [Bruna Lima](https://github.com/libruna)         |
