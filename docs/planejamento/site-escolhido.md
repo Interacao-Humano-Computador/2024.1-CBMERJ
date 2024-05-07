@@ -66,6 +66,6 @@
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 06/04/2024 | Criação da página de sites escolhidos                     | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
 | `2.0`   | 08/04/2024 | Adição de conteúdo sobre o site escolhido              | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
-| `2.1`   | 13/04/2024 | Acrescentando informações no Sobre o site CBMERJ       | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
+| `2.1`   | 13/04/2024 | Acrescentando informações no Sobre o site CBMERJ       | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Bruna Lima](https://github.com/libruna)         | 
 | `2.2`   | 14/04/2024 | Adicionando prints do site escolhido e outros problemas do site      | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
  

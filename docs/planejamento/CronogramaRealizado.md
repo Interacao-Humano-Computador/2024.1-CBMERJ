@@ -46,6 +46,6 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 06/04/2024 | Criação da página de Cronograma Realizado                        | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
-| `2.0`   | 08/04/2024 | Adição da tabela da etapa 1                     | [Lucas Avelas](https://github.com/LucasAvelar2711) | [Bruna Lima](https://github.com/libruna)         | 
-| `2.1`   | 01/04/2024 | Adição de conteúdo em Cronograma realizado, tabela da etapa 2                     | [Mariana Letícia](https://github.com/Marianannn)  | [Lucas Avelas](https://github.com/LucasAvelar2711)        | 
-| `2.2`   | 01/04/2024 | Adição da introdução da página                     | [Mariana Letícia](https://github.com/Marianannn)  | [Lucas Avelas](https://github.com/LucasAvelar2711)        | 
+| `2.0`   | 08/04/2024 | Adição da tabela da etapa 1                     | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Bruna Lima](https://github.com/libruna)         | 
+| `2.1`   | 01/04/2024 | Adição de conteúdo em Cronograma realizado, tabela da etapa 2                     | [Mariana Letícia](https://github.com/Marianannn)  | [Lucas Avelar](https://github.com/LucasAvelar2711)        | 
+| `2.2`   | 01/04/2024 | Adição da introdução da página                     | [Mariana Letícia](https://github.com/Marianannn)  | [Lucas Avelar](https://github.com/LucasAvelar2711)        | 
