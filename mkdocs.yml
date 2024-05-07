@@ -65,9 +65,14 @@ nav:
       - Processo de Design: planejamento/processo-de-design.md
       - Sites Avaliados: planejamento/sites-avaliados.md
       - Site Escolhido: planejamento/site-escolhido.md
-  - Análise de Requisitos:
-      - Perfil do Usuário: analise_requisitos/perfil_usuario.md
-      - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
-      - Personas: analise_requisitos/personas.md
-      - Cenários: analise_requisitos/cenarios.md
-      - Análise de tarefas: analise_requisitos/analise_tarefas.md
+  - Análise de Requisitos I:
+      - Perfil do Usuário: analise_requisitos_1/perfil_usuario.md
+      - Aspectos Éticos: analise_requisitos_1/aspectos_eticos.md
+      - Personas: analise_requisitos_1/personas.md
+      - Cenários: analise_requisitos_1/cenarios.md
+      - Análise de tarefas: analise_requisitos_1/analise_tarefas.md
+  - Análise de Requisitos II:
+      - Princípios Gerais de Projeto: analise_requisitos_2/principios_gerais.md
+      - Metas de usabilidade: analise_requisitos_2/metas_usabilidade.md
+      - Guia de Estilo: analise_requisitos_2/guia_estilo.md
+      - Características da plataforma para o projeto: analise_requisitos_2/caracteristica_plat_proj.md
