@@ -25,6 +25,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Alternar para modo claro
+  favicon: img/logo_corpo_de_bombeiros.jpg
+  logo: img/logo_corpo_de_bombeiros.jpg
 extra:
   extra_css:
   - style.css
