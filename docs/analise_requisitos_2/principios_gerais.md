@@ -49,5 +49,5 @@ Após revisão dos princípios e diretrizes gerais, realizamos uma análise do s
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 07/04/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   [Bruna Lima](https://github.com/libruna)  |
+| `1.0`   | 07/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   [Bruna Lima](https://github.com/libruna)  |
 | `1.1`   | 11/05/2024 | Adição da introdução e metodologia        | [Bruna Lima](https://github.com/libruna)         |      |
