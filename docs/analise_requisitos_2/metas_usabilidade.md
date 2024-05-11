@@ -6,7 +6,7 @@ As metas de usabilidade, portanto, dizem respeito a metodologia de criação de 
 
 ## Definição das Metas e Metodologia
 
-Será empregado como base para a definição das metas de usabilidade os fatores já elucidados nesse trabalho como o [perfil do usuário](../analise_requisitos_1/perfil_usuario.md), [processo de design](../planejamento/processo-de-design.md) e a análise de requisitos, ademais, as normas ISO 9126, e a metodologia de Nielsen, focando na engenharia de usabilidade de Nielsen. (1)
+Será empregado como base para a definição das metas de usabilidade os fatores já elucidados nesse trabalho como o [perfil do usuário](../analise_requisitos_1/perfil_usuario.md), [processo de design](../planejamento/processo-de-design.md) e a análise de requisitos, ademais, as normas ISO 9126 (2), e a metodologia de Nielsen, focando na engenharia de usabilidade de Nielsen. (1)
 
 Além disso, durante o projeto, a motivação para utilizar todas essas metodologias supracitadas e as análises será: encontrar problemas do site em questão; identificar a implementação das metas de usabilidade no sistema; e, por fim, analisar se as metas foram alcançadas ou não. Isso tudo é importante para compreender quais são os defeitos e possíveis soluções que poderemos aplicar como soluções IHC.
 
@@ -59,6 +59,7 @@ A utilidade é sobre o sistema dar ao usuário um grupo de funcionalidades que p
 
 ## Referências Bibliográficas
 > 1. Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 6.3, p. 117]
+> 2. ISO/IEC. ISO/IEC 9126-1:2001 Software engineering - Product quality - Part 1: Quality model. Geneva: International Organization for Standardization, 2001.
 
 ## Bibliografia
 > IRLABR. Apostila de IHC: Usabilidade e suas metas. Disponível em: <https://irlabr.wordpress.com/apostila-de-ihc/6-usabilidade-e-suas-metas/#:~:text=As%20metas%20de%20usabilidade%20tratam,para%20o%20desenvolvimento%20do%20projeto>. Acesso em: 11 de maio de 2024.
