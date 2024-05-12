@@ -36,7 +36,7 @@ A memorização é a capacidade de um usuário se lembrar de como utilizar aquel
 
 A satisfação se trata de como o usuário se sente durante a interação como  sistema. Suas emoções, sentimentos e pensamentos a respeito do sistema.
 
-**Avaliação do Site**: Em se tratando do acesso à informação o usuário se sense satisfeito. Em contrapartida, em relação as funcionalidades que o usuário usufrui, a safisfação do usuário tendo a ser mediana para alta, conforme as pesquisas sobre o [perfil do usuário](../analise_requisitos_1/perfil_usuario.md), não chegando a uma satisfação essencialmente alta.
+**Avaliação do Site**: Em se tratando do acesso à informação o usuário se sense satisfeito. Em contrapartida, em relação as funcionalidades que o usuário usufrui, a safisfação do usuário tende a ser mediana para alta, conforme as pesquisas sobre o [perfil do usuário](../analise_requisitos_1/perfil_usuario.md), não chegando a uma satisfação essencialmente alta.
 
 ### Aprendizagem
 
@@ -54,7 +54,7 @@ Capacidade do sistema conseguir salvar os dados antes de um erro ocorrer, e se r
 
 A utilidade é sobre o sistema dar ao usuário um grupo de funcionalidades que precisam ser esperadas pelo o usuário dada a proposta do sistema.
 
-**Avaliação do Site**: o sistema possui uma utilidade razoávelmente principalmente pela informações que contém nele, contudo, sobre as funcionalidades, sua utilidade é baixa porque ele poderia se apresentar funcionalidades mais robustas dada a proposta ser um site do corpo de bombeiros militar.
+**Avaliação do Site**: o sistema possui uma utilidade razoável principalmente pela informações que contém nele, contudo, sobre as funcionalidades, sua utilidade é baixa porque ele poderia se apresentar funcionalidades mais robustas dada a proposta ser um site do corpo de bombeiros militar.
 
 ## Conclusão
 
