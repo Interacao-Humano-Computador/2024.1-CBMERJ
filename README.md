@@ -27,6 +27,7 @@
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 04/04/2024 | Adição do link do gitpages                | [Daniela Alarcão](https://github.com/danialarcao) | [Mariana Letícia](https://github.com/Marianannn)         |
 | `2.0`   | 04/04/2024 | Adição de informação em "Sobre o Projeto" | [Mariana Letícia](https://github.com/Marianannn)| [Genilson Silva](https://github.com/GenilsonJrs)         |
+| `2.1`   | 13/04/2024 | Alterando a formatação da tabela de membros da equipe | [Mariana Letícia](https://github.com/Marianannn)| [Genilson Silva](https://github.com/GenilsonJrs)         |
 
 </center>
 
