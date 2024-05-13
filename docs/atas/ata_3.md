@@ -48,17 +48,17 @@
 
 - Necessidade de troca de funcionalidades na análise de tarefa:
 
-	Bruna - agendamento online
-	Daniela - a decidir
-	Genilson - calculadora de incêndio
-	Lucas - a decidir
-	Mariana - mapa de incêndio
-	Pedro - treinamento online (quiz) ideia (exemplo primeiro socorros)
-		- OPÇÕES EXEMPLO DE FUNCIONALIDADES PARA O GRUPO
-			- Fórum de discussão
-			- Chat bot
-			- notificação por geocalização
-			- portal do voluntariado
+	Bruna - agendamento online<br>
+	Daniela - a decidir<br>
+	Genilson - calculadora de incêndio<br>
+	Lucas - a decidir<br>
+	Mariana - mapa de incêndio<br>
+	Pedro - treinamento online (quiz) ideia (exemplo primeiro socorros)<br><br>
+    OPÇÕES EXEMPLO DE FUNCIONALIDADES PARA O GRUPO<br>
+    - Fórum de discussão<br>
+    - Chat bot <br>
+    - notificação por geocalização<br>
+    - portal do voluntariado<br>
 
 
 #### Definição do cronograma de atividades da etapa
