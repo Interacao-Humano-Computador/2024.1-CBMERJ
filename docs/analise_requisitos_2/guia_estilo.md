@@ -10,15 +10,22 @@
 ### Como manter o Guia de Estilo
 <p style="text-align: justify;">A manutenção contínua do guia de estilo é um processo dinâmico e colaborativo, essencial para manter a coerência visual e de interação em todo o sistema. Para isso, recomenda-se que, sempre que a equipe tomar decisões que afetem o projeto, seja através de modificações na interface ou na interação, o guia seja imediatamente atualizado para refletir essas mudanças. Além disso, recomenda-se que, sempre que possível, sejam incluídos exemplos visuais para ilustrar as diretrizes de design, ajudando a equipe a entender melhor como aplicá-las na prática. </p>
 
-## Elementos de Interface
+## Elementos de Interface e Interação
 
-### Logo
- <img alt="Logo" src="../img/LogoPreta.png" width="400px"><img alt="Logo" src="../img/LogoBranca.png" width="385px"><br>
- *Figura 1, 2 - Logos.* <br>
+Diante da importância do Guia de estilo e sua organização, está presente abaixo elementos de interface, interação e ação presentes no site que elaborado através do Figma:
 
-### Cores
-![Paleta de cores](img/PaletaDeCores.png)<br>
-*Figura 3 - Paleta de Cores.* <br>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/design/6OAfimHizydIUygovbMkTb/Guia-de-Estilo---CBMERJ?node-id=0-1&t=bI0tZG6gMxuSQ4xQ-0" allowfullscreen></iframe>
+
+Os elementos de um site consistem nos diversos componentes visuais e funcionais que compõem sua estrutura e funcionalidade. Isso inclui elementos de interface, como menus de navegação, botões, campos de formulário e barras laterais, bem como elementos de conteúdo, como texto, imagens e vídeos. Cada elemento desempenha um papel específico na experiência do usuário e na interação com o site, contribuindo para a facilidade de uso, acessibilidade e eficácia geral do design.
+
+## Vocabulário e padrões
+
+- Terminologia: As terminologias devem ser familiares aos usuários, evitando termos muito técnicos. Se algum termo técnico for usado, é importante o fornecimento de explicações simples de quaisquer forma para que até os usuários iniciantes possam entender e utilizar a aplicação de forma intuitiva como previsto.
+
+- Tipos de tela: As telas devem seguir padrões de cores e elementos simples de forma a facilitar a visualização e prosseguimento mesmo em tarefas distintas.
+
+- Sequências de diálogos: As sequências de diálogos devem ser padronizadas, conforme especificado nos elementos de interação, garantindo que sempre fiquem disponíveis botões de prosseguimento, geração e/ou retorno.
+
 
 
 ## Referências Bibliográficas
