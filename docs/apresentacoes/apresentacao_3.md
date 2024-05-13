@@ -1,14 +1,14 @@
 ## Introdução
 
-<p>Segue abaixo o link da apresentação e o vídeo no youtube, sendo representado pelo Vídeo 2:</p>
+<p>Segue abaixo o link da apresentação e o vídeo no youtube, sendo representado pelo Vídeo 1:</p>
 
 <center>
 
 [Link para o vídeo da apresentação 3]()
 
-<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/ydc852MorRA?si=ssoAZEJ4-qq5B-5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/ydc852MorRA?si=ssoAZEJ4-qq5B-5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-<p>Vídeo 2: apresentação 2</p>
+<p>Vídeo 1: apresentação 3</p>
 Fonte: autores.
 
 </center>
@@ -53,7 +53,7 @@ Fonte: autores.
 
 <center>
 
-<p>Tabela 1: critérios de entrega da etapa 2</p>
+<p>Tabela 1: critérios de entrega da etapa 3</p>
 
 </center>
 
@@ -73,5 +73,5 @@ Fonte: autores.
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 23/04/2024 | Criação da página de Apresentação 2                         | [Mariana Letícia](https://github.com/Marianannn) |     [Bruna Lima](https://github.com/libruna)     | 
-| `1.1`   | 06/05/2024 | Revisão de artefatos                        | [Bruna Lima](https://github.com/libruna) |     [Mariana Letícia](https://github.com/Marianannn)    | 
-| `1.2`   | 13/05/2024 | Criação da Pagina de apresentação 3                        **Sim**| [Lucas Avelar](https://github.com/LucasAvelar2711) |    [Mariana Letícia](https://github.com/Marianannn)     | 
+| `2.0`   | 13/05/2024 | Adição de conteúdo | [Lucas Avelar](https://github.com/LucasAvelar2711) |    [Mariana Letícia](https://github.com/Marianannn)     | 
+| `2.1`   | 13/05/2024 | Correção de enumeração de vídeos | [Mariana Letícia](https://github.com/Marianannn) | [Lucas Avelar](https://github.com/LucasAvelar2711)        | 

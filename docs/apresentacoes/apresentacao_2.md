@@ -1,6 +1,6 @@
 ## Introdução
 
-<p>Segue abaixo o link da apresentação e o vídeo no youtube, sendo representado pelo Vídeo 2:</p>
+<p>Segue abaixo o link da apresentação e o vídeo no youtube, sendo representado pelo Vídeo 1:</p>
 
 <center>
 
@@ -8,7 +8,7 @@
 
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/ydc852MorRA?si=ssoAZEJ4-qq5B-5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>Vídeo 2: apresentação 2</p>
+<p>Vídeo 1: apresentação 2</p>
 Fonte: autores.
 
 </center>
