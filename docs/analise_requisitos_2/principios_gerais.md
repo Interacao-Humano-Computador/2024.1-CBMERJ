@@ -28,13 +28,14 @@ Após revisão dos princípios e diretrizes gerais, realizamos uma análise do s
   
 ### 6. Antecipação das necessidades do usuário
 **Definição:** Busca prever as necessidades do usuário antes mesmo que ele as expresse, isso envolve fornecer informações e ferramentas relevantes em cada etapa do processo. As estratégias incluem oferecer informações adicionais úteis e lembrar das ações do usuário para facilitar sua execução. A definição cuidadosa de valores padrão também é destacada, considerando que os usuários frequentemente aceitam os padrões sem questionar.
+
 **Análise:** Há recursos que antecipam as necessidades do usuário, prevendo situações comuns. Por exemplo, na figura 6, são oferecidos recursos de ajuda durante o preenchimento de campos, facilitando a compreensão. Além disso, na figura 7, observamos o uso de valores padrão nos campos, o que também contribui para antecipar as ações do usuário.
 
 ![](img/antecipacao1.png)
-<p align="center">Figura 6 - Recurso de ajuda em formulário de Solicitação de Requimento Padrão (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
+<p align="center">Figura 6 - Recurso de ajuda em Solicitação de Requimento Padrão (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
 
 ![](img/antecipacao2.png)
-<p align="center">Figura 7 - Campo default em formulário de Solicitação de Requimento Padrão (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
+<p align="center">Figura 7 - Campo default em Solicitação de Requimento Padrão (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
 
 ### 7. Visibilidade e reconhecimento
 **Definição:** Busca tornar claro o que é possível realizar e o estado do sistema antes e após as ações do usuário. As estratégias incluem oferecer feedback adequado e oportuno, manter o usuário informado sobre seu progresso e facilitar a navegação, evitando sobrecarregá-lo com informações desnecessárias.
