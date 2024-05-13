@@ -11,13 +11,13 @@ Após revisão dos princípios e diretrizes gerais, realizamos uma análise do s
 
 **Análise:** Ao acessar ao site, conseguimos identificar que ele atende conforme a expectativa do usuário, uma vez que com a função principalmente informativa, apresenta suas inteções e ações possíveis de forma clara. Desta forma, a partir da figura 1 e 1.1 e 1.2, podemos observar que o menu apresenta um ícone com seta para baixo ao lado de menus suspensos com objetivo de orientar ao usuário para que possa escolher suas determinadas opções e apartir delas seguir o seus processos.
 
-![](img\Menus.png)
+![](img/Menus.png)
 <p align="center">Figura  1- Menus (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
 
-![](img\Menu1.png)
+![](img/Menu1.png)
 <p align="center">Figura 1.1 - Menu "Para o Cidadão" (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
 
-![](img\Menu2.png)
+![](img/Menu2.png)
 <p align="center">Figura 1.2 - Menu "Sobre o CBMERJ" (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
   
 ### 2. Simplicidade nas estruturas das tarefas
@@ -25,10 +25,10 @@ Após revisão dos princípios e diretrizes gerais, realizamos uma análise do s
 
 **Análise:** Podemos identificar que a estrutura das tarefas realizadas pelo CBMERJ é bem simples, como demonstrado no exemplo da figura 2.1 e 2.2 ao emitir um boleto de multa, podemos executar a maior parte das tarefas simplesmente escolhendo por meio dos menus supensos o que desejamos, sendo redirecionados para um página que já concluí o processo desejado dentro dela mesma ou para uma página que orienta e guia para um outro processo de forma clara. 
 
-![](img\MenuEmitirBoleto.png)
+![](img/MenuEmitirBoleto.png)
 <p align="center">Figura 2 - Menu - Emitir Boleto de Multa (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
 
-![](img\PaginaEmitirBoleto.png)
+![](img/PaginaEmitirBoleto.png)
 <p align="center">Figura  2.1 - Página - Gerar Boleto (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
   
 ### 3. Equilíbrio entre controle e liberdade do usuário
@@ -36,7 +36,7 @@ Após revisão dos princípios e diretrizes gerais, realizamos uma análise do s
 
 **Análise:** Por conta da estrutura informativa do site, não há muita abertura para o controle do usuário em determinadas tarefas, uma vez que a maior parte das interações serão feitas em pouquíssimos cliques. No entanto, conforme a figura 3 demonstra, por meio do menu suspenso de acessibilidade, o usuário tem opções de controlar alguns aspectos visuais do site que podem auxiliá-lo caso possua alguma dificuldade, podendo assim, ativar, desativar ou reiniciar, assim que deseja. 
 
-![](img\Opcoesdeacessibilidade.png)
+![](img/Opcoesdeacessibilidade.png)
 <p align="center">Figura  3 - Opções de acessibilidade (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
   
 ### 4. Consistência e padronização
@@ -44,13 +44,13 @@ Após revisão dos princípios e diretrizes gerais, realizamos uma análise do s
 
 **Análise:** Conforme pode ser observado na figura 4, figura 4.1 e figura 4.2, identificamos que o site apresente elementos aparentemente iguais parecem ter propósitos diferentes. Desta maneira, indo ao menu "Para o cidadão" aparecem dois itens com mesmo nome, "Requerimento padrão", sem explicação direito ao usuário, em abas distintas, que levam para páginas com mesmo nome, mas com itens e opções diferentes, o que pode confundir o usuário. 
 
-![](img\MenuParaCidadao.png)
+![](img/MenuParaCidadao.png)
 <p align="center">Figura 4 - Menu "Para Cidadão com Requerimento Padrões" (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
 
-![](img\RequerimentoPadrao1.png)
+![](img/RequerimentoPadrao1.png)
 <p align="center">Figura 4.1 - "Requerimento Padrão 1" (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
 
-![](img\RequerimentoPadrao2.png)
+![](img/RequerimentoPadrao2.png)
 <p align="center">Figura 4.2 - "Requerimento Padrão 2" (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
   
 ### 5. Promovendo a eficiência do usuário
