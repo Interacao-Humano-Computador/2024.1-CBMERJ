@@ -8,46 +8,16 @@
 
 ## Membros da equipe
 
-<div align="center">
-    <div style="display: flex; flex-direction: row; gap: 15px; flex-wrap: wrap; justify-content: center;">
-        <div>
-            <a href="https://github.com/libruna">
-                <img src="https://github.com/libruna.png" alt="Bruna Lima" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
-                <h5 style="text-align: center; margin-top: 5px;">Bruna Lima</h5>
-            </a>
-        </div>
-        <div>
-            <a href="https://github.com/danialarcao">
-                <img src="https://github.com/danialarcao.png" alt="Daniela Alarcão" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
-                <h5 style="text-align: center; margin-top: 5px;">Daniela Alarcão</h5>
-            </a>
-        </div>
-        <div>
-            <a href="https://github.com/GenilsonJrs">
-                <img src="https://github.com/GenilsonJrs.png" alt="Genilson Silva" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
-                <h5 style="text-align: center; margin-top: 5px;">Genilson Silva</h5>
-            </a>
-        </div>
-        <div>
-            <a href="https://github.com/LucasAvelar2711">
-                <img src="https://github.com/LucasAvelar2711.png" alt="Lucas Avelar" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
-                <h5 style="text-align: center; margin-top: 5px;">Lucas Avelar</h5>
-            </a>
-        </div>
-        <div>
-            <a href="https://github.com/Marianannn">
-                <img src="https://github.com/Marianannn.png" alt="Mariana Letícia" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
-                <h5 style="text-align: center; margin-top: 5px;">Mariana Letícia</h5>
-            </a>
-        </div>
-        <div>
-            <a href="https://github.com/PedroHhenriq">
-                <img src="https://github.com/PedroHhenriq.png" alt="Pedro Henrique" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
-                <h5 style="text-align: center; margin-top: 5px;">Pedro Henrique</h5>
-            </a>
-        </div>
-    </div>
-</div>
+<table>
+  <tr>
+    <td align="center"> <a href="https://github.com/libruna"><img src="https://github.com/libruna.png" alt="Bruna Lima" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px"> <br /><a href="https://github.com/libruna">Bruna Lima</a></td>
+    <td align="center"> <a href="https://github.com/danialarcao"><img src="https://github.com/danialarcao.png" alt="Daniela Alarcão" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px"> <br /><a href="https://github.com/danialarcao">Daniela Alarcão</a></td>
+    <td align="center"> <a href="https://github.com/GenilsonJrs"><img src="https://github.com/GenilsonJrs.png" alt="Genilson Júnior" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px"> <br /><a href="https://github.com/GenilsonJrs">Genilson Júnior</a></td>
+    <td align="center"> <a href="https://github.com/LucasAvelar2711"><img src="https://github.com/LucasAvelar2711.png" alt="Lucas Avelar" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px"> <br /><a href="https://github.com/LucasAvelar2711">Lucas Avelar</a></td>
+    <td align="center"> <a href="https://github.com/Marianannn"><img src="https://github.com/Marianannn.png" alt="Mariana Letícia" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px"> <br /><a href="https://github.com/Marianannn">Mariana Letícia</a></td>
+    <td align="center"> <a href="https://github.com/PedroHhenriq"><img src="https://github.com/PedroHhenriq.png" alt="Pedro Henrique" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px"> <br /><a href="https://github.com/PedroHhenriq">Pedro Henrique</a></td>
+  </tr>
+</table>
 
 <center>
 
