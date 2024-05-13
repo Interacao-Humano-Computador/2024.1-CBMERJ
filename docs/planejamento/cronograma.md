@@ -49,8 +49,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |  2 | Metas de usabilidade                         | Google Meets | 09/04/2024| 25/04/2024  | Bruna e Mariana | 25/04/2024   | 25/04/2024  | Daniela     |
 |  3 | Guia de estilo                               | Google Meets | 09/04/2024| 24/04/2024  | Genilson        | 25/04/2024   | 25/04/2024  | Lucas       |
 |  4 | Características da plataforma para o projeto | Google Meets | 09/04/2024| 26/04/2024  | Lucas e Daniela | 25/04/2024   | 25/04/2024  | Mariana     |
-|  5 | Gravar apresentação                          | Google Meets | 09/04/2024
-| 25/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro           | 25/04/2024   | 25/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+|  5 | Gravar apresentação                          | Google Meets | 09/04/2024| 25/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro           | 25/04/2024   | 25/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
 |  6 | Implementar git page                         | Google Meets | 09/04/2024| 25/04/2024  | Daniela         | 25/04/2024   | 25/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
 
 <p>Tabela 3: Cronograma do Ponto de controle 3 (Fonte:Lucas Avelar,2024)</p>
@@ -132,4 +131,5 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 06/04/2024 | Criação da página de Cronograma                         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)         | 
-| `2.0`   | 06/04/2024 | Criação da página de sites escolhidos                     | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
+| `2.0`   | 06/04/2024 | Adição dos Cronogramas                  | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 
+| `2.1`   | 13/05/2024 | Correção dos Cronogramas                | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)         | 

@@ -36,8 +36,8 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 |  4 | Análise de tarefas do usuário                  | Google Meets | 13/04/2024 | 21/04/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro          | 21/04/2024   | 21/04/2024  | Lucas       |
 |  5 | Ferramentas do projeto                         | Google Meets | 09/04/2024 | 19/04/2024  | Daniela          | 19/04/2024   | 19/04/2024  | Mariana     |
 |  6 | Cenários                                       | Google Meets | 16/04/2024 | 17/04/2024  | Mariana          | 17/04/2024   | 17/04/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro      |
-|  7 | Gravar apresentação                            | Google Meets | 19/04/2024 | 03/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro          | 03/04/2024   | 03/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
-|  8 | Implementar git page                           | Google Meets | 09/04/2024 | 03/04/2024  | Daniela        | 19/04/2024   | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+|  7 | Gravar apresentação                            | Google Meets | 19/04/2024 | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro          | 19/04/2024   | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+|  8 | Implementar git page                           | Google Meets | 09/04/2024 | 19/04/2024  | Daniela        | 19/04/2024   | 19/04/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
 
 <p>Tabela 2: Cronograma do Ponto de controle 2 (Fonte:Mariana Leticia,2024)</p>
 

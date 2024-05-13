@@ -20,13 +20,13 @@
 ![Paleta de cores](img/PaletaDeCores.png)<br>
 *Figura 3 - Paleta de Cores.* <br>
 
-## Bibliografia
-> 1. 
 
 ## Referências Bibliográficas
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 > 2. Guia de Estilos BI. (04/2016). Universidade de Brasília.
 
+## Bibliografia
+> 1. 
 
 ## Histórico de Versões
 
