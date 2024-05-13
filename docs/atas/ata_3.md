@@ -64,10 +64,10 @@
 #### Definição do cronograma de atividades da etapa
 
 - Sobre tópicos da etapa 3
-		- Metas de usabilidade: Mariana
-		- Princípios gerais de projeto: Bruna e Pedro
-		- Guia de estilo: Genivaldo e Daniela
-		- Característica da plataforma do projeto: Lucas
+    - Metas de usabilidade: Mariana
+    - Princípios gerais de projeto: Bruna e Pedro
+    - Guia de estilo: Genivaldo e Daniela
+    - Característica da plataforma do projeto: Lucas
 
 
 ## Gravação da Reunião
