@@ -5,7 +5,7 @@
 
 ## Descrição da Plataforma
 
- </p> A plataforma dos bombeiros do Rio de Janeiro oferece aos usuários várias funcionalidades, como acessar notícias relacionadas aos bombeiros, analisar regularizações de edificações, diversões públicas, licenças ambientais, carta de serviço, ver editais de concursos, entre outras. O site do CBMERJ, desenvolvido pelo governo, visa facilitar o acesso da população aos serviços, trabalhos e notícias oferecidos por eles. </p>
+ </p> A plataforma dos bombeiros do Rio de Janeiro oferece aos usuários várias funcionalidades, como acessar notícias relacionadas aos bombeiros, analisar regularizações de edificações, diversões públicas, licenças ambientais, cartas de serviço, ver editais de concursos, entre outras. O site do CBMERJ, desenvolvido pelo governo, visa facilitar o acesso da população aos serviços, trabalhos e notícias oferecidos por eles. </p>
 
 ## Estilização 
    
@@ -13,7 +13,7 @@
 2. Botões e ícones identificáveis: Os botões e ícones são projetados para serem facilmente identificáveis e acionáveis. Para alguns, basta encostar o mouse.
 3. Hierarquia de funcionalidades: As funcionalidades são organizadas de forma hierárquica, onde algumas estão contidas dentro de outras, seguindo uma lógica de agrupamento.
 
-## Caracteristicas da Plataforma
+## Características da Plataforma
    
 1. Para o cidadão.
     - Taxa de incêndio;
@@ -39,21 +39,21 @@
     - Reintegração de Ex-Militares;
     - Conhecer o Comandante;
  
-## Caracteristicas positivas da plataforma
+## Características positivas da plataforma
 
 1. Configurações de acessibilidade.
-    -Aumentar o texto;
-    -Diminuir o texto;
-    -Escala de cinza;
-    -Alto contraste;
-    -Contraste negativo;
-    -Fundo branco;
-    -Links sublinhados;
-    -Fonte legível;
+    - Aumentar o texto;
+    - Diminuir o texto;
+    - Escala de cinza;
+    - Alto contraste;
+    - Contraste negativo;
+    - Fundo branco;
+    - Links sublinhados;
+    - Fonte legível;
 2. Diversas informações uties para o cidadão relacionadas ao serviço dos bombeiros.
 3. O usuário pode fazer varias tarefas/ações diretamente do site sem ter que sair de casa a priori.
  
-## Caracteristicas negativas da plataforma 
+## Características negativas da plataforma 
 
 1. Site contem alguns menus poluídos;
 2. Algumas funcionalidades podem ser difíceis para alguns usuários acessarem;
@@ -62,7 +62,7 @@
 
 ## Requisitos Para Acesso 
  
-Ele pode ser acessado por qualquer dispositivo com acesso a internet e a um navegador de internet, porém o navegador mais recomendado é o Microsoft Edge. E parece que o site foi desenvolvido sem atenção para o mobile, pois tem algumas limitações 
+Ele pode ser acessado por qualquer dispositivo com acesso a internet e a um navegador de internet, porém o navegador mais recomendado é o Microsoft Edge. E parece que o site foi desenvolvido sem atenção para o mobile, pois tem algumas limitações. 
 
 ## Tecnologias Utilizadas 
  
@@ -71,9 +71,6 @@ Utilizando o atalho "Ctrl + U" na tela inicial do site do Corpo de Bombeiros, fo
 - HTML <br>
 - CSS <br>
 - JavaScript <br>
-
-            
-
 
 
 ## Bibliografia
@@ -87,4 +84,4 @@ Utilizando o atalho "Ctrl + U" na tela inicial do site do Corpo de Bombeiros, fo
 | `1.0`   | 07/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     [Lucas Avelar](https://github.com/LucasAvelar2711)    |
 | `1.1`   | 13/05/2024 | Atualização da pagina                         | [Lucas Avelar](https://github.com/LucasAvelar2711) |     [Mariana Letícia](https://github.com/Marianannn)    |
 | `1.2`   | 13/05/2024 | Revisão da pagina                           | [Mariana Letícia](https://github.com/Marianannn) |     [Lucas Avelar](https://github.com/LucasAvelar2711)    |
-| `2.0`   | 13/05/2024 | Correção pós correção                       | [Lucas Avelar](https://github.com/LucasAvelar2711) |     [Mariana Letícia](https://github.com/Marianannn)    |
+| `2.0`   | 13/05/2024 | Correção pós Revisão                       | [Lucas Avelar](https://github.com/LucasAvelar2711) |     [Mariana Letícia](https://github.com/Marianannn)    |
