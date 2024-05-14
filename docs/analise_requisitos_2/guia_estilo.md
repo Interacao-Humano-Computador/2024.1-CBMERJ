@@ -12,9 +12,9 @@
 
 ## Elementos de Interface e Interação
 
-Diante da importância do Guia de estilo e sua organização, está presente abaixo elementos de interface, interação e ação presentes no site que elaborado através do Figma:
+Diante da importância do Guia de estilo e sua organização, está presente abaixo elementos de interface, interação e ação presentes no site que foi elaborado através do Figma:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/design/6OAfimHizydIUygovbMkTb/Guia-de-Estilo---CBMERJ?node-id=0-1&t=bI0tZG6gMxuSQ4xQ-0" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2F6OAfimHizydIUygovbMkTb%2FGuia-de-Estilo---CBMERJ%3Fnode-id%3D0%253A1%26t%3DJV4KaEA6SomRKef4-1" allowfullscreen></iframe>
 
 Os elementos de um site consistem nos diversos componentes visuais e funcionais que compõem sua estrutura e funcionalidade. Isso inclui elementos de interface, como menus de navegação, botões, campos de formulário e barras laterais, bem como elementos de conteúdo, como texto, imagens e vídeos. Cada elemento desempenha um papel específico na experiência do usuário e na interação com o site, contribuindo para a facilidade de uso, acessibilidade e eficácia geral do design.
 
@@ -41,3 +41,4 @@ Os elementos de um site consistem nos diversos componentes visuais e funcionais 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0   | 07/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |         |
 | 2.0   | 12/05/2024 | Criação de tópicos e adição de conteúdo                        | [Daniela Alarcão](https://github.com/danialarcao) |         |
+| 3.0   | 13/05/2024 | Criação do Figma e tópicos                    | [Genilson Junior](https://github.com/GenilsonJrs) |         |
