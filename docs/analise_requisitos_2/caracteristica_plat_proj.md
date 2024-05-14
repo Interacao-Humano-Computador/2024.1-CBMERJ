@@ -1,6 +1,6 @@
 ## Introdução
 
-</p>    Quando se realiza uma análise de Interação Humano-Computador em um site que abrange um público-alvo de pessoas tecnófilas, deve-se priorizar alguns aspectos relevantes ao uso para tais sujeitos. O intuito deste artefato é explicitar as características da plataforma e os principais caminhos executados pelo usuário, além disso, deve-se analisar os aspectos do site que limitam e/ou afetam o usuário.</p>
+</p>    Quando se realiza uma análise de Interação Humano-Computador em um site que abrange um público-alvo de pessoas não tecnófilas, deve-se priorizar alguns aspectos relevantes ao uso para tais sujeitos. O intuito deste artefato é explicitar as características da plataforma e os principais caminhos executados pelo usuário, além disso, deve-se analisar os aspectos do site que limitam e/ou afetam o usuário.</p>
 
 
 ## Descrição da Plataforma
