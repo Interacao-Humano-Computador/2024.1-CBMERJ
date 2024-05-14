@@ -36,6 +36,6 @@
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0   | 07/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |         |
-| 2.0   | 12/05/2024 | Criação de tópicos e adição de conteúdo                        | [Daniela Alarcão](https://github.com/danialarcao) |         |
-| 3.0   | 13/05/2024 | Criação do Figma e tópicos                    | [Genilson Junior](https://github.com/GenilsonJrs) |         |
+| 1.0   | 07/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Lucas Avelar](https://github.com/LucasAvelar2711)        |
+| 2.0   | 12/05/2024 | Criação de tópicos e adição de conteúdo                        | [Daniela Alarcão](https://github.com/danialarcao) | [Lucas Avelar](https://github.com/LucasAvelar2711)        |
+| 3.0   | 13/05/2024 | Criação do Figma e tópicos                    | [Genilson Junior](https://github.com/GenilsonJrs) | [Lucas Avelar](https://github.com/LucasAvelar2711)        |
