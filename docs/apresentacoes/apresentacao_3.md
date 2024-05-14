@@ -4,9 +4,9 @@
 
 <center>
 
-[Link para o vídeo da apresentação 3]()
+[Link para o vídeo da apresentação 3](https://youtu.be/_qyG7jWY8R8?si=7wP_aJNz5i9K_DBN)
 
-<!-- <iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/ydc852MorRA?si=ssoAZEJ4-qq5B-5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/_qyG7jWY8R8?si=wuSWEetBLz7uOJl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>Vídeo 1: apresentação 3</p>
 Fonte: autores.
@@ -72,6 +72,6 @@ Fonte: autores.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 23/04/2024 | Criação da página de Apresentação 2                         | [Mariana Letícia](https://github.com/Marianannn) |     [Bruna Lima](https://github.com/libruna)     | 
+| `1.0`   | 23/04/2024 | Criação da página de Apresentação 3                         | [Mariana Letícia](https://github.com/Marianannn) |     [Bruna Lima](https://github.com/libruna)     | 
 | `2.0`   | 13/05/2024 | Adição de conteúdo | [Lucas Avelar](https://github.com/LucasAvelar2711) |    [Mariana Letícia](https://github.com/Marianannn)     | 
 | `2.1`   | 13/05/2024 | Correção de enumeração de vídeos | [Mariana Letícia](https://github.com/Marianannn) | [Lucas Avelar](https://github.com/LucasAvelar2711)        | 
