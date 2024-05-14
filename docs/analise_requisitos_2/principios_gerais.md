@@ -110,6 +110,6 @@ Por outro lado, na figura 10, observamos que embora haja opções de acessibilid
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 07/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   [Bruna Lima](https://github.com/libruna)  |
-| `1.1`   | 11/05/2024 | Adição da introdução e metodologia        | [Bruna Lima](https://github.com/libruna)         |   [Pedro Henrique](https://github.com/PedroHhenriq)  |
-| `1.2`   | 12/05/2024 | Adição dos princícios                     | [Bruna Lima](https://github.com/libruna)         |   [Pedro Henrique](https://github.com/PedroHhenriq)  |
-| `1.3`   | 13/05/2024 | Adição de outros princípios               | [Pedro Henrique](https://github.com/PedroHhenriq)  | [Bruna Lima](https://github.com/libruna)     |
+| `1.1`   | 11/05/2024 | Adição da introdução e metodologia        | [Bruna Lima](https://github.com/libruna)         |   [Genilson Silva](https://github.com/GenilsonJrs)  |
+| `1.2`   | 12/05/2024 | Adição dos princícios                     | [Bruna Lima](https://github.com/libruna)         |   [Genilson Silva](https://github.com/GenilsonJrs)  |
+| `1.3`   | 13/05/2024 | Adição de outros princípios               | [Pedro Henrique](https://github.com/PedroHhenriq)  | [Genilson Silva](https://github.com/GenilsonJrs)     |
