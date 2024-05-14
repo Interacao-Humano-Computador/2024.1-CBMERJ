@@ -72,6 +72,6 @@ O site apresenta suas principais falhas em relação à eficiência, aprendizage
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 07/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |         |
-| `2.0`   | 11/05/2024 | Adição da introdução, metodologia e metas de usabilidade           | [Mariana Letícia](https://github.com/Marianannn) |         |
-| `2.1`   | 12/05/2024 | Adição da conclusão das metas de usabilidade           | [Mariana Letícia](https://github.com/Marianannn) |         |
+| `1.0`   | 07/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Daniela Alarcão](https://github.com/danialarcao)        |
+| `2.0`   | 11/05/2024 | Adição da introdução, metodologia e metas de usabilidade           | [Mariana Letícia](https://github.com/Marianannn) | [Daniela Alarcão](https://github.com/danialarcao)        |
+| `2.1`   | 12/05/2024 | Adição da conclusão das metas de usabilidade           | [Mariana Letícia](https://github.com/Marianannn) | [Daniela Alarcão](https://github.com/danialarcao)        |
