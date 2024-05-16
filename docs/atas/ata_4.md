@@ -56,20 +56,20 @@
 
 #### Definição do cronograma de atividades da etapa
 
-Período para a finalização dos planejamentos: 16/05 a 18/05
-Período para refazer a análises de tarefas: 16/05 a 19/05
-Periodo para as entrevistas: dia 19/05 a 21/05
-Gravação: 22/05
+Período para a finalização dos planejamentos: 16/05 a 18/05<br>
+Período para refazer a análises de tarefas: 16/05 a 19/05<br>
+Periodo para as entrevistas: dia 19/05 a 21/05<br>
+Gravação: 22/05<br>
 
-Em relação a análise de tarefas
-- Planejamento da análise de tarefas 1 pessoa: Genilson
-- planejamento de relatos analise de tarefas 2 pessoas: Pedro, Lucas
-- Relato de resultados análise de tarefas 3 pessoas: Genilson, Pedro, Lucas
+Em relação a análise de tarefas:<br>
+- Planejamento da análise de tarefas 1 pessoa: Genilson<br>
+- planejamento de relatos analise de tarefas 2 pessoas: Pedro, Lucas<br>
+- Relato de resultados análise de tarefas 3 pessoas: Genilson, Pedro, Lucas<br>
 
-Em relação ao storyboard
-- Planejamento de storyboard 1 pessoa: Daniela
-- Planejamento de relatos storyboard 2 pessoas: Bruna e Mariana
-- Relato de resultatos storyboard 3 pessoas: Daniela, Bruna e Mariana
+Em relação ao storyboard:<br>
+- Planejamento de storyboard 1 pessoa: Daniela<br>
+- Planejamento de relatos storyboard 2 pessoas: Bruna e Mariana<br>
+- Relato de resultatos storyboard 3 pessoas: Daniela, Bruna e Mariana<br>
 
 ## Gravação da Reunião
 
