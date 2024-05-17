@@ -48,34 +48,34 @@ Operadores (Operators): Os operadores são as ações que o usuário executa par
 Métodos (Methods): Os métodos são sequências de operadores usadas para atingir um objetivo específico. 
 Regras de Seleção (Selection Rules): As regras de seleção determinam qual método será usado quando há mais de um disponível. Essas regras ajudam a definir o comportamento do usuário em diferentes contextos.
 
-
-
-
 ## Análise de Tarefas
 
-### 1. Solicitação de Requerimento Padrão
-A Solicitação de Requerimento Padrão refere-se ao processo de regularização legal de edificações junto ao Corpo de Bombeiros do Rio de Janeiro. Isso envolve o preenchimento e submissão de um requerimento padrão.
+### 1. Solicitação de Ficha de Atendimento
 
-Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes.
+<p style="text-align: justify;">A sugestão de incluir a funcionalidade de "Solicitação de Ficha de Atendimento" no site do Corpo de Bombeiros do Rio de Janeiro surgiu ao observar a utilidade desse serviço já oferecido no site do Corpo de Bombeiros do Distrito Federal. Essa funcionalidade proporcionará aos cidadãos e empresas a conveniência de solicitar e agendar online atendimentos para diversos serviços prestados pelo Corpo de Bombeiros, tais como: vistorias, credenciamento inicial ou renovação para empresas de formação de brigadistas, relatório de ocorrência, entre outros.</p>
 
 **Análise Hierárquica de Tarefas:** A figura 1 e a tabela 1 apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
 
 |    Objetivos/Operações    |    Problemas e recomendações    |
 | :-----------------------: | ------------------------------- | 
-| 0. Solicitar requerimento padrão 1>2    | **input:** Acessar o menu de cidadão na tela inicial.<br> **feedback:** Carregar formulário para início da solicitação. <br> **plano:** Gerar o requerimento padrão solicitado.<br> **recomendação:** Fazer tratamento de erros do formulário. | 
-| 1. Informar dados do requerente e da edificação 1+2  | **plano:** Informar dados do requerente; DAEM, registro do CBMERJ, classificação da edificação, tipos de solicitação e responsável técnico. |
-| 1.1 Informar nome, endereço, telefone, cpf e registro do requerente; DAEM e registro do CBMERJ. |
-| 1.2 Informar classificação da edificação, tipos de solicitação e responsável técnico 1/2 |
-| 2. Confirmar o recebimento das informações | **ação:** Disponibilizar para o contribuinte o requerimento para download.<br> **recomendação:** Retornar mensagens de erro claras quando alguma das informação não é preenchida corretamente. |
-<p align="center">Tabela 1: Análise hierárquica da tarefa "Solicitação de Requerimento Padrão" (Fonte: Bruna Lima, 2024). </p>
+| 0. Solicitar Ficha de Atendimento 1>2 | **input:** Formulário para ficha de atendimento com dados do requerente e da opção selecionada.<br>**ação:** Necessário se autenticar pelo GOV.BR.<br>**feedback:** A nova ficha ficará disponível para os responsáveis do Corpo de Bombeiros analisarem a solicitação.<br>**plano:** Criar ficha do atendimento solicitado. | 
+| 1. Selecionar tipo do requerimento 1/2 | **input:** Seleção do requerimento desejado entre os disponíveis. |
+| 2. Preencher Solicitação da Ficha de Atendimento 1>2 |  **plano:** Informar dados do requerente e do tipo de requerimento selecionado; upload da documentação relacionada; selecionar data e horário para atendimento; análise dos termos de ciência e compromisso. |
+| 2.1 Informar dados do requerente e do tipo de requerimento selecionado 1+2 | |
+| 2.2 Upload da documentação relacionada 1+2 | |
+| 2.3 Selecionar a data e horário para o atendimento 1+2 | |
+| 2.4 Análise dos termos de ciência e compromisso 1+2 | **ação:** Se os termos não forem aceitos pelo requerente, a submissão da ficha não será permitida. |
+| 3. Confirmar a criação da ficha de atendimento | **ação:** A ficha deve ser cadastrada automaticamente, e o status da solicitação deve estar disponível para acompanhamento.|
 
-![](img/hta-diagrama-tarefa-1.png)
-<p align="center">Figura 1 - Diagrama da Análise hierárquica da "Solicitação de Requerimento Padrão" (Fonte: Bruna Lima, 2024). </p>
+<p align="center">Tabela 1: HTA em tabela da "Solicitação de Requerimento Padrão" (Fonte: Bruna Lima, 2024). </p>
 
-**Árvores de Tarefas Concorrentes:** A figura 2 contém a análise representada em diagrama da tarefa de "Solicitação de Requerimento Padrão" com uso da técnica de Árvores de Tarefas Concorrentes.
+![](img/hta-diagrama1.png)
+<p align="center">Figura 1 - Diagrama HTA, para o objetivo de "Solicitação de Ficha de Atendimento" (Fonte: Bruna Lima, 2024). </p>
 
-![](img/ctt-diagrama-tarefa-1.png)
-<p align="center">Figura 2 - Diagrama da Árvores de Tarefas Concorrentes da "Solicitação de Requerimento Padrão" (Fonte: Bruna Lima, 2024). </p>
+**Árvores de Tarefas Concorrentes:** A figura 2 contém a análise representada em diagrama da tarefa de "Solicitação de Ficha de Atendimento" com uso da técnica de Árvores de Tarefas Concorrentes.
+
+![](img/ctt-diagrama1.png)
+<p align="center">Figura 2 - Diagrama da Árvores de Tarefas Concorrentes da "Solicitação de Ficha de Atendimento" (Fonte: Bruna Lima, 2024). </p>
 
 ### 2. Locais certificados
 <p style="text-align: justify;">A aba "Locais certificados" é uma funcionalidade que disponibiliza uma relação de locais de Diversões Públicas autorizados a funcionar. Para a análise dessa funcionalidade, foram aplicadas as técnicas de Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes. </p>

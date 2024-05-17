@@ -1,6 +1,6 @@
 <h1 align="center"> Ata 2 </h1>
 
-**Redator(a):**
+**Redator(a):** Mariana Letícia
 
 ## Data/Horário
 
