@@ -124,7 +124,7 @@ A figura 4 e 5 apresentadas a seguir nesta ordem, mostra a Análise Hierárquica
 <center>
 
 |    Objetivos/Operações    |    Problemas e recomendações    |
-| :----------------------- | ------------------------------- | 
+| :-----------------------: | ------------------------------- | 
 | 0. Enviar pedido de declaração de atendimento de ocorrência do Copo de Bombeiros Militar 1>2    | **input:** formulário de dados do responsavel legal, dependente, registro de ocorrência e protocolo de ocorrência<br> **feedback:** o usuário receberá a declaração de atendimento de ocorrência por email<br> **plano:** informar dados para obter a declaração de ocorrência, e por fim enviá-los<br> **recomendação**: o usuário pode preencher esses dados pelo computador.  | 
 | 1. Informar os dados da pessoa que solicitou a declaração 1/2  			  | **plano:** inserir dados ou da Identidade ou da CNH além de dados para o contato |
 | 1.1. Informar dados do Documento de identidade  		  |  |
@@ -239,3 +239,4 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 | `1.4`   | 06/05/2024 | Adição da tarefa "Locais certificados"                    | [Daniela Alarcão](https://github.com/danialarcao) | [Bruna Lima](https://github.com/libruna)         |
 | `1.5`   | 06/05/2024 | Adição da tarefa 5 "Catálogo Telefônico"                    | [Pedro Henrique](https://github.com/PedroHhenriq) | [Genilson Silva](https://github.com/GenilsonJrs)        |
 | `1.6`   | 06/05/2024 | Adição da tarefa 6 "sistema UPO"                    | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Genilson Silva](https://github.com/GenilsonJrs)        |
+| `2.0`   | 17/05/2024 | Alteração da análise de tarefa 04                       | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)         |
