@@ -115,25 +115,42 @@ A figura 4 e 5 apresentadas a seguir nesta ordem, mostra a Análise Hierárquica
 </p>
 <p align="center">Figura 5 - Árvores de Tarefas Concorrentes (Fonte: Genilson Junior, 2024)  </p>
 
-### 4. Acesso a informações sobre concurso
+### 4. Obter declaração de atendimento de ocorrência do Corpo de Bombeiros
 
-<p>Em relação ao Acesso a informações sobre o concurso, essa é uma funcionalidade do  site com o objetivo de fornecer os editais, status de homologação, informações sobre fases do concurso, situações dos concursandos e a lista de concursos prestados e em curso. Segue abaixo a análise dessa tarefa.</p>
+<p>Em relação a declaração de atendimento de ocorrência do Corpo de Bombeiros, essa é uma funcionalidade do  site com o objetivo de gerar uma declaração constatando que houve um atendimento de alguma ocorrência. Segue abaixo a análise dessa tarefa.</p>
 
 **Análise Hierárquica de Tarefas:** A figura 6 e tabela 3 apresentam os dados analisados a partir dessa análise:
 
 <center>
 
 |    Objetivos/Operações    |    Problemas e recomendações    |
-| :-----------------------: | ------------------------------- | 
-| 0. Acessar dados sobre um concurso em especifico 1>2    | **input:** Acessar o menu "SOBRE O CBMERJ" na tela inicial.<br> **feedback:** Carregar a página últimos concursos <br> **plano:** Pesquisar uma informação de um concurso em específico<br> **recomendação:** pesquisar por palavras na página para encontrar o concurso em específico | 
-| 1. Conferir o concurso desejado 1>2  | **plano:** Ler um por um cada concurso disponibilizado na tela até encontrar o desejado |
-| 1.2 Selecionar o concurso desejado 1/2  |  |
-| 2. Identificar a informação almejada 1>2 | **plano:** Ler uma por uma cada informação disponibilizada na tela até encontrar a desejado <br>**ação:** depois de encontrado, selecionar a informação desejada |
-| 2.2. Selecionar a informação desejada 1/2  |  |
+| :----------------------- | ------------------------------- | 
+| 0. Enviar pedido de declaração de atendimento de ocorrência do Copo de Bombeiros Militar 1>2    | **input:** formulário de dados do responsavel legal, dependente, registro de ocorrência e protocolo de ocorrência<br> **feedback:** o usuário receberá a declaração de atendimento de ocorrência por email<br> **plano:** informar dados para obter a declaração de ocorrência, e por fim enviá-los<br> **recomendação**: o usuário pode preencher esses dados pelo computador.  | 
+| 1. Informar os dados da pessoa que solicitou a declaração 1/2  			  | **plano:** inserir dados ou da Identidade ou da CNH além de dados para o contato |
+| 1.1. Informar dados do Documento de identidade  		  |  |
+| 1.2. Informar dados da CNH(Carteira Nacional de identidade) 		  |  |
+| 2. Informar se o atendimento foi feito em um menor de idade 1/2 		  | **plano:** Informar se o atendimento foi efetuado em um menor de idade e seus documentos em caso positivo |
+| 2.1. O atendimento não foi feito em um menor de idade. Não será registrado nenhum menor de idade na declaração | |
+| 2.2. O atendimento foi feito em um menor de idade | |
+| 2.2.1. Informar se o menor de idade é dependente legal da pessoa que solicitou a declaração 1/2 | **plano:** enviar ou um protocolo ou uma image da certidão de nascimento |
+| 2.2.1.1. Envio de protocolo caso quem solicitar a declaração não seja responsável legal do dependente | |
+| 2.2.1.2 Envio da certidão de nacimento do dependente do responsável legal | |
+| 3. Informar se o atendimento foi feito pelo CBMERJ 1/2 | **plano:** informar se o atendimento foi ou não feito pelo CBMERJ. Se sim, informar número do registro do atendimento, se não, informar um protocolo qual autoriza uma pessoa a se responsabilizar pelo menor de idade |
+| 3.1. Atendimento foi feito pelo CBMERJ. Envio de número de resgistro de atendimento | |
+| 3.2. Envio de protocolo caso o atendimento não tenha sido pelo CBMERJ | |
+| 4. Informar tipo de atendimento 1/2 | **plano:** escolher o tipo de atendimento que foi realizado na ocorrência|
+| 4.1. Informar se foi combate a incêndio | |
+| 4.2. Informar se foi atendimento a vítima de acidente de trânsito | |
+| 4.3. Informar se foi atendimento a vítima de acidente de trabalho | |
+| 4.4. Informar se foi outro tipo de atendimento | |
+| 5. Informar descrição do atendimento 1+2 | **plano:** detalhar o atendimento realizado |
+| 5.1. Adicionar textos sobre o atendimento | |
+| 5.2. Adicionar imagens sobre o atendimento | |
+| 6. Envio de pedido de declaração | **plano:** Enviar as informações. <br> **ação:** a declaração pode ser enviada pelo email/telefone do usuário até 10 dias <br> **recomendação:** o sistema precisa ser eficiente. |
 
 </center>
 
-<p align="center">Tabela 3: Análise hierárquica da tarefa "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
+<p align="center">Tabela 3: Análise hierárquica da tarefa "Obter declaração de atendimento de ocorrência do Corpo de Bombeiros" (Fonte: Mariana Letícia, 2024). </p>
 
 <br>
 
@@ -143,11 +160,11 @@ Logo baixo, há a figura 6 a qual demonstra a tabela 3 acima de modo visual:
 
 <center>
 
-![](img/diagrama_hierarquia_3.jpg)
+![](img/analise_tarefa_4_v2.drawio.png)
 
 </center>
 
-<p align="center">Figura 6 - Análise hierárquica da tarefa da "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
+<p align="center">Figura 6 - Análise hierárquica da tarefa da "Obter declaração de atendimento de ocorrência do Corpo de Bombeiroso" (Fonte: Mariana Letícia, 2024). </p>
 
 <br>
 
@@ -157,11 +174,11 @@ Logo baixo, há a figura 6 a qual demonstra a tabela 3 acima de modo visual:
 
 <center>
 
-![Diagrama de tarefas concorrentes 4](img/diagrama_ctt4.jpg)
+![Diagrama de tarefas concorrentes 4](img/analise_tarefas_4_diagrama_ctt_v2.drawio.png)
 
 </center>
 
-<p align="center">Figura 7 - Diagrama da Árvores de Tarefas Concorrentes da "Acesso a informações sobre concurso" (Fonte: Mariana Letícia, 2024). </p>
+<p align="center">Figura 7 - Diagrama da Árvores de Tarefas Concorrentes da "Obter declaração de atendimento de ocorrência do Corpo de Bombeiros" (Fonte: Mariana Letícia, 2024). </p>
 
 <br>
 
