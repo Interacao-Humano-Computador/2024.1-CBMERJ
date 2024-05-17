@@ -240,3 +240,4 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 | `1.5`   | 06/05/2024 | Adição da tarefa 5 "Catálogo Telefônico"                    | [Pedro Henrique](https://github.com/PedroHhenriq) | [Genilson Silva](https://github.com/GenilsonJrs)        |
 | `1.6`   | 06/05/2024 | Adição da tarefa 6 "sistema UPO"                    | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Genilson Silva](https://github.com/GenilsonJrs)        |
 | `2.0`   | 17/05/2024 | Alteração da análise de tarefa 04                       | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)         |
+| `2.1`   | 17/05/2024 | Atualização da análise de tarefa 01                  | [Bruna Lima](https://github.com/libruna) |   |
