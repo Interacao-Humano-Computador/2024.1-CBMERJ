@@ -18,13 +18,14 @@ O planejamento é uma maneira de organizar passos que serão dados no futuros. S
 ## Metodologia 
 
 A metodologia seguirá o que Barbosa e Silva (1) propuseram. Os principais elementos a serem evidenciados serão:
-1. Objetivos e Escopos;
-2. Métodos;
-3. Seleção de participantes;
-4. Descrição de erros;
-5. Feedback do usuário (dados coletados);
-6. Interpretação de dados;
-7. Melhorias e Correções para Reprojeto. 
+
+1. Objetivos e Escopos;<br>
+2. Métodos;<br>
+3. Seleção de participantes;<br>
+4. Descrição de erros;<br>
+5. Feedback do usuário (dados coletados);<br>
+6. Interpretação de dados;<br>
+7. Melhorias e Correções para Reprojeto. <br>
 
 ## Tópicos
 
@@ -38,7 +39,7 @@ Nesse tópico, será necessário que o avaliador descreva qual é o objetivo a s
 
 O método escolhido para a avaliação de StoryBoards foi o de Observação (2). Esse método consiste no avaliador captar impressões que os entrevistados passam ao utilizar um sistema. Este, em questão não necessita de ser utilizado com alguma tecnologia necessariamente.<br><br>
 
-No contexto dessa etapa do projeto da disciplina, os responsáveis pelos relatos dos resultados serão encarregados de fazer também as entrevistas. Para cada uma das entrevistas, será selecionada 1 das funcionalidades analisadas na [análise de tarefas](../docs/analise_requisitos_1/analise_tarefas.md).
+No contexto dessa etapa do projeto da disciplina, os responsáveis pelos relatos dos resultados serão encarregados de fazer também as entrevistas. Para cada uma das entrevistas, será selecionada 1 das funcionalidades analisadas na [análise de tarefas](./docs/analise_requisitos_1/analise_tarefas.md).
 
 #### Cronograma de entrevistas
 
@@ -83,7 +84,7 @@ Será necessário também, no relato de resultados, que haja um cronograma Execu
 
 ### Seleção de participantes
 
-A seleção de participantes terá como base o [perfil do usuário](../docs/analise_requisitos_1/perfil_usuario.md) e as [personas](../docs/analise_requisitos_1/personas.md). Serão utilizados 1 participante para cada uma das funcionalidades, ou seja, no total serão 6 participantes. O entrevistado, também, precisa aceitar o termo de concentimento.
+A seleção de participantes terá como base o [perfil do usuário](./docs/analise_requisitos_1/perfil_usuario.md) e as [personas](./docs/analise_requisitos_1/personas.md). Serão utilizados 1 participante para cada uma das funcionalidades, ou seja, no total serão 6 participantes. O entrevistado, também, precisa aceitar o termo de concentimento.
 
 ### Descrição de erros
 
