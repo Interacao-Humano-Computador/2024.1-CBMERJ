@@ -46,23 +46,31 @@ A definir
 ### D - Decidir questões éticas
 <p style="text-align: justify;">Em consonância com os princípios éticos e de integridade, foi elaborado um termo de consentimento que deverá ser assinado por cada entrevistado antes do início da avaliação dos storyboards. Este documento detalha os procedimentos envolvidos na entrevista e a forma como os dados serão utilizados. A assinatura deste termo será voluntária e demonstrará o consentimento informado do participante para realizar a entrevista. Tal medida visa assegurar que todos os envolvidos estejam plenamente cientes e confortáveis com sua participação. </p>
 
-<!-- inserir termo de consentimento -->
+<img alt="Logo" src="../../story_board/img/TermoDeConsentimentoEntrevista.png" width="80%">
+<p>Figura 1 - Termo de Consentimento (Fonte: Daniela Alarcão, 2024). </p>
 
 ### E - Examinar dados
 
+<p style="text-align: justify;">Durante a realização das entrevistas, a equipe observará atentamente todas as considerações feitas pelos entrevistados. Essas considerações incluirão comentários sobre aspectos intuitivos ou confusos, preferências pessoais e sugestões de melhorias. O feedback dos entrevistados fornecerá uma perspectiva valiosa sobre a percepção dos storyboards e ajudará a identificar oportunidades para melhorias. </p>
+
+<p style="text-align: justify;">Ao final de cada entrevista, a equipe discutirá todos os pontos abordados e documentará o máximo possível das informações coletadas. Isso garantirá que nenhum detalhe importante seja perdido e permitirá uma análise mais abrangente. </p>
+
+<p style="text-align: justify;">Com todas as informações coletadas e documentadas, a equipe realizará uma análise detalhada para identificar os pontos fortes de cada storyboard, bem como as áreas que necessitam de melhorias. Essa análise será fundamental para orientar as modificações necessárias, garantindo que os storyboards se alinhem melhor com as expectativas e necessidades dos usuários. </p>
+
+<p style="text-align: justify;">A partir dessa análise, a equipe poderá implementar as devidas modificações, aprimorando os storyboards e, por conseguinte, o produto final. Este processo iterativo de feedback e refinamento é essencial para o desenvolvimento de qualquer etapa do projeto. </p>
+
 ### Teste piloto 
-
-<!-- precisarão ser gravadas TODAS AS ENTREVISTAS -->
-
-<!-- precisa de um termo de concentimento para as entrevistas -->
+<p style="text-align: justify;"> Um teste piloto será realizado por membros da equipe do projeto a fim de verificar e aperfeiçoar o planejamento e a execução da entrevista antes de sua efetiva realização. </p>
 
 <!-- fica ao critério do pessoal encarregado ver se cria uma página apenas para o termo de consentimento ou não(dentro das pastas de nivel_1> análise de tarefas) -->
 
 ## Referências Bibliográficas
 > 1. FORTUNATO, Caíque. “Framework DECIDE e Avaliação.”. 9 Mar. 2020. medium.com/caiquefortunato/framework-decide-e-avaliação. Acesso em 20 de Maio de 2024.
+
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     |
-| `2.0`   | 20/05/2024 | Iniciando desenvolvimento de conteúdo da página                         | [Daniela Alarcão](https://github.com/danialarcao) |     |
+| `2.0`   | 19/05/2024 | Iniciando desenvolvimento de conteúdo da página                         | [Daniela Alarcão](https://github.com/danialarcao) |     |
+| `3.0`   | 20/05/2024 | Inserção do Termo de Consentimento                         | [Daniela Alarcão](https://github.com/danialarcao) |     |
