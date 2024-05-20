@@ -37,9 +37,11 @@ Nesse tópico, será necessário que o avaliador descreva qual é o objetivo a s
 
 ### Métodos 
 
-O método escolhido para a avaliação de StoryBoards foi o de Observação (2). Esse método consiste no avaliador captar impressões que os entrevistados passam ao utilizar um sistema. Este, em questão não necessita de ser utilizado com alguma tecnologia necessariamente.<br><br>
+O método escolhido para a avaliação de StoryBoards foi o de Insvestigação por entrevistas (2). Esse método consiste no avaliador fazer perguntas para o avaliado acerca de um tema a fim de captar resultados.<br>
+Além disso, o avaliador precisa do acesso, saber fazer interpretações, obter opiniões, entender comportamento e expectativas acerca dos usuários sobre o sistema interativo (4), que no caso desse projeto serão os [storyboards](storyboards.md) executados pelos membros do grupo. 
+<br><br>
 
-No contexto dessa etapa do projeto da disciplina, os responsáveis pelos relatos dos resultados serão encarregados de fazer também as entrevistas. Para cada uma das entrevistas, será selecionada 1 das funcionalidades analisadas na [análise de tarefas](./docs/analise_requisitos_1/analise_tarefas.md).
+No contexto dessa etapa do projeto da disciplina, os responsáveis pelos relatos dos resultados serão encarregados de fazer também as entrevistas. Para cada uma das entrevistas, será selecionada uma das funcionalidades analisadas na [análise de tarefas](/docs/analise_requisitos_1/analise_tarefas.md).
 
 #### Cronograma de entrevistas
 
@@ -91,9 +93,10 @@ A seleção de participantes terá como base o [perfil do usuário](./docs/anali
 Durante a descrição de erros e problemas encontrados, o avaliador necessitará de informar: onde ocorreu este erro; uma descrição e uma explicação para o problema ter ocorrido; levantar quais quesitos de usabilidade foram afetados nesse problema; e sugestões de possíveis soluções. (3)
 
 ## Referências Bibliográficas
-> 1. Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 6.3, p. 117]
-> 2. Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 12.2, p. 301]
+> 1. Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 11.7.5, p. 279]
+> 2. Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 11.6, p. 272]
 > 3. Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 12.2, p. 303]
+> 4. QUEIROZ, João. Métodos de Avaliação de IHC. IFRN. Disponível em: https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-9. Acesso em: 20 maio 2024.
 
 ## Bibliografia
 > IRLABR. Apostila de IHC: Usabilidade e suas metas. Disponível em: <https://irlabr.wordpress.com/apostila-de-ihc/6-usabilidade-e-suas-metas/#:~:text=As%20metas%20de%20usabilidade%20tratam,para%20o%20desenvolvimento%20do%20projeto>. Acesso em: 11 de maio de 2024.
@@ -105,3 +108,4 @@ Durante a descrição de erros e problemas encontrados, o avaliador necessitará
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     |
 | `2.0`   | 17/05/2024 | Adição da introdução dos relatos de resultados                         | [Mariana Letícia](https://github.com/Marianannn) |     |
 | `3.0`   | 17/05/2024 | Adição dos tópicos: objetivo e escopo; métodos; seleção de participantes; e descrição de erros                         | [Mariana Letícia](https://github.com/Marianannn) |     |
+| `3.1`   | 17/05/2024 | Alteraçõ do método de avaliação de IHC                         | [Mariana Letícia](https://github.com/Marianannn) |     |
