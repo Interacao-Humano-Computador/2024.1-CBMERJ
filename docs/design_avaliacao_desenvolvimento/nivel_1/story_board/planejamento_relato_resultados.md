@@ -41,7 +41,7 @@ O método escolhido para a avaliação de StoryBoards foi o de Insvestigação p
 Além disso, o avaliador precisa do acesso, saber fazer interpretações, obter opiniões, entender comportamento e expectativas acerca dos usuários sobre o sistema interativo (4), que no caso desse projeto serão os [storyboards](storyboards.md) executados pelos membros do grupo. 
 <br><br>
 
-No contexto dessa etapa do projeto da disciplina, os responsáveis pelos relatos dos resultados serão encarregados de fazer também as entrevistas. Para cada uma das entrevistas, será selecionada uma das funcionalidades analisadas na [análise de tarefas](/docs/analise_requisitos_1/analise_tarefas.md).
+No contexto dessa etapa do projeto da disciplina, os responsáveis pelos relatos dos resultados serão encarregados de fazer também as entrevistas. Para cada uma das entrevistas, será selecionada uma das funcionalidades analisadas na <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/analise_tarefas/">análise de tarefas</a>.
 
 #### Cronograma de entrevistas
 
@@ -86,7 +86,7 @@ Será necessário também, no relato de resultados, que haja um cronograma Execu
 
 ### Seleção de participantes
 
-A seleção de participantes terá como base o [perfil do usuário](./docs/analise_requisitos_1/perfil_usuario.md) e as [personas](./docs/analise_requisitos_1/personas.md). Serão utilizados 1 participante para cada uma das funcionalidades, ou seja, no total serão 6 participantes. O entrevistado, também, precisa aceitar o termo de concentimento.
+A seleção de participantes terá como base o <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/">perfil do usuário</a> e as <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/personas/">personas</a>. Serão utilizados 1 participante para cada uma das funcionalidades, ou seja, no total serão 6 participantes. O entrevistado, também, precisa aceitar o termo de concentimento.
 
 ### Descrição de erros
 
@@ -108,4 +108,4 @@ Durante a descrição de erros e problemas encontrados, o avaliador necessitará
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     |
 | `2.0`   | 17/05/2024 | Adição da introdução dos relatos de resultados                         | [Mariana Letícia](https://github.com/Marianannn) |     |
 | `3.0`   | 17/05/2024 | Adição dos tópicos: objetivo e escopo; métodos; seleção de participantes; e descrição de erros                         | [Mariana Letícia](https://github.com/Marianannn) |     |
-| `3.1`   | 17/05/2024 | Alteraçõ do método de avaliação de IHC                         | [Mariana Letícia](https://github.com/Marianannn) |     |
+| `3.1`   | 20/05/2024 | Alteraçõ do método de avaliação de IHC                         | [Mariana Letícia](https://github.com/Marianannn) |     |
