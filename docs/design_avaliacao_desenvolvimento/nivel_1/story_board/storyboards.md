@@ -16,10 +16,10 @@ O storyboard da funcionalidade de obter declaração de registro de ocorrência 
 
 ![](img/storyboard2_1.png)
 ![](img/storyboard2_2.png)
-<p align="center">Figura 1 - Storyboard da funcionalidade de "Solicitação de Ficha de Atendimento" (Fonte: Mariana Letícia, 2024). </p>
+<p align="center">Figura 2 - Storyboard da funcionalidade de "Solicitação de Ficha de Atendimento" (Fonte: Mariana Letícia, 2024). </p>
 
 ### 3. Agendamento de atendimento presencial
-O storyboard da funcionalidade de agendamento de atendimento presencial foi feito à mão e depois melhorado com o auxílio da ferramenta do [Storyboard That](https://www.storyboardthat.com/pt/).
+O storyboard da funcionalidade de agendamento de atendimento presencial foi feito à mão e depois melhorado com o auxílio da ferramenta [Canva](https://www.canva.com/).
 
 ![](img/StoryboardTDaniela.jpg)
 <p align="center">Figura 3 - Storyboard da funcionalidade de "Agendamento de Atendimento Presencial" (Fonte: Daniela Alarcão, 2024). </p>
@@ -44,7 +44,7 @@ O storyboard da funcionalidade "Curso do Corpo de Bombeiros 2 - Primeiros Socorr
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
-| `1.2`   | 19/05/2024 | Adição do storyboard da funcionalidade de ficha de atendimento                       | [Bruna Lima](https://github.com/libruna) |   |
+| `1.2`   | 19/05/2024 | Adição do storyboard da funcionalidade de ficha de atendimento                       | [Bruna Lima](https://github.com/libruna) | [Daniela Alarcão](https://github.com/danialarcao)  |
 | `1.3`   | 20/05/2024 | Adição do storyboard da funcionalidade de Obter declaração de registro de ocorrência                        | [Mariana Letícia](https://github.com/Marianannn) |   |
 | `1.4`   | 22/05/2024 | Adição do storyboard da funcionalidade de agendamento de atendimento presencial                        | [Daniela Alarcão](https://github.com/danialarcao) |   |
 | `1.5`   | 22/05/2024 | Adição do storyboard Curso do Corpo de Bombeiros - Primeiro Socorros | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
