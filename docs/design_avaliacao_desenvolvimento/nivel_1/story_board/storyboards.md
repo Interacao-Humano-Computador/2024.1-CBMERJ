@@ -25,10 +25,16 @@ O storyboard da funcionalidade de agendamento de atendimento presencial foi feit
 <p align="center">Figura 3 - Storyboard da funcionalidade de "Agendamento de Atendimento Presencial" (Fonte: Daniela Alarcão, 2024). </p>
 
 ### 4. Curso do Corpo de Bombeiros - Primeiro Socorros
-O storyboard da funcionalidade "Curso do Corpo de Bombeiro - Primeiro Socorros" foi realizado à mão em um papel conforme pode ser identificado abaixo:
+O storyboard da funcionalidade "Curso do Corpo de Bombeiros - Primeiros Socorros" foi realizado à mão em um papel conforme pode ser identificado abaixo:
 
 ![](img/StoryboardCursoCB.png)
 <p align="center">Figura 4 - Storyboard da funcionalidade de "Curso do Corpo de Bombeiros - Primeiro Socorros" (Fonte: Pedro Henrique, 2024). </p>
+
+### 5. Curso do Corpo de Bombeiros 2 - Primeiro Socorros
+O storyboard da funcionalidade "Curso do Corpo de Bombeiros 2 - Primeiros Socorros" foi realizado à mão em um papel conforme pode ser identificado abaixo:
+
+![](img/StoryboardLucas.jpg)
+<p align="center">Figura 5 - Storyboard da funcionalidade de "Curso do Corpo de Bombeiros - Primeiros Socorros" (Fonte: Lucas Avelar, 2024). </p>
 
 ## Bibliografia
 
