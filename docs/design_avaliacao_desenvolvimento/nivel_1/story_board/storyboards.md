@@ -24,6 +24,12 @@ O storyboard da funcionalidade de agendamento de atendimento presencial foi feit
 ![](img/StoryboardTDaniela.jpg)
 <p align="center">Figura 3 - Storyboard da funcionalidade de "Agendamento de Atendimento Presencial" (Fonte: Daniela Alarcão, 2024). </p>
 
+### 4. Curso do Corpo de Bombeiros - Primeiro Socorros
+O storyboard da funcionalidade "Curso do Corpo de Bombeiro - Primeiro Socorros" foi realizado à mão em um papel conforme pode ser identificado abaixo:
+
+![](img/StoryboardCursoCB.png)
+<p align="center">Figura 4 - Storyboard da funcionalidade de "Curso do Corpo de Bombeiros - Primeiro Socorros" (Fonte: Pedro Henrique, 2024). </p>
+
 ## Bibliografia
 
 
@@ -35,3 +41,4 @@ O storyboard da funcionalidade de agendamento de atendimento presencial foi feit
 | `1.2`   | 19/05/2024 | Adição do storyboard da funcionalidade de ficha de atendimento                       | [Bruna Lima](https://github.com/libruna) |   |
 | `1.3`   | 20/05/2024 | Adição do storyboard da funcionalidade de Obter declaração de registro de ocorrência                        | [Mariana Letícia](https://github.com/Marianannn) |   |
 | `1.4`   | 22/05/2024 | Adição do storyboard da funcionalidade de agendamento de atendimento presencial                        | [Daniela Alarcão](https://github.com/danialarcao) |   |
+| `1.5`   | 22/05/2024 | Adição do storyboard Curso do Corpo de Bombeiros - Primeiro Socorros | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
