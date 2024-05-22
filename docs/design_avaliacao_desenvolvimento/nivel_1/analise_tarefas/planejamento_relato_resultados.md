@@ -18,9 +18,9 @@ Utilizando como base alguns pontos cruciais evidenciados por Barbosa e Silva  em
 8. Reprojeto.
 
 ## Objetivo e Escopo 
-O objetivo desta análise é identificar e resolver problemas de usabilidade no site dos bombeiros, com foco em melhorar a experiência do usuário ao acessar cursos de primeiros socorros e medidas de segurança domiciliar. O escopo abrange todas as interações relacionadas a estas funcionalidades, incluindo navegação, acesso a cursos, e obtenção de certificados.
+O objetivo desta análise é identificar possiveis problemas ou insigths que podem resolver problemas de usabilidade e melhorar as funcionalidades, com foco em melhorar a experiência do usuário ao acessar tais funcionalidades como cursos de primeiros socorros. O escopo abrange todas as interações relacionadas a estas funcionalidades, incluindo navegação, acesso, e obtenção da informação.
 
-Essas adições ajudarão a completar seu relatório de análise de tarefas, proporcionando uma visão abrangente dos problemas identificados, sugestões de melhorias, e o plano de reprojeto necessário para aprimorar a usabilidade do sistema.
+Essas adições ajudarão a completar o relatório de análise de tarefas,  melhorando a compreensão do usuário, proporcionando uma visão abrangente dos problemas identificados, sugestões de melhorias, e o plano de reprojeto necessário para aprimorar a usabilidade do sistema.
 
 ## Métodos 
 Identificamos que o método para a avaliação da analise de tarefas seguirá por meio de observação e investigação por entrevista. Desta forma, conduziremos uma apresentação por meio de uma entrevista, onde os avaliadores explanariam cada uma das analises de tarefas realizadas e estabeleciariam uma série de perguntas para elucidar questionamentos com a finalidade de capturar dados que posterioremente serão analisados. 
@@ -43,44 +43,39 @@ Após obtermos os dados colhidos dos participantes, será necessário interpret�
 Desta maneira, nessa etapa do relato, deverá conter as interpretações que analisaremos a partir do dados coletados. 
 
 ## Lista de problemas encontrados
-Durante a análise das tarefas, podem ser identificados diversos problemas que impactam negativamente a usabilidade do sistema. A seguir, listamos os problemas comuns encontrados:
+Durante a análise das tarefas, podem ser identificados diversos problemas que impactam negativamente a usabilidade do sistema. A seguir, listamos alguns possíveis problemas comuns encontrados:
 
 1. **Dificuldade de compreensão:**
-   - **Descrição:** Usuários podem ter dificuldades em compreender a tarefa e possivelmente dificultar navegação pelo site, especialmente ao tentar acessar seções específicas.
+   - **Descrição:** Usuários podem ter dificuldades em compreender a tarefa ou precisar de mais informações sobre a funcionalidade,  possivelmente dificultando a navegação pelo site, especialmente abrangendo situações específicas dos entrevistados e usuários.
    - **Impacto:** Alta frustração e abandono da tarefa.
-   - **Justificativa:** A navegação e explicação pouco intuitiva e a falta de feedback claro sobre a localização atual no site.
-   - **Referência:** Conforme mencionado por Nielsen (1994a), problemas de usabilidade frequentemente resultam de uma interface que não comunica claramente as opções disponíveis e o estado atual do sistema .
+   - **Justificativa:** A ineficiencia da funcionalidade pode causar problemas na mesma impactando e possivelmente na navegação intuitiva.
+   - **Referência:** Conforme mencionado por Nielsen (1994a), problemas de funcionalidades e usabilidade frequentemente resultam de uma funcioanlidade e ambiente que não comunicam claramente as opções disponíveis e o estado atual do sistema.
 
-2. **Inconsistência na Interface:**
-   - **Descrição:** Elementos da interface apresentam inconsistências em termos de design e funcionalidade.
-   - **Impacto:** Confusão e erros na realização das tarefas.
-   - **Justificativa:** A falta de padronização na interface pode desorientar o usuário, levando a uma experiência de uso fragmentada.
-   - **Referência:** A importância da consistência é destacada por Barbosa et al. (2021), que afirmam que interfaces consistentes melhoram a previsibilidade e a confiança do usuário .
 
 ## Sugestões e Melhorias
 Com base nos possiveis problemas identificados, apresentamos as seguintes sugestões e melhorias para aprimorar a usabilidade do sistema:
 
-1. **Melhorias na Navegação:**
-   - **Sugestão:** Redesenhar a estrutura de navegação e forma como completar a tarefa para ser mais intuitiva, incluindo breadcrumbs e menus claros e bem organizados.
-   - **Justificativa:** Facilitar a navegação ajudará os usuários a encontrar informações mais rapidamente e a completar tarefas com menos frustração.
+1. **Melhorias na Navegação e HTA claro:**
+   - **Sugestão:** Redesenhar a estrutura de navegação, HTA e forma como completar a tarefa para ser mais intuitiva, incluindo possíveis breadcrumbs alem de maior organização dos mesmos.
+   - **Justificativa:** Melhorar a navegaçãoe ter um HTA claro ajudará os usuários a encontrarem informações mais rapidamente e contribuírem com informações importantes completando tais tarefas com menos frustração.
 
-2. **Padronização da Interface:**
-   - **Sugestão:** Se necessário melhorar o guia de estilo que aborde elementos de design e comportamento de interface.
-   - **Justificativa:** Um design consistente permitirá que os usuários se familiarizem mais rapidamente com o sistema, reduzindo erros e aumentando a eficiência
+2. **Padronização:**
+   - **Sugestão:** Se necessário melhorar o guia de estilo que aborde elementos de design e comportamento do usuario dentro da plataforma.
+   - **Justificativa:** Um design consistente e processos organizados permitem que os usuários se familiarize mais rapido com o sistema, reduzindo erros e aumentando a eficiência
 
 ## Reprojeto
 Com base nas sugestões e melhorias, o reprojeto da interface incluirá as seguintes etapas:
 
 1. **Redefinição da Estrutura de Navegação:**
-   - **Ação:** Desenvolver um novo layout de navegação que seja mais intuitivo e acessível.
-   - **Implementação:** Utilizar técnicas de card sorting para determinar a melhor organização das seções do site.
+   - **Ação:** Caso algum desse problemas sejam identificados com os entrevistados, uma opção é desenvolver um novo layout de navegação, e HTA
+   - **Implementação:** Utilizar card sorting para determinar a melhor organização das seções do site em uma possivel pesquisa.
 
-2. **Criação de um Guia de Estilo:**
-   - **Ação:** Estabelecer padrões visuais e comportamentais para todos os elementos da interface.
+2. **Possível edição no Guia de Estilo:**
+   - **Ação:** Buscar padrões visuais e comportamentais para todos os elementos da interface.
    - **Implementação:** Documentar esses padrões e garantir que todos os novos desenvolvimentos e revisões de interface estejam alinhados com o guia.
 
 ## Referências bibliográficas
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021) 
 
 
 ## Histórico de Versões
