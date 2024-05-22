@@ -64,7 +64,7 @@ Com base nos possiveis problemas identificados, apresentamos as seguintes sugest
    - **Justificativa:** Um design consistente e processos organizados permitem que os usuários se familiarize mais rapido com o sistema, reduzindo erros e aumentando a eficiência
 
 ## Reprojeto
-Com base nas sugestões e melhorias, o reprojeto da interface incluirá as seguintes etapas:
+Com base nas sugestões e melhorias, o reprojeto incluirá as seguintes etapas:
 
 1. **Redefinição da Estrutura de Navegação:**
    - **Ação:** Caso algum desse problemas sejam identificados com os entrevistados, uma opção é desenvolver um novo layout de navegação, e HTA
@@ -82,6 +82,6 @@ Com base nas sugestões e melhorias, o reprojeto da interface incluirá as segui
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     |
-| `2.0`   | 22/05/2024 | Adição dos tópicos introdução, metodologia, métodos, seleção de participantes, coleta e interpretação de dados | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Lucas Avelar](https://github.com/LucasAvelar2711)  |
-| `2.1`   | 22/05/2024 | Adicionando os tópicos que faltam no documento  | [Lucas Avelar](https://github.com/LucasAvelar2711) |     |
+| `1.0`   | 16/05/2024 | Criação da página                        | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna) |
+| `2.0`   | 22/05/2024 | Adição dos tópicos introdução, metodologia, métodos, seleção de participantes, coleta e interpretação de dados | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Bruna Lima](https://github.com/libruna) |
+| `2.1`   | 22/05/2024 | Adicionando os tópicos que faltam no documento  | [Lucas Avelar](https://github.com/LucasAvelar2711) |  [Bruna Lima](https://github.com/libruna)  |
