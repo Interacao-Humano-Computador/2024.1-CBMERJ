@@ -165,5 +165,5 @@ A execução do teste-piloto será feito no dia 29/05/2024 às 12:00 e contará 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)    |
-| `2.0`   | 22/05/2024 | Adição do planejamento da avaliação                         | [Genilson Junior](https://github.com/GenilsonJrs) |     |
+| `2.0`   | 22/05/2024 | Adição do planejamento da avaliação                         | [Genilson Junior](https://github.com/GenilsonJrs) |  [Daniela Alarcão](https://github.com/danialarcao)   |
 
