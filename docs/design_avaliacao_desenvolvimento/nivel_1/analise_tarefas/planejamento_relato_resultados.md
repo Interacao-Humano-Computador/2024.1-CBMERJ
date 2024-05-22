@@ -83,5 +83,5 @@ Com base nas sugestões e melhorias, o reprojeto incluirá as seguintes etapas:
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 16/05/2024 | Criação da página                        | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna) |
-| `2.0`   | 22/05/2024 | Adição dos tópicos introdução, metodologia, métodos, seleção de participantes, coleta e interpretação de dados | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Bruna Lima](https://github.com/libruna) |
+| `2.0`   | 22/05/2024 | Adição dos tópicos introdução, metodologia, métodos, seleção de participantes, coleta e interpretação de dados | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Mariana Letícia](https://github.com/Marianannn) |
 | `2.1`   | 22/05/2024 | Adicionando os tópicos que faltam no documento  | [Lucas Avelar](https://github.com/LucasAvelar2711) |  [Bruna Lima](https://github.com/libruna)  |
