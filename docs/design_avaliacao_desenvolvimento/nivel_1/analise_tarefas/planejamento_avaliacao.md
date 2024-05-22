@@ -2,6 +2,8 @@
 
 ## Metodologia 
 
+<!-- Usar comentários de guia (Apagar no final) -->
+
 <!-- precisa seguir o framework DECIDE( apague o comentário depois) -->
 
 <!-- precisarão ser gravadas TODAS AS ENTREVISTAS -->
