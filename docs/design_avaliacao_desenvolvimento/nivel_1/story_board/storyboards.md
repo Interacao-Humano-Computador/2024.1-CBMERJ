@@ -19,7 +19,7 @@ O storyboard da funcionalidade de obter declaração de registro de ocorrência 
 <p align="center">Figura 1 - Storyboard da funcionalidade de "Solicitação de Ficha de Atendimento" (Fonte: Mariana Letícia, 2024). </p>
 
 ### 3. Agendamento de atendimento presencial
-O storyboard da funcionalidade de agendamento de atendimento presencial foi feito à mão e depois melhorado com o auxílio da ferramenta do [Storyboard That](https://www.storyboardthat.com/pt/).
+O storyboard da funcionalidade de agendamento de atendimento presencial foi feito à mão e depois melhorado com o auxílio da ferramenta [Canva](https://www.canva.com/).
 
 ![](img/StoryboardTDaniela.jpg)
 <p align="center">Figura 3 - Storyboard da funcionalidade de "Agendamento de Atendimento Presencial" (Fonte: Daniela Alarcão, 2024). </p>
