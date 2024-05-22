@@ -56,6 +56,20 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 
 <p>Tabela 3: Cronograma do Ponto de controle 3 (Fonte:Lucas Avelar,2024)</p>
 
+
+## Cronograma Ponto de Controle 4
+
+|    | Atividade | Local | Inicio período de desenvolvimento das atividades | Fim do período de desenvolvimento das atividades | Responsáveis | Inicio período de Revisão | Fim do período de revisão | Revisores |
+|---:|:---------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:----------------|:---------------------|:--------------------|:------------|
+|  1 | Planejamento da avaliação da análise de tarefas |  | 16/05/2024| 22/05/2024 | Genilson | 22/05/2024 | 22/05/2024 | Daniela |
+|  2 | Planejamento do relato de resultados da análise de tarefa |  | 16/05/2024| 22/05/2024  | Lucas e Pedro | 22/05/2024   | 22/05/2024  | Bruna e Mariana |
+|  3 | Planejamento da avaliação do storyboard |  | 16/05/2024 | 22/05/2024  | Daniela | 22/05/2024 | 22/05/2024  | Genilson |
+|  4 | Planejamento do relato de resultados do storyboard |  | 16/05/2024| 22/05/2024  | Bruna e Mariana | 22/05/2024 | 22/05/2024 | Lucas e Pedro |
+|  5 | Gravar apresentação | Microsoft Teams | 22/05/2024 | 22/05/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 22/05/2024 | 22/05/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro |
+|  6 | Implementar git page |  | 16/05/2024| 22/05/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 22/05/2024 | 22/05/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro |
+
+<p>Tabela 4: Cronograma do Ponto de controle 4 (Fonte: Bruna Lima, 2024)</p>
+
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
@@ -65,3 +79,4 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 | `2.1`   | 01/04/2024 | Adição de conteúdo em Cronograma realizado, tabela da etapa 2                     | [Mariana Letícia](https://github.com/Marianannn)  | [Lucas Avelar](https://github.com/LucasAvelar2711)        | 
 | `2.2`   | 01/04/2024 | Adição da introdução da página                     | [Mariana Letícia](https://github.com/Marianannn)  | [Lucas Avelar](https://github.com/LucasAvelar2711)        | 
 | `2.3`   | 13/05/2024 | Adição Ponto de controle 3                    | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Mariana Letícia](https://github.com/Marianannn)        | 
+| `3.0`   | 22/05/2024 | Adição Ponto de controle 4                   | [Bruna Lima](https://github.com/libruna)  |        | 
