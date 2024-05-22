@@ -34,11 +34,11 @@ Nesse tópico, será necessário que o avaliador descreva qual é o objetivo a s
 ### Métodos 
 O método escolhido para a avaliação de StoryBoards foi o de Insvestigação por entrevistas (2). Esse método consiste no avaliador fazer perguntas para o avaliado acerca de um tema a fim de captar resultados.<br>
 Além disso, o avaliador precisa do acesso, saber fazer interpretações, obter opiniões, entender comportamento e expectativas acerca dos usuários sobre o sistema interativo (4), que no caso desse projeto serão os [storyboards](storyboards.md) executados pelos membros do grupo. 
-<br><br>
+<br>
 
 O método escolhido para a avaliação de StoryBoards foi o de Insvestigação por entrevistas (2). Esse método consiste no avaliador fazer perguntas para o avaliado acerca de um tema a fim de captar resultados.<br>
 Além disso, o avaliador precisa do acesso, saber fazer interpretações, obter opiniões, entender comportamento e expectativas acerca dos usuários sobre o sistema interativo (4), que no caso desse projeto serão os [storyboards](storyboards.md) executados pelos membros do grupo. 
-<br><br>
+<br>
 
 No contexto dessa etapa do projeto da disciplina, os responsáveis pelos relatos dos resultados serão encarregados de fazer também as entrevistas. Para cada uma das entrevistas, será selecionada uma das funcionalidades analisadas na <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/analise_tarefas/">análise de tarefas</a>.
 
