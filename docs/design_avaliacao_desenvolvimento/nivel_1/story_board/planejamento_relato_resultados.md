@@ -51,25 +51,6 @@ A seguir, temos os tópicos a serem abordados durante a entrevista:
 3. Apresentação do storyboard;
 4. Avaliação explorando as perguntas definidas no [planejamento](../story_board/planejamento_avaliacao.md).
 
-#### Cronograma de entrevistas
-Na figura 1 abaixo apresentamos o cronograma detalhado das entrevistas que serão realizadas para validar os storyboards.
-
-<center>
-  
-|    Entrevistador(es)   | Entrevistado(s)   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
-| :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
-| [Mariana Letícia](https://github.com/Marianannn) | João Vitor Merlim | 12:00 | 12:30| 28/05/2024 | Solicitar declaração de registro de ocorrência e  | FGA |
-| [Mariana Letícia](https://github.com/Marianannn) | Bernardo Machado | 12:00 | 12:30 | 24/05/2024 |  | FGA |
-| [Daniela Alarcão](https://github.com/danialarcao) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
-| [Daniela Alarcão](https://github.com/danialarcao) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
-| [Bruna Lima](https://github.com/libruna) | Liander Medeiros | 14:30 | 15:00 |  31/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
-| [Bruna Lima](https://github.com/libruna) | Marina Márcia | 15:10 | 15:50 |  31/05/2024  |  Checar e Gerar Certificado de Vistoria | FGA |
-
-<p style="text-align: center">Tabela 1: Cronograma planejado de entrevistas</p>
-<p style="text-align: center">Fonte: Mariana Letícia</p>
-
-</center>
-
 ### Seleção de participantes
 A seleção de participantes terá como base o <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/">perfil do usuário</a> e as <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/personas/">personas</a>. Para cada funcionalidade apresentada no storyboard, será selecionado um participante, totalizando assim seis participantes.
 

@@ -54,6 +54,25 @@
 - Termo de consentimento impresso;
 - Aparelho celular para a gravação das entrevistas. 
 
+#### Cronograma de entrevistas
+Na figura 1 abaixo apresentamos o cronograma detalhado das entrevistas que serão realizadas para validar os storyboards.
+
+<center>
+  
+|    Entrevistador(es)   | Entrevistado(s)   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
+| :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
+| [Mariana Letícia](https://github.com/Marianannn) | João Vitor Merlim | 12:00 | 12:30| 28/05/2024 | Solicitar declaração de registro de ocorrência e  | FGA |
+| [Daniela Alarcão](https://github.com/danialarcao) | Bernardo Machado | 12:00 | 12:30 | 24/05/2024 | Agendamento de atendimento presencial | FGA |
+| [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
+| [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
+| [Bruna Lima](https://github.com/libruna) | Liander Medeiros | 14:30 | 15:00 |  31/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
+| [Genilson](https://github.com/GenilsonJrs) | Marina Márcia | 15:10 | 15:50 |  31/05/2024  |  Checar e Gerar Certificado de Vistoria | FGA |
+
+<p style="text-align: center">Tabela 1: Cronograma planejado de entrevistas</p>
+<p style="text-align: center">Fonte: Mariana Letícia</p>
+
+</center>
+
 ### D - Decidir questões éticas
 <p style="text-align: justify;">Em consonância com os princípios éticos e de integridade, foi elaborado um termo de consentimento que deverá ser assinado por cada entrevistado antes do início da avaliação dos storyboards. Este documento detalha os procedimentos envolvidos na entrevista e a forma como os dados serão utilizados. A assinatura deste termo será voluntária e demonstrará o consentimento informado do participante para realizar a entrevista. Tal medida visa assegurar que todos os envolvidos estejam plenamente cientes e confortáveis com sua participação. </p>
 
@@ -80,7 +99,7 @@
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     |
-| `2.0`   | 19/05/2024 | Iniciando desenvolvimento de conteúdo da página                         | [Daniela Alarcão](https://github.com/danialarcao) |     |
-| `3.0`   | 20/05/2024 | Inserção do Termo de Consentimento                         | [Daniela Alarcão](https://github.com/danialarcao) |     |
-| `4.0`   | 22/05/2024 | Complementação do framework DECIDE                         | [Daniela Alarcão](https://github.com/danialarcao) |     |
+| `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   [Genilson Silva](https://github.com/GenilsonJrs)  |
+| `2.0`   | 19/05/2024 | Iniciando desenvolvimento de conteúdo da página                         | [Daniela Alarcão](https://github.com/danialarcao) |  [Genilson Silva](https://github.com/GenilsonJrs)    |
+| `3.0`   | 20/05/2024 | Inserção do Termo de Consentimento                         | [Daniela Alarcão](https://github.com/danialarcao) |  [Genilson Silva](https://github.com/GenilsonJrs)    |
+| `4.0`   | 22/05/2024 | Complementação do framework DECIDE                         | [Daniela Alarcão](https://github.com/danialarcao) | [Genilson Silva](https://github.com/GenilsonJrs)     |
