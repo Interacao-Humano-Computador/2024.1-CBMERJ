@@ -19,10 +19,10 @@ A metodologia seguirá o que Barbosa e Silva (1) propuseram. Os principais eleme
 
 1. Objetivos e Escopos;<br>
 2. Métodos;<br>
-3. Seleção de participantes;<br>
-4. Descrição de erros;<br>
-5. Feedback do usuário (dados coletados);<br>
-6. Interpretação de dados;<br>
+3. Coleta de dados;<br>
+4. Seleção de participantes;<br>
+5. Interpretação de dados;<br>
+6. Lista de problemas encontrados;<br>
 7. Melhorias e Correções para Reprojeto. <br>
 
 ## Tópicos
@@ -42,59 +42,52 @@ Além disso, o avaliador precisa do acesso, saber fazer interpretações, obter 
 
 No contexto dessa etapa do projeto da disciplina, os responsáveis pelos relatos dos resultados serão encarregados de fazer também as entrevistas. Para cada uma das entrevistas, será selecionada uma das funcionalidades analisadas na <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/analise_tarefas/">análise de tarefas</a>.
 
+### Coleta de dados
+De acordo com o método de entrevistas definido anteriormente, optamos por conduzir a coleta de dados por meio de entrevistas não estruturadas. Nesse formato, o entrevistador irá fazer perguntas abertas, permitindo que os participantes compartilhem suas opiniões e experiências de forma livre e abrangente sobre o tema abordado.
+
+Durante essas entrevistas, é fundamental que o entrevistador estabeleça um ambiente acolhedor, encorajando os participantes a expressarem suas opiniões e experiências em relação aos storyboards avaliados. Uma postura receptiva e atenta por parte do entrevistador é crucial para motivar os participantes a compartilharem um feedback honesto e construtivo.
+
+#### Roteiro de entrevista
+A seguir, temos os tópicos a serem abordados durante a entrevista:
+
+1. Apresentação dos termos de consentimento e explicação de como os dados coletados serão utilizados;
+2. Breve explicação dos objetivos da entrevista para contextualização do participante;
+3. Apresentação do storyboard;
+4. Avaliação explorando as perguntas definidas no [planejamento](../story_board/planejamento_avaliacao.md).
+
 #### Cronograma de entrevistas
-Considerando que serão realizadas várias entrevistas para validar os storyboards, apresentamos o cronograma detalhado na Tabela 1, logo abaixo:
+Na figura 1 abaixo apresentamos o cronograma detalhado das entrevistas que serão realizadas para validar os storyboards.
 
 <center>
-
-|    Entrevistador(es)   | Entrevistado(s)   | Horário do Início  |  Horário do Fim  |  Data   |    Tarefa    |      Local     |
-| :--------------------: | :---------------: | :----------------: | :--------------: | :-----: | :----------: | :------------: |
-| [Mariana Letícia](https://github.com/Marianannn) |     A decidir     |      a decidir      |     a decidir      |     a decidir      |   Solicitar declaração de registro de ocorrência   | a decidir |
-| [Daniela Alarcão](https://github.com/danialarcao) |     A decidir     |      a decidir      |     a decidir      |     a decidir      |      | a decidir |
-| [Bruna Lima](https://github.com/libruna) | A decidir | 14:50 | 15:20 |  29/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
-| [Mariana Letícia](https://github.com/Marianannn) |     A decidir     |      a decidir      |     a decidir      |     a decidir      |      | a decidir |
-| [Daniela Alarcão](https://github.com/danialarcao) |     A decidir     |      a decidir      |     a decidir      |     a decidir      |      | a decidir |
-| [Bruna Lima](https://github.com/libruna) | A decidir | 15:30 | 16:00 | 29/05/2024 | A decidir | FGA |
+  
+|    Entrevistador(es)   | Entrevistado(s)   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
+| :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
+| [Mariana Letícia](https://github.com/Marianannn) | Renan Camera, Lucas Monteiro, Bernardo Machado e João Vitor Merlim | 12:00 | 14:00 | 28/05/2024 | Solicitar declaração de registro de ocorrência e CB Cursos 1 | FGA |
+| [Daniela Alarcão](https://github.com/danialarcao) |     A decidir     |      a decidir      |     a decidir      |  a decidir  |   e CB Cursos 2   | a decidir |
+| [Bruna Lima](https://github.com/libruna) | Liander Medeiros | 14:30 | 15:00 |  31/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
+| [Bruna Lima](https://github.com/libruna) | Marina Márcia | 15:10 | 15:50 |  31/05/2024  |  Checar e Gerar Certificado de Vistoria | FGA |
 
 <p style="text-align: center">Tabela 1: Cronograma planejado de entrevistas</p>
 <p style="text-align: center">Fonte: Mariana Letícia</p>
 
 </center>
 
-- Modelo do cronograma:
-
-Será necessário também, no relato de resultados, que haja um cronograma Executado sobre o que de fato aconteceu. Segue abaixo um modelo que deverá ser seguido quando se preencher esses dados na tabela 2:
-
-<center>
-
-|                  Entrevistadores                     | Entrevistados   | Horário do Início | Horário do Fim |         Data   |           Tarefa            |           Local            |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :----------------: | :-------------------------: | :------------------------: |
-||||||||
-
-<p style="text-align: center">Tabela 2: Modelo de cronograma executado de entrevistas</p>
-<p style="text-align: center">Fonte: Mariana Letícia</p>
-
-</center>
-
-
 ### Seleção de participantes
-A seleção de participantes terá como base o <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/">perfil do usuário</a> e as <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/personas/">personas</a>. Para cada funcionalidade apresentada no storyboard, será selecionado um participante, totalizando assim seis participantes. Além disso, cada entrevistado será apresentado ao termo de consentimento, e prosseguiremos com as entrevistas somente se os termos forem aceitos pelo participante.
-
-### Descrição de erros
-Durante a descrição de erros e problemas encontrados, o avaliador necessitará de informar: onde ocorreu este erro; uma descrição e uma explicação para o problema ter ocorrido; levantar quais quesitos de usabilidade foram afetados nesse problema; e sugestões de possíveis soluções. (3)
-
-### Feedback do usuário
-Durante as entrevistas, é importante que o entrevistador crie um ambiente acolhedor para que os participantes se sintam à vontade para expressar suas opiniões e experiências sobre os storyboards avaliados. Uma postura receptiva e atenta do entrevistador é essencial para incentivar os participantes a compartilhar feedback honesto e construtivo.
+A seleção de participantes terá como base o <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/">perfil do usuário</a> e as <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/personas/">personas</a>. Para cada funcionalidade apresentada no storyboard, será selecionado um participante, totalizando assim seis participantes.
 
 ### Interpretação dos dados
 Nesta etapa, os dados coletados dos participantes serão analisados individualmente para buscar respostas aos objetivos estabelecidos previamente no [planejamento da avaliação](../story_board/planejamento_avaliacao.md). Essa análise será conduzida manualmente, utilizando as anotações feitas durante a avaliação e, se necessário, revisando os vídeos das entrevistas, com o propósito de atribuir significado aos dados.
+Após a interpretação dos dados, realizaremos uma análise conjunta visando identificar padrões e recorrências nos resultados. Essas recorrências nos auxiliam a distinguir entre características compartilhadas pelo grupo e características individuais. Durante este processo, revisamos as perguntas das entrevistas para responder a cada uma delas ou justificar a ausência de respostas.
 
-### Consolidação dos dados
-Após a interpretação dos dados, é fundamental conduzir uma análise conjunta visando identificar padrões e recorrências nos resultados. Essas recorrências nos auxiliam a distinguir entre características compartilhadas pelo grupo e características individuais. Durante este processo, revisamos as perguntas das entrevistas para responder a cada uma delas ou justificar a ausência de respostas.
+### Lista de problemas encontrados
+O avaliador deve listar os erros, problemas e oportunidades de melhoria identificados durante a avaliação. Indicando:
+- Onde ocorreu este erro;
+- Uma descrição e uma explicação para o problema ter ocorrido;
+- Levantar quais quesitos de usabilidade foram afetados nesse problema;
+- Sugestões de possíveis soluções. (3)
 
-### Reprojeto
+### Melhorias e Correções para Reprojeto
 Os avaliadores devem oferecer propostas de soluções para os problemas e sugestões de melhoria identificados durante a avaliação, destinadas a serem implementadas no reprojeto. Essa etapa visa garantir que os problemas sejam abordados de maneira eficaz e que as melhorias sugeridas sejam implementadas para otimizar a experiência do usuário.
-
 
 ## Referências Bibliográficas
 > 1. Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 11.7.5, p. 279]
@@ -113,5 +106,6 @@ Os avaliadores devem oferecer propostas de soluções para os problemas e sugest
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     |
 | `2.0`   | 17/05/2024 | Adição da introdução dos relatos de resultados                         | [Mariana Letícia](https://github.com/Marianannn) |     |
 | `3.0`   | 17/05/2024 | Adição dos tópicos: objetivo e escopo; métodos; seleção de participantes; e descrição de erros                         | [Mariana Letícia](https://github.com/Marianannn) |     |
-| `3.1`   | 20/05/2024 | Alteraçõ do método de avaliação de IHC                         | [Mariana Letícia](https://github.com/Marianannn) |     |
+| `3.1`   | 20/05/2024 | Alteração do método de avaliação de IHC                         | [Mariana Letícia](https://github.com/Marianannn) |     |
 | `4.0`  | 21/05/2024 | Adição dos tópicos de feedback, interpretação, consolidação e reprojeto | [Bruna Lima](https://github.com/libruna) |     |
+| `4.1`  | 22/05/2024 | Coleta de dados e cronograma | [Bruna Lima](https://github.com/libruna) |     |
