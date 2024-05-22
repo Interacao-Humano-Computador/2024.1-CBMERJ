@@ -82,9 +82,9 @@ Os avaliadores devem oferecer propostas de soluções para os problemas e sugest
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     |
-| `2.0`   | 17/05/2024 | Adição da introdução dos relatos de resultados                         | [Mariana Letícia](https://github.com/Marianannn) |     |
-| `3.0`   | 17/05/2024 | Adição dos tópicos: objetivo e escopo; métodos; seleção de participantes; e descrição de erros                         | [Mariana Letícia](https://github.com/Marianannn) |     |
+| `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Pedro Henrique](https://github.com/PedroHenriqueq)   |
+| `2.0`   | 17/05/2024 | Adição da introdução dos relatos de resultados                         | [Mariana Letícia](https://github.com/Marianannn) |   [Lucas Avelar](https://github.com/LucasAvelar2711)  |
+| `3.0`   | 17/05/2024 | Adição dos tópicos: objetivo e escopo; métodos; seleção de participantes; e descrição de erros                         | [Mariana Letícia](https://github.com/Marianannn) |   [Pedro Henrique](https://github.com/PedroHenriqueq)  |
 | `3.1`   | 20/05/2024 | Alteração do método de avaliação de IHC                         | [Mariana Letícia](https://github.com/Marianannn) |  [Lucas Avelar](https://github.com/LucasAvelar2711)   |
 | `4.0`  | 21/05/2024 | Adição dos tópicos de feedback, interpretação, consolidação e reprojeto | [Bruna Lima](https://github.com/libruna) |   [Lucas Avelar](https://github.com/LucasAvelar2711)  |
 | `4.1`  | 22/05/2024 | Coleta de dados e cronograma | [Bruna Lima](https://github.com/libruna) |   [Pedro Henrique](https://github.com/PedroHenriqueq)  |
