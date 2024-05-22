@@ -83,19 +83,19 @@ As datas, horários, entrevistadores e entrevistados estão listados abaixo na t
 - Local e data que ocorreu a entrevista.
 
 <center>
+  
+|    Entrevistador(es)   | Entrevistado(s)   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
+| :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
+| [Mariana Letícia](https://github.com/Marianannn) | João Vitor Merlim | 12:00 | 12:30| 28/05/2024 | Solicitar declaração de registro de ocorrência e  | FGA |
+| [Daniela Alarcão](https://github.com/danialarcao) | Bernardo Machado | 12:00 | 12:30 | 24/05/2024 | Agendamento de atendimento presencial | FGA |
+| [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
+| [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
+| [Bruna Lima](https://github.com/libruna) | Liander Medeiros | 14:30 | 15:00 |  31/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
+| [Genilson](https://github.com/GenilsonJrs) | Marina Márcia | 15:10 | 15:50 |  31/05/2024  |  Checar e Gerar Certificado de Vistoria | FGA |
 
-**Tabela 2** - Prazos das entrevistas.
+<p style="text-align: center">Tabela 1: Cronograma planejado de entrevistas</p>
+<p style="text-align: center">Fonte: Mariana Letícia</p>
 
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Bruna Lima](https://github.com/libruna)  |   Renan Camara     |       12:00       |     12:10      |31/05/2024 | UnB Gama |
-|  [Daniela Alarcão](https://github.com/danialarcao) |    Lucas Monteiro    |       12:00       |     12:10    | 31/05/2024 | UnB Gama |
-|  [Genilson Silva](https://github.com/GenilsonJrs) |    Dylan Medeiros    |       12:00       |     12:10      | 31/05/2024 | UnB Gama |
-|  [Lucas Avelar](https://github.com/LucasAvelar2711) |    Bernardo Machado    |       12:30       |     12:40      | 31/05/2024 | UnB Gama |
-|  [Mariana Letícia](https://github.com/Marianannn) |    Dylan Medeiros   |       12:30       |     12:40      | 31/05/2024 | UnB Gama |
-|  [Pedro Henrique](https://github.com/PedroHhenriq) |    Rafael Coelho   |       12:30       |     12:40      | 31/05/2024 | UnB Gama |
-
-**Fonte** - _[Autores](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/)_
 </center>
 
 <a id="met2"></a>

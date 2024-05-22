@@ -35,6 +35,12 @@ O storyboard da funcionalidade "Curso do Corpo de Bombeiros 2 - Primeiros Socorr
 ![](img/StoryboardLucas.jpg)
 <p align="center">Figura 5 - Storyboard da funcionalidade de "Curso do Corpo de Bombeiros - Primeiros Socorros" (Fonte: Lucas Avelar, 2024). </p>
 
+### 6. Chamado de Emergência Integrado 
+O storyboard da funcionalidade "Chamado de Emergência Integrado" foi realizado à mão em um papel conforme pode ser identificado abaixo na figura 6:
+
+![](img/storyboard5g.jpg)
+<p align="center">Figura 6 - Storyboard da funcionalidade de "Chamado de Emergência Integrado" (Fonte: Genilson Junior, 2024). </p>
+
 ## Referências Bibliográficas
 1. Storyboarding e Prototipação, disponível em: https://www.professores.uff.br/screspo/wp-content/uploads/sites/127/2017/09/artigoIHC3.pdf
    
@@ -47,4 +53,5 @@ O storyboard da funcionalidade "Curso do Corpo de Bombeiros 2 - Primeiros Socorr
 | `1.3`   | 20/05/2024 | Adição do storyboard da funcionalidade de Obter declaração de registro de ocorrência                    | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)  |
 | `1.4`   | 22/05/2024 | Adição do storyboard da funcionalidade de agendamento de atendimento presencial                        | [Daniela Alarcão](https://github.com/danialarcao) | [Bruna Lima](https://github.com/libruna)  |
 | `1.5`   | 22/05/2024 | Adição do storyboard Curso do Corpo de Bombeiros - Primeiro Socorros | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Bruna Lima](https://github.com/libruna) |
-| `1.6`   | 22/05/2024 | Adição do storyboard do Curso do Corpo de Bombeiros 2 - Primeiro Socorros | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Daniela Alarcão](https://github.com/danialarcao) |
+| `1.6`   | 22/05/2024 | Adição do storyboard do Curso do Corpo de Bombeiros 2 - Primeiro Socorros | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Daniela Alarcão](https://github.com/danialarcao)
+| `1.7`   | 22/05/2024 | Adição do storyboard Chamado de Emergência Integrado  | [Genilson Silva](https://github.com/GenilsonJrs)  | [Daniela Alarcão](https://github.com/danialarcao) |
