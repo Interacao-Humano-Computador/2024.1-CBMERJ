@@ -78,7 +78,7 @@ Nesta etapa, os dados coletados dos participantes serão analisados individualme
 Após a interpretação dos dados, realizaremos uma análise conjunta visando identificar padrões e recorrências nos resultados. Essas recorrências nos auxiliam a distinguir entre características compartilhadas pelo grupo e características individuais. Durante este processo, revisamos as perguntas das entrevistas para responder a cada uma delas ou justificar a ausência de respostas.
 
 ### Lista de problemas encontrados
-O avaliador deve listar os erros, problemas e oportunidades de melhoria identificados durante a avaliação. Indicando:<br>
+O avaliador deve listar os erros, problemas e oportunidades de melhoria identificados durante a avaliação com ordem de prioridade. Indicando:<br>
 - Onde ocorreu este erro;<br>
 - Uma descrição e uma explicação para o problema ter ocorrido;<br>
 - Levantar quais quesitos de usabilidade foram afetados nesse problema;<br>
