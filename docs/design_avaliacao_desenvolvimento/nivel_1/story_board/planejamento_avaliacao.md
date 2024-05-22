@@ -23,7 +23,7 @@
 <p style="text-align: justify;">A objetivo principal da avaliação consiste em criar e validar uma versão definitiva dos storyboards, garantindo sua clareza, coesão, atratividade e alinhamento com os objetivos do projeto. </p>
 
 ### E - Explorar perguntas
-<p style="text-align: justify;">A fim de garantir um diálogo claro e objetivo, formulamos um banco de perguntas que poderão ser utilizadas para guiar a entrevista: </p>
+<p style="text-align: justify;">A fim de garantir um diálogo claro e objetivo, formulamos um banco de perguntas que poderão ser utilizadas para guiar a entrevista. Esse banco de perguntas também é útil para que a equipe possa se auto analisar. </p>
 
 | Perguntas | 
 |----------|
@@ -41,7 +41,18 @@
 <p style="text-align: justify;"> O método escolhido para a avaliação foi o da <strong>entrevista</strong>. Personalizável e ágil, esse método permite adaptar as perguntas de acordo com as particularidades do projeto e do andamento do diálogo, ao mesmo tempo em que agiliza a coleta e análise dos dados, a partir da obtenção de feedbacks detalhados e qualitativos. </p>
 
 ### I - Identificar questões práticas 
-A definir 
+
+#### Recrutamento e Preparação
+<p style="text-align: justify;">A equipe elaborou um total de sete storyboards. Com isso, serão realizadas sete entrevistas com sete usuários diferentes. Cada entrevistado deverá assinar o termo de consentimento antes da realização das entrevistas, que serão realizadas presencialmente e gravadas pela equipe. Os entrevistadores abordarão as perguntas que foram definidas durante o planejamento da avaliação. </p>
+
+#### Custos
+<p style="text-align: justify;">A realização das entrevistas não pode gerar custos a equipe e ao usuário, portanto, elas deverão ser feitas de modo online utilizado a seguintes ferramentas: </p>
+
+<p style="text-align: justify;">A realização das entrevistas não apresentá custos para a equipe nem para os entrevistados. Os recursos que serão utilizados são: </p>
+- Storyboards impressos;
+- Relação de perguntas a serem responidas na entrevista;
+- Termo de consentimento impresso;
+- Aparelho celular para a gravação das entrevistas. 
 
 ### D - Decidir questões éticas
 <p style="text-align: justify;">Em consonância com os princípios éticos e de integridade, foi elaborado um termo de consentimento que deverá ser assinado por cada entrevistado antes do início da avaliação dos storyboards. Este documento detalha os procedimentos envolvidos na entrevista e a forma como os dados serão utilizados. A assinatura deste termo será voluntária e demonstrará o consentimento informado do participante para realizar a entrevista. Tal medida visa assegurar que todos os envolvidos estejam plenamente cientes e confortáveis com sua participação. </p>
@@ -62,8 +73,6 @@ A definir
 ### Teste piloto 
 <p style="text-align: justify;"> Um teste piloto será realizado por membros da equipe do projeto a fim de verificar e aperfeiçoar o planejamento e a execução da entrevista antes de sua efetiva realização. </p>
 
-<!-- fica ao critério do pessoal encarregado ver se cria uma página apenas para o termo de consentimento ou não(dentro das pastas de nivel_1> análise de tarefas) -->
-
 ## Referências Bibliográficas
 > 1. FORTUNATO, Caíque. “Framework DECIDE e Avaliação.”. 9 Mar. 2020. medium.com/caiquefortunato/framework-decide-e-avaliação. Acesso em 20 de Maio de 2024.
 
@@ -74,3 +83,4 @@ A definir
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     |
 | `2.0`   | 19/05/2024 | Iniciando desenvolvimento de conteúdo da página                         | [Daniela Alarcão](https://github.com/danialarcao) |     |
 | `3.0`   | 20/05/2024 | Inserção do Termo de Consentimento                         | [Daniela Alarcão](https://github.com/danialarcao) |     |
+| `4.0`   | 22/05/2024 | Complementação do framework DECIDE                         | [Daniela Alarcão](https://github.com/danialarcao) |     |
