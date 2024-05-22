@@ -80,11 +80,11 @@ Nesta etapa, os dados coletados dos participantes serão analisados individualme
 Após a interpretação dos dados, realizaremos uma análise conjunta visando identificar padrões e recorrências nos resultados. Essas recorrências nos auxiliam a distinguir entre características compartilhadas pelo grupo e características individuais. Durante este processo, revisamos as perguntas das entrevistas para responder a cada uma delas ou justificar a ausência de respostas.
 
 ### Lista de problemas encontrados
-O avaliador deve listar os erros, problemas e oportunidades de melhoria identificados durante a avaliação. Indicando:
-- Onde ocorreu este erro;
-- Uma descrição e uma explicação para o problema ter ocorrido;
-- Levantar quais quesitos de usabilidade foram afetados nesse problema;
-- Sugestões de possíveis soluções. (3)
+O avaliador deve listar os erros, problemas e oportunidades de melhoria identificados durante a avaliação. Indicando:<br>
+- Onde ocorreu este erro;<br>
+- Uma descrição e uma explicação para o problema ter ocorrido;<br>
+- Levantar quais quesitos de usabilidade foram afetados nesse problema;<br>
+- Sugestões de possíveis soluções. (3)<br>
 
 ### Melhorias e Correções para Reprojeto
 Os avaliadores devem oferecer propostas de soluções para os problemas e sugestões de melhoria identificados durante a avaliação, destinadas a serem implementadas no reprojeto. Essa etapa visa garantir que os problemas sejam abordados de maneira eficaz e que as melhorias sugeridas sejam implementadas para otimizar a experiência do usuário.
