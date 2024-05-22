@@ -36,10 +36,6 @@ O método escolhido para a avaliação de StoryBoards foi o de Insvestigação p
 Além disso, o avaliador precisa do acesso, saber fazer interpretações, obter opiniões, entender comportamento e expectativas acerca dos usuários sobre o sistema interativo (4), que no caso desse projeto serão os [storyboards](storyboards.md) executados pelos membros do grupo. 
 <br>
 
-O método escolhido para a avaliação de StoryBoards foi o de Insvestigação por entrevistas (2). Esse método consiste no avaliador fazer perguntas para o avaliado acerca de um tema a fim de captar resultados.<br>
-Além disso, o avaliador precisa do acesso, saber fazer interpretações, obter opiniões, entender comportamento e expectativas acerca dos usuários sobre o sistema interativo (4), que no caso desse projeto serão os [storyboards](storyboards.md) executados pelos membros do grupo. 
-<br>
-
 No contexto dessa etapa do projeto da disciplina, os responsáveis pelos relatos dos resultados serão encarregados de fazer também as entrevistas. Para cada uma das entrevistas, será selecionada uma das funcionalidades analisadas na <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/analise_tarefas/">análise de tarefas</a>.
 
 ### Coleta de dados
@@ -62,8 +58,10 @@ Na figura 1 abaixo apresentamos o cronograma detalhado das entrevistas que serã
   
 |    Entrevistador(es)   | Entrevistado(s)   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
 | :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
-| [Mariana Letícia](https://github.com/Marianannn) | Renan Camera, Lucas Monteiro, Bernardo Machado e João Vitor Merlim | 12:00 | 14:00 | 28/05/2024 | Solicitar declaração de registro de ocorrência e CB Cursos 1 | FGA |
-| [Daniela Alarcão](https://github.com/danialarcao) |     A decidir     |      a decidir      |     a decidir      |  a decidir  |   e CB Cursos 2   | a decidir |
+| [Mariana Letícia](https://github.com/Marianannn) | João Vitor Merlim | 12:00 | 12:30| 28/05/2024 | Solicitar declaração de registro de ocorrência e  | FGA |
+| [Mariana Letícia](https://github.com/Marianannn) | Bernardo Machado | 12:00 | 12:30 | 24/05/2024 |  | FGA |
+| [Daniela Alarcão](https://github.com/danialarcao) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
+| [Daniela Alarcão](https://github.com/danialarcao) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
 | [Bruna Lima](https://github.com/libruna) | Liander Medeiros | 14:30 | 15:00 |  31/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
 | [Bruna Lima](https://github.com/libruna) | Marina Márcia | 15:10 | 15:50 |  31/05/2024  |  Checar e Gerar Certificado de Vistoria | FGA |
 
