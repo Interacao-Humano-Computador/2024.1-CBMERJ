@@ -34,7 +34,8 @@ Dados os objetivos, foram elaboradas perguntas acerca do funcionamento e satisfa
 - Verificar a coerência e seguimento de um padrão;
 - comparar ideias e alternativas de design.
 
-Com a coleta de dados, as perguntas escolhidas devem ser respondidas pós avaliação e foram feitas com base no _Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)_<a id="anchor_1" href="#REF1">^1^</a>  
+Com a coleta de dados, as perguntas escolhidas devem ser respondidas pós avaliação e foram feitas com base no _Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)_<a id="anchor_1" href="#REF1"></a>  
+
 São elas:
 
 - Os diagramas HTA's possuem as notações corretas, legendas e a representação em tabela?
