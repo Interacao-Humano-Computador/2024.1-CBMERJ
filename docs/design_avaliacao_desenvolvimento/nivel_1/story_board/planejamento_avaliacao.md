@@ -46,7 +46,6 @@
 <p style="text-align: justify;">A equipe elaborou um total de sete storyboards. Com isso, serão realizadas sete entrevistas com sete usuários diferentes. Cada entrevistado deverá assinar o termo de consentimento antes da realização das entrevistas, que serão realizadas presencialmente e gravadas pela equipe. Os entrevistadores abordarão as perguntas que foram definidas durante o planejamento da avaliação. </p>
 
 #### Custos
-<p style="text-align: justify;">A realização das entrevistas não pode gerar custos a equipe e ao usuário, portanto, elas deverão ser feitas de modo online utilizado a seguintes ferramentas: </p>
 
 <p style="text-align: justify;">A realização das entrevistas não apresentá custos para a equipe nem para os entrevistados. Os recursos que serão utilizados são: </p>
 - Storyboards impressos;
