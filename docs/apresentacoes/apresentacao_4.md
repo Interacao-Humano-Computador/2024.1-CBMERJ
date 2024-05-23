@@ -52,4 +52,5 @@ Fonte: autores.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 22/05/2024 | Criação da página de Apresentação 4                         | [Bruna Lima](https://github.com/libruna) |  [Mariana Letícia](https://github.com/Marianannn)   | 
+| `1.0`   | 22/05/2024 | Criação da página de Apresentação 4      | [Bruna Lima](https://github.com/libruna) |  [Mariana Letícia](https://github.com/Marianannn)   | 
+| `1.1`   | 22/05/2024 | Adição do vídeo da Apresentação 4      | [Bruna Lima](https://github.com/libruna) |  [Mariana Letícia](https://github.com/Marianannn)   | 
