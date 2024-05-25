@@ -153,7 +153,32 @@ Concluída essa etapa, os dados ficam disponíveis para serem trabalhados de mel
 
 De acordo com Barbosa e Silva (2011, p.276), a finalidade desse teste é examinar o próprio planejamento e determinar se a avaliação planejada gera os dados necessários para responder às questões e objetivos do estudo. O avaliador deve realizar o teste-piloto da mesma forma que uma sessão regular de avaliação. Isso permite ao avaliador verificar se a linguagem utilizada nas explicações e nos materiais fornecidos é clara e objetiva, bem como se esses materiais contêm informações adequadas e suficientes para guiar o participante durante a avaliação.
 
+Um esclarecimento importante é que **o teste piloto não será utilizado na coleta e interpretação de dados.** Ele serve mais como um teste para valiar se a estruturação da entrevista é coerente ou não para obter dados e para entender sobre como tratar os entrevistados da melhor maneira possível.
+
 A execução do teste-piloto será feito no dia 29/05/2024 às 12:00 e contará com a presença de todos os integrantes do grupo.
+
+### Resultado do Teste Piloto
+
+O teste piloto, apesar de ser sido inicialmente marcado para o dia 29 de maio de 2024 às 12:00, pôde ser adiantado para o dia 25 de maio de 2024 às 09:30.
+
+- O objetivo dessa teste foi verificar se a análise de tarefas está conforme com o que se espera da funcionalidade abordada. 
+- A metodologia para obter dados foi a de investigação por entrevista. 
+- Ele foi feito por [Mariana Letícia](https://github.com/Marianannn), a entrevistadora e [Genilson Junior](https://github.com/GenilsonJrs), o entrevistado. O local da entrevista foi na FGA. 
+- Foram utilizados celular, computador, tripé para celular, folhas com o termo de concentimento e com o storyboard, lápis, papel e caneta. Ademais a entrevista foi gravada pelo Microsoft Teams.
+
+Esse teste piloto foi da funcionalidade Obter declaração de resgistro de ocorrência. Nele foi mostrado não só a análise de tarefas como também o storyboard da funcionalidade.   
+
+Segue abaixo o vídeo 1 no youtube com a gravação do teste piloto da análise de tarefas. 
+
+<center>
+
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/eTXeOmb7bmk?si=HtuCI2QS5fthyMSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Vídeo 1: Teste piloto </p>
+
+Fonte: [Mariana Letícia](https://github.com/Marianannn).
+
+</center>
 
 ## Referências Bibliográficas
 
@@ -166,4 +191,4 @@ A execução do teste-piloto será feito no dia 29/05/2024 às 12:00 e contará 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)    |
 | `2.0`   | 22/05/2024 | Adição do planejamento da avaliação                         | [Genilson Junior](https://github.com/GenilsonJrs) |  [Daniela Alarcão](https://github.com/danialarcao)   |
-
+| `3.0`   | 25/05/2024 | Adição da gravação do teste piloto                         | [Mariana Letícia](https://github.com/Marianannn) |     |

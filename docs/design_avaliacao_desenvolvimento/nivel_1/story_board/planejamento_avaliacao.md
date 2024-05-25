@@ -91,6 +91,33 @@ Na figura 1 abaixo apresentamos o cronograma detalhado das entrevistas que serã
 ### Teste piloto 
 <p style="text-align: justify;"> Um teste piloto será realizado por membros da equipe do projeto a fim de verificar e aperfeiçoar o planejamento e a execução da entrevista antes de sua efetiva realização. </p>
 
+O teste Piloto em questão **não será considerado na coleta e interpretação de dados.**
+
+O teste piloto está planejado para ser feito dia 29 de maio de 2024 ao 12:00.
+
+### Resultado do Teste Piloto
+
+O teste piloto, apesar de ser sido inicialmente marcado para o dia 29 de maio de 2024 às 12:00, pôde ser adiantado para o dia 24 de maio de 2024 às 09:30.
+
+- O objetivo dessa teste foi verificar se o storyboard está conforme com o que se espera da funcionalidade abordada. 
+- A metodologia para obter dados foi a de investigação por entrevista. 
+- Ele foi feito por [Mariana Letícia](https://github.com/Marianannn), a entrevistadora e [Genilson Junior](https://github.com/GenilsonJrs), o entrevistado. O local da entrevista foi na FGA. 
+- Foram utilizados celular, computador, tripé para celular, folhas com o termo de concentimento e com o storyboard, lápis, papel e caneta. Ademais a entrevista foi gravada pelo Microsoft Teams.
+
+Esse teste piloto foi da funcionalidade Obter declaração de resgistro de ocorrência. Nele foi mostrado não só o storyboard como também a análise de tarefas da funcionalidade.   
+
+Segue abaixo o vídeo 1 no youtube com a gravação do teste piloto da análise de tarefas. 
+
+<center>
+
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/eTXeOmb7bmk?si=HtuCI2QS5fthyMSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Vídeo 1: Teste piloto </p>
+
+Fonte: [Mariana Letícia](https://github.com/Marianannn).
+
+</center>
+
 ## Referências Bibliográficas
 > 1. FORTUNATO, Caíque. “Framework DECIDE e Avaliação.”. 9 Mar. 2020. medium.com/caiquefortunato/framework-decide-e-avaliação. Acesso em 20 de Maio de 2024.
 
@@ -102,3 +129,4 @@ Na figura 1 abaixo apresentamos o cronograma detalhado das entrevistas que serã
 | `2.0`   | 19/05/2024 | Iniciando desenvolvimento de conteúdo da página                         | [Daniela Alarcão](https://github.com/danialarcao) |  [Genilson Silva](https://github.com/GenilsonJrs)    |
 | `3.0`   | 20/05/2024 | Inserção do Termo de Consentimento                         | [Daniela Alarcão](https://github.com/danialarcao) |  [Genilson Silva](https://github.com/GenilsonJrs)    |
 | `4.0`   | 22/05/2024 | Complementação do framework DECIDE                         | [Daniela Alarcão](https://github.com/danialarcao) | [Genilson Silva](https://github.com/GenilsonJrs)     |
+| `5.0`   | 25/05/2024 | Adição da gravação do teste piloto                         | [Mariana Letícia](https://github.com/Marianannn) |     |
