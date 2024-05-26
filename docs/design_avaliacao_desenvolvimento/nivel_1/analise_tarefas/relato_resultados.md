@@ -60,29 +60,26 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn).
 4. **Coleta de dados:** foi feita através de perguntas abertas e fechadas. Além disso, foram adicionadas perguntas gerais sobre o entrevistado e sobre a análise de tarefa daquela funcionalidade em específico.<br><br>
 As perguntas e respostas estão explícitos abaixo na **tabela 2**:
 
-<center>
+    <center>
 
+    | Número |                                                              Pergunta                                                               |     Respostas     |
+    | :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+    |   1    |                                                          Qual o seu nome?                                                           |    Bernardo Machado Gasparso Lemes     |
+    |   2    |                                            Qual a sua idade?                                            |    19 anos    |
+    |   3    |                              Como avalia o seu grau de experiência tecnológica?                              |    Possui bom conhecimento sobre tecnologia     |
+    | 4 | Já utilizou algum site similar ao CBMERJ? |    Sim, já usei o Próprio CBMERJ    |
+    |   5   |  O formulário de preenchimento de informações para obter a declaração do registro de ocorrencia tem uma organização de informações coerente? Por que? |    Sim. Mas não lembro muito bem o porquê de ter acessado pois faz muito tempo.    |
+    |   5.1    |            Acharia útil a adição de mais funcionalidades dentro dessa, como listagem de declarações ou pesquisa por declarações? Por que?            |    Sim, porque isso facilitaria a consulta de informações sobre a declaração de registros de ocorrência    |
+    |   6   |     Você acha a funcionalidade interessante?     | Sim, porque evita deslocamento por parte da pessoa a solicitar a declaração  |
+    |   7   |                                        Você utilizaria tal funcionalidade? Porquê?                                        | Sim, justamente pela utilidade e praticidade dela. Já teve uma vez que já fui atropelado e sofri alguns ferimentos leves. Seria muito melhor para mim solicitar isso de casa, já que o deslocamento era complicado para mim.    |
+    |   8   |                                  Sugestões/Melhorias                                  |    Como já foi dito, a listagem e pesquisa de declarações.     |
+    |   9   |                               A sequência é coerente e funcional?                               |    Sim     |
 
+    **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
 
-| Número |                                                              Pergunta                                                               |     Respostas     |
-| :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
-|   1    |                                                          Qual o seu nome?                                                           |    Bernardo Machado Gasparso Lemes     |
-|   2    |                                            Qual a sua idade?                                            |    19 anos    |
-|   3    |                              Como avalia o seu grau de experiência tecnológica?                              |    Possui bom conhecimento sobre tecnologia     |
-| 4 | Já utilizou algum site similar ao CBMERJ? |    Sim, já usei o Próprio CBMERJ    |
-|   5   |  O formulário de preenchimento de informações para obter a declaração do registro de ocorrencia tem uma organização de informações coerente? Por que? |    Sim. Mas não lembro muito bem o porquê de ter acessado pois faz muito tempo.    |
-|   5.1    |            Acharia útil a adição de mais funcionalidades dentro dessa, como listagem de declarações ou pesquisa por declarações? Por que?            |    Sim, porque isso facilitaria a consulta de informações sobre a declaração de registros de ocorrência    |
-|   6   |     Você acha a funcionalidade interessante?     | Sim, porque evita deslocamento por parte da pessoa a solicitar a declaração  |
-|   7   |                                        Você utilizaria tal funcionalidade? Porquê?                                        | Sim, justamente pela utilidade e praticidade dela. Já teve uma vez que já fui atropelado e sofri alguns ferimentos leves. Seria muito melhor para mim solicitar isso de casa, já que o deslocamento era complicado para mim.    |
-|   8   |                                  Sugestões/Melhorias                                  |    Como já foi dito, a listagem e pesquisa de declarações.     |
-|   9   |                               A sequência é coerente e funcional?                               |    Sim     |
+    **Tabela 2** - Roteiro de perguntas da entrevista.
 
-**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
-
-**Tabela 2** - Roteiro de perguntas da entrevista.
-
-</center>
-
+    </center>
 5. **Interpretação dos dados:** 
     - No geral, o participante aparentou e explicitou, com o feedback, ter compreendido a funcionalidade de obter declaração dos registros de ocorrência.
     - O participante até chegou a comentar de uma situação em que passou na qual se ele tivesse acesso a uma funcionalidade desse tipo, o ajudaria muito.

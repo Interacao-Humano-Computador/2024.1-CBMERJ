@@ -45,7 +45,6 @@ No contexto dos Storyboards, abordaremos as perguntas gerais feitas e perguntas 
 Fonte: [Mariana Letícia](https://github.com/Marianannn).
 
 </center>
-<br>
 
 
 1. **Objetivos e escopos:**
