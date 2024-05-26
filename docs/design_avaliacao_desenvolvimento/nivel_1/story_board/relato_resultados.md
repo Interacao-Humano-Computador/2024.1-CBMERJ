@@ -47,16 +47,16 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn).
 </center>
 
 
-1. **Objetivos e escopos:**
+- **Objetivos e escopos:**
     - Analisar a sequência de passos necessárias para se chegar na funcionalidade e realizá-la.
     - Analisar a verossimilhança da história.
     - Adquirir sugestões de melhoria do storyboard.<br>
 
-2. **Metodologia:** Investigação por entrevista<br>
+- **Metodologia:** Investigação por entrevista<br>
 
-3. **Seleção do participante:** o participante dessa entrevista se encaixa com o <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/">perfil do usuário</a> tanto por já ter utilizado o site como por ser do Rio de Janeiro.<br>
+- **Seleção do participante:** o participante dessa entrevista se encaixa com o <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/">perfil do usuário</a> tanto por já ter utilizado o site como por ser do Rio de Janeiro.<br>
 
-4. **Coleta de dados:** foi feita através de perguntas abertas e fechadas. Além disso, foram adicionadas perguntas gerais sobre o entrevistado e sobre o storyboard daquela funcionalidade em específico.<br><br>
+- **Coleta de dados:** foi feita através de perguntas abertas e fechadas. Além disso, foram adicionadas perguntas gerais sobre o entrevistado e sobre o storyboard daquela funcionalidade em específico.<br><br>
 As perguntas e respostas estão explícitas abaixo na **tabela 2**:
 
 <center>
@@ -82,7 +82,7 @@ As perguntas e respostas estão explícitas abaixo na **tabela 2**:
 
 </center>
 
-5. **Interpretação dos dados:** 
+- **Interpretação dos dados:** 
     - No geral, o participante aparentou e explicitou, com o feedback, ter compreendido a funcionalidade de obter declaração dos registros de ocorrência.
     - O participante descreveu que a storyboard possui um contexto fácil de entender.
     - O storyboard é verossímil.
@@ -91,14 +91,14 @@ As perguntas e respostas estão explícitas abaixo na **tabela 2**:
     <br><br>
     - **Conclusão:** segundo o participante, o storyboard apresenta uma sequência lógica de passos e condiz com a realidade. O que se precisa de se atentar é sobre a impressão dos storyboards que precisa de uma qualidade maior e as letras precisam estar em uma fonte maior. <br>
 
-6. **Lista de problemas encontrados:** 
+- **Lista de problemas encontrados:** 
     - problema 1:
         - descrição: dificuldade de leitura, onde tem uma letra muito pequena em uma das caixas de diálogo.
         - local: aconteceu no oitavo quadrinho da tirinha.<br>
         - impacto: não entendimento dessa parte da tirinha e consequentemente de um passo para se concluir a funcionalidade em questão.
         - Solução: melhorar legibilidade da letra a aumentando.
 
-7. **Sugestão de melhoria:**
+- **Sugestão de melhoria:**
     - Uma  das sugestões foi aumentar a caixa de diálogo dos personagens do storyboard.
     - Aumentar a fonte da letra do storyboard.
     - Melhorar a qualidade do documento e da impressão.

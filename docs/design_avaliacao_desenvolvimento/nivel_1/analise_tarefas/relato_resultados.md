@@ -48,16 +48,16 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn).
 
 <br>
 
-1. **Objetivos e escopos:**
+- **Objetivos e escopos:**
     - Analisar se o fluxo lógico de tarefas ao obter a declaração do registro de ocorrência é claro para que o usuário o compreenda com facilidade.
     - Analisar a verossimilhança da funcionalidade em questão.
     - Adquirir sugestões de melhoria para o reprojeto.<br>
 
-2. **Metodologia:** Investigação por entrevista<br>
+- **Metodologia:** Investigação por entrevista<br>
 
-3. **Seleção do participante:** o participante dessa entrevista se encaixa com o <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/">perfil do usuário</a> tanto por já ter utilizado o site como por ser do Rio de Janeiro.<br>
+- **Seleção do participante:** o participante dessa entrevista se encaixa com o <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/">perfil do usuário</a> tanto por já ter utilizado o site como por ser do Rio de Janeiro.<br>
 
-4. **Coleta de dados:** foi feita através de perguntas abertas e fechadas. Além disso, foram adicionadas perguntas gerais sobre o entrevistado e sobre a análise de tarefa daquela funcionalidade em específico.<br><br>
+- **Coleta de dados:** foi feita através de perguntas abertas e fechadas. Além disso, foram adicionadas perguntas gerais sobre o entrevistado e sobre a análise de tarefa daquela funcionalidade em específico.<br><br>
 As perguntas e respostas estão explícitos abaixo na **tabela 2**:
 
     <center>
@@ -80,15 +80,15 @@ As perguntas e respostas estão explícitos abaixo na **tabela 2**:
     **Tabela 2** - Roteiro de perguntas da entrevista.
 
     </center>
-5. **Interpretação dos dados:** 
+- **Interpretação dos dados:** 
     - No geral, o participante aparentou e explicitou, com o feedback, ter compreendido a funcionalidade de obter declaração dos registros de ocorrência.
     - O participante até chegou a comentar de uma situação em que passou na qual se ele tivesse acesso a uma funcionalidade desse tipo, o ajudaria muito.
     <br><br>
     - **Conclusão:** segundo o participante, o fluxo lógico é claro e verossímil. O participante também apresentou sugestões de melhorias e implementações para aumentar a utilidade da função.<br>
 
-6. **Lista de problemas encontrados:** não foram observados pelo usuário algum problema durante a entrevista sobre o fluxo da análise de tarefas da funcionalidade.<br>
+- **Lista de problemas encontrados:** não foram observados pelo usuário algum problema durante a entrevista sobre o fluxo da análise de tarefas da funcionalidade.<br>
 
-7. **Sugestão de melhoria:**
+ **Sugestão de melhoria:**
     - Uma  das sugestões que foi deixada pelo participante é uma listagem de declarações.
     - Uma outra sugestão foi uma pesquisa dessas declarações caso a listagem seja implementada.
 
