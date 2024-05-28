@@ -93,3 +93,7 @@ nav:
               - Planejamento do relato dos resultados: design_avaliacao_desenvolvimento/nivel_1/story_board/planejamento_relato_resultados.md
               - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_1/story_board/relato_resultados.md
               - Storyboards: design_avaliacao_desenvolvimento/nivel_1/story_board/storyboards.md
+      - Nível 2:
+          - Protótipo de papel:
+              - Planejamento da avaliação Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/planejamento_prototipo_papel.md
+              - Planejamento do Relato dos resultados do protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/planejamento_relato_resultados_prototipo_papel.md
