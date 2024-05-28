@@ -29,10 +29,15 @@ A metodologia seguirá o que Barbosa e Silva (1) propuseram. Os principais eleme
 Os tópicos, já mencionados acima, serão especificados logo abaixo:
 
 ### Objetivo e escopo
-Nesse tópico, será necessário que o avaliador descreva qual é o objetivo a ser alcançado com a avaliação do StoryBoard. Pode ser desde avaliar se o storyboard corresponde com o fluxo de tarefas e a funcionalidade em si, até se o StoryBoard corresponde com a realidade.
+Nesse tópico, será necessário que o avaliador descreva qual é o objetivo a ser alcançado com a avaliação do StoryBoard. Os objetivos escolhidos foram:
+
+- Analisar a sequência de passos necessárias para se chegar na funcionalidade e realizá-la.
+- Analisar a verossimilhança da história.
+- Adquirir sugestões de melhoria do storyboard.<br> 
 
 ### Métodos 
-O método escolhido para a avaliação de StoryBoards foi o de Insvestigação por entrevistas (2). Esse método consiste no avaliador fazer perguntas para o avaliado acerca de um tema a fim de captar resultados.<br>
+
+O método escolhido para a avaliação de StoryBoards foi o de **Investigação por entrevistas** (2). Esse método consiste no avaliador fazer perguntas para o avaliado acerca de um tema a fim de captar resultados.<br>
 Além disso, o avaliador precisa do acesso, saber fazer interpretações, obter opiniões, entender comportamento e expectativas acerca dos usuários sobre o sistema interativo (4), que no caso desse projeto serão os [storyboards](storyboards.md) executados pelos membros do grupo. 
 <br>
 

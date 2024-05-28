@@ -18,7 +18,9 @@ Utilizando como base alguns pontos cruciais evidenciados por Barbosa e Silva  em
 8. Reprojeto.
 
 ## Objetivo e Escopo 
-O objetivo desta análise é identificar possiveis problemas ou insigths que podem resolver problemas de usabilidade e melhorar as funcionalidades, com foco em melhorar a experiência do usuário ao acessar tais funcionalidades como cursos de primeiros socorros. O escopo abrange todas as interações relacionadas a estas funcionalidades, incluindo navegação, acesso, e obtenção da informação.
+O objetivo desta análise é **identificar possíveis problemas** ou insigths que podem resolver problemas de usabilidade e melhorar as funcionalidades, com foco em melhorar a experiência do usuário ao acessar tais funcionalidades como cursos de primeiros socorros. 
+
+O escopo abrange todas as interações relacionadas a estas funcionalidades, incluindo navegação, acesso, e obtenção da informação.
 
 Essas adições ajudarão a completar o relatório de análise de tarefas,  melhorando a compreensão do usuário, proporcionando uma visão abrangente dos problemas identificados, sugestões de melhorias, e o plano de reprojeto necessário para aprimorar a usabilidade do sistema.
 

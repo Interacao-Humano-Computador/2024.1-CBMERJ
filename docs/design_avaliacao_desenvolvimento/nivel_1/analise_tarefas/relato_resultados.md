@@ -28,8 +28,10 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 
 ## Metodologia 
 
-O relato dos resultados seguirá o [planejamento de relato dos resultados da aanálise de tarefas](planejamento_relato_resultados.md), com o objetivo se extrair a maior quantidade de informações da entrevista gravada, interpretar esses dados e criar soluções IHC.
+O relato dos resultados seguirá o [planejamento de relato dos resultados da análise de tarefas](planejamento_relato_resultados.md), com o objetivo se extrair a maior quantidade de informações da entrevista gravada, interpretar esses dados e criar soluções IHC.
 <br>
+
+Quesitos como objetivos, seleção de participantes e metodologia não serão abordadas nessa parte de relato dos resultados, por já estarem presenter no [planejamento de relato dos resultados da análise de tarefas](planejamento_relato_resultados.md).
 
 No contexto da análise de tarefas, abordaremos as perguntas gerais feitas e perguntas sobre a análise de tarefas. Ademais, serão descritas as respostas coletadas.
 
@@ -42,20 +44,12 @@ No contexto da análise de tarefas, abordaremos as perguntas gerais feitas e per
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/7hFNSjZ4j2w?si=ULFbJQYSjXBjbHjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>Vídeo 1: Entrevista 1 - funcionalidade obter declaração de registro de ocorrência</p>
+
 Fonte: [Mariana Letícia](https://github.com/Marianannn).
 
 </center>
 
 <br>
-
-- **Objetivos e escopos:**
-    - Analisar se o fluxo lógico de tarefas ao obter a declaração do registro de ocorrência é claro para que o usuário o compreenda com facilidade.
-    - Analisar a verossimilhança da funcionalidade em questão.
-    - Adquirir sugestões de melhoria para o reprojeto.<br>
-
-- **Metodologia:** Investigação por entrevista<br>
-
-- **Seleção do participante:** o participante dessa entrevista se encaixa com o <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/">perfil do usuário</a> tanto por já ter utilizado o site como por ser do Rio de Janeiro.<br>
 
 - **Coleta de dados:** foi feita através de perguntas abertas e fechadas. Além disso, foram adicionadas perguntas gerais sobre o entrevistado e sobre a análise de tarefa daquela funcionalidade em específico.<br><br>
 As perguntas e respostas estão explícitos abaixo na **tabela 2**:
@@ -80,6 +74,9 @@ As perguntas e respostas estão explícitos abaixo na **tabela 2**:
     **Tabela 2** - Roteiro de perguntas da entrevista.
 
     </center>
+
+<br>
+
 - **Interpretação dos dados:** 
     - No geral, o participante aparentou e explicitou, com o feedback, ter compreendido a funcionalidade de obter declaração dos registros de ocorrência.
     - O participante até chegou a comentar de uma situação em que passou na qual se ele tivesse acesso a uma funcionalidade desse tipo, o ajudaria muito.
@@ -88,12 +85,87 @@ As perguntas e respostas estão explícitos abaixo na **tabela 2**:
 
 - **Lista de problemas encontrados:** não foram observados pelo usuário algum problema durante a entrevista sobre o fluxo da análise de tarefas da funcionalidade.<br>
 
- **Sugestão de melhoria:**
+- **Sugestões de melhoria:**
+
     - Uma  das sugestões que foi deixada pelo participante é uma listagem de declarações.
     - Uma outra sugestão foi uma pesquisa dessas declarações caso a listagem seja implementada.
 
-<!-- Aqui será mais sobre o relato dos dados que coletamos. pode ser entrevista por entrevista, mas todos precisam demonstrar o que colheu conforme o planejamento do relato dos resultados (recomendo ver o comentário que foi deixado lá -->
 
+<!--
+## Entrevista (ADICIONAR O NUMERO DA SUA ENTREVISTA AQUI) - (ADIICONAR O NOME DA SUA FUNCIONALIDADE AQUI)
+
+<center>
+
+[Link para o vídeo](ADICIONAR O LINK PARA A SUA ENTREVISTA NO YOUTUBE AQUI)
+
+<iframe width="1000vw" height="400vh" 
+
+src="ADICIONAR O LINK EMBED DA ENTREVISTA AQUI" 
+
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Vídeo (ADICIONAR O NUMERO DO VIDEO AQUI): Entrevista (ADICIONAR O NUMERO DA ENTREVISTA AQUI) - funcionalidade (ADICIONAR O NOME DA FUNCIONALIDADE AQUI)</p>
+
+Fonte: [COLOCAR SEU NOME](https://github.com/COLOCAR SEU NICK DO GITHUB).
+
+</center>
+
+<br>
+
+- **Coleta de dados:** foram adicionadas perguntas gerais sobre o entrevistado e sobre a análise de tarefa daquela funcionalidade em específico.<br><br>
+As perguntas e respostas estão explícitos abaixo na **tabela (ADICIONAR O NUMERO DA TABELA AQUI**:
+
+    <center>
+
+    | Número |                                                              Pergunta                                                               |     Respostas     |
+    | :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+    |   1    |                                                          Qual o seu nome?                                                           |    COLOCAR A RESPOSTA AQUI     |
+    |   2    |                                            Qual a sua idade?                                            |    COLOCAR A RESPOSTA AQUI    |
+    |   3    |                              Como avalia o seu grau de experiência tecnológica?                              |    COLOCAR A RESPOSTA AQUI     |
+    | 4 | Já utilizou algum site similar ao CBMERJ? |    COLOCAR A RESPOSTA AQUI    |
+    |   5   |  ADICIONAR A PERGUNTA REFERENTE A SUA ANÁLISE DE TAREFA EM ESPECIFICO    | COLOCAR A RESPOSTA AQUI |
+    |   5.1    |            ADICIONAR A PERGUNTA REFERENTE A SUA ANÁLISE DE TAREFA EM ESPECIFICO            |    COLOCAR A RESPOSTA AQUI    |
+    |   6   |     Você acha a funcionalidade interessante?     | COLOCAR A RESPOSTA AQUI  |
+    |   7   |                                        Você utilizaria tal funcionalidade? Porquê?                                        | COLOCAR A RESPOSTA AQUI    |
+    |   8   |                                  Sugestões/Melhorias                                  |    COLOCAR A RESPOSTA AQUI     |
+    |   9   |                               A sequência é coerente e funcional?                               |    COLOCAR A RESPOSTA AQUI     |
+
+    **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+    **Tabela (ADICIONAR O NUMERO DA TABELA AQUI)** - Roteiro de perguntas da entrevista.
+
+    </center>
+
+<br>
+
+- **Interpretação dos dados:** 
+    - ADICIONAR EM TÓPICOS O QUE FOI POSSÍVEL INTERPRETAR ATRAVÉS DOS DADOS OBTIDOS
+    <br><br>
+    - **Conclusão:** ADICIONAR CONCLUSÃO DO QUE FOI POSSIVEI CONCLUIR <br>
+
+- **Lista de problemas encontrados:** ADICIONAR EM TÓPICOS CASO TENHAM A LISTA DE PROBLEMAS ENCONTRADOS
+    - problema 1:
+        - descrição: 
+        - local: 
+        - impacto: 
+        - Solução: 
+        <br>
+    - problema 2:
+        - descrição: 
+        - local: 
+        - impacto: 
+        - Solução: 
+
+<br>
+
+- **Sugestões de melhoria:**
+
+    - ADICIONAR EM TÓPICOS AS SUGESTÕES DE MELHORIAS
+
+
+
+
+ -->
 
 
 ## Bibliografia

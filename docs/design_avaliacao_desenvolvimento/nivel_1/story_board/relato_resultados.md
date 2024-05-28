@@ -31,6 +31,8 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 A apresentação dos resultados será realizada conforme o [planejamento de relato dos resultados do storyboard](planejamento_relato_resultados.md), com o objetivo de extrair o máximo de informações da entrevista gravada, interpretar esses dados e desenvolver soluções de IHC.
 <br>
 
+Os dados como os objetivos, seleção dos participantes e metodologia já foram esclarecidos no planejamento, portanto, não os abordaremos no relato dos resultados.<br>
+
 No contexto dos Storyboards, abordaremos as perguntas gerais feitas e perguntas sobre os storyboards. Ademais, serão descritas as respostas coletadas.
 
 ## Entrevista 1 - Obter Declaração do registro de ocorrência
@@ -42,26 +44,15 @@ No contexto dos Storyboards, abordaremos as perguntas gerais feitas e perguntas 
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/7hFNSjZ4j2w?si=ULFbJQYSjXBjbHjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>Vídeo 1: Entrevista 1 - funcionalidade obter declaração de registro de ocorrência</p>
+
 Fonte: [Mariana Letícia](https://github.com/Marianannn).
 
 </center>
 
-
-- **Objetivos e escopos:**
-    - Analisar a sequência de passos necessárias para se chegar na funcionalidade e realizá-la.
-    - Analisar a verossimilhança da história.
-    - Adquirir sugestões de melhoria do storyboard.<br>
-
-- **Metodologia:** Investigação por entrevista<br>
-
-- **Seleção do participante:** o participante dessa entrevista se encaixa com o <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/">perfil do usuário</a> tanto por já ter utilizado o site como por ser do Rio de Janeiro.<br>
-
-- **Coleta de dados:** foi feita através de perguntas abertas e fechadas. Além disso, foram adicionadas perguntas gerais sobre o entrevistado e sobre o storyboard daquela funcionalidade em específico.<br><br>
-As perguntas e respostas estão explícitas abaixo na **tabela 2**:
+- **Coleta de dados:** foram adicionadas perguntas gerais sobre o entrevistado e sobre o storyboard daquela funcionalidade em específico.<br><br>
+As perguntas e respostas representando a coleta de dados da entrevista 1 estão explícitas abaixo na **tabela 2**:
 
 <center>
-
-
 
 | Número |                                                              Pergunta                                                               |     Respostas     |
 | :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
@@ -82,6 +73,8 @@ As perguntas e respostas estão explícitas abaixo na **tabela 2**:
 
 </center>
 
+<br>
+
 - **Interpretação dos dados:** 
     - No geral, o participante aparentou e explicitou, com o feedback, ter compreendido a funcionalidade de obter declaração dos registros de ocorrência.
     - O participante descreveu que a storyboard possui um contexto fácil de entender.
@@ -94,14 +87,87 @@ As perguntas e respostas estão explícitas abaixo na **tabela 2**:
 - **Lista de problemas encontrados:** 
     - problema 1:
         - descrição: dificuldade de leitura, onde tem uma letra muito pequena em uma das caixas de diálogo.
-        - local: aconteceu no oitavo quadrinho da tirinha.<br>
+        - local: aconteceu no oitavo quadrinho da tirinha.
         - impacto: não entendimento dessa parte da tirinha e consequentemente de um passo para se concluir a funcionalidade em questão.
         - Solução: melhorar legibilidade da letra a aumentando.
 
-- **Sugestão de melhoria:**
+- **Sugestões de melhoria:**
     - Uma  das sugestões foi aumentar a caixa de diálogo dos personagens do storyboard.
     - Aumentar a fonte da letra do storyboard.
     - Melhorar a qualidade do documento e da impressão.
+
+<!-- 
+--------------------------------------------------------------------------------------------------------------
+
+SEGUE ABAIXO O TEMPLATE DE RELATO DE RESULTADO DO STORYBOARD
+
+## Entrevista (adicionar o numero aqui) - Colocar o nome da entrevista
+
+<center>
+
+[Link para o vídeo](Adicionar o link do vídeo no youtube)
+
+<iframe width="1000vw" height="400vh" 
+
+src="COLOCAR EMBED O LINK AQUI" 
+
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Vídeo (ADICIONAR O NUMERO DA SUA FUNCIONALIDADE AQUI): Entrevista (ADICIONAR O NUMERO DA SUA FUNCIONALIDADE AQUI) - funcionalidade (ESCREVER O NOME DA SUA FUNCIONALIDADE AQUI)</p>
+
+Fonte: [COLOCAR SEU NOME](https://github.com/COLOCAR SEU NOME DO GITHUB).
+
+</center>
+
+- **Coleta de dados:** foram adicionadas perguntas gerais sobre o entrevistado e sobre o storyboard daquela funcionalidade em específico.<br><br>
+As perguntas e respostas representando a coleta de dados da entrevista 1 estão explícitas abaixo na **tabela (ADICIONAR O NUMERO DA TABELA AQUI)**:
+
+<center>
+
+| Número |                                                              Pergunta                                                               |     Respostas     |
+| :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+|   1    |                                                          Qual o seu nome?                                                           |    COLOCAR RESPOSTA     |
+|   2    |                                            Qual a sua idade?                                            |    COLOCAR RESPOSTA    |
+|   3    |                              Como avalia o seu grau de experiência tecnológica?                              |    COLOCAR RESPOSTA     |
+| 4 | Já utilizou algum site similar ao CBMERJ? |    COLOCAR RESPOSTA    |
+|   5   |  As sequências de passos apresentadas nos storyboards são claras e compreensíveis? |    COLOCAR RESPOSTA    |
+|   6    |            O contexto das histórias é facilmente compreendido pelo usuário?|    COLOCAR RESPOSTA    |
+|   7   |     Os elementos visuais utilizados nos storyboards são eficazes para transmitir a mensagem e guiar o usuário?| COLOCAR RESPOSTA  |
+|   8   |                                       Há alguma parte dos storyboards que possam causar confusão ou dificuldades para o usuário?|  COLOCAR RESPOSTA   |
+|   9   |                                  Você indica alguma mudança em específico nessa história? Qual?                                 |   COLOCAR RESPOSTA   |
+|   10   |                               A sequência de fatos é coerente e funcional?                               |    COLOCAR RESPOSTA     |
+
+**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+**Tabela (ADICIONAR O NUMERO DA TABELA AQUI)** - Roteiro de perguntas da entrevista.
+
+</center>
+
+<br>
+
+- **Interpretação dos dados:** 
+    - ADICIONAR O QUE INTERPRETOU DOS DADOS EM TÓPICOS
+    <br><br>
+    - **Conclusão:** ESCREVER UMA CONCLUSÃO DA INTERPRETAÇÃO <br>
+
+- **Lista de problemas encontrados:** 
+    - problema 1:
+        - descrição: 
+        - local: 
+        - impacto: 
+        - Solução: 
+        <br>
+    - problema 2:
+        - descrição: 
+        - local: 
+        - impacto: 
+        - Solução: 
+
+- **Sugestões de melhoria:**
+    - ADICIONAR EM TÓPICOS SUGESTÕES DE MELHORIA
+
+ -->
+
 
 ## Bibliografia
 
