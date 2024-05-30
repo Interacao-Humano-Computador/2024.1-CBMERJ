@@ -62,7 +62,7 @@
 Para essa reunião, foi autorizado pelo professor da disciplina gravar apenas o áudio. Foi permitido a nós um tempo para nos reunirmos durante a aula e aproveitamos e gravamos a reunião.
 
 <audio controls>
-    <source scr="./reunioes_audio/reuniao_5.mp4" type="audio/mp4">
+    <source scr="reunioes_audio/reuniao_5.mp4" type="audio/mp4">
 </audio>
 
 ## Próxima reunião
