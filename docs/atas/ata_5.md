@@ -1,0 +1,81 @@
+<h1 align="center"> Ata 5 </h1>
+
+**Redator(a):** Pedro Henrique
+
+## Data/Horário
+
+<p>Segue abaixo na tabela 1, informações sobre a data, horário e local onde ocorreu a reunião 1:</p>
+
+<center>
+**Tabela 1:** tabela de horário, data e local da reunião
+
+| Data | Horário | Local
+| :--: | :-----: |:----: 
+| 28/05/2024 | 09:40 | FGA
+
+</center>
+
+## Participantes
+
+<p>Segue abaixo na Tabela 2, informações sobre quais participantes estiveram presentes na reunião:</p>
+
+<center>
+**Tabela 2:**  tabela de participantes.
+
+| Participantes | Presentes na reunião 
+| :-----------: | :----------------------: 
+| [Bruna Lima](https://github.com/libruna) | sim
+| [Daniela Alarcão](https://github.com/danialarcao) | sim
+| [Genilson Silva](https://github.com/GenilsonJrs) | sim
+| [Lucas Avelar](https://github.com/LucasAvelar2711)| sim
+| [Mariana Letícia](https://github.com/Marianannn) | sim
+| [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) | sim
+
+</center>
+
+## Pautas
+
+- Análise dos artefatos da próxima entrega
+- Definição de quem irá fazer o planejamento da avaliação do protótipo de papel e do planejamento do relato de resultados do protótipo de papel
+- Analisar o andamento das entrevistas para a etapa 5
+
+
+## Assuntos tratados
+
+### Apresentação
+
+- Foram apresentadas as pautas
+- Foram apresentadas dúvidas em relação as etapas 5 e 6.
+
+### Definição
+
+- protótipo de papel, entrevistas e relatórios serão atividades individuais 
+- já os planejamentos de avaliação e dos resultados sobre o protótipo de papel deverão ser feitos em grupo
+
+#### Definição do cronograma de atividades da etapa
+
+- Para o planejamento da avaliação do protótipo de papel, Bruna Daniela e Lucas serão os responsáveis
+- Para o planejamento do relato dos resultados do protótipo de papel, Mariana, Pedro e Genilson serão os responsáveis
+
+## Gravação da Reunião
+
+Para essa reunião, foi autorizado pelo professor da disciplina gravar apenas o áudio. Foi permitido a nós um tempo para nos reunirmos durante a aula e aproveitamos e gravamos a reunião.
+
+<audio controls>
+    <source scr="./reunioes_audio/reuniao_5.mp4" type="audio/mp4">
+</audio>
+
+## Próxima reunião
+
+06/06/2024 às 20:00
+
+## Histórico de Versões
+
+<center>
+
+| Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
+| ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| `1.0`   | 28/05/2024 | criação da ata | [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) |   [Mariana Letícia](https://github.com/Marianannn)    | 
+| `3.0`   | 30/05/2024 | envio da ata ao githubpages | [Mariana Letícia](https://github.com/Marianannn) |   [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq)   | 
+
+</center>
