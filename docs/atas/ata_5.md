@@ -62,7 +62,11 @@
 Para essa reunião, foi autorizado pelo professor da disciplina gravar apenas o áudio. Foi permitido a nós um tempo para nos reunirmos durante a aula e aproveitamos e gravamos a reunião.
 
 <audio controls>
-    <source scr="reunioes_audio/reuniao_5.mp4" type="audio/mp4">
+    <source scr="./reunioes_audio/reuniao_5.mp4" type="audio/mp4">
+    <p>
+        Your browser doesn't support HTML5 audio. Here is a
+        <a href="./reunioes_audio/reuniao_5.mp4">link to the audio</a> instead.
+    </p>
 </audio>
 
 ## Próxima reunião
@@ -76,6 +80,6 @@ Para essa reunião, foi autorizado pelo professor da disciplina gravar apenas o 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 28/05/2024 | criação da ata | [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) |   [Mariana Letícia](https://github.com/Marianannn)    | 
-| `3.0`   | 30/05/2024 | envio da ata ao githubpages | [Mariana Letícia](https://github.com/Marianannn) |   [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq)   | 
+| `2.0`   | 30/05/2024 | adicionando conteúdo ao template de ata | [Mariana Letícia](https://github.com/Marianannn) |   [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq)   | 
 
 </center>
