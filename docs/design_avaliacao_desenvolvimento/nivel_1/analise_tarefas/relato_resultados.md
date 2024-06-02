@@ -97,7 +97,7 @@ As perguntas e respostas estão explícitos abaixo na **tabela 2**:
 
 [Link para o vídeo da entrevista](https://www.youtube.com/watch?v=tUOVAs36_io)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tUOVAs36_io?si=SD5xT0SuABTwP8VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/tUOVAs36_io?si=SD5xT0SuABTwP8VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 2: Entrevista 2 - Funcionalidade de Solicitar Ficha de Atendimento</p>
 
@@ -115,7 +115,7 @@ As perguntas e suas respectivas respostas podem ser encontradas na **Tabela 3** 
     | Número |      Pergunta                                                              |    Respostas                           |
     | :----: | :------------------------------------------------------------------------: | :------------------------------------ |
     |   1    | Observando a tarefa de Solicitação de Ficha de Atendimento, a sequência de processos é coerente? Se não, poderia descrever o porquê?  | Sim |
-    |   2    | Qual a sequência de passos que você realizaria para Solicitar a Ficha de Atendimento? | **1.** Solicitar o requerimento.<br>**2.** Selecionar o tipo de requerimento.<br>**3.** Upload da documentação.<br>**4.** Preenchimento das informações relacionadas.<br>**5.** Selecionar dia e horário para o atendimento;**6.** Aguardar confirmação do sistema. |
+    |   2    | Qual a sequência de passos que você realizaria para Solicitar a Ficha de Atendimento? | **1.** Solicitar o requerimento.<br>**2.** Selecionar o tipo de requerimento.<br>**3.** Upload da documentação.<br>**4.** Preenchimento das informações relacionadas.<br>**5.** Selecionar dia e horário para o atendimento.<br>**6.** Aguardar confirmação do sistema. |
     |   3    | Você gostaria de adicionar alguma sugestões de melhoria? | Não |                     
 
     **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
