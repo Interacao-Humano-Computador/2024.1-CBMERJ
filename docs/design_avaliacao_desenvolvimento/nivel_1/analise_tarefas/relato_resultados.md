@@ -16,8 +16,8 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 | [Daniela Alarcão](https://github.com/danialarcao) | João Vitor Merlim | 12:00 | 12:30 | 24/05/2024 | Agendamento de atendimento presencial | FGA |
 | [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
 | [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
-| [Bruna Lima](https://github.com/libruna) | Liander Medeiros | 14:30 | 15:00 |  31/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
-| [Genilson](https://github.com/GenilsonJrs) | Marina Márcia | 15:10 | 15:50 |  31/05/2024  |  Checar e Gerar Certificado de Vistoria | FGA |
+| [Bruna Lima](https://github.com/libruna) | Marina Márcia | 14:45 | 14:53 |  29/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
+| [Genilson](https://github.com/GenilsonJrs) |  | 15:10 | 15:50 |  31/05/2024  |  Checar e Gerar Certificado de Vistoria | FGA |
 
 <p style="text-align: center">Tabela 1: Cronograma executado de entrevistas</p>
 <p style="text-align: center">Fonte: Mariana Letícia</p>
@@ -89,6 +89,56 @@ As perguntas e respostas estão explícitos abaixo na **tabela 2**:
 
     - Uma  das sugestões que foi deixada pelo participante é uma listagem de declarações.
     - Uma outra sugestão foi uma pesquisa dessas declarações caso a listagem seja implementada.
+
+
+## Entrevista 2 - Solicitar Ficha de Atendimento
+
+<center>
+
+[Link para o vídeo da entrevista](https://www.youtube.com/watch?v=tUOVAs36_io)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tUOVAs36_io?si=SD5xT0SuABTwP8VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 2: Entrevista 2 - Funcionalidade de Solicitar Ficha de Atendimento</p>
+
+Fonte: [Bruna Lima](https://github.com/libruna).
+
+</center>
+
+<br>
+
+- **Coleta de dados:** Para a entrevista sobre a análise das tarefas da Solicitação de Ficha de Atendimento, foram realizadas perguntas tanto fechadas quanto abertas. A entrevistada foi a Mariana Márcia, de 23 anos, estudante da FGA.<br><br>
+As perguntas e suas respectivas respostas podem ser encontradas na **Tabela 3** abaixo:
+
+    <center>
+
+    | Número |      Pergunta                                                              |    Respostas                           |
+    | :----: | :------------------------------------------------------------------------: | :------------------------------------ |
+    |   1    | Observando a tarefa de Solicitação de Ficha de Atendimento, a sequência de processos é coerente? Se não, poderia descrever o porquê?  | Sim |
+    |   2    | Qual a sequência de passos que você realizaria para Solicitar a Ficha de Atendimento? | **1.** Solicitar o requerimento.<br>**2.** Selecionar o tipo de requerimento.<br>**3.** Upload da documentação.<br>**4.** Preenchimento das informações relacionadas.<br>**5.** Selecionar dia e horário para o atendimento;**6.** Aguardar confirmação do sistema. |
+    |   3    | Você gostaria de adicionar alguma sugestões de melhoria? | Não |                     
+
+    **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+    **Tabela 3** - Roteiro de perguntas da entrevista 2.
+
+    </center>
+
+<br>
+
+- **Interpretação dos dados:**
+    - Durante a entrevista, foi possível observar que a entrevistada considerou o diagrama da análise de tarefas claro e intuitivo;
+    - Após a explicação dos passos necessários para Solicitar a Ficha de Atendimento, ela conseguiu recriar facilmente o cenário e detalhar os passos para realizar a tarefa;
+    - Não foram identificadas dificuldades por parte dela em compreender os passos apresentados para realizar a atividade.<br><br>
+    - **Conclusão:** A entrevistada não enfrentou dificuldades durante a entrevista, sua capacidade de navegar pelo fluxo de forma tranquila sugere que a análise de tarefas é eficaz em comunicar as etapas de maneira clara.<br>
+
+- **Lista de problemas encontrados:** Não foram identificados problemas durante a entrevista. A participante não mencionou qualquer dificuldade em compreender as etapas do diagrama da análise de tarefas apresentado.<br>
+
+- **Sugestões de melhoria:** Dado que a entrevistada não apresentou problemas ou dificuldades durante a execução do fluxo, não há sugestões de melhoria a serem destacadas neste momento. 
+
+
+
+
 
 
 <!--
@@ -175,6 +225,7 @@ As perguntas e respostas estão explícitos abaixo na **tabela (ADICIONAR O NUME
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     |
-| `2.0`   | 25/05/2024 | Adição de Introdução e metodologia                        | [Mariana Letícia](https://github.com/Marianannn) |     |
-| `3.0`   | 25/05/2024 | Adição do relato de resultado da entrevista 1                        | [Mariana Letícia](https://github.com/Marianannn) |     |
+| `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
+| `2.0`   | 25/05/2024 | Adição de Introdução e metodologia                        | [Mariana Letícia](https://github.com/Marianannn) |   [Bruna Lima](https://github.com/libruna)  |
+| `3.0`   | 25/05/2024 | Adição do relato de resultado da entrevista 1                        | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
+| `4.0`   | 01/06/2024 | Adição do relato de resultado da entrevista 2                       | [Bruna Lima](https://github.com/libruna) |    |

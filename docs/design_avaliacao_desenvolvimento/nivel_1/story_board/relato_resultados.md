@@ -16,8 +16,8 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 | [Daniela Alarcão](https://github.com/danialarcao) | João Vitor Merlim | 12:00 | 12:30 | 24/05/2024 | Agendamento de atendimento presencial | FGA |
 | [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
 | [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
-| [Bruna Lima](https://github.com/libruna) | Liander Medeiros | 14:30 | 15:00 |  31/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
-| [Genilson](https://github.com/GenilsonJrs) | Marina Márcia | 15:10 | 15:50 |  31/05/2024  |  Checar e Gerar Certificado de Vistoria | FGA |
+| [Bruna Lima](https://github.com/libruna) | Marina Márcia | 14:45 | 14:53 |  29/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
+| [Genilson](https://github.com/GenilsonJrs) || 15:10 | 15:50 |  31/05/2024  |  Checar e Gerar Certificado de Vistoria | FGA |
 
 <p style="text-align: center">Tabela 1: Cronograma executado de entrevistas</p>
 <p style="text-align: center">Fonte: Mariana Letícia</p>
@@ -95,6 +95,56 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
     - Uma  das sugestões foi aumentar a caixa de diálogo dos personagens do storyboard.
     - Aumentar a fonte da letra do storyboard.
     - Melhorar a qualidade do documento e da impressão.
+
+
+## Entrevista 2 - Solicitar Ficha de Atendimento
+
+<center>
+
+[Link para o vídeo da entrevista](https://www.youtube.com/watch?v=tUOVAs36_io)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tUOVAs36_io?si=SD5xT0SuABTwP8VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 2: Entrevista 2 - Funcionalidade de Solicitar Ficha de Atendimento</p>
+
+Fonte: [Bruna Lima](https://github.com/libruna).
+
+</center>
+
+<br>
+
+- **Coleta de dados:** Para a entrevista sobre o storyboard da Solicitação de Ficha de Atendimento, foram realizadas perguntas tanto fechadas quanto abertas. A entrevistada foi a Mariana Márcia, de 23 anos, estudante da FGA.<br><br>
+As perguntas e suas respectivas respostas podem ser encontradas na **Tabela 3** abaixo:
+
+    <center>
+
+    | Número |      Pergunta                                                              |    Respostas                           |
+    | :----: | :------------------------------------------------------------------------: | :------------------------------------ |
+    |   1    | Observando o storyboard da Solicitação de Ficha de Atendimento, a sequência de passos é coerente? | Sim |
+    |   2    | O contexto da história é facilmente compreendido? | Sim, totalmente | 
+    |   3    | O contexto descrito no storyboard é um exemplo de uso dessa funcionalidade, você acredita que ele corresponde à realidade de uso? | Sim | 
+    |   4    | Você gostaria de adicionar alguma sugestões de melhoria? | Não |                     
+
+    **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+    **Tabela 3** - Roteiro de perguntas da entrevista 2.
+
+    </center>
+
+<br>
+
+- **Interpretação dos dados:**
+    - Durante a análise do storyboard, ficou evidente que a entrevistada achou a representação visual clara e compreensível;
+    - Ela conseguiu seguir facilmente a sequência de eventos e compreender as ações necessárias para avançar na história;
+    - Não foram identificadas dificuldades em compreender ou acompanhar a narrativa apresentada no storyboard.<br><br>
+    - **Conclusão:** A análise do storyboard revela que a participante não encontrou obstáculos durante a visualização e compreensão da história. Sua capacidade de acompanhar o fluxo da narrativa sugere que o storyboard é eficaz em comunicar as informações de maneira clara e coerente.<br>
+
+- **Lista de problemas encontrados:** Durante a análise do storyboard, não foram identificados problemas significativos. A participante conseguiu seguir a história sem dificuldades.<br>
+
+- **Sugestões de melhoria:** Dado que a participante não apresentou problemas ou dificuldades durante a visualização do storyboard, não há sugestões de melhoria a serem destacadas.
+
+
+
 
 <!-- 
 --------------------------------------------------------------------------------------------------------------
@@ -176,6 +226,7 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     |
-| `2.0`   | 25/05/2024 | Adição de Introdução                        | [Mariana Letícia](https://github.com/Marianannn) |     |
-| `3.0`   | 25/05/2024 | Adição de relato de resultados 1                        | [Mariana Letícia](https://github.com/Marianannn) |     |
+| `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
+| `2.0`   | 25/05/2024 | Adição de Introdução                        | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)     |
+| `3.0`   | 25/05/2024 | Adição de relato de resultados 1                        | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)   |
+| `4.0`   | 02/06/2024 | Adição de relato de resultados 2                       |  [Bruna Lima](https://github.com/libruna)  |     |
