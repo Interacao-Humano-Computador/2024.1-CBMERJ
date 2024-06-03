@@ -13,7 +13,7 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 |    Entrevistador(es)   | Entrevistado(s)   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
 | :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
 | [Mariana Letícia](https://github.com/Marianannn) | Bernardo Machado | 10:00 | 10:15 | 24/05/2024 | Solicitar declaração de registro de ocorrência  | FGA |
-| [Daniela Alarcão](https://github.com/danialarcao) | João Vitor Merlim | 12:00 | 12:30 | 24/05/2024 | Agendamento de atendimento presencial | FGA |
+| [Daniela Alarcão](https://github.com/danialarcao) | Felipe da Silva Xavier Pereira | 17:00 | 17:04 | 28/05/2024 | Agendamento de atendimento presencial | PGJM |
 | [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
 | [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
 | [Bruna Lima](https://github.com/libruna) | Marina Márcia | 14:45 | 14:53 |  29/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
@@ -136,7 +136,54 @@ As perguntas e suas respectivas respostas podem ser encontradas na **Tabela 3** 
 
 - **Sugestões de melhoria:** Dado que a entrevistada não apresentou problemas ou dificuldades durante a execução do fluxo, não há sugestões de melhoria a serem destacadas neste momento. 
 
+## Entrevista 3 - Agendamento de Atendimento Presencial
 
+<center>
+[Link para o vídeo da entrevista](https://youtu.be/Lt-4Gh-kDgg?si=FAY51G0M0CZZiijN)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lt-4Gh-kDgg?si=lqZHO5Cy03MrOMNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 3: Entrevista 3 - Agendamento de Atendimento Presencial</p>
+
+Fonte: [Daniela Alarcão](https://github.com/danialarcao).
+</center><br>
+
+<ul>
+<li><p style="text-align: justify;"><strong>Coleta de dados: </strong> Para a entrevista acerca do Agendamento de Atendimento Presencial foram realizadas tanto perguntas fechadas quanto abertas. O entrevistado é o Felipe da Silva Xavier Pereira, de 23 anos, servidor público do Ministério Público Militar.<br><br>
+As perguntas e suas respectivas respostas podem ser encontradas na <strong>Tabela 4 </strong> abaixo:</li></p>
+</ul>
+
+<center>
+
+| Número |      Pergunta        |    Respostas                           |
+| :----: | :------------------------------------------------------------------------: | :------------------------------------ |
+|   1    | Qual o seu nome?  | Felipe. |
+|   2    | Qual a sua idade? | 23. |
+|   3    | Como você avalia o seu grau de conhecimento tecnológico? | Alto. |                     
+|   4    | Você já utilizou o site do Corpo de Bombeiros Militar do Rio de Janeiro ou algum similar? | Sim. |                           
+|   5    |  Você acha a funcionalidade interessante? | Sim.|  
+|   6    |  Você acha interessante que ao realizar o agendamento de atendimento presencial o sistema apresente a geolocalização do local? | Sim, para facilitar o acesso ao local.|     
+|   7    |  Sugestão/Melhoria | Disponibilizar a funcionalidade de realizar remarcação e cancelamento de agendamentos.|              
+
+**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+**Tabela 4** - Roteiro de perguntas da entrevista 3.
+</center>
+
+<br>
+
+<ul><strong>Interpretação dos dados: </strong>
+    <li><p style="text-align: justify;"> O entrevistado conseguiu compreender a utilidade da funcionalidade e sua respectiva sequência de passos sem dificuldades. </p></li>
+    <li> O entrevistado conseguiu fornecer bons feedbacks. </li>
+    <ul>
+    <li><p style="text-align: justify;"><strong>Conclusão:</strong> Como o entrevistado não enfrentou dificuldades durante a entrevista e conseguiu compreender o fluxo da funcionalidade de forma tranquila, é possível concluir que a análise de tarefas é eficaz em comunicar as etapas de maneira clara.</p></li>
+    </ul>
+<ul><strong>Lista de problemas encontrados: </strong>
+<li> O andamento da entrevista não enfrentou quaisquer problemas. Tudo fluiu bem.</li>
+</ul>
+<ul><strong>Sugestões de melhoria: </strong>
+<li>Acrescentar ao fluxo da funcionalidade a possibilidade de reagendar ou cancelar agendamentos. </li>
+</ul></ul>
 
 
 
@@ -229,3 +276,4 @@ As perguntas e respostas estão explícitos abaixo na **tabela (ADICIONAR O NUME
 | `2.0`   | 25/05/2024 | Adição de Introdução e metodologia                        | [Mariana Letícia](https://github.com/Marianannn) |   [Bruna Lima](https://github.com/libruna)  |
 | `3.0`   | 25/05/2024 | Adição do relato de resultado da entrevista 1                        | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
 | `4.0`   | 01/06/2024 | Adição do relato de resultado da entrevista 2                       | [Bruna Lima](https://github.com/libruna) |    |
+| `5.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 3                       | [Daniela Alarcão](https://github.com/danialarcao) |    |
