@@ -1,5 +1,8 @@
 ## Introdução
 
+A avaliação é crucial para o desenvolvimento de um projeto, especialmente na etapa de ideação com recolhimento dos dados. Ela nos oferece a perspectiva do usuário, ajudando a verificar se a funcionalidade atende aos seus interesses.
+
+Por isso, é essencial planejar como relatar os resultados dessa avaliação. Isso permite validar os resultados com os participantes e identificar problemas e sugestões de melhorias. Organizar e extrair esses dados de maneira eficiente nos orientará durante o desenvolvimento do projeto.
 
 
 
@@ -17,6 +20,16 @@
 
 ## Metodologia
 
+Utilizando como base alguns pontos cruciais evidenciados por Barbosa e Silva  em seu livro Iteração Humano Computador (1) na etapa de planejamento de avaliação, analisaremos os seguintes tópicos que serão utilizados posteriomente na construção do relato dos resultados das analises de tarefas: 
+
+1. Objetivo e Escopo;
+2. Métodos;
+3. Seleção de participantes;
+4. Coleta de dados;
+5. Interpretação de dados;
+6. Lista de problemas encontrados;
+7. Sugestões e Melhorias;
+8. Reprojeto.
 
 
 
@@ -36,6 +49,11 @@
 
 ### Objetivos e escopos
 
+O objetivo desta análise é identificar problemas de usabilidade e melhorar as funcionalidades, focando em aprimorar a experiência do usuário ao usar funções como Checar e Gerar Certificado.
+
+O escopo inclui todas as interações relacionadas a essas funcionalidades, como navegação, acesso e obtenção de informações.
+
+Essas melhorias ajudarão a completar o relatório de análise de tarefas, proporcionando uma visão clara e abrangente dos problemas identificados. O relatório também incluirá sugestões de melhorias e um plano de reprojeto para aprimorar a usabilidade do sistema.
 
 
 
@@ -53,6 +71,7 @@
 
 ### Métodos
 
+O método para a avaliação do protótipo de papel será conduzido por meio de observação e entrevista. Durante essa avaliação, os entrevistados interagirão de forma fictícia com o site utilizando papeis representando as interfaces. Um observador anotará todas as interações e observações, enquanto outra pessoa atuará como "máquina", movendo os papéis conforme os botões são clicados. Um facilitador estará presente para auxiliar o usuário em caso de dificuldades. Após a interação, conduziremos uma entrevista onde os avaliadores discutirão as tarefas realizadas e farão perguntas para esclarecer dúvidas, capturando dados para análise posterior.
 
 
 
