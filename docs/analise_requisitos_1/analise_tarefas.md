@@ -77,22 +77,27 @@ Regras de Seleção (Selection Rules): As regras de seleção determinam qual m�
 ![](img/ctt-diagrama1.png)
 <p align="center">Figura 2 - Diagrama da Árvores de Tarefas Concorrentes da "Solicitação de Ficha de Atendimento" (Fonte: Bruna Lima, 2024). </p>
 
-### 2. Locais certificados
-<p style="text-align: justify;">A aba "Locais certificados" é uma funcionalidade que disponibiliza uma relação de locais de Diversões Públicas autorizados a funcionar. Para a análise dessa funcionalidade, foram aplicadas as técnicas de Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes. </p>
+### 2. Agendamento de atendimento presencial
+<p style="text-align: justify;">Agendamento de atendimento presencial é uma funcionalidade importante que permite ao usuário resolver suas pendencias presencialmente. Para a análise dessa funcionalidade, foram aplicadas as técnicas de Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes. </p>
 
 **Análise Hierárquica de Tarefas:** A tabela 2 apresenta a análise hierárquica dessa tarefa em sua forma textual.
 
 |    Objetivos/Operações    |    Problemas e recomendações    |
 | :-----------------------: | ------------------------------- | 
-| 0. Acessar a lista de Locais de Diversões Públicas Autorizados a funcionar 1 + 2. | **input:** Acessar o menu de cidadão na tela inicial.<br> **feedback:** Apresentar a lista de locais autorizados. <br> **plano:** Exibir informações atualizadas sobre os locais de diversão pública autorizados.<br> **recomendação:** Implementar filtros de pesquisa para facilitar a localização dos estabelecimentos. | 
-| 1. Visualizar dados dos locais e suas autorizações 1 + 2.  | **plano:** Exibir informações detalhadas sobre cada local, incluindo: nome, endereço, capacidade de lotação, validade da autorização, classificação da finalidade da edificação e responsáveis pela edificação. |
-| 2. Confirmar a disponibilidade da lista atualizada. | **ação:** Disponibilizar lista para visualização e download. <br>**recomendação:** Garantir que a lista seja regularmente atualizada para refletir as mais recentes autorizações concedidas.  |
-| 3. Facilitar o acesso à informação. | **ação:** Disponibilizar uma interface de fácil navegação e busca rápida. <br>**recomendação:** Certificar-se de que a plataforma seja acessível em diferentes dispositivos e navegadores. |
-<p align="center">Tabela 2 - Análise hierárquica da aba "Locais certificados" (Fonte: Daniela Alarcão, 2024). </p>
+| 0. Acessar a página de agendamento de atendimento presencial. | **input:** Acessar o site do corpo de bombeiros do estado do Rio de Janeiro.<br> **feedback:** Apresentar a página de agendamento de atendimento presencial. | 
+| 1. Selecionar o tipo de atendimento  | **plano:** Exibir uma lista de tipos de atendimentos.<br> **feedback:** Apresentar detalhes sobre cada tipo de atendimento e o que é necessário para realizá-los. |
+| 2. Preencher informações pessoais e de agendamento. | **plano:** Solicitar nome, CPF, endereço, telefone, e-mail e atendimento desejado ao solicitante. <br>**recomendação:** Implementar preenchimento automático, permitir edição fácil de informações e marcar campos obrigatórios.|
+| 3. Escolher data e horário disponíveis para o atendimento. | **ação:** Disponibilizar uma relação das datas e horários disponíveis. <br>**recomendação:** Garantir que as datas e horários sejam atualizados em tempo real para refletir a disponibilidade atual.<br> **feedback:** Mostrar data e horário escolhidos. |
+| 4. Confirmar e finalizar agendamento. | **ação:** Disponibilizar uma relação de todas as informações inseridas para revisão final. <br> **feedback:** Enviar confirmação do agendamento por e-mail/SMS com as informações mais relevantes. |
+| 5. Reagendar ou cancelar agendamento. | **input:** Permitir ao usuário acessar seus agendamentos. <br> **ação:** Possibilitar a seleção de nova data e horário ou cancelar agendamento. <br> **feedback:** Enviar confirmação do reagendamento ou cancelamento por e-mail/SMS. |
+
+<p align="center">Tabela 2 - Análise hierárquica da funcionalidade "Agendamento de Atendimento Presencial" (Fonte: Daniela Alarcão, 2024). </p>
 
 **Árvores de Tarefas Concorrentes:** A figura 3 apresenta a análise dessa tarefa, representada em diagrama, com o uso da técnica de Árvores de Tarefas Concorrentes. 
-![](img/ÁrvoreDani.png)
-<p align="center">Figura 3 - Diagrama da Árvores de Tarefas Concorrentes de "Locais certificados" (Fonte: Daniela Alarcão, 2024). </p>
+
+--- Inserir imagem!
+
+<p align="center">Figura 3 - Diagrama da Árvores de Tarefas Concorrentes do "Agendamento de atendimento presencial" (Fonte: Daniela Alarcão, 2024). </p>
 
 
 ### 3. Sistema de gestão de emergências integrado
@@ -241,3 +246,4 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 | `1.6`   | 06/05/2024 | Adição da tarefa 6 "sistema UPO"                    | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Genilson Silva](https://github.com/GenilsonJrs)        |
 | `2.0`   | 17/05/2024 | Alteração da análise de tarefa 04                       | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)         |
 | `2.1`   | 17/05/2024 | Atualização da análise de tarefa 01                  | [Bruna Lima](https://github.com/libruna) |   |
+| `2.2`   | 03/06/2024 | Alteração da análise de tarefa 02                  | [Daniela Alarcão](https://github.com/danialarcao) |   |
