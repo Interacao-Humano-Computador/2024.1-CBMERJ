@@ -100,9 +100,9 @@ Regras de Seleção (Selection Rules): As regras de seleção determinam qual m�
 <p align="center">Figura 3 - Diagrama da Árvores de Tarefas Concorrentes do "Agendamento de atendimento presencial" (Fonte: Daniela Alarcão, 2024). </p>
 
 
-### 3. Sistema de gestão de emergências integrado
+### 3. Checar e Gerar Certificado
 
-O acesso a funcionalidade de Comunicação de Emergência refere-se a um meio de comunicação robusto que permite a coordenação eficiente entre os bombeiros, serviços de emergência e outras agências relevantes. Isso pode incluir mensagens de texto em massa, alertas de emergência e comunicação por voz em tempo real.
+O acesso a funcionalidade de Checar e Gerar Certificado refere-se a um meio de ver o estágio do andamento da solicitação de um certificado de forma simples e rápida, podendo checar a prontidão e posteriormente descarregar o arquivo. Também é possível acessar certificados já solicitados anteriormente e descarrega-los quando desejado.
 
 Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes.
 
