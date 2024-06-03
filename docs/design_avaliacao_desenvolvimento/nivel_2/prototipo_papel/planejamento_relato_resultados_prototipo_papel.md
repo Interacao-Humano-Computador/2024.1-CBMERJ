@@ -127,69 +127,22 @@ Durante a fase de interpretação de dados, os avaliadores farão uma reunião e
 
 
 ### Lista de problemas
+Durante a fase de avaliação do protótipo de papel, poderemos identificar diversos gargalos e erros, desde dificuldades de navegação do protótipo até inconsistências na apresentação das informações, que aconteceram durante a avaliação ou poderão ocorrer no desenvolvimento do projeto. Desta forma, torna-se crucial documentar de forma detalhada cada problema que for encontrado, destacando sua gravidade e uma forma de solucioná-los.
 
+ Portanto, cabe ao avaliador designado as anotações, descrever os erros que forem encontrados durante a entrevista e levantados pelo entrevistado. Posteriormente, é  dever da equipe, avaliar novamente a entrevista, buscando possíveis problemas que podem ter ocorrido e adiciona-los na lista para uma perspectiva mais ampla. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Assim, nessa parte do relato, deverá conter uma lista com os problemas que foram identificados.
 
 
 
 ### Sugestões e Melhorias
+Durante a avaliação, o entrevistado poderá fazer tanto comentários acerca de sugestões e melhorias da apresentação em si, quanto em relação as tarefas e funcionalidades do protótipo de papel, podendo envolver desde ajustes na interface até a inclusão de novos recursos. Desta forma, cabe aquele responsável por fazer anotações e descrições da entrevista, listar todas as sugestões dispostas pelo usuário. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Portanto, nessa etapa, será listado todas as sugestões e melhorias relacionadas a cada protótipo de papel realizado.
 
 
 ### Reprojeto
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Após identificarmos os problemas e sugestões de melhorias, será necessário realizar um processo de reprojeto do protótipo de papel, tentando abordar as questões levantadas durante a avaliação, tendo como objetivo mitigar erros e atender as necessidades e expectitvas do usuário de forma adequada. Desta forma, nessa etapa, os avaliadores devem filtrar os problemas e sugestões de acordo com a sua funcionalidade, identificando qual dessas sugestões e erros fazem sentido e ajustando-as conforme necessidade. 
 
 
 ## Biografia
@@ -205,3 +158,4 @@ Durante a fase de interpretação de dados, os avaliadores farão uma reunião e
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 28/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     |
+| `2.0`   | 03/06/2024 | Adição da lista de problemas, sugestões e reprojeto                         | [Pedro Henrique](https://github.com/PedroHhenriq) |     |
