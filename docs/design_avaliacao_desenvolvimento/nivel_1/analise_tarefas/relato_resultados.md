@@ -186,6 +186,70 @@ As perguntas e suas respectivas respostas podem ser encontradas na <strong>Tabel
 <li>Acrescentar ao fluxo da funcionalidade a possibilidade de reagendar ou cancelar agendamentos. </li>
 </ul></ul>
 
+## Entrevista  4 - Curso do Corpo de Bombeiros - Acidentes Domiciliares
+
+<center>
+
+[Link para o vídeo da apresentação](https://youtu.be/C9hIDaj0WCw)
+
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/C9hIDaj0WCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Vídeo : Entrevista 4 - Curso do Corpo de Bombeiros - Acidentes Domiciliares </p>
+
+Fonte: [Pedro Henrique](https://github.com/PedroHhenriq).
+
+</center>
+
+<br>
+
+- **Coleta de dados:** Para a entrevista dessa etapa da funcionalidade do Curso do Corpo de Bombeiros - Acidentes domicilares, foi apresentado a analise de tarefas realizada e posteriormente uma série de perguntas específicas sobre a temática e algumas gerais sobre a funcionalidade em si, assim como também foi sugerido abertura para comentários e sugestões. Além disso, como essa entrevista foi conduzida logo após a entrevista do Storyboard, aproveitamos os dados colhidos das perguntas introdutórias sobre o entrevistado. <br><br>
+Desta maneira a entrevistada foi Lorrane, de 23 anos, gruanda em Fisioterapia. Assim, as perguntas com suas respectivas respostas podem ser encontradas na **Tabela 5** abaixo: 
+    <center>
+
+    | Número |                                                              Pergunta                                                               |     Respostas     |
+    | :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+    |   1    |  Qual o seu nome?  |    Lorrane     |
+    |   2    | Qual a sua idade?                                            |    23   |
+    |   3    | Qual é o seu nível de escolaridade |    Graduanda em Fisioterapia     |
+    |   4    |  Como avalia o seu grau de experiência tecnológica? |   Bom     |
+    | 5 | Já utilizou algum site similar ao CBMERJ? |    Já sim. O site do Sus.    |
+    |   6   |  Você já fez algum curso on-line? |   Já sim. Fiz pelo SuS, o curso de Primeiro Socorros.     |
+    |   7    | Como foi sua experiência e  ele teve a ver de ter segurança ou primeiros socorros? |  Teve haver com primeiro socorros. Foi uma experiência legal, deu para aprender muita coisa.  |
+    |   8   |    O que você teria interesse de aprender no curso dos bombeiros?  |   Eu acho que essas coisas relacionadas a manobras de desengagos, acidentes domésticos, tanto com crianças como idosos.     |
+    |   9   | Como você aprenderia melhor ou mais eficientemente? (videos, texto, slides, prática) | Acho que vídeo, porque o vídeo a pessoa fica mais tentada a assistir, enquanto texto fica um pouco cansativo e as pessoas podem não prestar tanta atenção.   |
+    |   10   | Em quanto tempo você gostaria de garantir o certificado?   |   Acredito que tenha que ser um certificado a médio prazo, entre 3 semanas, por aí. Acho que seria um tempo ideal, porque muitas pessoas trabalham e tem seus afazeres do dia a dia, então não possuem muito tempo para se dispor a fazer cursos.     |
+    |   11   | Você tem alguma sugestão ou comentário sobre a funcionalidade de cursos online no site dos bombeiros?  ?  | Não tenho nenhum comentário, acredito que tenha ficado claro.  |
+    |   12   |  Você acha a funcionalidade interessante? | Acho muito interessante, porque as pessoas precisam aprender a como agir e evitar esses acidentes.  |
+    |   13  |  Você utilizaria tal funcionalidade? | Sim, porque no nosso dia a dia pode acontecer tanto com a gente quanto com idosos ou crianças que estão dentro do nosso lar.   |
+    |   14   |  Sugestões/Melhorias | Não tenho.  |
+    |   15   |  A sequência é coerente e funcional? | Foi sim.  |
+
+
+    **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+    **Tabela 5** - Roteiro de perguntas da entrevista.
+
+    </center>
+
+<br>
+
+- **Interpretação dos dados:** 
+    - Identificamos que a entrevistada já havia tido familiaridade com um site semelhante antes, além de ter previamente realizado um curso de primeiro socorros, o que pode ter auxiliado em compreender aquilo que foi explanado; 
+    - Além de parecer ter tido um rendimento proveitoso em seu antigo curso, a entrevistada parece interessada no curso do Corpo de Bombeiros e diz que o utilizaria para aprender como agir em acidentes domiciliares e como se precaver deles; 
+    - Foi sugerido que vídeos seriam uma forma mais adequada para aprender e o ideal de tempo para conclusão desse curso seria entre 3 semanas;  
+    - Por fim, a sequência da analise de tarefas parece ter sido apresentada de forma, clara, coerente e funcional para a entrevistada. <br><br>
+    **Conclusão:** Portanto, em relação a analise de tarefas concluimos que a fluxo de tarefas parece ter sido compreendido de forma clara e eficiente. Além disso, podemos identificar que a melhor forma de conduzir os conteúdos dentro dos módulos do curso seria por meio de vídeos. Não obstante, também foi analisado que o tempo ideal para esse curso seria disposto mais ou menos entre 3 semanas, uma vez que o cidadão poderia estar muito atarefado ou trabalhar. Por fim, podemos concluir que a ideação de um curso de acidentes domiciliares parece ser proveitoso, uma vez que a entrevistada ficou interessada, demonstrou que se inscreveria no curso e acredita ser uma ferramenta interessante para precaver e auxiliar em caso de acidentes principalmente para aqueles que possuem idosos ou crianças em casa. 
+
+- **Lista de problemas encontrados:** 
+    - O fluxo da entrevista foi conduzido de forma que não apresentasse muitos problemas em relação ao entedimento do entrevistado. 
+    - Por conta disso, a entrevistada não apresentou nenhum problema com a analise de tarefas em si ou com a funcionalidade. 
+    
+    Como a entrevista foi realizada logo em seguida a entrevista do Storyboard, destacam-se alguns mesmos problemas já listados:
+    - O local escolhido pode ter sido inadequado, por conta de alguns barulhos, que apesar de não bloquear as falas, pode distrair aqueles que assistem o vídeo. 
+    - O aparelho utilizado na primeira gravação, havia memória cheia, o que fez com que perdesse uma pequena parte e tivesse que regravar. 
+
+- **Sugestões de melhoria:**
+    - Uma vez que as relações das tarefas e a forma como foi conduzida e explicada pareceu ter sido bastante clara para a entrevistada, não foi apresentado nenhuma sugestão ou melhoria em relação a Analise de Tarefas em si. Além disso, também não houve sugestão em relação a possíveis tarefas ou ideias que podem auxiliar em aperfeiçoar alguma delas.
 
 
 
@@ -278,3 +342,4 @@ As perguntas e respostas estão explícitos abaixo na **tabela (ADICIONAR O NUME
 | `3.0`   | 25/05/2024 | Adição do relato de resultado da entrevista 1                        | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
 | `4.0`   | 01/06/2024 | Adição do relato de resultado da entrevista 2                       | [Bruna Lima](https://github.com/libruna) |    |
 | `5.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 3                       | [Daniela Alarcão](https://github.com/danialarcao) |    |
+| `6.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 4                    | [Pedro Henrique](https://github.com/PedroHhenriq) |    |

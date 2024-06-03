@@ -193,6 +193,62 @@ As perguntas e suas respectivas respostas podem ser encontradas na <strong>Tabel
 <li>Quanto à análise do storyboard, o entrevistado recomendou alterações na sequência de passos nos eventos finais, para que a história tenha mais compatibilidade com a vida real. </li>
 </ul></ul>
 
+## Entrevista  4 - Curso do Corpo de Bombeiros - Acidentes Domiciliares
+
+<center>
+
+[Link para o vídeo da apresentação](https://youtu.be/C9hIDaj0WCw)
+
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/C9hIDaj0WCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Vídeo : Entrevista  - Curso do Corpo de Bombeiro - Acidentes Domiciliares</p>
+
+Fonte: [Pedro Henrique](https://github.com/PedroHhenriq).
+
+</center>
+
+- **Coleta de dados:** Para a entrevista do Storyboard do Curso do Corpo de Bombeiros - Acidentes domicilares, foi inicialmente estabelecido algumas perguntas introdutórias para conhecer o entrevistado e logo em seguida apresentado um cenário do Storyboard da funcionalidade desenhado em papel que contemplaria uma situação possível em que um usuário poderia se inscrever no curso. Além disso, após a apresentação foram realizadas algumas outras perguntas mais gerais sobre o Storyboard, assim como um abertura para comentários ou sugestões.  <br><br>
+ Assim, as perguntas com suas respecitivas respostas podem ser encontradas na **Tabela 5** abaixo: 
+
+
+<center>
+
+| Número |                                                              Pergunta                                                               |     Respostas     |
+| :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+|   1    | Qual o seu nome? |    Lorrane    |
+|   2    | Qual a sua idade? |    23     |
+|   3    | Qual é o seu nível de escolaridade |    Graduanda em Fisioterapia     |
+|   4    | Como avalia o seu grau de experiência tecnológica? |   Bom     |
+| 5 | Já utilizou algum site similar ao Corpo de Bombeiros?  |    Já sim. O site do Sus.    |
+|   6   |  As sequências de passos apresentadas nos storyboards são claras e compreensíveis? |    Sim    |
+|   7    | O contexto das histórias é facilmente compreendido pelo usuário?|    Foi sim    |
+|   8   | Os elementos visuais utilizados nos storyboards são eficazes para transmitir a mensagem e guiar o usuário?| Sim |
+|   9   |  Há alguma parte dos storyboards que possam causar confusão ou dificuldades para o usuário?|  Não   |
+|   10   |  Você indica alguma mudança em específico nessa história? Qual? |   Também não   |
+|   11   | A sequência de fatos é coerente e funcional? |    Sim     |
+
+**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+**Tabela 5** - Roteiro de perguntas da entrevista.
+
+</center>
+
+<br>
+
+- **Interpretação dos dados:** 
+    - Identificamos, por meio de suas respostas, que a entrevistada parece ter compreendido claramente o Storyboard;
+    - Além disso, não aparenta ter demonstrado qualquer confusão em entender os elementos dispostos nem quanto a explanação do cenário;
+    - Por fim, a sequência e fluxo parece ter sido colocada de forma coerente e a mensagem que o Storyboard buscava transmitar parece ter sido capitada de formada adequada.
+    - **Conclusão:** Desta forma, podemos concluir, a partir da perspectiva da entrevistada, que o Storyboard apresenta um cenário de forma clara, os elementos parecem ter sido construídos de forma adequada e a mensagem parece ter sido transmitida sem qualquer tipo de confusão. <br>
+
+- **Lista de problemas encontrados:** 
+    - A entrevista não parece ter demonstrado problemas em relação a apresentação em si do Storyboard, uma vez que a entrevistada parece ter compreendido adequadamente, conforme podemos avalidar das respostas obtidas por ela.  
+    - No entanto, foi observado que o local escolhido pode ter sido inadequado, por conta de alguns barulhos, que apesar de não bloquear as falas, pode distrair aqueles que assistem o vídeo. 
+    - Além disso, em relação ao aparelho utilizado na primeira gravação, foi observado que ele havia memória cheia, o que fez com que perdesse uma pequena parte e tivesse que regravar. 
+
+
+- **Sugestões de melhoria:**
+    - Conforme podemos identificar por meio dos dados obtidos, o Storyboard parace ter ficado bastante claro, e sendo assim, não foi levantado ou apresentado por parte da entrevistada qualquer tipo de sugestão ou melhoria em relação ao Storyboard em si. 
 
 
 
@@ -281,3 +337,4 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 | `3.0`   | 25/05/2024 | Adição de relato de resultados 1                        | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)   |
 | `4.0`   | 02/06/2024 | Adição de relato de resultados 2                       |  [Bruna Lima](https://github.com/libruna)  |     |
 | `5.0`   | 03/06/2024 | Adição de relato de resultados 3                       |  [Daniela Alarcão](https://github.com/danialarcao)  |     |
+| `6.0`   | 03/06/2024 | Adição de relato de resultado 4                    | [Pedro Henrique](https://github.com/PedroHhenriq) |    |
