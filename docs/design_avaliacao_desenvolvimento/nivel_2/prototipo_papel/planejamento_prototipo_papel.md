@@ -1,4 +1,5 @@
 ## Introdução
+A avaliação de usabilidade é uma etapa essencial no desenvolvimento de sistemas interativos, proporcionando insights valiosos sobre a eficácia e eficiência da interface projetada. Utilizando o framework DECIDE, podemos estruturar nossa avaliação de maneira sistemática e focada nos objetivos e necessidades dos usuários. 
 
 ## Metodologia 
 <p style="text-align: justify;">Para o planejamento da avaliação do protótipo de papel, a metodologia escolhida utiliza o framework DECIDE. O nome <strong>DECIDE</strong> é um acrônimo, onde cada letra da palavra representa uma etapa a ser realizada no planejamento, conforme descrito a seguir:</p>
@@ -10,14 +11,22 @@
 - <strong>D:</strong> Decidir sobre as questões éticas;
 - <strong>E:</strong> Examinar e interpretar os dados apresentados.
 
-
 ## D - Determinar objetivos 
+Os objetivos desta avaliação são identificar problemas de usabilidade na funcionalidade de cursos online do site dos bombeiros e verificar se o protótipo de papel atende às expectativas dos usuários em termos de facilidade de uso e eficiência. Estes objetivos são cruciais para garantir que a funcionalidade proposta não só atenda aos requisitos dos usuários, mas também seja intuitiva e de fácil navegação.
 
 ## E - Explorar perguntas
+Com base nos objetivos determinados, as seguintes perguntas serão exploradas durante a avaliação:
+
+1. *A funcionalidade de navegação pelos cursos é intuitiva para os usuários?*
+2. *Os usuários conseguem facilmente encontrar a funcionalidade?* 
+3. *Há algum ponto de confusão ou dificuldade durante o uso do protótipo?*
+4. *Os usuários consideram a interface amigável e eficiente?*
+5. *O sistema fornece feedback adequado durante a navegação?*
+
+Essas perguntas ajudam a operacionalizar a investigação, direcionando o foco para aspectos específicos da usabilidade que são críticos para a funcionalidade em questão .
 
 ## C - Escolher método
 <p style="text-align: justify;"> O método escolhido para a avaliação foi o <strong>"prototipação em papel"</strong>. Esse método avalia a usabilidade do protótipo através de simulações de uso com a participação de usuários. Neste método, cada membro da equipe atuará como um "computador", simulando em papel a execução do sistema e suas respostas às ações do usuário. </p>
-
 
 ## I - Identificar questões práticas 
 
@@ -60,12 +69,12 @@ Na Tabela 1, apresentamos o cronograma planejado das sessões para avaliação d
   
 |    Avaliadores         | Participante      | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
 | :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
-| [Bruna Lima](https://github.com/libruna) e |  |  |  |  | Solicitação de Ficha de Atendimento | FGA |
-| [Daniela Alarcão](https://github.com/danialarcao) e |  |  |  |  | Agendamento de atendimento presencial | FGA |
-| [Genilson](https://github.com/GenilsonJrs) e |  |  |  |  |  Checar e Gerar Certificado de Vistoria | FGA |
-| [Lucas Avelar](https://github.com/LucasAvelar2711) e |  |  |  |  | CB Cursos 1 | FGA |
-| [Mariana Letícia](https://github.com/Marianannn) e |  |  |  |  | Solicitar declaração de registro de ocorrência | FGA |
-| [Pedro Henrique](https://github.com/PedroHhenriq) e |  |  |  | | CB Cursos 2  | FGA |
+| [Bruna Lima](https://github.com/libruna) e [Genilson Silva](https://github.com/GenilsonJrs) | Liander Medeiros | 13:00 | 13:30 | 14/06/24 | Solicitação de Ficha de Atendimento | FGA |
+| [Daniela Alarcão](https://github.com/danialarcao) e [Lucas Avelar](https://github.com/LucasAvelar2711) |  |  |  |  | Agendamento de atendimento presencial | FGA |
+| [Genilson Silva](https://github.com/GenilsonJrs) e [Bruna Lima](https://github.com/libruna) |  |  |  |  |  Checar e Gerar Certificado de Vistoria | FGA |
+| [Lucas Avelar](https://github.com/LucasAvelar2711) e [Daniela Alarcão](https://github.com/danialarcao) |  |  |  |  | CB Cursos 1 | FGA |
+| [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq) | Bernado Machado | 10:00 | 10:30 | 11/06/24 | Solicitar declaração de registro de ocorrência | FGA |
+| [Pedro Henrique](https://github.com/PedroHhenriq) e [Mariana Letícia](https://github.com/Marianannn) |  |  |  | | CB Cursos 2  | FGA |
 
 <p style="text-align: center">Tabela 1: Cronograma para avaliação do protótipo em papel.</p>
 <p style="text-align: center">Fonte: Bruna Lima</p>
@@ -102,3 +111,4 @@ Na Tabela 1, apresentamos o cronograma planejado das sessões para avaliação d
 | `1.0`   | 28/05/2024 | Criação da página     | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna) |
 | `2.0`   | 02/06/2024 | Adição das questões práticas    | [Bruna Lima](https://github.com/libruna) |     |
 | `3.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Daniela Alarcão](https://github.com/danialarcao) |     |
+| `4.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Lucas Avelar](https://github.com/LucasAvelar2711) |     |
