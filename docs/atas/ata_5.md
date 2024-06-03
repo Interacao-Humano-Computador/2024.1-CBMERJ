@@ -64,8 +64,8 @@ Para essa reunião, foi autorizado pelo professor da disciplina gravar apenas o 
 <audio controls>
     <source scr="./reunioes_audio/reuniao_5.mp4" type="audio/mp4">
     <p>
-        Your browser doesn't support HTML5 audio. Here is a
-        <a href="./reunioes_audio/reuniao_5.mp4">link to the audio</a> instead.
+        Seu navegador pode não suportar o "audio HTML5". Aqui está o 
+        <a href="./reunioes_audio/reuniao_5.mp4">link para o áudio</a> .
     </p>
 </audio>
 
