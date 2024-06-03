@@ -35,11 +35,11 @@ O storyboard da funcionalidade "Curso do Corpo de Bombeiros 2 - Primeiros Socorr
 ![](img/StoryboardLucas.jpg)
 <p align="center">Figura 5 - Storyboard da funcionalidade de "Curso do Corpo de Bombeiros - Primeiros Socorros" (Fonte: Lucas Avelar, 2024). </p>
 
-### 6. Chamado de Emergência Integrado 
-O storyboard da funcionalidade "Chamado de Emergência Integrado" foi realizado à mão em um papel conforme pode ser identificado abaixo na figura 6:
+### 6. Checar e Gerar Certificado 
+O storyboard da funcionalidade "Checar e Gerar Certifiado" foi realizado à mão em um papel conforme pode ser identificado abaixo na figura 6:
 
 ![](img/storyboard5g.jpg)
-<p align="center">Figura 6 - Storyboard da funcionalidade de "Chamado de Emergência Integrado" (Fonte: Genilson Junior, 2024). </p>
+<p align="center">Figura 6 - Storyboard da funcionalidade de "Chegar e Gerar Certificado" (Fonte: Genilson Junior, 2024). </p>
 
 ## Referências Bibliográficas
 1. Storyboarding e Prototipação, disponível em: https://www.professores.uff.br/screspo/wp-content/uploads/sites/127/2017/09/artigoIHC3.pdf
