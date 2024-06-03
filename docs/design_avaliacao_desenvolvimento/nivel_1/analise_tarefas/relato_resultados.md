@@ -17,7 +17,7 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 | [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
 | [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
 | [Bruna Lima](https://github.com/libruna) | Marina Márcia | 14:45 | 14:53 |  29/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
-| [Genilson](https://github.com/GenilsonJrs) |  | 15:10 | 15:50 |  31/05/2024  |  Checar e Gerar Certificado de Vistoria | FGA |
+| [Genilson](https://github.com/GenilsonJrs) | Dylan Medeiros  | 11:00 | 11:20 |  03/06/2024  |  Checar e Gerar Certificados | FGA |
 
 <p style="text-align: center">Tabela 1: Cronograma executado de entrevistas</p>
 <p style="text-align: center">Fonte: Mariana Letícia</p>
@@ -252,6 +252,58 @@ Desta maneira a entrevistada foi Lorrane, de 23 anos, gruanda em Fisioterapia. A
     - Uma vez que as relações das tarefas e a forma como foi conduzida e explicada pareceu ter sido bastante clara para a entrevistada, não foi apresentado nenhuma sugestão ou melhoria em relação a Analise de Tarefas em si. Além disso, também não houve sugestão em relação a possíveis tarefas ou ideias que podem auxiliar em aperfeiçoar alguma delas.
 
 
+## Entrevista 5 - Checar e Gerar Certificado
+
+<center>
+
+[Link para o vídeo da apresentação](https://youtu.be/Phbg8mNid14)
+
+<iframe width="1000vw" height="400vh" src="..." title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Vídeo 5: Entrevista 5 - funcionalidade checar e gerar certificado</p>
+
+Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
+
+</center>
+
+<br>
+
+- **Coleta de dados:** Para a entrevista, foram preparadas uma série de perguntas gerais e específicas da funcionalidade, presente na **tabela 2**, viabilizando assim uma coleta de dados bem direcionada, com perguntas abertas e fechadas conforme necessário.
+
+    <center>
+
+    | Número |                                                              Pergunta                                                               |     Respostas     |
+    | :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+    |   1    |                                                          Qual o seu nome?                                                           |    Dylan Medeiros do Nascimento    |
+    |   2    |                                            Qual a sua idade?                                            |    26 anos    |
+    |   3    |                              Como avalia o seu grau de experiência tecnológica?                              |    Conhecimento apto com tecnologias.     |
+    | 4 | Já utilizou algum site similar ao CBMERJ? |    Não, mas já utilizei semelhante.    |
+    |   5   |  Para você, o que deve conter em checar certificado no processo de espera? |    Pontos bem definidos, passos do acompanhamento, barra de progresso ou icone de acompanhamento e uso correto de cores.    |    |
+    |   6   |     Você acha a funcionalidade interessante?     | Sim, essa disponibilidade é bem positiva.  |
+    |   7   |                                        Você utilizaria tal funcionalidade? Porquê?                                        | Sim! Pela pratificade e facilidade.     |
+    |   8   |                                  Sugestões/Melhorias                                  |    Adicionar filtros de certificado por ano.     |
+    |   9   |                               A sequência é coerente e funcional?                               |    Sim.     |
+
+    **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+    **Tabela 2** - Roteiro de perguntas da entrevista.
+
+    </center>
+
+<br>
+
+- **Interpretação dos dados:** 
+    - O participante se mostrou interessado e participativo, entendendo todos os processos e oferecendo respostas e feedbacks condizentes com a funcionalidade.
+    - O uso de tecnologias e a interação auxiliou o rápido entendimento e retorno claro sobre respostas do entrevistado.
+    <br><br>
+    - **Conclusão:** Para o participante, a funcionalidade é válida e seu fluxo lógico simples e interessante.<br>
+
+- **Lista de problemas encontrados:** O usuário não encontrou ou citou problemas advindos do fluxo da funcionaldiade.<br>
+
+- **Sugestões de melhoria:**
+
+    - A sugestão dada pelo participante diz respeito a Filtros, Detalhamento, Pesquisa, Icones e Utilização correta de cores.
+
 
 <!--
 ## Entrevista (ADICIONAR O NUMERO DA SUA ENTREVISTA AQUI) - (ADIICONAR O NOME DA SUA FUNCIONALIDADE AQUI)
@@ -343,3 +395,4 @@ As perguntas e respostas estão explícitos abaixo na **tabela (ADICIONAR O NUME
 | `4.0`   | 01/06/2024 | Adição do relato de resultado da entrevista 2                       | [Bruna Lima](https://github.com/libruna) |    |
 | `5.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 3                       | [Daniela Alarcão](https://github.com/danialarcao) |    |
 | `6.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 4                    | [Pedro Henrique](https://github.com/PedroHhenriq) |    |
+| `7.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 5                    | [Genilson Silva](https://github.com/GenilsonJrs) |    |
