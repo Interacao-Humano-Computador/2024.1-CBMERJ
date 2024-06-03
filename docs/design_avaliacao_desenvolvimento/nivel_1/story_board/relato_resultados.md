@@ -13,7 +13,7 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 |    Entrevistador(es)   | Entrevistado(s)   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
 | :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
 | [Mariana Letícia](https://github.com/Marianannn) | Bernardo Machado | 10:00 | 10:15 | 24/05/2024 | Solicitar declaração de registro de ocorrência  | FGA |
-| [Daniela Alarcão](https://github.com/danialarcao) | João Vitor Merlim | 12:00 | 12:30 | 24/05/2024 | Agendamento de atendimento presencial | FGA |
+| [Daniela Alarcão](https://github.com/danialarcao) | Felipe da Silva Xavier Pereira | 17:00 | 17:04 | 28/05/2024 | Agendamento de atendimento presencial | PGJM |
 | [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
 | [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
 | [Bruna Lima](https://github.com/libruna) | Marina Márcia | 14:45 | 14:53 |  29/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
@@ -143,6 +143,56 @@ As perguntas e suas respectivas respostas podem ser encontradas na **Tabela 3** 
 
 - **Sugestões de melhoria:** Dado que a participante não apresentou problemas ou dificuldades durante a visualização do storyboard, não há sugestões de melhoria a serem destacadas.
 
+## Entrevista 3 - Agendamento de Atendimento Presencial
+
+<center>
+[Link para o vídeo da entrevista](https://youtu.be/Lt-4Gh-kDgg?si=FAY51G0M0CZZiijN)
+
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/Lt-4Gh-kDgg?si=lqZHO5Cy03MrOMNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<p>Vídeo 3: Entrevista 3 - Agendamento de Atendimento Presencial</p>
+
+Fonte: [Daniela Alarcão](https://github.com/danialarcao).
+</center><br>
+
+<ul>
+<li><p style="text-align: justify;"><strong>Coleta de dados: </strong> Para a entrevista acerca do Agendamento de Atendimento Presencial foram realizadas perguntas gerais sobre o entrevistado e perguntas específicas sobre o storyboard. O entrevistado é o Felipe da Silva Xavier Pereira, de 23 anos, servidor público do Ministério Público Militar.<br><br>
+As perguntas e suas respectivas respostas podem ser encontradas na <strong>Tabela 4 </strong> abaixo:</li></p>
+</ul>
+
+<center>
+
+| <div align="center">Número</div> | <div align="center">Pergunta</div> | <div align="center">Respostas</div> |
+| :-------------------------------: | :-----------------------------------------------------------------------: | :---------------------------------: |
+| <div align="center">1</div>       | <div align="center">Qual o seu nome?</div>                                | <div align="center">Felipe.</div>   |
+| <div align="center">2</div>       | <div align="center">Qual a sua idade?</div>                               | <div align="center">23.</div>       |
+| <div align="center">3</div>       | <div align="center">Como você avalia o seu grau de conhecimento tecnológico?</div> | <div align="center">Alto.</div> |
+| <div align="center">4</div>       | <div align="center">Você já utilizou o site do Corpo de Bombeiros Militar do Rio de Janeiro ou algum similar?</div> | <div align="center">Sim.</div> |
+| <div align="center">5</div>       | <div align="center">A sequência de passos apresentada pelo storyboard é clara e compreensível?</div> | <div align="center">Sim.</div> |
+| <div align="center">6</div>       | <div align="center">O contexto da história é facilmente compreendido?</div> | <div align="center">Sim.</div> |
+| <div align="center">7</div>       | <div align="center">Existe algo no storyboard que precise de ajuste?</div> | <div align="center">Sim, o antepenúltimo quadro. Na história contada no storyboard o relatório é disponibilizado pelo bombeiro no mesmo dia do atendimento presencial. Contudo, isso não seria possível, pois antes da conclusão do relatório deveria ser realizada uma perícia no local do incidente.</div> |
+
+**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+**Tabela 4** - Roteiro de perguntas da entrevista 3.
+</center>
+
+<br>
+
+<ul><strong>Interpretação dos dados: </strong>
+    <li><p style="text-align: justify;"> O entrevistado conseguiu compreender a sequência de eventos do storyboard. </p></li>
+    <li> O entrevistado conseguiu fornecer bons feedbacks. </li>
+    <ul>
+    <li><p style="text-align: justify;"><strong>Conclusão:</strong> Como o entrevistado não enfrentou dificuldades durante a entrevista e conseguiu compreender a história contada pelo storyboard da funcionalidade sem obstáculos, é possível concluir que o storyboard é claro e coerente.</p></li>
+    </ul>
+<ul><strong>Lista de problemas encontrados: </strong>
+<li> O andamento da entrevista não enfrentou quaisquer problemas. Tudo fluiu bem.</li>
+</ul>
+<ul><strong>Sugestões de melhoria: </strong>
+<li>Quanto à análise do storyboard, o entrevistado recomendou alterações na sequência de passos nos eventos finais, para que a história tenha mais compatibilidade com a vida real. </li>
+</ul></ul>
+
 
 
 
@@ -230,3 +280,4 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 | `2.0`   | 25/05/2024 | Adição de Introdução                        | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)     |
 | `3.0`   | 25/05/2024 | Adição de relato de resultados 1                        | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)   |
 | `4.0`   | 02/06/2024 | Adição de relato de resultados 2                       |  [Bruna Lima](https://github.com/libruna)  |     |
+| `5.0`   | 03/06/2024 | Adição de relato de resultados 3                       |  [Daniela Alarcão](https://github.com/danialarcao)  |     |

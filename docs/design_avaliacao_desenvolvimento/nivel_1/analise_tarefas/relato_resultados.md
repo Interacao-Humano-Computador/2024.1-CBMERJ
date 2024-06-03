@@ -150,7 +150,7 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao).
 </center><br>
 
 <ul>
-<li><p style="text-align: justify;"><strong>Coleta de dados: </strong> Para a entrevista acerca do Agendamento de Atendimento Presencial foram realizadas tanto perguntas fechadas quanto abertas. O entrevistado é o Felipe da Silva Xavier Pereira, de 23 anos, servidor público do Ministério Público Militar.<br><br>
+<li><p style="text-align: justify;"><strong>Coleta de dados: </strong> Para a entrevista acerca do Agendamento de Atendimento Presencial foram realizadas perguntas gerais sobre o entrevistado e perguntas específicas sobre a análise da tarefa de agendamento de atendimento presencial. O entrevistado é o Felipe da Silva Xavier Pereira, de 23 anos, servidor público do Ministério Público Militar<br><br>
 As perguntas e suas respectivas respostas podem ser encontradas na <strong>Tabela 4 </strong> abaixo:</li></p>
 </ul>
 

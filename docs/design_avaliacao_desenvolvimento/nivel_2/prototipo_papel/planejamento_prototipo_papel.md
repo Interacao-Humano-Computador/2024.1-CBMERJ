@@ -16,7 +16,7 @@
 ## E - Explorar perguntas
 
 ## C - Escolher método
-<p style="text-align: justify;"> O método escolhido para a avaliação foi o da <strong>entrevista</strong>. Personalizável e ágil, esse método permite adaptar as perguntas de acordo com as particularidades do projeto e do andamento do diálogo, ao mesmo tempo em que agiliza a coleta e análise dos dados, a partir da obtenção de feedbacks detalhados e qualitativos. </p>
+<p style="text-align: justify;"> O método escolhido para a avaliação foi o <strong>"prototipação em papel"</strong>. Esse método avalia a usabilidade do protótipo através de simulações de uso com a participação de usuários. Neste método, cada membro da equipe atuará como um "computador", simulando em papel a execução do sistema e suas respostas às ações do usuário. </p>
 
 
 ## I - Identificar questões práticas 
@@ -73,16 +73,16 @@ Na Tabela 1, apresentamos o cronograma planejado das sessões para avaliação d
 </center>
 
 ## D - Decidir questões éticas
-<p style="text-align: justify;">Em consonância com os princípios éticos e de integridade, foi elaborado um termo de consentimento que deverá ser assinado por cada entrevistado antes do início da avaliação dos protótipos de papel. Este documento detalha os procedimentos envolvidos na entrevista e a forma como os dados serão utilizados. A assinatura deste termo será voluntária e demonstrará o consentimento informado do participante para realizar a entrevista. Tal medida visa assegurar que todos os envolvidos estejam plenamente cientes e confortáveis com sua participação. </p>
+<p style="text-align: justify;">Em consonância com os princípios éticos e de integridade, foi elaborado um termo de consentimento que deverá ser assinado por cada usuário antes do início da avaliação dos protótipos de papel. Este documento detalha os procedimentos envolvidos na avaliação e a forma como os dados serão utilizados. A assinatura deste termo será voluntária e demonstrará o consentimento informado do participante. Tal medida visa assegurar que todos os envolvidos estejam plenamente cientes e confortáveis com sua participação. </p>
 
 <img alt="Logo" src="../../prototipo_papel/img/TermoDeConsentimento.png" width="80%">
 <p>Figura 1 - Termo de Consentimento (Fonte: Daniela Alarcão, 2024). </p>
 
 ## E - Examinar dados
 
-<p style="text-align: justify;">Durante a realização das entrevistas, a equipe observará atentamente todas as considerações feitas pelos entrevistados. Essas considerações incluirão comentários sobre aspectos intuitivos ou confusos, preferências pessoais e sugestões de melhorias. O feedback dos entrevistados fornecerá uma perspectiva valiosa sobre a percepção dos protótipos de papel e ajudará a identificar oportunidades de melhorias. </p>
+<p style="text-align: justify;">Durante a realização das avaliações, a equipe observará atentamente todas as considerações feitas pelos usuários escolhidos. Essas considerações incluirão comentários sobre aspectos intuitivos ou confusos, preferências pessoais e sugestões de melhorias. O feedback dos usuários fornecerá uma perspectiva valiosa sobre a percepção dos protótipos de papel e ajudará a identificar oportunidades de melhorias. </p>
 
-<p style="text-align: justify;">Ao final de cada entrevista, a equipe discutirá todos os pontos abordados e documentará o máximo possível das informações coletadas. Isso garantirá que nenhum detalhe importante seja perdido e permitirá uma análise mais abrangente. </p>
+<p style="text-align: justify;">Ao final de cada avaliação, a equipe discutirá todas as informações coletadas. Isso garantirá que nenhum detalhe importante seja perdido e permitirá uma análise mais abrangente. </p>
 
 <p style="text-align: justify;">Com todas as informações coletadas e documentadas, a equipe realizará uma análise detalhada para identificar os pontos fortes de cada protótipo de papel, bem como as áreas que necessitam de melhorias. Essa análise será fundamental para orientar as modificações necessárias, garantindo que cada protótipo se alinhem melhor com as expectativas e necessidades dos usuários. </p>
 
