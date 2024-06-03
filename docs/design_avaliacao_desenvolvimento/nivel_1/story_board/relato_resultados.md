@@ -250,7 +250,59 @@ Fonte: [Pedro Henrique](https://github.com/PedroHhenriq).
 - **Sugestões de melhoria:**
     - Conforme podemos identificar por meio dos dados obtidos, o Storyboard parace ter ficado bastante claro, e sendo assim, não foi levantado ou apresentado por parte da entrevistada qualquer tipo de sugestão ou melhoria em relação ao Storyboard em si. 
 
+## Entrevista 5 - Checar e Gerar Certificado
 
+<center>
+
+[Link para o vídeo da apresentação](https://youtu.be/Phbg8mNid14)
+
+<iframe width="1000vw" height="400vh" src="..." title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Vídeo 5: Entrevista 5 - funcionalidade checar e gerar certificado</p>
+
+Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
+
+</center>
+
+- **Coleta de dados:** Para a entrevista, foram preparadas uma série de perguntas do StoryBoard, presente na **tabela 2**, viabilizando assim uma coleta de dados bem direcionada, com perguntas abertas e fechadas conforme necessário.
+
+
+<center>
+
+| Número |                                                              Pergunta                                                               |     Respostas     |
+| :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+|   1    |                                                          Qual o seu nome?                                                           |    Dylan Medeiros do Nascimento     |
+|   2    |                                            Qual a sua idade?                                            |    26 anos    |
+|   3    |                              Como avalia o seu grau de experiência tecnológica?                              |    Conhecimento apto com tecnologias.     |
+| 4 | Já utilizou algum site similar ao CBMERJ? |    Não, mas já utilizei semelhante.    |
+|   5   |  As sequências de passos apresentadas nos storyboards são claras e compreensíveis? |    Sim.    |
+|   6    |            O contexto das histórias é facilmente compreendido pelo usuário?|    Sim.   |
+|   7   |     Os elementos visuais utilizados nos storyboards são eficazes para transmitir a mensagem e guiar o usuário?| Sim.  |
+|   8   |                                       Há alguma parte dos storyboards que possam causar confusão ou dificuldades para o usuário?|  Não.  |
+|   9   |                                  Você indica alguma mudança em específico nessa história? Qual?                                 |   Não.  |
+|   10   |                               A sequência de fatos é coerente e funcional?                               |    Sim, desperta curiosidade.     |
+
+**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+**Tabela 2** - Roteiro de perguntas da entrevista.
+
+</center>
+
+<br>
+
+- **Interpretação dos dados:** 
+    - O participante se mostrou interessado e participativo, entendendo todos os processos e oferecendo respostas e feedbacks condizentes com a funcionalidade.
+    - O participante gostou e elogiou a simplicidade e facilidade para entender o StoryBoard.
+    - Os elementos visuais estão adequados para o que se espera de um storyboard.
+    - O participante aconselhou específicar qual site dos bombeiros se refere no StoryBoard.
+    <br><br>
+    - **Conclusão:** O storyboard apresenta de forma simples e lógica, uma sequência passos por meio de diálogo, condizendo com a realidade. É preciso especificar o site ou onde encontralo. <br>
+
+- **Lista de problemas encontrados:** 
+    - Não se sabe qual o site ou onde pode ser encontrado, nem por qual meio.
+
+- **Sugestões de melhoria:**
+    - Específicar qual site dos bombeiros se refere e onde se encontra no StoryBoard.
 
 <!-- 
 --------------------------------------------------------------------------------------------------------------
@@ -338,3 +390,4 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 | `4.0`   | 02/06/2024 | Adição de relato de resultados 2                       |  [Bruna Lima](https://github.com/libruna)  |     |
 | `5.0`   | 03/06/2024 | Adição de relato de resultados 3                       |  [Daniela Alarcão](https://github.com/danialarcao)  |     |
 | `6.0`   | 03/06/2024 | Adição de relato de resultado 4                    | [Pedro Henrique](https://github.com/PedroHhenriq) |    |
+| `7.0`   | 03/06/2024 | Adição de relato de resultado 5                    | [Genilson Junior](https://github.com/GenilsonJrs) |    |
