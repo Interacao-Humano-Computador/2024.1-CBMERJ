@@ -1,6 +1,7 @@
 ## Introdução
 
-## Metodologia
+## Metodologia 
+<p style="text-align: justify;">Para o planejamento da avaliação do protótipo de papel, a metodologia escolhida utiliza o framework DECIDE. O nome <strong>DECIDE</strong> é um acrônimo, onde cada letra da palavra representa uma etapa a ser realizada no planejamento, conforme descrito a seguir:</p>
 
 - <strong>D:</strong> Determinar os objetivos gerais da avaliação;
 - <strong>E:</strong> Explorar as perguntas a serem respondidas;
@@ -9,11 +10,14 @@
 - <strong>D:</strong> Decidir sobre as questões éticas;
 - <strong>E:</strong> Examinar e interpretar os dados apresentados.
 
+
 ## D - Determinar objetivos 
 
 ## E - Explorar perguntas
 
 ## C - Escolher método
+<p style="text-align: justify;"> O método escolhido para a avaliação foi o da <strong>entrevista</strong>. Personalizável e ágil, esse método permite adaptar as perguntas de acordo com as particularidades do projeto e do andamento do diálogo, ao mesmo tempo em que agiliza a coleta e análise dos dados, a partir da obtenção de feedbacks detalhados e qualitativos. </p>
+
 
 ## I - Identificar questões práticas 
 
@@ -69,10 +73,20 @@ Na Tabela 1, apresentamos o cronograma planejado das sessões para avaliação d
 </center>
 
 ## D - Decidir questões éticas
+<p style="text-align: justify;">Em consonância com os princípios éticos e de integridade, foi elaborado um termo de consentimento que deverá ser assinado por cada entrevistado antes do início da avaliação dos protótipos de papel. Este documento detalha os procedimentos envolvidos na entrevista e a forma como os dados serão utilizados. A assinatura deste termo será voluntária e demonstrará o consentimento informado do participante para realizar a entrevista. Tal medida visa assegurar que todos os envolvidos estejam plenamente cientes e confortáveis com sua participação. </p>
+
+<img alt="Logo" src="../../prototipo_papel/img/TermoDeConsentimento.png" width="80%">
+<p>Figura 1 - Termo de Consentimento (Fonte: Daniela Alarcão, 2024). </p>
 
 ## E - Examinar dados
 
-## Teste piloto 
+<p style="text-align: justify;">Durante a realização das entrevistas, a equipe observará atentamente todas as considerações feitas pelos entrevistados. Essas considerações incluirão comentários sobre aspectos intuitivos ou confusos, preferências pessoais e sugestões de melhorias. O feedback dos entrevistados fornecerá uma perspectiva valiosa sobre a percepção dos protótipos de papel e ajudará a identificar oportunidades de melhorias. </p>
+
+<p style="text-align: justify;">Ao final de cada entrevista, a equipe discutirá todos os pontos abordados e documentará o máximo possível das informações coletadas. Isso garantirá que nenhum detalhe importante seja perdido e permitirá uma análise mais abrangente. </p>
+
+<p style="text-align: justify;">Com todas as informações coletadas e documentadas, a equipe realizará uma análise detalhada para identificar os pontos fortes de cada protótipo de papel, bem como as áreas que necessitam de melhorias. Essa análise será fundamental para orientar as modificações necessárias, garantindo que cada protótipo se alinhem melhor com as expectativas e necessidades dos usuários. </p>
+
+<p style="text-align: justify;">A partir dessa análise, a equipe poderá implementar as devidas modificações, aprimorando os protótipos de papel e, por conseguinte, o produto final. Este processo iterativo de feedback e refinamento é essencial para o desenvolvimento de qualquer etapa do projeto. </p>
 
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário.
@@ -87,3 +101,4 @@ Na Tabela 1, apresentamos o cronograma planejado das sessões para avaliação d
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 28/05/2024 | Criação da página     | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna) |
 | `2.0`   | 02/06/2024 | Adição das questões práticas    | [Bruna Lima](https://github.com/libruna) |     |
+| `3.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Daniela Alarcão](https://github.com/danialarcao) |     |
