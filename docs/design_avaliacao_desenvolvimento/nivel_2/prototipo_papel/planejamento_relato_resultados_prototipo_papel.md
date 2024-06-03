@@ -177,4 +177,5 @@ Após identificarmos os problemas e sugestões de melhorias, será necessário r
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 28/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     |
-| `2.0`   | 03/06/2024 | Adição da lista de problemas, sugestões e reprojeto                         | [Pedro Henrique](https://github.com/PedroHhenriq) |     |
+| `2.0`   | 03/06/2024 | Adição da lista de problemas, sugestões e reprojeto                         | [Pedro Henrique](https://github.com/PedroHhenriq) |
+| `3.0`   | 03/06/2024 | Adição da Introdução, Metodologia, Objetivos e Escopos e Métodos                        | [Genilson Silva](https://github.com/GenilsonJrs) |     |     |
