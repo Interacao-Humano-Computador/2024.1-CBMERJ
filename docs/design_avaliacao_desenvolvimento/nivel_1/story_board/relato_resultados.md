@@ -304,6 +304,70 @@ Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
 - **Sugestões de melhoria:**
     - Específicar qual site dos bombeiros se refere e onde se encontra no StoryBoard.
 
+
+## Entrevista 6 - CB Cursos
+
+<center>
+
+[Link para o vídeo da entrevista](https://youtu.be/IlmmTBemfes)
+
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/IlmmTBemfes?si=4_pjKxEBUBorilIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 6: Entrevista 6 - Funcionalidade CB Cursos</p>
+
+Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711).
+
+</center>
+
+<br>
+
+- **Coleta de dados:** As perguntas e suas respectivas respostas podem ser encontradas na **Tabela 7** abaixo:
+
+    <center>
+
+    | Nº  | Pergunta  | Respostas  |
+    |-----|-----------|-----------------------------------|
+    | 1   | Qual é o seu nome?      | Rafaella Porto                                                               |
+    | 2   | Qual a sua idade?                                                                                      | 21                                                                           |
+    | 3   | Como avalia o seu grau de experiência tecnológica?                                                     | 5/10                                                                         |
+    | 4   | Você já fez algum curso on-line?                                                                       | Sim                                                                          |
+    | 5   | Como foi sua experiência e ela teve a ver com segurança ou primeiros socorros?                         | Não                                                                          |
+    | 6   | O que você teria interesse de aprender no curso dos bombeiros?                                         | Eu acho que coisas básicas para caso precise eu esteja preparada para essa situação |
+    | 7   | Como você aprenderia melhor ou mais eficientemente? (vídeos, texto, slides, prática)                   | Vídeos/ Videoaulas                                                           |
+    | 8   | Em quanto tempo você gostaria de garantir o certificado?                                               | Em aproximadamente um mês                                                    |
+    | 9   | Você tem alguma sugestão ou comentário sobre a funcionalidade de cursos online no site dos bombeiros?  | Não nenhuma                                                                  |
+    | 10  | Você acha a funcionalidade interessante?                                                               | Sim, com certeza                                                             |
+    | 11  | Você utilizaria tal funcionalidade? Por quê?                                                           | Sim! Ah por aquilo de estar preparada                                        |
+    | 12  | Sugestões/Melhorias?                                                                                   | Não                                                                          |
+    | 13  | A sequência é coerente e funcional?                                                                    | Sim, coerente                                                                |
+    | 14  | As sequências de passos apresentadas nos storyboards são claras e compreensíveis?                      | Sim                                                                          |
+    | 15  | O contexto das histórias é facilmente compreendido pelo usuário?                                       | Sim, com certeza                                                             |
+    | 16  | Os storyboards facilitam que o usuário alcance seus objetivos de forma intuitiva?                     | Sim                                                                          |
+    | 17  | Há alguma parte dos storyboards que possam causar confusão ou dificuldades para o usuário?             | Não                                                                          |
+    | 18  | Os elementos de interação nos storyboards são consistentes com as expectativas do usuário?             | Sim                                                                          |
+    | 19  | Os aspectos visuais do storyboard são atraentes e incentivam a interação do usuário?                   | Não                                                                          |
+    | 20  | Existem algumas áreas específicas dos storyboards que precisam de ajustes para melhorar a experiência do usuário? | Não                                                                          |
+    | 21  | Os elementos visuais utilizados nos storyboards são eficazes para transmitir a mensagem e guiar o usuário? | Sim                                                                          |                    
+
+    **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+    **Tabela 7** - Roteiro de perguntas da entrevista 6.
+
+    </center>
+
+<br>
+
+- **Interpretação dos dados:**
+    - A participante se mostrou intertessasda em possivelmente testar e usar a funcionalidade do CB cursos, ainda mais por dizer que se um dia alguma situação qua o curso ajude-a, ela quer estar preparada.
+    - A participante rapidamente entendeu a proposta da funcionalidade e não teve dúvidas sobre como usar por exemplo
+    - A participante poderia ser um pouco mais abrangente nas respostas e talvez sugerido alguma melhoria.<br><br>
+    - **Conclusão:** A participante achou a funcionalidade interessante e se mostrou interessada para usá-la.<br>
+
+- **Lista de problemas encontrados:** Não foram encontrados problemas pelo participante com os dados que ele utilizou.<br>
+
+- **Sugestões de melhoria:** A participante não deu sugestões. 
+
+
 <!-- 
 --------------------------------------------------------------------------------------------------------------
 
@@ -391,3 +455,4 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 | `5.0`   | 03/06/2024 | Adição de relato de resultados 3                       |  [Daniela Alarcão](https://github.com/danialarcao)  |     |
 | `6.0`   | 03/06/2024 | Adição de relato de resultado 4                    | [Pedro Henrique](https://github.com/PedroHhenriq) |    |
 | `7.0`   | 03/06/2024 | Adição de relato de resultado 5                    | [Genilson Junior](https://github.com/GenilsonJrs) |    |
+| `8.0`   | 03/06/2024 | Adição de relato de resultado 6                   | [Lucas Avelar](https://github.com/LucasAvelar2711) |    |
