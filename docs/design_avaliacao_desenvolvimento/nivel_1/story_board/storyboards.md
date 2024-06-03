@@ -54,4 +54,4 @@ O storyboard da funcionalidade "Checar e Gerar Certifiado" foi realizado à mão
 | `1.4`   | 22/05/2024 | Adição do storyboard da funcionalidade de agendamento de atendimento presencial                        | [Daniela Alarcão](https://github.com/danialarcao) | [Bruna Lima](https://github.com/libruna)  |
 | `1.5`   | 22/05/2024 | Adição do storyboard Curso do Corpo de Bombeiros - Primeiro Socorros | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Bruna Lima](https://github.com/libruna) |
 | `1.6`   | 22/05/2024 | Adição do storyboard do Curso do Corpo de Bombeiros 2 - Primeiro Socorros | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Daniela Alarcão](https://github.com/danialarcao)
-| `1.7`   | 22/05/2024 | Adição do storyboard Chamado de Emergência Integrado  | [Genilson Silva](https://github.com/GenilsonJrs)  | [Daniela Alarcão](https://github.com/danialarcao) |
+| `1.7`   | 22/05/2024 | Adição do storyboard Checar e Gerar Certificado   | [Genilson Silva](https://github.com/GenilsonJrs)  | [Daniela Alarcão](https://github.com/danialarcao) |
