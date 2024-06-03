@@ -70,11 +70,11 @@ Na Tabela 1, apresentamos o cronograma planejado das sessões para avaliação d
 |    Avaliadores         | Participante      | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
 | :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
 | [Bruna Lima](https://github.com/libruna) e [Genilson Silva](https://github.com/GenilsonJrs) | Liander Medeiros | 13:00 | 13:30 | 14/06/24 | Solicitação de Ficha de Atendimento | FGA |
-| [Daniela Alarcão](https://github.com/danialarcao) e [Lucas Avelar](https://github.com/LucasAvelar2711) |  |  |  |  | Agendamento de atendimento presencial | FGA |
+| [Daniela Alarcão](https://github.com/danialarcao) e [Lucas Avelar](https://github.com/LucasAvelar2711) | Felipe Pereira | 12:00 | 12:30 | 12/06/24 | Agendamento de atendimento presencial | FGA |
 | [Genilson Silva](https://github.com/GenilsonJrs) e [Bruna Lima](https://github.com/libruna) | Dylan Medeiros | 11:00 | 11:30 | 14/06/24 | Checar e Gerar Certificado de Vistoria | FGA |
-| [Lucas Avelar](https://github.com/LucasAvelar2711) e [Daniela Alarcão](https://github.com/danialarcao) |  |  |  |  | CB Cursos 1 | FGA |
+| [Lucas Avelar](https://github.com/LucasAvelar2711) e [Daniela Alarcão](https://github.com/danialarcao) |  |  | |  | CB Cursos 1 | FGA |
 | [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq) | Bernado Machado | 10:00 | 10:30 | 11/06/24 | Solicitar declaração de registro de ocorrência | FGA |
-| [Pedro Henrique](https://github.com/PedroHhenriq) e [Mariana Letícia](https://github.com/Marianannn) |  |  |  | | CB Cursos 2  | FGA |
+| [Pedro Henrique](https://github.com/PedroHhenriq) e [Mariana Letícia](https://github.com/Marianannn) | Lucas Monteiro | 12:00 | 12:30 | 14/06/24 | CB Cursos 2 | FGA |
 
 <p style="text-align: center">Tabela 1: Cronograma para avaliação do protótipo em papel.</p>
 <p style="text-align: center">Fonte: Bruna Lima</p>
@@ -100,7 +100,7 @@ Na Tabela 1, apresentamos o cronograma planejado das sessões para avaliação d
 ## Planejamento do Teste Piloto
 Membros da equipe do projeto conduzirão um teste piloto para validar e otimizar o planejamento da simulação com o protótipo em papel antes de sua execução oficial. Este teste piloto não influenciará a coleta nem a interpretação dos dados.
 
-- Está agendado para ocorrer em 06 de maio de 2024, às 12:00 pela plataforma Microsoft Teams.
+- Está agendado para ocorrer em 06 de junho de 2024, às 12:00 pela plataforma Microsoft Teams.
 
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário.
