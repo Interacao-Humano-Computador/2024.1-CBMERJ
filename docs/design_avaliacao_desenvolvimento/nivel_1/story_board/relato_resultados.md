@@ -330,24 +330,14 @@ Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711).
     | 1   | Qual é o seu nome?      | Rafaella Porto                                                               |
     | 2   | Qual a sua idade?                                                                                      | 21                                                                           |
     | 3   | Como avalia o seu grau de experiência tecnológica?                                                     | 5/10                                                                         |
-    | 4   | Você já fez algum curso on-line?                                                                       | Sim                                                                          |
-    | 5   | Como foi sua experiência e ela teve a ver com segurança ou primeiros socorros?                         | Não                                                                          |
-    | 6   | O que você teria interesse de aprender no curso dos bombeiros?                                         | Eu acho que coisas básicas para caso precise eu esteja preparada para essa situação |
-    | 7   | Como você aprenderia melhor ou mais eficientemente? (vídeos, texto, slides, prática)                   | Vídeos/ Videoaulas                                                           |
-    | 8   | Em quanto tempo você gostaria de garantir o certificado?                                               | Em aproximadamente um mês                                                    |
-    | 9   | Você tem alguma sugestão ou comentário sobre a funcionalidade de cursos online no site dos bombeiros?  | Não nenhuma                                                                  |
-    | 10  | Você acha a funcionalidade interessante?                                                               | Sim, com certeza                                                             |
-    | 11  | Você utilizaria tal funcionalidade? Por quê?                                                           | Sim! Ah por aquilo de estar preparada                                        |
-    | 12  | Sugestões/Melhorias?                                                                                   | Não                                                                          |
-    | 13  | A sequência é coerente e funcional?                                                                    | Sim, coerente                                                                |
-    | 14  | As sequências de passos apresentadas nos storyboards são claras e compreensíveis?                      | Sim                                                                          |
-    | 15  | O contexto das histórias é facilmente compreendido pelo usuário?                                       | Sim, com certeza                                                             |
-    | 16  | Os storyboards facilitam que o usuário alcance seus objetivos de forma intuitiva?                     | Sim                                                                          |
-    | 17  | Há alguma parte dos storyboards que possam causar confusão ou dificuldades para o usuário?             | Não                                                                          |
-    | 18  | Os elementos de interação nos storyboards são consistentes com as expectativas do usuário?             | Sim                                                                          |
-    | 19  | Os aspectos visuais do storyboard são atraentes e incentivam a interação do usuário?                   | Não                                                                          |
-    | 20  | Existem algumas áreas específicas dos storyboards que precisam de ajustes para melhorar a experiência do usuário? | Não                                                                          |
-    | 21  | Os elementos visuais utilizados nos storyboards são eficazes para transmitir a mensagem e guiar o usuário? | Sim                                                                          |                    
+    | 4  | As sequências de passos apresentadas nos storyboards são claras e compreensíveis?                      | Sim                                                                          |
+    | 5  | O contexto das histórias é facilmente compreendido pelo usuário?                                       | Sim, com certeza                                                             |
+    | 6  | Os storyboards facilitam que o usuário alcance seus objetivos de forma intuitiva?                     | Sim                                                                          |
+    | 7  | Há alguma parte dos storyboards que possam causar confusão ou dificuldades para o usuário?             | Não                                                                          |
+    | 8  | Os elementos de interação nos storyboards são consistentes com as expectativas do usuário?             | Sim                                                                          |
+    | 9  | Os aspectos visuais do storyboard são atraentes e incentivam a interação do usuário?                   | Não                                                                          |
+    | 10  | Existem algumas áreas específicas dos storyboards que precisam de ajustes para melhorar a experiência do usuário? | Não                                                                          |
+    | 11  | Os elementos visuais utilizados nos storyboards são eficazes para transmitir a mensagem e guiar o usuário? | Sim                                                                          |                    
 
     **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
 

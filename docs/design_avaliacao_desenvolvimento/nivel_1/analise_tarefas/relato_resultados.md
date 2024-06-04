@@ -338,15 +338,7 @@ Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711).
     | 10  | Você acha a funcionalidade interessante?                                                               | Sim, com certeza                                                             |
     | 11  | Você utilizaria tal funcionalidade? Por quê?                                                           | Sim! Ah por aquilo de estar preparada                                        |
     | 12  | Sugestões/Melhorias?                                                                                   | Não                                                                          |
-    | 13  | A sequência é coerente e funcional?                                                                    | Sim, coerente                                                                |
-    | 14  | As sequências de passos apresentadas nos storyboards são claras e compreensíveis?                      | Sim                                                                          |
-    | 15  | O contexto das histórias é facilmente compreendido pelo usuário?                                       | Sim, com certeza                                                             |
-    | 16  | Os storyboards facilitam que o usuário alcance seus objetivos de forma intuitiva?                     | Sim                                                                          |
-    | 17  | Há alguma parte dos storyboards que possam causar confusão ou dificuldades para o usuário?             | Não                                                                          |
-    | 18  | Os elementos de interação nos storyboards são consistentes com as expectativas do usuário?             | Sim                                                                          |
-    | 19  | Os aspectos visuais do storyboard são atraentes e incentivam a interação do usuário?                   | Não                                                                          |
-    | 20  | Existem algumas áreas específicas dos storyboards que precisam de ajustes para melhorar a experiência do usuário? | Não                                                                          |
-    | 21  | Os elementos visuais utilizados nos storyboards são eficazes para transmitir a mensagem e guiar o usuário? | Sim                                                                          |                    
+    | 13  | A sequência é coerente e funcional?                                                                    | Sim, coerente                                                                |                   
 
     **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
 
