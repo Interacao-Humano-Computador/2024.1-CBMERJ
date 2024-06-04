@@ -129,4 +129,4 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn).
 | `2.0`   | 19/05/2024 | Iniciando desenvolvimento de conteúdo da página                         | [Daniela Alarcão](https://github.com/danialarcao) |  [Genilson Silva](https://github.com/GenilsonJrs)    |
 | `3.0`   | 20/05/2024 | Inserção do Termo de Consentimento                         | [Daniela Alarcão](https://github.com/danialarcao) |  [Genilson Silva](https://github.com/GenilsonJrs)    |
 | `4.0`   | 22/05/2024 | Complementação do framework DECIDE                         | [Daniela Alarcão](https://github.com/danialarcao) | [Genilson Silva](https://github.com/GenilsonJrs)     |
-| `5.0`   | 25/05/2024 | Adição da gravação do teste piloto                         | [Mariana Letícia](https://github.com/Marianannn) |     |
+| `5.0`   | 25/05/2024 | Adição da gravação do teste piloto                         | [Mariana Letícia](https://github.com/Marianannn) |  [Daniela Alarcão](https://github.com/danialarcao)   |
