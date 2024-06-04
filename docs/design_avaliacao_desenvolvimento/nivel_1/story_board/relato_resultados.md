@@ -17,7 +17,7 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 | [Pedro Henrique](https://github.com/PedroHhenriq) |     Lorrane    |      12:00     |     12:30     |  30/05/2024  |   CB Cursos 2   | Residência Domiciliar |
 | [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
 | [Bruna Lima](https://github.com/libruna) | Marina Márcia | 14:45 | 14:53 |  29/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
-| [Genilson](https://github.com/GenilsonJrs) | Dylan Medeiros| 11:00 | 11:20 |  03/05/2024  |  Checar e Gerar Certificado | FGA |
+| [Genilson](https://github.com/GenilsonJrs) | Dylan Medeiros| 11:00 | 11:20 |  03/06/2024  |  Checar e Gerar Certificado | FGA |
 
 <p style="text-align: center">Tabela 1: Cronograma executado de entrevistas</p>
 <p style="text-align: center">Fonte: Mariana Letícia</p>
