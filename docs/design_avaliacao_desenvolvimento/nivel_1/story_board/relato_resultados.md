@@ -113,7 +113,7 @@ Fonte: [Bruna Lima](https://github.com/libruna).
 
 <br>
 
-- **Coleta de dados:** Para a entrevista sobre o storyboard da Solicitação de Ficha de Atendimento, foram realizadas perguntas tanto fechadas quanto abertas. A entrevistada foi a Mariana Márcia, de 23 anos, estudante da FGA.<br><br>
+- **Coleta de dados:** Para a entrevista sobre o storyboard da Solicitação de Ficha de Atendimento, foram realizadas perguntas tanto fechadas quanto abertas. A entrevistada foi a Marina Márcia, de 23 anos, estudante da FGA.<br><br>
 As perguntas e suas respectivas respostas podem ser encontradas na **Tabela 3** abaixo:
 
     <center>
