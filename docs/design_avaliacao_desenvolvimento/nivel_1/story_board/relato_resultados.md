@@ -91,9 +91,9 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
         - impacto: não entendimento dessa parte da tirinha e consequentemente de um passo para se concluir a funcionalidade em questão.
         - Solução: melhorar legibilidade da letra a aumentando.
 
-        [erro no storyboard de declaração do registro de ocorrência](img/storyboard_declaracao_erro.jfif)
+![erro no storyboard de declaração do registro de ocorrência](img/storyboard_declaracao_erro.jfif)
 
-        <p style="text-align: center">Figura 1: Erro na declaração do registro de ocorrência</p>
+<p style="text-align: center">Figura 1: Erro na declaração do registro de ocorrência</p>
 
 - **Sugestões de melhoria:**
     - Uma  das sugestões foi aumentar a caixa de diálogo dos personagens do storyboard.
