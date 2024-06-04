@@ -12,14 +12,14 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 | Atividade                    | Local         | Período de desenvolvimento - início | Período de desenvolvimento - fim | Responsáveis      | Período de Revisão - início | Período de Revisão - fim | Revisores |
 |------------------------------|---------------|-------------------------------------|---------------------------------|-------------------|-----------------------------|-------------------------|-----------|
 | Planejamento do projeto      | Google Meets  | 2024-04-02                          | 2024-04-07                      | Mariana e Lucas   | 2024-04-06                  | 2024-04-07              | Bruna     |
-| Planejamento da equipe       | Google Meets  | 2024-04-02                          | 2024-04-04                      | todos             | 2024-04-04                  | 2024-04-04              | Daniela   |
-| Lista de sites avaliados     | Google Meets  | 2024-04-02                          | 2024-04-06                      | todos             | 2024-04-07                  | 2024-04-07              | Genilson  |
-| Seleção de site p/ projeto   | Google Meets  | 2024-04-02                          | 2024-04-06                      | todos             | 2024-04-07                  | 2024-04-07              | Lucas     |
+| Planejamento da equipe       | Google Meets  | 2024-04-02                          | 2024-04-04                      | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro             | 2024-04-04                  | 2024-04-04              | Daniela   |
+| Lista de sites avaliados     | Google Meets  | 2024-04-02                          | 2024-04-06                      | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro             | 2024-04-07                  | 2024-04-07              | Genilson  |
+| Seleção de site p/ projeto   | Google Meets  | 2024-04-02                          | 2024-04-06                      | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro             | 2024-04-07                  | 2024-04-07              | Lucas     |
 | Ferramentas do projeto       | Google Meets  | 2024-04-02                          | 2024-04-06                      | Lucas e Daniela   | 2024-04-07                  | 2024-04-07              | Mariana   |
 | Processo de Design           | Google Meets  | 2024-04-02                          | 2024-04-06                      | Bruna e Genilson  | 2024-04-07                  | 2024-04-07              | Mariana   |
 | Metodologia                  | Google Meets  | 2024-04-02                          | 2024-04-04                      | Pedro             | 2024-04-07                  | 2024-04-07              | Mariana   |
-| Gravar apresentação          | Google Meets  | 2024-04-08                          | 2024-04-08                      | todos             | 2024-04-08                  | 2024-04-08              | todos     |
-| Implementar git page         | Google Meets  | 2024-04-04                          | 2024-04-08                      | Daniela           | 2024-04-08                  | 2024-04-08              | todos     |
+| Gravar apresentação          | Google Meets  | 2024-04-08                          | 2024-04-08                      | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro             | 2024-04-08                  | 2024-04-08              | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro     |
+| Implementar git page         | Google Meets  | 2024-04-04                          | 2024-04-08                      | Daniela           | 2024-04-08                  | 2024-04-08              | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro     |
 
 <p style="text-align: justify;">Tabela 1: Cronograma do Ponto de controle 1 (Fonte:Lucas Avelar,2024)</p>
 
@@ -91,6 +91,7 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 | `2.0`   | 08/04/2024 | Adição da tabela da etapa 1                     | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Bruna Lima](https://github.com/libruna)         | 
 | `2.1`   | 01/04/2024 | Adição de conteúdo em Cronograma realizado, tabela da etapa 2                     | [Mariana Letícia](https://github.com/Marianannn)  | [Lucas Avelar](https://github.com/LucasAvelar2711)        | 
 | `2.2`   | 01/04/2024 | Adição da introdução da página                     | [Mariana Letícia](https://github.com/Marianannn)  | [Lucas Avelar](https://github.com/LucasAvelar2711)        | 
-| `2.3`   | 13/05/2024 | Adição Ponto de controle 3                    | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Mariana Letícia](https://github.com/Marianannn)        | 
-| `3.0`   | 22/05/2024 | Adição Ponto de controle 4                   | [Bruna Lima](https://github.com/libruna)  |        | 
-| `4.0`   | 22/05/2024 | Adição Ponto de controle 5                   | [Mariana Letícia](https://github.com/Marianannn)  |    [Bruna Lima](https://github.com/libruna)    | 
+| `3.0`   | 14/04/2024 | Adição Ponto de controle 2                    | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Mariana Letícia](https://github.com/Marianannn)        | 
+| `4.0`   | 13/05/2024 | Adição Ponto de controle 3                    | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Mariana Letícia](https://github.com/Marianannn)        | 
+| `5.0`   | 22/05/2024 | Adição Ponto de controle 4                   | [Bruna Lima](https://github.com/libruna)  |    [Mariana Letícia](https://github.com/Marianannn)    | 
+| `6.0`   | 22/05/2024 | Adição Ponto de controle 5                   | [Mariana Letícia](https://github.com/Marianannn)  |    [Bruna Lima](https://github.com/libruna)    | 
