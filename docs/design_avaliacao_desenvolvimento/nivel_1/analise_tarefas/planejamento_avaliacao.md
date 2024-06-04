@@ -191,4 +191,4 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn).
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)    |
 | `2.0`   | 22/05/2024 | Adição do planejamento da avaliação                         | [Genilson Junior](https://github.com/GenilsonJrs) |  [Daniela Alarcão](https://github.com/danialarcao)   |
-| `3.0`   | 25/05/2024 | Adição da gravação do teste piloto                         | [Mariana Letícia](https://github.com/Marianannn) |     |
+| `3.0`   | 25/05/2024 | Adição da gravação do teste piloto                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
