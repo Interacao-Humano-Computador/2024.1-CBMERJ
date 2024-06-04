@@ -179,3 +179,4 @@ Após identificarmos os problemas e sugestões de melhorias, será necessário r
 | `1.0`   | 28/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)  |
 | `2.0`   | 03/06/2024 | Adição da lista de problemas, sugestões e reprojeto   | [Pedro Henrique](https://github.com/PedroHhenriq) | [Bruna Lima](https://github.com/libruna)  |
 | `3.0`   | 03/06/2024 | Adição da Introdução, Metodologia, Objetivos e Escopos e Métodos | [Genilson Silva](https://github.com/GenilsonJrs) |  [Bruna Lima](https://github.com/libruna)   |
+| `4.0`   | 03/06/2024 | Adição da Seleção de participantes, Coleta de dados e do Interpretação dos dados | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
