@@ -17,7 +17,7 @@ Os objetivos desta avaliação são identificar problemas de usabilidade na func
 ## E - Explorar perguntas
 Com base nos objetivos determinados, as seguintes perguntas serão exploradas durante a avaliação:
 
-1. *A funcionalidade de navegação pelos cursos é intuitiva para os usuários?*
+1. *A funcionalidade é intuitiva para os usuários?*
 2. *Os usuários conseguem facilmente encontrar a funcionalidade?* 
 3. *Há algum ponto de confusão ou dificuldade durante o uso do protótipo?*
 4. *Os usuários consideram a interface amigável e eficiente?*
