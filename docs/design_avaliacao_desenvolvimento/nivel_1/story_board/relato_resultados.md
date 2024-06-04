@@ -264,7 +264,7 @@ Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
 
 </center>
 
-- **Coleta de dados:** Para a entrevista, foram preparadas uma série de perguntas do StoryBoard, presente na **tabela 2**, viabilizando assim uma coleta de dados bem direcionada, com perguntas abertas e fechadas conforme necessário.
+- **Coleta de dados:** Para a entrevista, foram preparadas uma série de perguntas do StoryBoard, presente na **tabela 6**, viabilizando assim uma coleta de dados bem direcionada, com perguntas abertas e fechadas conforme necessário.
 
 
 <center>
@@ -284,7 +284,7 @@ Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
 
 **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
 
-**Tabela 2** - Roteiro de perguntas da entrevista.
+**Tabela 6** - Roteiro de perguntas da entrevista.
 
 </center>
 
