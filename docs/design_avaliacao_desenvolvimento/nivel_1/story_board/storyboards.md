@@ -36,7 +36,7 @@ O storyboard da funcionalidade "Curso do Corpo de Bombeiros 2 - Primeiros Socorr
 <p align="center">Figura 5 - Storyboard da funcionalidade de "Curso do Corpo de Bombeiros - Primeiros Socorros" (Fonte: Lucas Avelar, 2024). </p>
 
 ### 6. Checar e Gerar Certificado 
-O storyboard da funcionalidade "Checar e Gerar Certifiado" foi realizado à mão em um papel conforme pode ser identificado abaixo na figura 6:
+O storyboard da funcionalidade "Checar e Gerar Certificado" foi realizado à mão em um papel conforme pode ser identificado abaixo na figura 6:
 
 ![](img/storyboard5g.jpg)
 <p align="center">Figura 6 - Storyboard da funcionalidade de "Chegar e Gerar Certificado" (Fonte: Genilson Junior, 2024). </p>
