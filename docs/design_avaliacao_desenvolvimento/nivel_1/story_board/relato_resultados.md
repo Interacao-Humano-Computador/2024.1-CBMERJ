@@ -17,7 +17,7 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 | [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
 | [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
 | [Bruna Lima](https://github.com/libruna) | Marina Márcia | 14:45 | 14:53 |  29/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
-| [Genilson](https://github.com/GenilsonJrs) || 15:10 | 15:50 |  31/05/2024  |  Checar e Gerar Certificado de Vistoria | FGA |
+| [Genilson](https://github.com/GenilsonJrs) | Dylan Medeiros| 11:00 | 11:20 |  03/05/2024  |  Checar e Gerar Certificado | FGA |
 
 <p style="text-align: center">Tabela 1: Cronograma executado de entrevistas</p>
 <p style="text-align: center">Fonte: Mariana Letícia</p>
@@ -451,8 +451,8 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
 | `2.0`   | 25/05/2024 | Adição de Introdução                        | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)     |
 | `3.0`   | 25/05/2024 | Adição de relato de resultados 1                        | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)   |
-| `4.0`   | 02/06/2024 | Adição de relato de resultados 2                       |  [Bruna Lima](https://github.com/libruna)  |     |
-| `5.0`   | 03/06/2024 | Adição de relato de resultados 3                       |  [Daniela Alarcão](https://github.com/danialarcao)  |     |
-| `6.0`   | 03/06/2024 | Adição de relato de resultado 4                    | [Pedro Henrique](https://github.com/PedroHhenriq) |    |
-| `7.0`   | 03/06/2024 | Adição de relato de resultado 5                    | [Genilson Junior](https://github.com/GenilsonJrs) |    |
-| `8.0`   | 03/06/2024 | Adição de relato de resultado 6                   | [Lucas Avelar](https://github.com/LucasAvelar2711) |    |
+| `4.0`   | 02/06/2024 | Adição de relato de resultados 2                       |  [Bruna Lima](https://github.com/libruna)  |  [Genilson Junior](https://github.com/GenilsonJrs)   |
+| `5.0`   | 03/06/2024 | Adição de relato de resultados 3                       |  [Daniela Alarcão](https://github.com/danialarcao)  |   [Genilson Junior](https://github.com/GenilsonJrs)  |
+| `6.0`   | 03/06/2024 | Adição de relato de resultado 4                    | [Pedro Henrique](https://github.com/PedroHhenriq) | [Genilson Junior](https://github.com/GenilsonJrs)   |
+| `7.0`   | 03/06/2024 | Adição de relato de resultado 5                    | [Genilson Junior](https://github.com/GenilsonJrs) | [Mariana Letícia](https://github.com/Marianannn)   |
+| `8.0`   | 03/06/2024 | Adição de relato de resultado 6                   | [Lucas Avelar](https://github.com/LucasAvelar2711) |  [Genilson Junior](https://github.com/GenilsonJrs)  |
