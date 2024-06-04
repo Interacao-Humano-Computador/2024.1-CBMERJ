@@ -50,7 +50,15 @@ Além disso, as atividades abaixo também devem ser realizadas antes da avaliaç
 
 - Definir as tarefas para os participantes executarem durante a sessão;
 - Criar os protótipos em papel das interfaces para executar as tarefas;
-- Executar um teste-piloto. 
+- Executar um teste-piloto.
+
+#### Roteiro de avaliação
+A seguir, temos os tópicos e passos a serem abordados durante a avaliação:
+
+1. Apresentação dos termos de consentimento e explicação de como os dados coletados serão utilizados;
+2. Breve explicação dos objetivos da entrevista para contextualização do participante;
+3. Simulação da funcionalidade a ser availiada com o protótipo em papel;
+4. Avaliação explorando as perguntas definidas previamente nesse planejamento.
 
 ### Mão-de-obra necessária
 A coleta de dados na prototipação em papel deve ser realizada por pelo menos dois avaliadores (2):
