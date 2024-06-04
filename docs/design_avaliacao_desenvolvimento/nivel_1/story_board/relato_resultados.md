@@ -442,7 +442,7 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 
 
 ## Bibliografia
-
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
 
 ## Histórico de Versões
 
