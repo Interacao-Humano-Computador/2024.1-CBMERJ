@@ -85,11 +85,15 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
     - **Conclusão:** segundo o participante, o storyboard apresenta uma sequência lógica de passos e condiz com a realidade. O que se precisa de se atentar é sobre a impressão dos storyboards que precisa de uma qualidade maior e as letras precisam estar em uma fonte maior. <br>
 
 - **Lista de problemas encontrados:** 
-    - problema 1:
+    - problema 1: segue abaixo na figura 1 o erro notado
         - descrição: dificuldade de leitura, onde tem uma letra muito pequena em uma das caixas de diálogo.
         - local: aconteceu no oitavo quadrinho da tirinha.
         - impacto: não entendimento dessa parte da tirinha e consequentemente de um passo para se concluir a funcionalidade em questão.
         - Solução: melhorar legibilidade da letra a aumentando.
+
+        [erro no storyboard de declaração do registro de ocorrência](img/storyboard_declaracao_erro.jfif)
+
+        <p style="text-align: center">Figura 1: Erro na declaração do registro de ocorrência</p>
 
 - **Sugestões de melhoria:**
     - Uma  das sugestões foi aumentar a caixa de diálogo dos personagens do storyboard.
