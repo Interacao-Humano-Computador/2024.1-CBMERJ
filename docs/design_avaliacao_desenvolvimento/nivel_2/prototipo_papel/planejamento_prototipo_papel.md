@@ -26,7 +26,9 @@ Com base nos objetivos determinados, as seguintes perguntas serão exploradas du
 Essas perguntas ajudam a operacionalizar a investigação, direcionando o foco para aspectos específicos da usabilidade que são críticos para a funcionalidade em questão .
 
 ## C - Escolher método
-<p style="text-align: justify;"> O método escolhido para a avaliação foi o <strong>"prototipação em papel"</strong>. Esse método avalia a usabilidade do protótipo através de simulações de uso com a participação de usuários. Neste método, cada membro da equipe atuará como um "computador", simulando em papel a execução do sistema e suas respostas às ações do usuário. </p>
+<p style="text-align: justify;"> Os métodos selecionados para a avaliação incluem a Prototipação em Papel e Entrevistas. O primeiro método visa avalia a usabilidade do protótipo através de simulações de uso com a participação de usuários. Neste método, cada membro da equipe atuará como um "computador", simulando em papel a execução do sistema e suas respostas às ações do usuário. 
+
+A condução de entrevistas complementa essa abordagem, permitindo a coleta direta de feedback dos participantes sobre sua experiência ao interagir com o protótipo.</p>
 
 ## I - Identificar questões práticas 
 
@@ -53,7 +55,7 @@ Além disso, as atividades abaixo também devem ser realizadas antes da avaliaç
 ### Mão-de-obra necessária
 A coleta de dados na prototipação em papel deve ser realizada por pelo menos dois avaliadores (2):
 
-1. Responsável por simular o comportamento do sistema.
+1. Responsável por simular o comportamento do sistema e realizar as perguntas da entrevista.
 2. Responsável por observar a experiência de uso.
 
 ### Custos
