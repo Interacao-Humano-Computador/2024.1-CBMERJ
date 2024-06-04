@@ -72,7 +72,7 @@ Na Tabela 1, apresentamos o cronograma planejado das sessões para avaliação d
 | [Bruna Lima](https://github.com/libruna) e [Genilson Silva](https://github.com/GenilsonJrs) | Liander Medeiros | 13:00 | 13:30 | 14/06/24 | Solicitação de Ficha de Atendimento | FGA |
 | [Daniela Alarcão](https://github.com/danialarcao) e [Lucas Avelar](https://github.com/LucasAvelar2711) | Felipe Pereira | 12:00 | 12:30 | 12/06/24 | Agendamento de atendimento presencial | FGA |
 | [Genilson Silva](https://github.com/GenilsonJrs) e [Bruna Lima](https://github.com/libruna) | Dylan Medeiros | 11:00 | 11:30 | 14/06/24 | Checar e Gerar Certificado de Vistoria | FGA |
-| [Lucas Avelar](https://github.com/LucasAvelar2711) e [Daniela Alarcão](https://github.com/danialarcao) |  |  | |  | CB Cursos 1 | FGA |
+| [Lucas Avelar](https://github.com/LucasAvelar2711) e [Daniela Alarcão](https://github.com/danialarcao) | Rafaella Porto | 19:00 | 19:30 | 13/06/24 | CB Cursos 1 | FGA |
 | [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq) | Bernado Machado | 10:00 | 10:30 | 11/06/24 | Solicitar declaração de registro de ocorrência | FGA |
 | [Pedro Henrique](https://github.com/PedroHhenriq) e [Mariana Letícia](https://github.com/Marianannn) | Lucas Monteiro | 12:00 | 12:30 | 14/06/24 | CB Cursos 2 | FGA |
 
