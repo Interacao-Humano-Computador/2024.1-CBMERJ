@@ -455,8 +455,8 @@ As perguntas e respostas estão explícitos abaixo na **tabela (ADICIONAR O NUME
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
 | `2.0`   | 25/05/2024 | Adição de Introdução e metodologia                        | [Mariana Letícia](https://github.com/Marianannn) |   [Bruna Lima](https://github.com/libruna)  |
 | `3.0`   | 25/05/2024 | Adição do relato de resultado da entrevista 1                        | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
-| `4.0`   | 01/06/2024 | Adição do relato de resultado da entrevista 2                       | [Bruna Lima](https://github.com/libruna) |    |
-| `5.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 3                       | [Daniela Alarcão](https://github.com/danialarcao) |    |
-| `6.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 4                    | [Pedro Henrique](https://github.com/PedroHhenriq) |    |
-| `7.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 5                    | [Genilson Silva](https://github.com/GenilsonJrs) |    |
-| `8.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 6                   | [Lucas Avelar](https://github.com/LucasAvelar2711) |    |
+| `4.0`   | 01/06/2024 | Adição do relato de resultado da entrevista 2                       | [Bruna Lima](https://github.com/libruna) |  [Mariana Letícia](https://github.com/Marianannn)  |
+| `5.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 3                       | [Daniela Alarcão](https://github.com/danialarcao) |  [Mariana Letícia](https://github.com/Marianannn)  |
+| `6.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 4                    | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Mariana Letícia](https://github.com/Marianannn)  |
+| `7.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 5                    | [Genilson Silva](https://github.com/GenilsonJrs) |  [Mariana Letícia](https://github.com/Marianannn)  |
+| `8.0`   | 03/06/2024 | Adição do relato de resultado da entrevista 6                   | [Lucas Avelar](https://github.com/LucasAvelar2711) |  [Mariana Letícia](https://github.com/Marianannn)  |
