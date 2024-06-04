@@ -114,7 +114,7 @@ Membros da equipe do projeto conduzirão um teste piloto para validar e otimizar
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 28/05/2024 | Criação da página     | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna) |
-| `2.0`   | 02/06/2024 | Adição das questões práticas    | [Bruna Lima](https://github.com/libruna) |     |
-| `3.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Daniela Alarcão](https://github.com/danialarcao) |     |
-| `4.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Lucas Avelar](https://github.com/LucasAvelar2711) |     |
-| `4.1`   | 03/06/2024 | Adição do cronograma e planejamento do teste piloto | [Bruna Lima](https://github.com/libruna)|     |
+| `2.0`   | 02/06/2024 | Adição das questões práticas    | [Bruna Lima](https://github.com/libruna) |  [Pedro Henrique](https://github.com/PedroHhenriq)   |
+| `3.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Daniela Alarcão](https://github.com/danialarcao) |  [Lucas Avelar](https://github.com/LucasAvelar2711)   |
+| `4.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Pedro Henrique](https://github.com/PedroHhenriq)     |
+| `4.1`   | 03/06/2024 | Adição do cronograma e planejamento do teste piloto | [Bruna Lima](https://github.com/libruna)|  [Daniela Alarcão](https://github.com/danialarcao)   |

@@ -14,7 +14,7 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 | :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
 | [Mariana Letícia](https://github.com/Marianannn) | Bernardo Machado | 10:00 | 10:15 | 24/05/2024 | Solicitar declaração de registro de ocorrência  | FGA |
 | [Daniela Alarcão](https://github.com/danialarcao) | Felipe da Silva Xavier Pereira | 17:00 | 17:04 | 28/05/2024 | Agendamento de atendimento presencial | PGJM |
-| [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
+| [Pedro Henrique](https://github.com/PedroHhenriq) |     Lorrane    |      12:00     |     12:30     |  30/05/2024  |   CB Cursos 2   | Residência Domiciliar |
 | [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
 | [Bruna Lima](https://github.com/libruna) | Marina Márcia | 14:45 | 14:53 |  29/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
 | [Genilson](https://github.com/GenilsonJrs) | Dylan Medeiros| 11:00 | 11:20 |  03/05/2024  |  Checar e Gerar Certificado | FGA |

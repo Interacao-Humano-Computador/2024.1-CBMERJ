@@ -14,7 +14,7 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 | :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
 | [Mariana Letícia](https://github.com/Marianannn) | Bernardo Machado | 10:00 | 10:15 | 24/05/2024 | Solicitar declaração de registro de ocorrência  | FGA |
 | [Daniela Alarcão](https://github.com/danialarcao) | Felipe da Silva Xavier Pereira | 17:00 | 17:04 | 28/05/2024 | Agendamento de atendimento presencial | PGJM |
-| [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
+| [Pedro Henrique](https://github.com/PedroHhenriq) |     Lorrane    |      12:00     |     12:30     |  30/05/2024  |   CB Cursos 2   | Residência Domicilar |
 | [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
 | [Bruna Lima](https://github.com/libruna) | Marina Márcia | 14:45 | 14:53 |  29/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
 | [Genilson](https://github.com/GenilsonJrs) | Dylan Medeiros  | 11:00 | 11:20 |  03/06/2024  |  Checar e Gerar Certificados | FGA |
@@ -242,8 +242,7 @@ Desta maneira a entrevistada foi Lorrane, de 23 anos, gruanda em Fisioterapia. A
 
 - **Lista de problemas encontrados:** 
     - O fluxo da entrevista foi conduzido de forma que não apresentasse muitos problemas em relação ao entedimento do entrevistado. 
-    - Por conta disso, a entrevistada não apresentou nenhum problema com a analise de tarefas em si ou com a funcionalidade. 
-    
+    - Por conta disso, a entrevistada não apresentou nenhum problema com a analise de tarefas em si ou com a funcionalidade. <br><br>
     Como a entrevista foi realizada logo em seguida a entrevista do Storyboard, destacam-se alguns mesmos problemas já listados:
     - O local escolhido pode ter sido inadequado, por conta de alguns barulhos, que apesar de não bloquear as falas, pode distrair aqueles que assistem o vídeo. 
     - O aparelho utilizado na primeira gravação, havia memória cheia, o que fez com que perdesse uma pequena parte e tivesse que regravar. 
