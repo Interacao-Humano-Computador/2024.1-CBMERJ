@@ -26,7 +26,7 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 <br>
 <br>
 
-## Cronograma Ponto de Controle 
+## Cronograma Ponto de Controle 2
 
 
 |    | Atividade                                      | Local        | Inicio período de desenvolvimento das atividades   | Fim do período de desenvolvimento das atividades          | Responsáveis   | Inicio Período de Revisão   | Fim do período de revisão          | Revisores   |
@@ -46,12 +46,11 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 
 |    | Atividade                                    | Local        | Inicio período de desenvolvimento das atividades   | Fim do período de desenvolvimento das atividades          | Responsáveis    | Inicio período de Revisão   | Fim do período de revisão          | Revisores   |
 |---:|:---------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:----------------|:---------------------|:--------------------|:------------|
-|  1 | Princípios Gerais do Projeto                 |              | 07/05/2024| 13/05/2024  | Pedro e Bruna         | 13/05/2024   | 13/05/2024  |  Genilson      |
+|  1 | Princípios Gerais do Projeto                 | Google Meets | 07/05/2024| 13/05/2024  | Pedro e Bruna         | 13/05/2024   | 13/05/2024  |  Genilson      |
 |  2 | Metas de usabilidade                         | Google Meets | 07/05/2024| 13/05/2024  | Mariana | 13/05/2024   | 13/05/2024  | Daniela     |
 |  3 | Guia de estilo                               |              | 07/05/2024| 13/05/2024  | Genilson        | 13/05/2024   | 13/05/2024  | Lucas       |
 |  4 | Características da plataforma para o projeto | Google Meets | 07/05/2024| 13/05/2024  | Lucas  | 13/05/2024   | 13/05/2024  | Mariana     |
-|  5 | Gravar apresentação                          | Google Meets | 07/05/2024| 13/05/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro           | 13
-/05/2024   | 13/05/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+|  5 | Gravar apresentação                          | Google Meets | 07/05/2024| 13/05/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro           | 13/05/2024   | 13/05/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
 |  6 | Implementar git page                         | Google Meets | 09/05/2024| 25/05/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro  | 25/05/2024   | 25/05/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
 
 <p>Tabela 3: Cronograma do Ponto de controle 3 (Fonte:Lucas Avelar,2024)</p>
@@ -61,14 +60,28 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 
 |    | Atividade | Local | Inicio período de desenvolvimento das atividades | Fim do período de desenvolvimento das atividades | Responsáveis | Inicio período de Revisão | Fim do período de revisão | Revisores |
 |---:|:---------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:----------------|:---------------------|:--------------------|:------------|
-|  1 | Planejamento da avaliação da análise de tarefas |  | 16/05/2024| 22/05/2024 | Genilson | 22/05/2024 | 22/05/2024 | Daniela |
-|  2 | Planejamento do relato de resultados da análise de tarefa |  | 16/05/2024| 22/05/2024  | Lucas e Pedro | 22/05/2024   | 22/05/2024  | Bruna e Mariana |
-|  3 | Planejamento da avaliação do storyboard |  | 16/05/2024 | 22/05/2024  | Daniela | 22/05/2024 | 22/05/2024  | Genilson |
-|  4 | Planejamento do relato de resultados do storyboard |  | 16/05/2024| 22/05/2024  | Bruna e Mariana | 22/05/2024 | 22/05/2024 | Lucas e Pedro |
+|  1 | Planejamento da avaliação da análise de tarefas | Microsoft Teams | 16/05/2024| 22/05/2024 | Genilson | 22/05/2024 | 22/05/2024 | Daniela |
+|  2 | Planejamento do relato de resultados da análise de tarefa | Microsoft Teams | 16/05/2024| 22/05/2024  | Lucas e Pedro | 22/05/2024   | 22/05/2024  | Bruna e Mariana |
+|  3 | Planejamento da avaliação do storyboard | Microsoft Teams | 16/05/2024 | 22/05/2024  | Daniela | 22/05/2024 | 22/05/2024  | Genilson |
+|  4 | Planejamento do relato de resultados do storyboard | Microsoft Teams | 16/05/2024| 22/05/2024  | Bruna e Mariana | 22/05/2024 | 22/05/2024 | Lucas e Pedro |
 |  5 | Gravar apresentação | Microsoft Teams | 22/05/2024 | 22/05/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 22/05/2024 | 22/05/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro |
-|  6 | Implementar git page |  | 16/05/2024| 22/05/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 22/05/2024 | 22/05/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro |
+|  6 | Implementar git page | -- | 16/05/2024| 22/05/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 22/05/2024 | 22/05/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro |
 
 <p>Tabela 4: Cronograma do Ponto de controle 4 (Fonte: Bruna Lima, 2024)</p>
+
+
+## Cronograma Ponto de Controle 5
+
+|    | Atividade                                                                | Local        | Inicio período de desenvolvimento das atividades   | Fim do período de desenvolvimento das atividades          | Responsáveis       | Inicio período de revisão   | Fim do período de revisão          | Revisores   |
+|---:|:-------------------------------------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:-------------------|:---------------------|:--------------------|:------------|
+|  1 | relato dos resultados do story board             | Microsoft Teams | 28/05/2024                          | 03/06/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 03/06/2024   | 03/06/2024  | Bruna, Genilson e Mariana      |
+|  2 | relato dos resultados da análise de tarefas                              | Microsoft Teams | 28/05/2024                           | 03/06/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro            | 03/06/2024   | 03/06/2024  | Bruna e Mariana      |
+|  3 | Planejamento da avaliação do protótipo de papel                          | Microsoft Teams | 28/05/2024                           | 03/06/2024  | Lucas, Daniela e Bruna              | 03/06/2024   | 03/06/2024  | Daniela, Bruna, Genilson, Pedro e Lucas     |
+|  4 | Planejamento do relato dos resultados da avaliação do protótipo de papel | Microsoft Teams | 28/05/2024                           | 03/06/2024  | Pedro, Genilson e Mariana      | 03/06/2024   | 03/06/2024  | Bruna    |
+|  5 | Gravar apresentação                                                      | Microsoft Teams | 03/06/2024                           | 03/06/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro              | 03/06/2024   | 03/06/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+|  6 | Implementar git page                                                     | -- | 28/05/2024                           | 03/06/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro            | 03/06/2024   |03/06/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+
+<p>Tabela 5: Cronograma do Ponto de controle 5 (Fonte:Lucas Avelar,2024)</p>
 
 ## Histórico de Versões
 
@@ -80,3 +93,4 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 | `2.2`   | 01/04/2024 | Adição da introdução da página                     | [Mariana Letícia](https://github.com/Marianannn)  | [Lucas Avelar](https://github.com/LucasAvelar2711)        | 
 | `2.3`   | 13/05/2024 | Adição Ponto de controle 3                    | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Mariana Letícia](https://github.com/Marianannn)        | 
 | `3.0`   | 22/05/2024 | Adição Ponto de controle 4                   | [Bruna Lima](https://github.com/libruna)  |        | 
+| `4.0`   | 22/05/2024 | Adição Ponto de controle 5                   | [Mariana Letícia](https://github.com/Marianannn)  |    [Bruna Lima](https://github.com/libruna)    | 
