@@ -49,6 +49,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
+
 # Page tree
 nav: 
   - Início: index.md
