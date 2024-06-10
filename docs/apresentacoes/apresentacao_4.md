@@ -6,7 +6,7 @@
 
 [Link para o vídeo da apresentação 4](https://www.youtube.com/watch?v=6gHoNtq_khM)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6gHoNtq_khM?si=hPVUF6pvYuwn2Z9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/6gHoNtq_khM?si=hPVUF6pvYuwn2Z9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 1: apresentação 4</p>
 Fonte: autores.

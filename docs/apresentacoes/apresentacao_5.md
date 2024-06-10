@@ -6,7 +6,7 @@
 
 [Link para o vídeo da apresentação 5](https://youtu.be/X0So5vNJWps?si=SDABHfZHsn_6PpJO)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X0So5vNJWps?si=QOIJ1g6FcxPg5TBA" 
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/X0So5vNJWps?si=QOIJ1g6FcxPg5TBA" 
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 1: apresentação 5</p>
@@ -53,5 +53,4 @@ Fonte: autores.
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 03/06/2024 | Criação da página de Apresentação 5      | [Bruna Lima](https://github.com/libruna) |  [Mariana Letícia](https://github.com/Marianannn)   | 
-| `1.1`   | 03/06/2024 | Adição do vídeo da Apresentação 5      | [Bruna Lima](https://github.com/libruna) |  [Mariana Letícia](https://github.com/Marianannn)   | 
-| `1.2`   | 09/06/2024 | Correções      | [Daniela Alarcão](https://github.com/danialarcao) |  [Mariana Letícia](https://github.com/Marianannn)   | 
+| `1.1`   | 03/06/2024 | Adição do vídeo da Apresentação 5      | [Daniela Alarcão](https://github.com/danialarcao) |  [Mariana Letícia](https://github.com/Marianannn)   | 
