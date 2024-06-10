@@ -17,7 +17,7 @@ Os objetivos desta avaliação são identificar problemas de usabilidade na func
 ## E - Explorar perguntas
 Com base nos objetivos determinados, as seguintes perguntas serão exploradas durante a avaliação:
 
-1. *A funcionalidade de navegação pelos cursos é intuitiva para os usuários?*
+1. *A funcionalidade é intuitiva para os usuários?*
 2. *Os usuários conseguem facilmente encontrar a funcionalidade?* 
 3. *Há algum ponto de confusão ou dificuldade durante o uso do protótipo?*
 4. *Os usuários consideram a interface amigável e eficiente?*
@@ -26,7 +26,9 @@ Com base nos objetivos determinados, as seguintes perguntas serão exploradas du
 Essas perguntas ajudam a operacionalizar a investigação, direcionando o foco para aspectos específicos da usabilidade que são críticos para a funcionalidade em questão .
 
 ## C - Escolher método
-<p style="text-align: justify;"> O método escolhido para a avaliação foi o <strong>"prototipação em papel"</strong>. Esse método avalia a usabilidade do protótipo através de simulações de uso com a participação de usuários. Neste método, cada membro da equipe atuará como um "computador", simulando em papel a execução do sistema e suas respostas às ações do usuário. </p>
+<p style="text-align: justify;"> Os métodos selecionados para a avaliação incluem a Prototipação em Papel e Entrevistas. O primeiro método visa avalia a usabilidade do protótipo através de simulações de uso com a participação de usuários. Neste método, cada membro da equipe atuará como um "computador", simulando em papel a execução do sistema e suas respostas às ações do usuário. 
+
+A condução de entrevistas complementa essa abordagem, permitindo a coleta direta de feedback dos participantes sobre sua experiência ao interagir com o protótipo.</p>
 
 ## I - Identificar questões práticas 
 
@@ -48,12 +50,20 @@ Além disso, as atividades abaixo também devem ser realizadas antes da avaliaç
 
 - Definir as tarefas para os participantes executarem durante a sessão;
 - Criar os protótipos em papel das interfaces para executar as tarefas;
-- Executar um teste-piloto. 
+- Executar um teste-piloto.
+
+#### Roteiro de avaliação
+A seguir, temos os tópicos e passos a serem abordados durante a avaliação:
+
+1. Apresentação dos termos de consentimento e explicação de como os dados coletados serão utilizados;
+2. Breve explicação dos objetivos da entrevista para contextualização do participante;
+3. Simulação da funcionalidade a ser availiada com o protótipo em papel;
+4. Avaliação explorando as perguntas definidas previamente nesse planejamento.
 
 ### Mão-de-obra necessária
 A coleta de dados na prototipação em papel deve ser realizada por pelo menos dois avaliadores (2):
 
-1. Responsável por simular o comportamento do sistema.
+1. Responsável por simular o comportamento do sistema e realizar as perguntas da entrevista.
 2. Responsável por observar a experiência de uso.
 
 ### Custos
@@ -114,7 +124,7 @@ Membros da equipe do projeto conduzirão um teste piloto para validar e otimizar
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 28/05/2024 | Criação da página     | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna) |
-| `2.0`   | 02/06/2024 | Adição das questões práticas    | [Bruna Lima](https://github.com/libruna) |     |
-| `3.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Daniela Alarcão](https://github.com/danialarcao) |     |
-| `4.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Lucas Avelar](https://github.com/LucasAvelar2711) |     |
-| `4.1`   | 03/06/2024 | Adição do cronograma e planejamento do teste piloto | [Bruna Lima](https://github.com/libruna)|     |
+| `2.0`   | 02/06/2024 | Adição das questões práticas    | [Bruna Lima](https://github.com/libruna) |  [Pedro Henrique](https://github.com/PedroHhenriq)   |
+| `3.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Daniela Alarcão](https://github.com/danialarcao) |  [Lucas Avelar](https://github.com/LucasAvelar2711)   |
+| `4.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Pedro Henrique](https://github.com/PedroHhenriq)     |
+| `4.1`   | 03/06/2024 | Adição do cronograma e planejamento do teste piloto | [Bruna Lima](https://github.com/libruna)|  [Daniela Alarcão](https://github.com/danialarcao)   |

@@ -14,8 +14,8 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 | :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
 | [Mariana Letícia](https://github.com/Marianannn) | Bernardo Machado | 10:00 | 10:15 | 24/05/2024 | Solicitar declaração de registro de ocorrência  | FGA |
 | [Daniela Alarcão](https://github.com/danialarcao) | Felipe da Silva Xavier Pereira | 17:00 | 17:04 | 28/05/2024 | Agendamento de atendimento presencial | PGJM |
-| [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
-| [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
+| [Pedro Henrique](https://github.com/PedroHhenriq) |     Lorrane    |      12:00     |     12:30     |  30/05/2024  |   CB Cursos 2   | Residência Domicilar |
+| [Lucas Avelar](https://github.com/LucasAvelar2711) |     Rafaella Porto    |      17:00      |     17:30      |  02/06/2024  |   CB Cursos 1   |  Residência Domicilar |
 | [Bruna Lima](https://github.com/libruna) | Marina Márcia | 14:45 | 14:53 |  29/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
 | [Genilson](https://github.com/GenilsonJrs) | Dylan Medeiros  | 11:00 | 11:20 |  03/06/2024  |  Checar e Gerar Certificados | FGA |
 
@@ -242,8 +242,7 @@ Desta maneira a entrevistada foi Lorrane, de 23 anos, gruanda em Fisioterapia. A
 
 - **Lista de problemas encontrados:** 
     - O fluxo da entrevista foi conduzido de forma que não apresentasse muitos problemas em relação ao entedimento do entrevistado. 
-    - Por conta disso, a entrevistada não apresentou nenhum problema com a analise de tarefas em si ou com a funcionalidade. 
-    
+    - Por conta disso, a entrevistada não apresentou nenhum problema com a analise de tarefas em si ou com a funcionalidade. <br><br>
     Como a entrevista foi realizada logo em seguida a entrevista do Storyboard, destacam-se alguns mesmos problemas já listados:
     - O local escolhido pode ter sido inadequado, por conta de alguns barulhos, que apesar de não bloquear as falas, pode distrair aqueles que assistem o vídeo. 
     - O aparelho utilizado na primeira gravação, havia memória cheia, o que fez com que perdesse uma pequena parte e tivesse que regravar. 
@@ -339,15 +338,7 @@ Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711).
     | 10  | Você acha a funcionalidade interessante?                                                               | Sim, com certeza                                                             |
     | 11  | Você utilizaria tal funcionalidade? Por quê?                                                           | Sim! Ah por aquilo de estar preparada                                        |
     | 12  | Sugestões/Melhorias?                                                                                   | Não                                                                          |
-    | 13  | A sequência é coerente e funcional?                                                                    | Sim, coerente                                                                |
-    | 14  | As sequências de passos apresentadas nos storyboards são claras e compreensíveis?                      | Sim                                                                          |
-    | 15  | O contexto das histórias é facilmente compreendido pelo usuário?                                       | Sim, com certeza                                                             |
-    | 16  | Os storyboards facilitam que o usuário alcance seus objetivos de forma intuitiva?                     | Sim                                                                          |
-    | 17  | Há alguma parte dos storyboards que possam causar confusão ou dificuldades para o usuário?             | Não                                                                          |
-    | 18  | Os elementos de interação nos storyboards são consistentes com as expectativas do usuário?             | Sim                                                                          |
-    | 19  | Os aspectos visuais do storyboard são atraentes e incentivam a interação do usuário?                   | Não                                                                          |
-    | 20  | Existem algumas áreas específicas dos storyboards que precisam de ajustes para melhorar a experiência do usuário? | Não                                                                          |
-    | 21  | Os elementos visuais utilizados nos storyboards são eficazes para transmitir a mensagem e guiar o usuário? | Sim                                                                          |                    
+    | 13  | A sequência é coerente e funcional?                                                                    | Sim, coerente                                                                |                   
 
     **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
 
@@ -446,7 +437,7 @@ As perguntas e respostas estão explícitos abaixo na **tabela (ADICIONAR O NUME
 
 
 ## Bibliografia
-
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
 
 ## Histórico de Versões
 

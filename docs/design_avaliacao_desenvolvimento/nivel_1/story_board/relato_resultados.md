@@ -14,10 +14,10 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 | :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
 | [Mariana Letícia](https://github.com/Marianannn) | Bernardo Machado | 10:00 | 10:15 | 24/05/2024 | Solicitar declaração de registro de ocorrência  | FGA |
 | [Daniela Alarcão](https://github.com/danialarcao) | Felipe da Silva Xavier Pereira | 17:00 | 17:04 | 28/05/2024 | Agendamento de atendimento presencial | PGJM |
-| [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
-| [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
+| [Pedro Henrique](https://github.com/PedroHhenriq) |     Lorrane    |      12:00     |     12:30     |  30/05/2024  |   CB Cursos 2   | Residência Domiciliar |
+| [Lucas Avelar](https://github.com/LucasAvelar2711) |     Rafaella Porto    |      17:00      |     17:30      |  02/06/2024  |   CB Cursos 1   |  Residência Domicilar |
 | [Bruna Lima](https://github.com/libruna) | Marina Márcia | 14:45 | 14:53 |  29/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
-| [Genilson](https://github.com/GenilsonJrs) | Dylan Medeiros| 11:00 | 11:20 |  03/05/2024  |  Checar e Gerar Certificado | FGA |
+| [Genilson](https://github.com/GenilsonJrs) | Dylan Medeiros| 11:00 | 11:20 |  03/06/2024  |  Checar e Gerar Certificado | FGA |
 
 <p style="text-align: center">Tabela 1: Cronograma executado de entrevistas</p>
 <p style="text-align: center">Fonte: Mariana Letícia</p>
@@ -85,11 +85,15 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
     - **Conclusão:** segundo o participante, o storyboard apresenta uma sequência lógica de passos e condiz com a realidade. O que se precisa de se atentar é sobre a impressão dos storyboards que precisa de uma qualidade maior e as letras precisam estar em uma fonte maior. <br>
 
 - **Lista de problemas encontrados:** 
-    - problema 1:
+    - problema 1: segue abaixo na figura 1 o erro notado
         - descrição: dificuldade de leitura, onde tem uma letra muito pequena em uma das caixas de diálogo.
         - local: aconteceu no oitavo quadrinho da tirinha.
         - impacto: não entendimento dessa parte da tirinha e consequentemente de um passo para se concluir a funcionalidade em questão.
         - Solução: melhorar legibilidade da letra a aumentando.
+
+![erro no storyboard de declaração do registro de ocorrência](img/storyboard_declaracao_erro.jfif)
+
+<p style="text-align: center">Figura 1: Erro na declaração do registro de ocorrência</p>
 
 - **Sugestões de melhoria:**
     - Uma  das sugestões foi aumentar a caixa de diálogo dos personagens do storyboard.
@@ -330,24 +334,14 @@ Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711).
     | 1   | Qual é o seu nome?      | Rafaella Porto                                                               |
     | 2   | Qual a sua idade?                                                                                      | 21                                                                           |
     | 3   | Como avalia o seu grau de experiência tecnológica?                                                     | 5/10                                                                         |
-    | 4   | Você já fez algum curso on-line?                                                                       | Sim                                                                          |
-    | 5   | Como foi sua experiência e ela teve a ver com segurança ou primeiros socorros?                         | Não                                                                          |
-    | 6   | O que você teria interesse de aprender no curso dos bombeiros?                                         | Eu acho que coisas básicas para caso precise eu esteja preparada para essa situação |
-    | 7   | Como você aprenderia melhor ou mais eficientemente? (vídeos, texto, slides, prática)                   | Vídeos/ Videoaulas                                                           |
-    | 8   | Em quanto tempo você gostaria de garantir o certificado?                                               | Em aproximadamente um mês                                                    |
-    | 9   | Você tem alguma sugestão ou comentário sobre a funcionalidade de cursos online no site dos bombeiros?  | Não nenhuma                                                                  |
-    | 10  | Você acha a funcionalidade interessante?                                                               | Sim, com certeza                                                             |
-    | 11  | Você utilizaria tal funcionalidade? Por quê?                                                           | Sim! Ah por aquilo de estar preparada                                        |
-    | 12  | Sugestões/Melhorias?                                                                                   | Não                                                                          |
-    | 13  | A sequência é coerente e funcional?                                                                    | Sim, coerente                                                                |
-    | 14  | As sequências de passos apresentadas nos storyboards são claras e compreensíveis?                      | Sim                                                                          |
-    | 15  | O contexto das histórias é facilmente compreendido pelo usuário?                                       | Sim, com certeza                                                             |
-    | 16  | Os storyboards facilitam que o usuário alcance seus objetivos de forma intuitiva?                     | Sim                                                                          |
-    | 17  | Há alguma parte dos storyboards que possam causar confusão ou dificuldades para o usuário?             | Não                                                                          |
-    | 18  | Os elementos de interação nos storyboards são consistentes com as expectativas do usuário?             | Sim                                                                          |
-    | 19  | Os aspectos visuais do storyboard são atraentes e incentivam a interação do usuário?                   | Não                                                                          |
-    | 20  | Existem algumas áreas específicas dos storyboards que precisam de ajustes para melhorar a experiência do usuário? | Não                                                                          |
-    | 21  | Os elementos visuais utilizados nos storyboards são eficazes para transmitir a mensagem e guiar o usuário? | Sim                                                                          |                    
+    | 4  | As sequências de passos apresentadas nos storyboards são claras e compreensíveis?                      | Sim                                                                          |
+    | 5  | O contexto das histórias é facilmente compreendido pelo usuário?                                       | Sim, com certeza                                                             |
+    | 6  | Os storyboards facilitam que o usuário alcance seus objetivos de forma intuitiva?                     | Sim                                                                          |
+    | 7  | Há alguma parte dos storyboards que possam causar confusão ou dificuldades para o usuário?             | Não                                                                          |
+    | 8  | Os elementos de interação nos storyboards são consistentes com as expectativas do usuário?             | Sim                                                                          |
+    | 9  | Os aspectos visuais do storyboard são atraentes e incentivam a interação do usuário?                   | Não                                                                          |
+    | 10  | Existem algumas áreas específicas dos storyboards que precisam de ajustes para melhorar a experiência do usuário? | Não                                                                          |
+    | 11  | Os elementos visuais utilizados nos storyboards são eficazes para transmitir a mensagem e guiar o usuário? | Sim                                                                          |                    
 
     **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
 
@@ -442,7 +436,7 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 
 
 ## Bibliografia
-
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
 
 ## Histórico de Versões
 

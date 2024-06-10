@@ -71,7 +71,7 @@ Essas melhorias ajudarão a completar o relatório de análise de tarefas, propo
 
 ### Métodos
 
-O método para a avaliação do protótipo de papel será conduzido por meio de observação e entrevista. Durante essa avaliação, os entrevistados interagirão de forma fictícia com o site utilizando papeis representando as interfaces. Um observador anotará todas as interações e observações, enquanto outra pessoa atuará como "máquina", movendo os papéis conforme os botões são clicados. Um facilitador estará presente para auxiliar o usuário em caso de dificuldades. Após a interação, conduziremos uma entrevista onde os avaliadores discutirão as tarefas realizadas e farão perguntas para esclarecer dúvidas, capturando dados para análise posterior.
+O método para a avaliação do protótipo de papel será conduzido por meio de observação e entrevista com o protótipo de papel. Durante essa avaliação, os entrevistados interagirão de forma fictícia com o site utilizando papeis representando as interfaces. Um observador anotará todas as interações e observações, enquanto outra pessoa atuará como "máquina", movendo os papéis conforme os botões são clicados. Um facilitador estará presente para auxiliar o usuário em caso de dificuldades. Após a interação, conduziremos uma entrevista onde os avaliadores discutirão as tarefas realizadas e farão perguntas para esclarecer dúvidas, capturando dados para análise posterior.
 
 
 
@@ -166,7 +166,7 @@ Após identificarmos os problemas e sugestões de melhorias, será necessário r
 
 ## Biografia
 
->Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
 
 ## Referências Bibliográficas
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. [Capítulo 12, p. 318]
