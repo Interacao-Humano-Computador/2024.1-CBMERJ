@@ -85,13 +85,23 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
 
 ### Checklist 3: Cenários
 
-- **Item 1:** descrição aqui
-    - **Fonte:**
+- **Item 1:** O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado?
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
     - **Imagem:**
+    ![imagem com texto descrevendo como deve ser um cenário](img/cenario_descricao_img_1.png)
+    Legenda X: Imagem do livro citado acima descrevendo como deve ser um cenário
 
-- **Item 2:** descrição aqui
-    - **Fonte:**
+- **Item 2:** O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999):
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
     - **Imagem:**
+    ![imagem com texto descrevendo o que um cenário deve conter](img/cenario_elementos_img_2.png)
+    Legenda X: Imagem do livro citado acima descrevendo como deve ser um cenário
+
+- **Item 3:** Os cenários respondem as perguntas Por que? Como? O que é? 
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 174
+    - **Imagem:**
+    ![imagem com texto descrevendo quais perguntas o cenário deve responder](img/cenario_tabela_perguntas_img_3.png)
+    Legenda X: imagem com texto descrevendo quais perguntas o cenário deve responder
 
 ### Checklist 4: Análise de tarefas
 
@@ -112,6 +122,7 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
 > 1. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 267.
 > 2. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 286.
 > 3. Sales, A. B. (s.d.). Disciplina: Interação Humano Computador - Lista de Exercícios: Elaborar uma lista de verificação. Disponível em: https://aprender3.unb.br/pluginfile.php/2843816/mod_resource/content/7/Atividade%20Avaliativa%20Verificac%CC%A7a%CC%83o%202.pdf
+> 4. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172.
 
 ## Histórico de Versões
 
