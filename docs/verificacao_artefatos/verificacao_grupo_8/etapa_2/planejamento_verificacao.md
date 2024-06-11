@@ -85,23 +85,32 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
 
 ### Checklist 3: Cenários
 
-- **Item 1:** O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado?
+- **Item 1:** O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo exige na imagem X?(4)
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
     - **Imagem:**
-    ![imagem com texto descrevendo como deve ser um cenário](img/cenario_descricao_img_1.png)
-    Legenda X: Imagem do livro citado acima descrevendo como deve ser um cenário
+    <center>
 
-- **Item 2:** O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999):
+    ![imagem com texto descrevendo como deve ser um cenário](img/cenario_descricao_img_1.png)
+    <p style="text-align: center">Legenda X: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
+    </center>
+
+- **Item 2:** O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999) (4) e a imagem X a seguir:
     - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
     - **Imagem:**
-    ![imagem com texto descrevendo o que um cenário deve conter](img/cenario_elementos_img_2.png)
-    Legenda X: Imagem do livro citado acima descrevendo como deve ser um cenário
+    <center>
 
-- **Item 3:** Os cenários respondem as perguntas Por que? Como? O que é? 
+    ![imagem com texto descrevendo o que um cenário deve conter](img/cenario_elementos_img_2.png)
+    <p style="text-align: center">Legenda X: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
+    </center>
+
+- **Item 3:** Os cenários respondem, segundo a imagem X aeguir, as perguntas: Por que? Como? O que é? (5)
     - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 174
     - **Imagem:**
+    <center>
+
     ![imagem com texto descrevendo quais perguntas o cenário deve responder](img/cenario_tabela_perguntas_img_3.png)
-    Legenda X: imagem com texto descrevendo quais perguntas o cenário deve responder
+    <p style="text-align: center">Legenda X: imagem com texto descrevendo quais perguntas o cenário deve responder</p>
+    </center>
 
 ### Checklist 4: Análise de tarefas
 
@@ -123,12 +132,14 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
 > 2. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 286.
 > 3. Sales, A. B. (s.d.). Disciplina: Interação Humano Computador - Lista de Exercícios: Elaborar uma lista de verificação. Disponível em: https://aprender3.unb.br/pluginfile.php/2843816/mod_resource/content/7/Atividade%20Avaliativa%20Verificac%CC%A7a%CC%83o%202.pdf
 > 4. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172.
+> 5. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 174.
 
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 09/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `1.0`   | 11/06/2024 | Adição de introdução, metodologia, e objetivo na página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
 
 
 
