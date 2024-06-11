@@ -85,31 +85,36 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
 
 ### Checklist 3: Cenários
 
-- **Item 1:** O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo exige na imagem X?(4)
+- **Item 1:** O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura X?(4)
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
-    - **Imagem:**
+    - **Imagem:** <br>
+
     <center>
 
     ![imagem com texto descrevendo como deve ser um cenário](img/cenario_descricao_img_1.png)
-    <p style="text-align: center">Legenda X: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
+    <p style="text-align: center">Figura X: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
     </center>
 
-- **Item 2:** O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999) (4) e a imagem X a seguir:
+- **Item 2:** O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999) (4) e a Figura X a seguir:
     - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
-    - **Imagem:**
+    - **Imagem:** <br>
+
     <center>
 
     ![imagem com texto descrevendo o que um cenário deve conter](img/cenario_elementos_img_2.png)
-    <p style="text-align: center">Legenda X: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
+
+    <p style="text-align: center">Figura X: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
     </center>
 
-- **Item 3:** Os cenários respondem, segundo a imagem X aeguir, as perguntas: Por que? Como? O que é? (5)
+- **Item 3:** Os cenários respondem, segundo a figura X seguir, as perguntas: Por que? Como? O que é? (5)
     - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 174
-    - **Imagem:**
+    - **Imagem:** <br>
+
     <center>
 
     ![imagem com texto descrevendo quais perguntas o cenário deve responder](img/cenario_tabela_perguntas_img_3.png)
-    <p style="text-align: center">Legenda X: imagem com texto descrevendo quais perguntas o cenário deve responder</p>
+
+    <p style="text-align: center">Figura X: imagem com texto descrevendo quais perguntas o cenário deve responder</p>
     </center>
 
 ### Checklist 4: Análise de tarefas
