@@ -4,7 +4,7 @@ A verificação é uma etapa crítica no desenvolvimento de software, com o obje
 A seguir, apresentamos o planejamento para verificação dos artefatos da etapa 4, referente a análise de tarefas e storyboards do [Grupo 08](https://interacao-humano-computador.github.io/2024.1-Central-Expresso) (Central Expresso).</p>
 
 ## Metodologia
-Para a verificação dos artefatos da etapa 4, o método de inspeção RTF (Revisões Técnicas Formais) foi escolhido. Este método de inspeção é uma análise estática destinada a verificar a qualidade de um determinado artefato.<br>
+Para a verificação dos artefatos da etapa 4, o método de inspeção RTF (Revisões Técnicas Formais) foi escolhido. Este método é uma análise estática destinada a verificar a qualidade de um determinado artefato.<br>
 
 Para detectar defeitos durante a inspeção, seguimos os seguintes passos:<br>
 - Leitura do documento;<br>
@@ -33,10 +33,10 @@ Para inspeção dos artefatos da etapa 4, dois membros do grupo serão envolvido
 
 | Data     | Descrição      | Responsável        | 
 | -------- | -------------- | ------------------ | 
-|  xx/06/2024  | Realizar verificação do Planejamento da Avaliação da Análise de tarefas | [Lucas Avelar](https://github.com/LucasAvelar2711) |   
-|  xx/06/2024  | Realizar verificação do Planejamento do Relato de Resultados da Análise de tarefas | [Lucas Avelar](https://github.com/LucasAvelar2711) |   
-|  xx/06/2024  | Realizar verificação do Planejamento da Avaliação do Storyboard | [Lucas Avelar](https://github.com/LucasAvelar2711) |   
-|  xx/06/2024  | Realizar verificação do Planejamento do Relato de Resultados do Storyboard | [Lucas Avelar](https://github.com/LucasAvelar2711) |  
+|  12/06/2024  | Realizar verificação do Planejamento da Avaliação da Análise de tarefas | [Lucas Avelar](https://github.com/LucasAvelar2711) |   
+|  12/06/2024  | Realizar verificação do Planejamento do Relato de Resultados da Análise de tarefas | [Lucas Avelar](https://github.com/LucasAvelar2711) |   
+|  12/06/2024  | Realizar verificação do Planejamento da Avaliação do Storyboard | [Lucas Avelar](https://github.com/LucasAvelar2711) |   
+|  12/06/2024  | Realizar verificação do Planejamento do Relato de Resultados do Storyboard | [Lucas Avelar](https://github.com/LucasAvelar2711) |  
 
 </center>
 
@@ -45,63 +45,51 @@ Para inspeção dos artefatos da etapa 4, dois membros do grupo serão envolvido
 
 
 ## Checklist
-As listas de verificações das tabelas 3, 4, 5 e 6 detalham os aspectos que serão analisados durante a verificação de cada artefato.
+As listas de verificações 1, 2, 3 e 4 detalham os aspectos que serão analisados durante a verificação de cada artefato, com sua respectiva fonte e imagem de referência.
 
 ### Checklist 1: Planejamento da Avaliação da Análise de Tarefas
 
-<center> 
-  
-| Item | Descrição      | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
-| ---- | -------------- | -------------- | --------------------- | -------------------------- | ----------- |
-| 1    | | | | | |
+- **Item 1:** descrição aqui
+    - **Fonte:**
+    - **Imagem:**
 
-</center>
-
-<p style="text-align: center">Tabela 3: Checklist para verificação do Planejamento da Análise de Tarefas.</p>
-<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+- **Item 2:** descrição aqui
+    - **Fonte:**
+    - **Imagem:**
 
 ### Checklist 2: Planejamento do Relato de Resultados da Análise de Tarefas
 
-<center> 
-  
-| Item | Descrição      | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
-| ---- | -------------- | -------------- | --------------------- | -------------------------- | ----------- |
-| 1    | | | | | |
+- **Item 1:** descrição aqui
+    - **Fonte:**
+    - **Imagem:**
 
-</center>
-
-<p style="text-align: center">Tabela 4: Checklist para do Planejamento do Relato de Resultados da Análise de Tarefas.</p>
-<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+- **Item 2:** descrição aqui
+    - **Fonte:**
+    - **Imagem:**
 
 ### Checklist 3: Planejamento da Avaliação do Storyboard
 
-<center> 
-  
-| Item | Descrição      | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
-| ---- | -------------- | -------------- | --------------------- | -------------------------- | ----------- |
-| 1    | | | | | |
+- **Item 1:** descrição aqui
+    - **Fonte:**
+    - **Imagem:**
 
-</center>
-
-<p style="text-align: center">Tabela 5: Checklist para do Planejamento da Avaliação do Storyboard.</p>
-<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+- **Item 2:** descrição aqui
+    - **Fonte:**
+    - **Imagem:**
 
 ### Checklist 4: Planejamento do Relato de Resultados do Storyboard
 
-<center> 
-  
-| Item | Descrição      | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
-| ---- | -------------- | -------------- | --------------------- | -------------------------- | ----------- |
-| 1    | | | | | |
+- **Item 1:** descrição aqui
+    - **Fonte:**
+    - **Imagem:**
 
-</center>
-
-<p style="text-align: center">Tabela 6: Checklist para do Planejamento do Relato de Resultados do Storyboard.</p>
-<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+- **Item 2:** descrição aqui
+    - **Fonte:**
+    - **Imagem:**
 
 ## Biografia
-> Serrano, M., & Serrano, M. (2017). Requisitos – Aula 23. Disponivel em: https://aprender3.unb.br/pluginfile.php/2843809/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf
-> Ministério da Agricultura, Pecuária e Abastecimento. (2023). Lista de Verificação da Qualidade de Artefatos - Checklist Ágil. Disponivel em: https://www.gov.br/agricultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/edital/2019/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view
+> - Serrano, M., & Serrano, M. (2017). Requisitos – Aula 23. Disponivel em: https://aprender3.unb.br/pluginfile.php/2843809/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf
+> - Ministério da Agricultura, Pecuária e Abastecimento. (2023). Lista de Verificação da Qualidade de Artefatos - Checklist Ágil. Disponivel em: https://www.gov.br/agricultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/edital/2019/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view
 
 ## Referências Bibliográficas
 > 1. Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
