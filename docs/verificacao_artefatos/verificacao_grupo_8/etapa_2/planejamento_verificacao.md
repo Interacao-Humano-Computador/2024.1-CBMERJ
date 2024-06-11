@@ -92,8 +92,10 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
     <center>
 
     ![imagem com texto descrevendo como deve ser um cenário](img/cenario_descricao_img_1.png)
-    <p style="text-align: center">Figura X: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
+
     </center>
+
+    <p style="text-align: center">Figura X: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
 
 - **Item 2:** O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999) (4) e a Figura X a seguir:
     - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
@@ -103,8 +105,9 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
 
     ![imagem com texto descrevendo o que um cenário deve conter](img/cenario_elementos_img_2.png)
 
-    <p style="text-align: center">Figura X: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
     </center>
+
+    <p style="text-align: center">Figura X: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
 
 - **Item 3:** Os cenários respondem, segundo a figura X seguir, as perguntas: Por que? Como? O que é? (5)
     - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 174
@@ -114,18 +117,77 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
 
     ![imagem com texto descrevendo quais perguntas o cenário deve responder](img/cenario_tabela_perguntas_img_3.png)
 
-    <p style="text-align: center">Figura X: imagem com texto descrevendo quais perguntas o cenário deve responder</p>
     </center>
+
+    <p style="text-align: center">Figura X: imagem com texto descrevendo quais perguntas o cenário deve responder</p>
 
 ### Checklist 4: Análise de tarefas
 
-- **Item 1:** descrição aqui
-    - **Fonte:**
+- **Item 1:** A análise de tarefas está presente no documento?
+    - **Fonte:** disponível no canal do telegram da disciplina - IHC Turma 1 (1/2024) - Prof. André (6).
     - **Imagem:**
+    <br>
 
-- **Item 2:** descrição aqui
-    - **Fonte:**
+    <center>
+
+    ![](img/analise_tarefas_existencia_img_1.png)
+
+    </center>
+
+    <p style="text-align: center">Figura X: Pergunta sobre a existência do documento no projeto</p>
+
+- **Item 2:** Há no mínimo duas técnicas para especificar as tarefas? Por exemplo: HTA, GOMS ou CTT. 
+    - **Fonte:** disponível no canal do telegram da disciplina - IHC Turma 1 (1/2024) - Prof. André (6).
     - **Imagem:**
+    <br>
+
+    <center>
+
+    ![](img/analise_tarefas_tecnica_img_2.png)
+
+    </center>
+
+    <p style="text-align: center">Figura X: exigência da análise de tarefas ser feita com mais de uma técnica.</p>
+
+
+- **Item 3:** Os diagramas HTA propostos seguem a notação da técnica? 
+    - **Fonte:** disponível no canal do telegram da disciplina - IHC Turma 1 (1/2024) - Prof. André (6).
+    - **Imagem:**
+    <br>
+
+    <center>
+
+    ![](img/analise_tarefa_notacao_img_3.png)
+
+    </center>
+
+    <p style="text-align: center">Figura X: Pergunta sobre a existência de notação técnica</p>
+
+- **Item 4:** Cada integrante do grupo analisou pelo menos uma funcionalidade? 
+    - **Fonte:**  disponível no canal do telegram da disciplina - IHC Turma 1 (1/2024) - Prof. André (6)
+    - **Imagem:**
+    <br>
+
+    <center>
+
+    ![](img/analise_tarefa_especifica_notacao_img_4.png)
+
+    </center>
+
+    <p style="text-align: center">Figura X: Exigência de uma tarefa analisada por integrante</p>
+
+- **Item 5:** A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos? 
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 178. (7)
+    - **Imagem:**
+    <br>
+
+    <center>
+
+    ![](img/analise_tarefa_objetivo_img_5.png)
+
+    </center>
+
+    <p style="text-align: center">Figura X: Evidência da necessidade de objetivos e listas para a análise de tarefas</p>
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
@@ -138,6 +200,8 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
 > 3. Sales, A. B. (s.d.). Disciplina: Interação Humano Computador - Lista de Exercícios: Elaborar uma lista de verificação. Disponível em: https://aprender3.unb.br/pluginfile.php/2843816/mod_resource/content/7/Atividade%20Avaliativa%20Verificac%CC%A7a%CC%83o%202.pdf
 > 4. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172.
 > 5. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 174.
+> 6. Barros, A., & Aires, M. B. (2024). Entrega da apresentação do projeto etapa 2: Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Personas e Análise de tarefas. [Documento PDF].
+> 7. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 178.
 
 ## Histórico de Versões
 
