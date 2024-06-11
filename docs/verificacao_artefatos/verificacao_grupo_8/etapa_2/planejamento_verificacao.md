@@ -91,13 +91,25 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
 
     <center>
 
+    ![imagem com texto descrevendo como deve ser um cenário](img/cenarios_existencia_img_4.png)
+
+    </center>
+
+    <p style="text-align: center">Figura X: Imagem do documento (6) perguntando sobre a existência dos cenários</p>
+
+- **Item 2:** O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura X?(4)
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
+    - **Imagem:** <br>
+
+    <center>
+
     ![imagem com texto descrevendo como deve ser um cenário](img/cenario_descricao_img_1.png)
 
     </center>
 
     <p style="text-align: center">Figura X: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
 
-- **Item 2:** O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999) (4) e a Figura X a seguir:
+- **Item 3:** O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999) (4) e a Figura X a seguir:
     - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
     - **Imagem:** <br>
 
@@ -109,7 +121,7 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
 
     <p style="text-align: center">Figura X: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
 
-- **Item 3:** Os cenários respondem, segundo a figura X seguir, as perguntas: Por que? Como? O que é? (5)
+- **Item 4:** Os cenários respondem, segundo a figura X seguir, as perguntas: Por que? Como? O que é? (5)
     - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 174
     - **Imagem:** <br>
 
