@@ -103,12 +103,13 @@ nav:
   - Verificação:
       - Verificação de Artefatos - Grupo 8:
           - Etapa 1:
-              - Cronograma: verificacao_artefatos/verificacao_grupo_8/etapa_1/cronograma.md
-              - Ferramentas: verificacao_artefatos/verificacao_grupo_8/etapa_1/ferramentas.md
-              - Metodologia: verificacao_artefatos/verificacao_grupo_8/etapa_1/metodologia.md
-              - Processo de Design: verificacao_artefatos/verificacao_grupo_8/etapa_1/processo_design.md
-              - Sites Avaliados: verificacao_artefatos/verificacao_grupo_8/etapa_1/sites_avaliados.md
-              - Site escolhido: verificacao_artefatos/verificacao_grupo_8/etapa_1/site_escolhido.md
+              - Cronograma: verificacao_artefatos/verificacao_grupo_8/etapa_1/aviso.md
+          - Etapa 2:
+              - Planejamento da Verificação: verificacao_artefatos/verificacao_grupo_8/etapa_2/planejamento_verificacao.md
+              - Perfil do Usuário: verificacao_artefatos/verificacao_grupo_8/etapa_2/perfil_usuario.md
+              - Personas: verificacao_artefatos/verificacao_grupo_8/etapa_2/personas.md
+              - Cenários: verificacao_artefatos/verificacao_grupo_8/etapa_2/cenarios.md
+              - Análise de tarefas: verificacao_artefatos/verificacao_grupo_8/etapa_2/analise_tarefas.md
           - Etapa 3:
               - Planejamento da Verificação: verificacao_artefatos/verificacao_grupo_8/etapa_3/01_planejamento.md
               - Características Gerais: verificacao_artefatos/verificacao_grupo_8/etapa_3/05_caracteristicas_gerais.md
