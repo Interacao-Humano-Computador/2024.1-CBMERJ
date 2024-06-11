@@ -4,7 +4,7 @@
 A seguir, apresentamos o planejamento para verificação dos artefatos da etapa 4, referente a análise de tarefas e storyboards do <a href="https://interacao-humano-computador.github.io/2024.1-Central-Expresso/" target="_blank">Grupo 08</a> (Central Expresso).</p>
 
 ## Metodologia
-<p style="text-align: justify;"> Para a verificação dos artefatos da etapa 4, o método de inspeção RTF (Revisões Técnicas Formais) foi escolhido. Este método de inspeção é uma análise estática destinada a verificar a qualidade de um determinado artefato.
+<p style="text-align: justify;"> Para a verificação dos artefatos da etapa 4, o método de inspeção RTF (Revisões Técnicas Formais) foi escolhido. Este método de inspeção é uma análise estática destinada a verificar a qualidade de um determinado artefato.</p>
 
 Para detectar defeitos durante a inspeção, seguimos os seguintes passos:
 - Leitura do documento.
