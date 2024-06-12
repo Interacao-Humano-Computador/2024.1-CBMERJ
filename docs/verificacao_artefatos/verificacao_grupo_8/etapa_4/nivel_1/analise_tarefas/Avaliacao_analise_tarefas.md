@@ -57,7 +57,8 @@
 |04| O grupo apresentou uma coleta e interpretação dos dados? | sim/não |
 |05| O grupo considera um possivel reprojeto? | sim/não |  
 |06| O grupo se preocupou em achar e resolver problemas encontrados? | sim/não |  
-
+|07| O grupo se preocupou em colocar onde o problema foi encontrado, deu uma descrição ao problema? | sim/não | 
+|08| O grupo citou sugestões de melhoria?| sim/não | 
 
 ## Referências Bibliográficas
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 10 de junho de 2024.
