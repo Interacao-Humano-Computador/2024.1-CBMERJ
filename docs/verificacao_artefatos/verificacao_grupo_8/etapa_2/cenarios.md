@@ -81,15 +81,17 @@ A tabela 1, logo abaixo, mostra o modelo de como avaliaremos os erros encontrado
 |  2   | O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura 2? | 1.0 | Conforme|  |   | |
 |  3   | O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999)? | 1.0 | Incompleto | Não foi possível identificar o aspecto Avaliação | Adicionar alguma atividades mental que de gatilho no cenário para que o ator possa interpretá-lá e avaliá-lá. | Tirando esse elementos citado na descrição do problema, todos os outros estão em conformidade com o cenário; |
 |  4   | Os cenários respondem, segundo a figura 4 seguir, as perguntas: Por que? Como? O que é? | 1.0 | Conforme  | | | |
+<p style="text-align: center">Tabela 2: resultado da checklist do cenário Compartilhamento de trajetos</p>
 <p style="text-align: center">Fonte: Pedro Henrique, 2024</p>
 
-### Cenário: Acompanhar pedido de compra de passagem
+### Cenário: Acompanhar pedido de compra de passagem - Revisora: Mariana Letícia
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
 |  1   | O cenário está presente no documento, segundo é evidente na Figura 1? | 1.0 | Conforme |  |  | |
 |  2   | O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura 2? | 1.0 | Conforme|  |   | |
 |  3   | O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999)? | 1.0 | Conforme |  |  |  |
 |  4   | Os cenários respondem, segundo a figura 4 seguir, as perguntas: Por que? Como? O que é? | 1.0 | Conforme  | | | |
+<p style="text-align: center">Tabela 3: resultado da checklist do cenário Acompanhar compra de passagem</p>
 <p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
 ## Biografia
