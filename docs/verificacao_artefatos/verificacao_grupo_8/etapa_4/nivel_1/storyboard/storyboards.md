@@ -14,7 +14,8 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 
 - **Item 1:** **Aprensenta as quatro características principais de um storyboard: o cenário, as atividades, os visuais e a história?** 
     - **Fonte:** Tópico 4. O que é um storyboard? Miro: *https://miro.com/pt/storyboard/o-que-e-storyboard/*
-    - **Imagem:** ![](img/storyboards_item_1.png)
+    - **Imagem:** <br>
+    ![](img/storyboards_item_1.png)
 <p align="center">Imagem 1 - Destaque no site sobre as características principais de um storyboard. </p>
 
 - **Item 2:** **Outros elementos-chave, como personagens, enredo, diálogo e dicas visuais, foram incluídos no storyboard?** 
@@ -37,6 +38,18 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
     - **Fonte:** Storyboarding Eficaz, StoryboardThat. *https://www.storyboardthat.com/pt/articles/e/como-fazer-seu-storyboards-pop*
     - **Imagem:** ![](img/storyboards_item_5.png)
 <p align="center">Imagem 5 - Destaque no site sobre importância dos storyboards. </p>
+
+## Resultado do Checklist
+
+### Funcionalidade:  - Revisor:
+### Funcionalidade:  - Revisor: 
+### Funcionalidade:  - Revisor:
+### Funcionalidade:  - Revisor:
+### Funcionalidade:  - Revisor: 
+### Funcionalidade: Comprar passagem - Revisora: Bruna Lima
+
+## Conclusão
+
 
 ## Biografia
 > - O que é um storyboard? Miro. Disponível em: https://miro.com/pt/storyboard/o-que-e-storyboard/

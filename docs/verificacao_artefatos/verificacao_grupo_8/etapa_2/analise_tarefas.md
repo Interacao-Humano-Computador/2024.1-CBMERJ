@@ -101,7 +101,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
 </center>
 
-<p style="text-align: center">Tabela 1: Checklist de verificação dos Aspectos Éticos.</p>
+<p style="text-align: center">Tabela 1: Checklist de verificação da funcionalidade "Comprar passagem".</p>
 <p style="text-align: center">Fonte: Bruna Lima, 2024</p>
 
 ## Conclusão
