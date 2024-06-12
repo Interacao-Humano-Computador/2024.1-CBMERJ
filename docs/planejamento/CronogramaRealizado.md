@@ -83,6 +83,18 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 
 <p>Tabela 5: Cronograma do Ponto de controle 5 (Fonte:Lucas Avelar,2024)</p>
 
+## Cronograma Ponto de Controle 6
+
+|    | Atividade | Local | Inicio período de desenvolvimento das atividades | Fim do período de desenvolvimento das atividades | Responsáveis | Inicio período de Revisão | Fim do período de revisão | Revisores |
+|---:|:---------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:----------------|:---------------------|:--------------------|:------------|
+|  1 | Planejamento da verificação | WhatsApp e FGA | 07/06/2024| 12/06/2024 | Bruna, Mariana, Pedro | 12/06/2024 | 12/06/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro  |
+|  2 | Desevolvimento das listas de verificações | -- | 10/06/2024 | 12/06/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 22/05/2024   | 22/05/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro  |
+|  3 | Verificação dos artefatos | -- | 12/06/2024 | 12/06/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 22/05/2024 |22/05/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro  |
+|  4 | Gravar apresentação | Microsoft Teams | 12/06/2024 | 12/06/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 12/05/2024 | 12/05/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro |
+|  5 | Implementar git page | -- | 10/06/2024| 12/05/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 22/05/2024 | 22/05/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro |
+
+<p>Tabela 6: Cronograma do Ponto de controle 6 (Fonte: Bruna Lima, 2024)</p>
+
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
@@ -94,4 +106,5 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 | `3.0`   | 14/04/2024 | Adição Ponto de controle 2                    | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Mariana Letícia](https://github.com/Marianannn)        | 
 | `4.0`   | 13/05/2024 | Adição Ponto de controle 3                    | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Mariana Letícia](https://github.com/Marianannn)        | 
 | `5.0`   | 22/05/2024 | Adição Ponto de controle 4                   | [Bruna Lima](https://github.com/libruna)  |    [Mariana Letícia](https://github.com/Marianannn)    | 
-| `6.0`   | 22/05/2024 | Adição Ponto de controle 5                   | [Mariana Letícia](https://github.com/Marianannn)  |    [Bruna Lima](https://github.com/libruna)    | 
+| `6.0`   | 03/05/2024 | Adição Ponto de controle 5                   | [Mariana Letícia](https://github.com/Marianannn)  |    [Bruna Lima](https://github.com/libruna)    | 
+| `7.0`   | 12/06/2024 | Adição Ponto de controle 6                   |  [Bruna Lima](https://github.com/libruna) |       | 

@@ -83,6 +83,14 @@ A tabela 1, logo abaixo, mostra o modelo de como avaliaremos os erros encontrado
 |  4   | Os cenários respondem, segundo a figura 4 seguir, as perguntas: Por que? Como? O que é? | 1.0 | Conforme  | | | |
 <p style="text-align: center">Fonte: Pedro Henrique, 2024</p>
 
+### Cenário: Acompanhar pedido de compra de passagem
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | O cenário está presente no documento, segundo é evidente na Figura 1? | 1.0 | Conforme |  |  | |
+|  2   | O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura 2? | 1.0 | Conforme|  |   | |
+|  3   | O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999)? | 1.0 | Conforme |  |  |  |
+|  4   | Os cenários respondem, segundo a figura 4 seguir, as perguntas: Por que? Como? O que é? | 1.0 | Conforme  | | | |
+<p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
