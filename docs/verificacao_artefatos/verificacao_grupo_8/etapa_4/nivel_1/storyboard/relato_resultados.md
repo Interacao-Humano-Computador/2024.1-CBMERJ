@@ -8,6 +8,9 @@ Será inicialmente evidenciado todos os checklists a serem verificados e depois 
 
 A verificação será feita através da inspeção por percurso coginitivo. Os maiores detalhes sobre como funciona a metodologia estão no [Planejamento da verificação](../../../planejamento_verificacao.md).
 
+### Participantes
+A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 para o grupo 8 será a [Mariana Letícia](https://github.com/Marianannn), e os **revisores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq)
+
 ### Template de Checklist - Planejamento do Relato dos Resultados do StoryBoard
 
 - **Item 1:** A estrutura do relatório do resultado da avaliação(os objetivos da avaliação;  o número e o perfil de avaliadores e dos participantes; as tarefas executadas pelos participantes; lista de problemas encontrados), assim como está descrito na figura 1?
@@ -23,7 +26,7 @@ A verificação será feita através da inspeção por percurso coginitivo. Os m
 
     <p style="text-align: center">Figura 1: Elementos na estrutura no relato dos resultados.</p>
 
-- **Item 2:** Complementando o item anterior, foi constado metodologia(modo como a avaliação foi realizada), sumário dos dados coletados, relato da interpretação dos dados, e uma planejamento para reprojeto do sistema, assim como está mencionado na fiura 2?
+- **Item 2:** Complementando o item anterior, foi constado metodologia(modo como a avaliação foi realizada), sumário dos dados coletados, relato da interpretação dos dados, e uma planejamento para reprojeto do sistema, assim como está mencionado na figura 2?
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 279.
     - **Imagem:**
     <br>
@@ -51,6 +54,19 @@ A verificação será feita através da inspeção por percurso coginitivo. Os m
 
 ### Resultado da Checklist - Planejamento do Relato dos Resultados do StoryBoard
 
+A tabela 1, logo abaixo, mostra o modelo de como avaliaremos os erros evidenciados:
+
+<center> 
+
+| Item | Descrição      | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | Perfil do Usuário | não conforme | Ausência de informações no Perfil do Usuário |Inserir as informações relacionadas a x, y e z | Pode ser necessário realizar coletas adicionais de dados |
+
+</center>
+
+<p style="text-align: center">Tabela 1: Exemplo de estrutura para checklist de verificação.</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
 ## Biografia
 
 
@@ -64,4 +80,4 @@ A verificação será feita através da inspeção por percurso coginitivo. Os m
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 10/06/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) |   |
-| `2.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `2.0`   | 11/06/2024 | adicão de introdução e template de lista do storyboard                          | [Mariana Letícia](https://github.com/Marianannn) |   |
