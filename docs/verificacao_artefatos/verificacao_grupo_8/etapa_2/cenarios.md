@@ -59,20 +59,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <p style="text-align: center">Figura 4: imagem com texto descrevendo quais perguntas o cenário deve responder</p>
 
-### (Exemplo) Resultado da Checklist: Planejamento do Relato dos Resultados do StoryBoard
-
-A tabela 1, logo abaixo, mostra o modelo de como avaliaremos os erros encontrados durante a avaliação:
-
-<center> 
-
-| Item | Descrição      | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
-| ---- | -------------- | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   | Perfil do Usuário | não conforme | Ausência de informações no Perfil do Usuário |Inserir as informações relacionadas a x, y e z | Pode ser necessário realizar coletas adicionais de dados |
-
-</center>
-
-<p style="text-align: center">Tabela 1: Exemplo de estrutura para checklist de verificação.</p>
-<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+## Resultados dos Checklists
 
 ### Cenário: Compartilhamento de Trajetos - Revisor: Pedro Henrique
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
