@@ -1,7 +1,7 @@
 ## Introdução
 A verificação é uma etapa crítica no desenvolvimento de software, com o objetivo de garantir sua qualidade e desempenho adequado. Por meio de métodos como testes e análises, busca-se identificar e corrigir potenciais falhas e inconsistências, assegurando que o software atenda aos requisitos e expectativas estabelecidos. Essa prática contínua é essencial para garantir a confiabilidade e a segurança dos sistemas em um ambiente tecnológico em constante evolução.
 
-A seguir, apresentamos o planejamento para verificação dos artefatos do [Grupo 08](https://interacao-humano-computador.github.io/2024.1-Central-Expresso) (Central Expresso).</p>
+A seguir, apresentamos o planejamento para verificação dos artefatos do [Grupo 08](https://interacao-humano-computador.github.io/2024.1-Central-Expresso) (Central Expresso).
 
 ## Metodologia
 Para a verificação dos artefatos, o método de inspeção RTF (Revisões Técnicas Formais) foi escolhido. Este método é uma análise estática destinada a verificar a qualidade de um determinado artefato.<br>
@@ -47,7 +47,13 @@ A distribuição e organização dessas revisões são detalhadas na Tabela 1 ab
 <p style="text-align: center">Fonte: Bruna Lima, 2024</p>
 
 ## Checklist
-Para facilitar a organização das informações, o revisor deve adotar a estrutura apresentada na Tabela 2 abaixo como exemplo: <br>
+Para construção das listas de verificação, é sugerido o uso da estrutura exemplificada abaixo para listagem e justificativa de cada item da lista.
+
+- **Item 1:** [Descrição do item a ser verificado]
+    - **Fonte:** [Fonte do conteúdo]
+    - **Imagem:** [Recorte da fonte]
+
+Quanto a verificação, para facilitar a organização das informações, o revisor deve adotar a estrutura apresentada na Tabela 2 abaixo como exemplo: <br>
 
 <center> 
 
