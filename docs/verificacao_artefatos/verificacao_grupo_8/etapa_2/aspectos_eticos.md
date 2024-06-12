@@ -1,3 +1,5 @@
+
+
 ## Introdução
 A verificação dos cenários é essencial para avaliar se eles refletem a realidade da funcionalidade e se podem ser aplicados em diferentes contextos.
 
