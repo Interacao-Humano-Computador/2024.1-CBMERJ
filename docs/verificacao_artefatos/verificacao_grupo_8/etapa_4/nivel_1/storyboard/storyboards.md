@@ -96,3 +96,4 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 | `1.0`   | 10/06/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) |   |
 | `2.0`   | 12/06/2024 | Adição do checklist | [Bruna Lima](https://github.com/libruna) |   |
 | `3.0`   | 12/06/2024 | Adição do checklist da Funcionalidade Compartilhamento de Trajeto| [Pedro Henrique](https://github.com/PedroHhenriq) |   |
+| `4.0`   | 12/06/2024 | Adição do checklist da Funcionalidade Histórico de passagens compradas| [Daniela Alarcão](https://github.com/danialarcao) |   |
