@@ -52,15 +52,8 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
     - **Imagem:** ![](img/planejamento_item_8.png)
 <p align="center">Imagem 8 - Destaque no livro sobre o teste piloto. </p>
 
-- **Item 2:** descrição aqui
-    - **Fonte:**
-    - **Imagem:**
-
 ## Biografia
 > - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
-
-## Referências Bibliográficas
-
 
 ## Histórico de Versões
 
