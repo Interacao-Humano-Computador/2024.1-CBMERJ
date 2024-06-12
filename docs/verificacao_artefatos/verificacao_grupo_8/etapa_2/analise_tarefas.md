@@ -124,8 +124,8 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
 </center>
 
-<p style="text-align: center">Tabela 1: Checklist de verificação da funcionalidade "Comprar passagem".</p>
-<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+<p style="text-align: center">Tabela 3: Checklist de verificação da funcionalidade "Acompanhar pedido de compra de passagem".</p>
+<p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
 ### Funcionalidade:  - Revisor:
 ### Funcionalidade:  - Revisor:
