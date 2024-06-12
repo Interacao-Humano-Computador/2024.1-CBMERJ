@@ -99,3 +99,4 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `2.0`   | 11/06/2024 | adição do checklist                         | [Mariana Letícia](https://github.com/Marianannn) |   |
