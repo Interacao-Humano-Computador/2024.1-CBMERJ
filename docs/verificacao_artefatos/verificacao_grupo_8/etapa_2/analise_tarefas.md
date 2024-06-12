@@ -79,10 +79,41 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <p style="text-align: center">Figura 5: Evidência da necessidade de objetivos e listas para a análise de tarefas</p>
 
-## Biografia
->- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
->- Serrano, M., & Serrano, M. (2017). Requisitos – Aula 23. Disponivel em: https://aprender3.unb.br/pluginfile.php/2843809/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf
->- Ministério da Agricultura, Pecuária e Abastecimento. (2023). Lista de Verificação da Qualidade de Artefatos - Checklist Ágil. Disponivel em: https://www.gov.br/agricultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/edital/2019/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view
+## Resultado do Checklist
+
+### Funcionalidade:  - Revisor: 
+### Funcionalidade:  - Revisor:
+### Funcionalidade:  - Revisor:
+### Funcionalidade:  - Revisor: 
+
+### Funcionalidade : Compartilhamento de Trajetos - Revisor: Pedro Henrique
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | A análise de tarefas está presente no documento, segundo a figura 1 a seguir? | 1.0 | Conforme |  |  | |
+|  2   | Há no mínimo duas técnicas para especificar as tarefas? Por exemplo: HTA, GOMS ou CTT, como está descrito na figura 2 logo abaixo? | 1.0 | Conforme|  |   | Foram aplicadas as técnicas de GOMS e HTA |
+|  3   | Os diagramas HTA propostos seguem a notação da técnica, segundo a figura 3 a seguir? | 1.0 | Conforme | |  Colocar a linha/risco embaixo de todas as operações | Em uma das operações, não há linha indicando| 
+|  4   | Cada integrante do grupo analisou pelo menos uma funcionalidade, conforme está descrito na figura 4 a seguir? | 1.0 | Conforme  | | | |
+|  5   | A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos, conforme é evidenciado na figura 5 a seguir? | 1.0 | Conforme  | | | Sim, parece estar bem alinhado ao objetivos dos usuários que utilizam o sistema. |
+<p style="text-align: center">Fonte: Pedro Henrique, 2024</p>
+
+### Funcionalidade: Comprar passagem - Revisora: Bruna Lima
+
+<center> 
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | A análise de tarefas está presente no documento? | 1.0 | Conforme | | | |
+|  2   | Há no mínimo duas técnicas para especificar as tarefas? | 1.0 | Conforme | | | Foram utilizadas as técnicas: HTA e GOMS. |
+|  3   | Os diagramas HTA propostos seguem a notação da técnica? | 1.0 | Conforme | | | Sim, as notações foram aplicadas corretamente. | 
+|  4   | Cada integrante do grupo analisou pelo menos uma funcionalidade? | 1.0 | Conforme | | |
+|  5   | A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos? | 1.0 | Conforme | | | Os objetivos e ações foram bem definidos. |
+
+</center>
+
+<p style="text-align: center">Tabela 1: Checklist de verificação da funcionalidade "Comprar passagem".</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
+## Conclusão
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
@@ -100,3 +131,4 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
 | `2.0`   | 11/06/2024 | adição do checklist                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `3.0`   | 12/06/2024 | Adição do Checklist  da funcionalidade Compartilhamento de trajetos                     | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
