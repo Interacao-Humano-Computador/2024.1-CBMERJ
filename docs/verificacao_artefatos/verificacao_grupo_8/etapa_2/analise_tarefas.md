@@ -127,7 +127,23 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 <p style="text-align: center">Tabela 3: Checklist de verificação da funcionalidade "Acompanhar pedido de compra de passagem".</p>
 <p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
-### Funcionalidade:  - Revisor:
+### Funcionalidade: Rastreamento de ônibus em tempo real - Revisor: Genilson Silva
+
+<center> 
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | A análise de tarefas está presente no documento? | 1.0 | Conforme | | | |
+|  2   | Há no mínimo duas técnicas para especificar as tarefas? | 1.0 | Conforme | | | Foram utilizadas as técnicas: HTA e GOMS. |
+|  3   | Os diagramas HTA propostos seguem a notação da técnica? | 1.0 | Conforme | | | As notações técnicas foram aplicadas coretamente. | 
+|  4   | Cada integrante do grupo analisou pelo menos uma funcionalidade? | 1.0 | Conforme | | |
+|  5   | A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos? | 1.0 | Conforme | | | |
+
+</center>
+
+<p style="text-align: center">Tabela 4: Checklist de verificação da funcionalidade "Acompanhar pedido de compra de passagem".</p>
+<p style="text-align: center">Fonte: Genilson Silva, 2024</p>
+
 ### Funcionalidade:  - Revisor:
 ### Funcionalidade:  - Revisor: 
 
@@ -149,4 +165,5 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
 | `2.0`   | 11/06/2024 | adição do checklist                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `3.0`   | 12/06/2024 | Adição do Checklist  da funcionalidade Compartilhamento de trajetos                     | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
+| `3.0`   | 12/06/2024 | Adição do Checklist da funcionalidade Compartilhamento de trajetos                     | [Pedro Henrique](https://github.com/PedroHhenriq) |
+| `4.0`   | 12/06/2024 | Adição do Checklist da funcionalidade Rastreamento de ônibus em tempo real                    | [Genilson Silva](https://github.com/GenilsonJrs) |    |
