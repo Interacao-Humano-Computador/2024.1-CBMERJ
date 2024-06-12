@@ -106,7 +106,6 @@ nav:
           - Etapa 1:
               - Aviso: verificacao_artefatos/verificacao_grupo_8/etapa_1/aviso.md
           - Etapa 2:
-              - Planejamento da Verificação: verificacao_artefatos/verificacao_grupo_8/etapa_2/planejamento_verificacao.md
               - Perfil do Usuário: verificacao_artefatos/verificacao_grupo_8/etapa_2/perfil_usuario.md
               - Personas: verificacao_artefatos/verificacao_grupo_8/etapa_2/personas.md
               - Cenários: verificacao_artefatos/verificacao_grupo_8/etapa_2/cenarios.md
@@ -124,9 +123,8 @@ nav:
                       - Planejamento do Relato dos Resultados: verificacao_artefatos/verificacao_grupo_8/etapa_4/nivel_1/analise_tarefas/planejamento_relato_resultados.md
                       - Relato dos Resultados: verificacao_artefatos/verificacao_grupo_8/etapa_4/nivel_1/analise_tarefas/relato_resultados.md
                   - StoryBoard:
-                      - Planejamento da Verificação: verificacao_artefatos/verificacao_grupo_8/etapa_4/nivel_1/storyboard/planejamento_verificacao.md
                       - Planejamento da Avaliação: verificacao_artefatos/verificacao_grupo_8/etapa_4/nivel_1/storyboard/planejamento_avaliacao.md
                       - Planejamento do Relato dos Resultados: verificacao_artefatos/verificacao_grupo_8/etapa_4/nivel_1/storyboard/planejamento_relato_resultados.md
                       - Relato dos Resultados: verificacao_artefatos/verificacao_grupo_8/etapa_4/nivel_1/storyboard/relato_resultados.md
-         
+                      - Storyboards: verificacao_artefatos/verificacao_grupo_8/etapa_4/nivel_1/storyboard/storyboards.md
             
