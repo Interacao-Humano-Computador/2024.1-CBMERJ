@@ -89,7 +89,7 @@ As datas, horários, entrevistadores e entrevistados estão listados abaixo na t
 | [Mariana Letícia](https://github.com/Marianannn) | João Vitor Merlim | 12:00 | 12:30| 28/05/2024 | Solicitar declaração de registro de ocorrência e  | FGA |
 | [Daniela Alarcão](https://github.com/danialarcao) | Bernardo Machado | 12:00 | 12:30 | 24/05/2024 | Agendamento de atendimento presencial | FGA |
 | [Pedro Henrique](https://github.com/PedroHhenriq) |     Lucas Monteiro    |      12:00     |     12:30     |  28/05/2024  |   CB Cursos 2   | FGA |
-| [Lucas Avelar](https://github.com/LucasAvelar2711) |     Renan Monteiro    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
+| [Lucas Avelar](https://github.com/LucasAvelar2711) |     Rafaella porto    |      12:00      |     12:30      |  28/05/2024  |   CB Cursos 1   |  FGA |
 | [Bruna Lima](https://github.com/libruna) | Liander Medeiros | 14:30 | 15:00 |  31/05/2024  |  Solicitação de Ficha de Atendimento | FGA |
 | [Genilson](https://github.com/GenilsonJrs) | Marina Márcia | 15:10 | 15:50 |  31/05/2024  |  Checar e Gerar Certificado de Vistoria | FGA |
 
