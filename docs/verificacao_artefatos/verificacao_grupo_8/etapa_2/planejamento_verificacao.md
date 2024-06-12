@@ -85,13 +85,13 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
 
 ### Checklist 3: Cenários
 
-- **Item 1:** O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura X?(4)
-    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
+- **Item 1:** O cenário está presente no documento, segundo é evidente na Figura X?(4)
+    - **Fonte:**  disponível no canal do telegram da disciplina - IHC Turma 1 (1/2024) - Prof. André (6)
     - **Imagem:** <br>
 
     <center>
 
-    ![imagem com texto descrevendo como deve ser um cenário](img/cenarios_existencia_img_4.png)
+    ![](img/cenarios_existencia_img_4.png)
 
     </center>
 
@@ -103,7 +103,7 @@ Os checklists tiveram como basepara essa verificação seguirão o seguinte padr
 
     <center>
 
-    ![imagem com texto descrevendo como deve ser um cenário](img/cenario_descricao_img_1.png)
+    ![](img/cenario_descricao_img_1.png)
 
     </center>
 

@@ -11,13 +11,13 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
 ### Template de Checklist: Cenários
 
-- **Item 1:** O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura 1?(2)
+- **Item 1:** O cenário está presente no documento, segundo é evidente na Figura 1?(2)
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
     - **Imagem:** <br>
 
     <center>
 
-    ![imagem com texto descrevendo como deve ser um cenário](img/cenarios_existencia_img_4.png)
+    ![](img/cenarios_existencia_img_4.png)
 
     </center>
 
@@ -29,7 +29,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <center>
 
-    ![imagem com texto descrevendo como deve ser um cenário](img/cenario_descricao_img_1.png)
+    ![](img/cenario_descricao_img_1.png)
 
     </center>
 
@@ -41,7 +41,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <center>
 
-    ![imagem com texto descrevendo o que um cenário deve conter](img/cenario_elementos_img_2.png)
+    ![](img/cenario_elementos_img_2.png)
 
     </center>
 
