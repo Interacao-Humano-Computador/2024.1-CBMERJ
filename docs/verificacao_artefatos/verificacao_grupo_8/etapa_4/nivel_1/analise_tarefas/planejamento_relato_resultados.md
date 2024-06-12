@@ -1,13 +1,11 @@
 ## Metodologia
 A metodologia que foi empregada é aquela que foi estabelecida no Planejamento da Verificação. Desta forma, conforme padronizado por meio de um template definido, o checklist conterá o item, assim como a fonte e uma imagem de onde foi retirado. 
 
-## Biografia
 ### Participantes
 O avaliador responsável pelo desenvolvimento da lista de verificação desse artefato será o [Pedro Henrique](https://github.com/PedroHhenriq), enquanto o revisor designado pela aplicação da verificação à etapa conduzida pelo Grupo 8 será o [Genilson Silva](https://github.com/GenilsonJrs).
 
 ## Checklist
 
-## Referências Bibliográficas
 - **Item 1:** **Os tópicos do relato de resultados incluem: Objetivos e escopo da avaliação, método, seleção de participantes, dados coletados, interpretação e analise dos dados, lista de problemas e reprojeto?** 
     - **Fonte:** Página 312, Capítulo 9. Barbosa, S. D. J.; Silva, B. S. da (2010) - Interação Humano-Computador.
     - **Imagem:** ![](img/Plan_Rel_R_1.png)

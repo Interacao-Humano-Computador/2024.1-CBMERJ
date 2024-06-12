@@ -14,7 +14,8 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 
 - **Item 1:** **Aprensenta as quatro características principais de um storyboard: o cenário, as atividades, os visuais e a história?** 
     - **Fonte:** Tópico 4. O que é um storyboard? Miro: *https://miro.com/pt/storyboard/o-que-e-storyboard/*
-    - **Imagem:** ![](img/storyboards_item_1.png)
+    - **Imagem:** <br>
+    ![](img/storyboards_item_1.png)
 <p align="center">Imagem 1 - Destaque no site sobre as características principais de um storyboard. </p>
 
 - **Item 2:** **Outros elementos-chave, como personagens, enredo, diálogo e dicas visuais, foram incluídos no storyboard?** 
@@ -38,6 +39,39 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
     - **Imagem:** ![](img/storyboards_item_5.png)
 <p align="center">Imagem 5 - Destaque no site sobre importância dos storyboards. </p>
 
+## Resultado do Checklist
+
+### Funcionalidade:  - Revisor:
+### Funcionalidade:  - Revisor: 
+### Funcionalidade:  - Revisor:
+### Funcionalidade: Acompanhar pedido de compra de passagem - Revisora: Mariana Letícia
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | Apresenta as quatro características principais de um storyboard: o cenário, as atividades, os visuais e a história? | 1.0 | Conforme |  |  | |
+|  2   | Outros elementos-chave, como personagens, enredo, diálogo e dicas visuais, foram incluídos no storyboard? | 1.0 | Conforme |  |  | |
+|  3   | Os desenhos do storyboard são simples e claros? | 1.0 | Imcompleto |  |  | Apesar do desenho ser claro e simples, alguns diálogo sficam difíceis para serem lidos por serem pequenos. |
+|  4   | É possível confirmar que o storyboard criado não possui cenas/imagens do produto final? | 1.0 | Conforme |  |  |  |
+|  5   | O storyboard consegue transmitir a ideia de uso da funcionalidade em um contexto real? | 1.0 | Imcompleto |  |  | Não é citado o sistema o qual terá de ser utilizado pelo personagem, apenas a funcionalidade em si;    |
+<p style="text-align: center">Tabela 3: Resultado do Checklist para a funcionalidade: Acompanhar pedido de compra de passagem</p>
+<p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
+
+### Funcionalidade: Compartilhamento de Trajeto - Revisor: Pedro Henrique 
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | Apresenta as quatro características principais de um storyboard: o cenário, as atividades, os visuais e a história? | 1.0 | Conforme |  |  | |
+|  2   | Outros elementos-chave, como personagens, enredo, diálogo e dicas visuais, foram incluídos no storyboard? | 1.0 | Conforme |  |  | |
+|  3   | Os desenhos do storyboard são simples e claros? | 1.0 | Conforme |  |  | O desenho é bem simples e é possível entender tudo claramente. |
+|  4   | É possível confirmar que o storyboard criado não possui cenas/imagens do produto final? | 1.0 | Conforme |  |  | O desenho apresenta apenas um com conceito inicial das operações que o usuário irá realizar, sem utilizar interfaces do site.|
+|  5   | O storyboard consegue transmitir a ideia de uso da funcionalidade em um contexto real? | 1.0 | Conforme |  |  | A funcionalidade apresentada é algo já comumente utilizado em outros aplicativos. O que por si só, já transmite a ideia de uso em contexto real. |
+<p style="text-align: center">Tabela 4: Resultado do Checklist para a funcionalidade: Compartilhamento de Trajeto</p>
+<p style="text-align: center">Fonte: Pedro Henrique, 2024</p>
+
+### Funcionalidade: Comprar passagem - Revisora: Bruna Lima
+
+## Conclusão
+
+
 ## Biografia
 > - O que é um storyboard? Miro. Disponível em: https://miro.com/pt/storyboard/o-que-e-storyboard/
 > - Como fazer seu storoboard. StoryboardThat. Disponível em: https://www.storyboardthat.com/pt/articles/e/como-fazer-seu-storyboards-pop
@@ -49,3 +83,4 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 10/06/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) |   |
 | `2.0`   | 12/06/2024 | Adição do checklist | [Bruna Lima](https://github.com/libruna) |   |
+| `3.0`   | 12/06/2024 | Adição do checklist da Funcionalidade Compartilhamento de Trajeto| [Pedro Henrique](https://github.com/PedroHhenriq) |   |

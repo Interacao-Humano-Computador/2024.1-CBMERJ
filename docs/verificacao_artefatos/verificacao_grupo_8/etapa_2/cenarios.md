@@ -59,7 +59,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <p style="text-align: center">Figura 4: imagem com texto descrevendo quais perguntas o cenário deve responder</p>
 
-### Resultado da Checklist: Planejamento do Relato dos Resultados do StoryBoard
+### (Exemplo) Resultado da Checklist: Planejamento do Relato dos Resultados do StoryBoard
 
 A tabela 1, logo abaixo, mostra o modelo de como avaliaremos os erros encontrados durante a avaliação:
 
@@ -73,6 +73,26 @@ A tabela 1, logo abaixo, mostra o modelo de como avaliaremos os erros encontrado
 
 <p style="text-align: center">Tabela 1: Exemplo de estrutura para checklist de verificação.</p>
 <p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
+### Cenário: Compartilhamento de Trajetos - Revisor: Pedro Henrique
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | O cenário está presente no documento, segundo é evidente na Figura 1? | 1.0 | Conforme |  |  | |
+|  2   | O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura 2? | 1.0 | Conforme|  |   | |
+|  3   | O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999)? | 1.0 | Incompleto | Não foi possível identificar o aspecto Avaliação | Adicionar alguma atividades mental que de gatilho no cenário para que o ator possa interpretá-lá e avaliá-lá. | Tirando esse elementos citado na descrição do problema, todos os outros estão em conformidade com o cenário; |
+|  4   | Os cenários respondem, segundo a figura 4 seguir, as perguntas: Por que? Como? O que é? | 1.0 | Conforme  | | | |
+<p style="text-align: center">Tabela 2: resultado da checklist do cenário Compartilhamento de trajetos</p>
+<p style="text-align: center">Fonte: Pedro Henrique, 2024</p>
+
+### Cenário: Acompanhar pedido de compra de passagem - Revisora: Mariana Letícia
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | O cenário está presente no documento, segundo é evidente na Figura 1? | 1.0 | Conforme |  |  | |
+|  2   | O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura 2? | 1.0 | Conforme|  |   | |
+|  3   | O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999)? | 1.0 | Conforme |  |  |  |
+|  4   | Os cenários respondem, segundo a figura 4 seguir, as perguntas: Por que? Como? O que é? | 1.0 | Conforme  | | | |
+<p style="text-align: center">Tabela 3: resultado da checklist do cenário Acompanhar compra de passagem</p>
+<p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
@@ -90,3 +110,4 @@ A tabela 1, logo abaixo, mostra o modelo de como avaliaremos os erros encontrado
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
 | `2.0`   | 11/06/2024 | adição do checklist                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `3.0`   | 12/06/2024 | Aplicando checklist do Cenário Compartilhamento de Trajetos                        | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
