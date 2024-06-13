@@ -29,6 +29,8 @@ Os objetivos são importante para nortear o planejamento do projeto. Sendo assim
 
 ### E - Avaliar, interpretar e apresentar dados
 
+## Teste Piloto
+
 ## Bibliografia
 > - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
 ## Referências Bibliográficas
