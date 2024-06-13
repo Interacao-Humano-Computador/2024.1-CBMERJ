@@ -9,7 +9,7 @@ Através do que foi descrito anteriormente no [planejamento de verificação](..
 A seguir, primeiramente evidenciaremos os participantes dessa lista de revisão, o template de tópicos a ser analisados durante a avaliação, e a tabela 1 descrevendo os problemas encontrados e suas especificações.
 
 ### Participantes
-A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre a análise de tarefas para o grupo 8 será a [Mariana Letícia](https://github.com/Marianannn), e os **revisores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md). Todos do grupo, menos a pessoa responsável por fazer o checklist, serão encarregados de avaliar cada um dos cenários.
+A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre a análise de tarefas para o grupo 8 será a [Mariana Letícia](https://github.com/Marianannn), e os **revisores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md). 
 
 ### Template de Checklist: Análise de tarefas
 
