@@ -127,6 +127,11 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 <p style="text-align: center">Tabela 3: Checklist de verificação da funcionalidade "Acompanhar pedido de compra de passagem".</p>
 <p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HHO6Zwt3dIc?si=FIoKzPZgk5LYXhtx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center">Vídeo 1: Completando Checklist de verificação da funcionalidade "Acompanhar pedido de compra de passagem".</p>
+<p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
+
 ### Funcionalidade: Rastreamento de ônibus em tempo real - Revisor: Genilson Silva
 
 <center> 
