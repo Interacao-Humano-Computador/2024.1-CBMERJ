@@ -112,6 +112,16 @@ Fonte: [Genilson Silva](https://github.com/GenilsonJrs).
 
 </center>
 
+### Cenário: Comprar passagem - Revisora: Bruna Lima
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | O cenário está presente no documento, segundo é evidente na Figura 1? | 1.0 | Conforme |  |  | |
+|  2   | O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura 2? | 1.0 | Conforme|  |  | |
+|  3   | O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999)? | 1.0 | Conforme |  |  | |
+|  4   | Os cenários respondem, segundo a figura 4 seguir, as perguntas: Por que? Como? O que é? | 1.0 | Conforme  | | | |
+<p style="text-align: center">Tabela 5: Checklist de verificação da funcionalidade de "Comprar passagem".</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
 >- Serrano, M., & Serrano, M. (2017). Requisitos – Aula 23. Disponivel em: https://aprender3.unb.br/pluginfile.php/2843809/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf
@@ -130,3 +140,4 @@ Fonte: [Genilson Silva](https://github.com/GenilsonJrs).
 | `2.0`   | 11/06/2024 | adição do checklist                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna) |
 | `3.0`   | 12/06/2024 | Aplicando checklist do Cenário Compartilhamento de Trajetos                        | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Bruna Lima](https://github.com/libruna)| 
 | `4.0`   | 12/06/2024 | Aplicando checklist do Rastreamento de ônibus em tempo real                        | [Genilson Silva](https://github.com/GenilsonJrs) |  [Bruna Lima](https://github.com/libruna)|
+| `5.0`   | 12/06/2024 | Aplicando checklist da funcionalidade "Comprar passagem"   | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs) |
