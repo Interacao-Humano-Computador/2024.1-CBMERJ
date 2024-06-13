@@ -41,9 +41,6 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 
 ## Resultado do Checklist
 
-### Funcionalidade:  - Revisor:
-### Funcionalidade:  - Revisor: 
-
 ### Funcionalidade: Histórico de passagens compradas - Revisor: Daniela Oliveira Alarcão 
 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
@@ -92,6 +89,23 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 <p style="text-align: center">Tabela 6: Checklist de verificação do storyboard de "comprar passagem".</p>
 <p style="text-align: center">Fonte: Bruna Lima, 2024</p>
 
+### Funcionalidade: Rastreamento de ônibus em tempo real - Revisor: Genilson Silva
+
+<center> 
+
+| Item | Descrição | Versão do Artefato | Avaliação | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | --------- | ------------------ | --------- | --------------------- | -------------------------- | ----------- |
+|  1   | Apresenta as quatro características principais de um storyboard: o cenário, as atividades, os visuais e a história? | 1.0 | Conforme | | | |
+|  2   | Outros elementos-chave, como personagens, enredo, diálogo e dicas visuais, foram incluídos no storyboard? | 1.0 | Conforme | | | Os quadrinhos poderiam estar melhor desenhados e as letras mais legiveis para facilitar e engajar o leitor.|
+|  3   | Os desenhos do storyboard são simples e claros? | 1.0 | Conforme | | | Melhorar caligraffia e enquadramento.|
+|  4   | É possível confirmar que o storyboard criado não possui cenas/imagens do produto final? | 1.0 | Conforme | | | Apresenta esboços e como deve funcionar, mas sem apresentação real do produto.|
+|  5   | O storyboard consegue transmitir a ideia de uso da funcionalidade em um contexto real? | 1.0 | Conforme | | | |
+
+</center>
+
+<p style="text-align: center">Tabela 7: Checklist de verificação do storyboard Rastreamento de ônibus em tempo real.</p>
+<p style="text-align: center">Fonte: Genilson Silva, 2024</p>
+
 ## Biografia
 > - O que é um storyboard? Miro. Disponível em: https://miro.com/pt/storyboard/o-que-e-storyboard/
 > - Como fazer seu storoboard. StoryboardThat. Disponível em: https://www.storyboardthat.com/pt/articles/e/como-fazer-seu-storyboards-pop
@@ -105,4 +119,5 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 | `2.0`   | 12/06/2024 | Adição do checklist | [Bruna Lima](https://github.com/libruna) |   |
 | `3.0`   | 12/06/2024 | Adição do checklist da Funcionalidade Compartilhamento de Trajeto| [Pedro Henrique](https://github.com/PedroHhenriq) |   |
 | `4.0`   | 12/06/2024 | Adição do checklist da Funcionalidade Histórico de passagens compradas| [Daniela Alarcão](https://github.com/danialarcao) |   |
-| `5.0`   | 12/06/2024 | Adição do verificação do storyboard de "comprar passagem" | [Bruna Lima](https://github.com/libruna) |   |
+| `5.0`   | 12/06/2024 | Adição do verificação do storyboard de "comprar passagem" | [Bruna Lima](https://github.com/libruna) | 
+| `6.0`   | 12/06/2024 | Adição da verificação do storyboard de "Rastreamento de ônibus em tempo real" | [Genilson Silva](https://github.com/GenilsonJrs) |   |
