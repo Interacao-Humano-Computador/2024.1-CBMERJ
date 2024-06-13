@@ -7,7 +7,7 @@ A metodologia a ser abordada foi a de inspeção por percurso cognitivo, devidam
 Nela, primeiramente abordaremos um template de checklist que irá ser preenchido em uma tabela modelo,  presente em [planejamento de verificação](../planejamento_verificacao.md), pelo verificador durante a avaliação do projeto [Central expresso - Grupo 8](https://interacao-humano-computador.github.io/2024.1-Central-Expresso/).
 
 ### Participantes
-A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre os cenários para o grupo 8 será a [Mariana Letícia](https://github.com/Marianannn), e os **revisores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md). Todos do grupo, menos a pessoa responsável por fazer o checklist, serão encarregados de avaliar cada um dos cenários.
+A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre os cenários para o grupo 8 será a [Mariana Letícia](https://github.com/Marianannn), e os **revisores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md).
 
 ### Template de Checklist: Cenários
 
