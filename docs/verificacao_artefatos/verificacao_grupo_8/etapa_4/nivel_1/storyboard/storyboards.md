@@ -81,8 +81,16 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 
 ### Funcionalidade: Comprar passagem - Revisora: Bruna Lima
 
-## Conclusão
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | Apresenta as quatro características principais de um storyboard: o cenário, as atividades, os visuais e a história? | 1.0 | Conforme |  |  | |
+|  2   | Outros elementos-chave, como personagens, enredo, diálogo e dicas visuais, foram incluídos no storyboard? | 1.0 | Conforme |  |  | Apesar de presentes, poderiam ter mais diálogos e dicas visuais para complementar e enredo. |
+|  3   | Os desenhos do storyboard são simples e claros? | 1.0 | Não onforme | As fontes ficaram pequenas, dificultando a compreensão de alguns trechos. | Aumentar as fontes dos textos e de partes do desenho que possuem texto. | |
+|  4   | É possível confirmar que o storyboard criado não possui cenas/imagens do produto final? | 1.0 | Conforme |  |  | Apresenta alguns esboços, mas sem apresentar o produto em si. |
+|  5   | O storyboard consegue transmitir a ideia de uso da funcionalidade em um contexto real? | 1.0 | Conforme |  |  | O contexto apresentado condiz com a realidade. |
 
+<p style="text-align: center">Tabela 6: Checklist de verificação do storyboard de "comprar passagem".</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
 
 ## Biografia
 > - O que é um storyboard? Miro. Disponível em: https://miro.com/pt/storyboard/o-que-e-storyboard/
@@ -97,3 +105,4 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 | `2.0`   | 12/06/2024 | Adição do checklist | [Bruna Lima](https://github.com/libruna) |   |
 | `3.0`   | 12/06/2024 | Adição do checklist da Funcionalidade Compartilhamento de Trajeto| [Pedro Henrique](https://github.com/PedroHhenriq) |   |
 | `4.0`   | 12/06/2024 | Adição do checklist da Funcionalidade Histórico de passagens compradas| [Daniela Alarcão](https://github.com/danialarcao) |   |
+| `5.0`   | 12/06/2024 | Adição do verificação do storyboard de "comprar passagem" | [Bruna Lima](https://github.com/libruna) |   |

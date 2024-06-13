@@ -94,6 +94,6 @@ O artefato desenvolvido pelo grupo cumpre com todos os requisitos estabelecidos 
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 12/06/2024 | Criação da página | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna)   |
-| `2.0`   | 12/06/2024 | Adição do checklist | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna)   |
+| `1.0`   | 12/06/2024 | Criação da página | [Genilson Silva](https://github.com/GenilsonJrs) |   |
+| `2.0`   | 12/06/2024 | Adição do checklist | [Genilson Silva](https://github.com/GenilsonJrs) |   |
 | `3.0`   | 12/06/2024 | Adição do checklist de verificação | [Bruna Lima](https://github.com/libruna) |  |

@@ -59,7 +59,21 @@ O **avaliador** responsável por desenvolver a lista de verificação da etapa 2
 
     <p style="text-align: center">Figura 4: Questionamento sobre abertura para preferências e demais comentários do usuário</p>
 
-### Resultado da Checklist:
+### Resultado do Checklist
+
+<center> 
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | O documento possui informações básicas demográficas como: Idade, Gênero, Escolaridade? | 1.0 | Conforme | | | O perfil contém todos esses itens. |
+|  2   | É especificado um contexto de uso? | 1.0 | Conforme | | | A coleta de dados foi feita em grande maioria com estudantes da FGA por meio de questionários online. |
+|  3   | Existe questionamento acerca de nível de experiência e preferências em relação a tecnologia? | 1.0 | Conforme | | | No questionário da pesquisa haviam perguntas para essa finalidade. | 
+|  4   | O documento possui preferências de interação, estilos e abertura para sugestões? | 1.0 | Não conforme | De acordo com o documento, não houve nenhuma coleta de dados para identificar as preferências e estilos dos usuários. | Adicionar de 2 a 3 perguntas sobre as preferências do usuário. |  |
+
+</center>
+
+<p style="text-align: center">Tabela 2: Checklist de verificação do Perfil do Usuário.</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
@@ -77,4 +91,5 @@ O **avaliador** responsável por desenvolver a lista de verificação da etapa 2
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `2.0`   | 12/06/2024 | Adição do checklist                         | [Genilson Silva](https://github.com/GenilsonJrs) |   |
+| `2.0`   | 12/06/2024 | Adição do checklist                       | [Genilson Silva](https://github.com/GenilsonJrs) |   |
+| `3.0`   | 12/06/2024 | Adição da verificação do artefato         | [Bruna Lima](https://github.com/libruna) |   |
