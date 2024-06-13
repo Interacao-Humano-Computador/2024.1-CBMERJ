@@ -110,9 +110,9 @@ O **avaliador** responsável por desenvolver a lista de verificação da etapa 2
 ### Inspeção
 Foi conduzida uma inspeção do checklist acima da persona Rafael do Grupo 07 por meio de um vídeo. Segue abaixo, para visualizar a inspeção realizada:
 
-[Link para o vídeo da inspeção da persona 4 (Rafael)](https://www.youtube.com/watch?v=6gHoNtq_khM)
+[Link para o vídeo da inspeção da persona 4 (Rafael)](https://www.youtube.com/watch?v=o3NoimPeVig)
 
-<iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=o3NoimPeVig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/o3NoimPeVig" title="Inspeção - Persona 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
