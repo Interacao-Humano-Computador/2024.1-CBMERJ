@@ -59,6 +59,8 @@ nav:
       - Ata 3: atas/ata_3.md
       - Ata 4: atas/ata_4.md
       - Ata 5: atas/ata_5.md
+      - Ata 6: atas/ata_6.md
+      - Ata 7: atas/ata_7.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao_1.md
       - Apresentação 2: apresentacoes/apresentacao_2.md
@@ -66,6 +68,7 @@ nav:
       - Apresentação 4: apresentacoes/apresentacao_4.md
       - Apresentação 5: apresentacoes/apresentacao_5.md
       - Apresentação 6: apresentacoes/apresentacao_6.md
+      - Apresentação 7: apresentacoes/apresentacao_7.md
   - Planejamento:
       - Heatmap: planejamento/heatmap.md
       - Cronograma: planejamento/cronograma.md
