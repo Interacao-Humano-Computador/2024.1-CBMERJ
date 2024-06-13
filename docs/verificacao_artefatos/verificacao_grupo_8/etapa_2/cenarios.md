@@ -59,20 +59,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <p style="text-align: center">Figura 4: imagem com texto descrevendo quais perguntas o cenário deve responder</p>
 
-### (Exemplo) Resultado da Checklist: Planejamento do Relato dos Resultados do StoryBoard
-
-A tabela 1, logo abaixo, mostra o modelo de como avaliaremos os erros encontrados durante a avaliação:
-
-<center> 
-
-| Item | Descrição      | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
-| ---- | -------------- | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   | Perfil do Usuário | não conforme | Ausência de informações no Perfil do Usuário |Inserir as informações relacionadas a x, y e z | Pode ser necessário realizar coletas adicionais de dados |
-
-</center>
-
-<p style="text-align: center">Tabela 1: Exemplo de estrutura para checklist de verificação.</p>
-<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+## Resultados dos Checklists
 
 ### Cenário: Compartilhamento de Trajetos - Revisor: Pedro Henrique
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
@@ -94,6 +81,26 @@ A tabela 1, logo abaixo, mostra o modelo de como avaliaremos os erros encontrado
 <p style="text-align: center">Tabela 3: resultado da checklist do cenário Acompanhar compra de passagem</p>
 <p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
+### Cenário: Rastreamento de ônibus em tempo real - Revisor: Genilson Silva
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | O cenário está presente no documento, segundo é evidente na Figura 1? | 1.0 | Conforme |  |  | Uma observação geral é arrumar a escrita do projeto, que possui erros de formatação e/ou ortografia.|
+|  2   | O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura 2? | 1.0 | Conforme|  |   | |
+|  3   | O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999)? | 1.0 | Conforme |  |  |  |
+|  4   | Os cenários respondem, segundo a figura 4 seguir, as perguntas: Por que? Como? O que é? | 1.0 | Conforme  | | | |
+<p style="text-align: center">Tabela 4: resultado da checklist do Rastreamento de ônibus em tempo real</p>
+<p style="text-align: center">Fonte: Genilson Silva, 2024</p>
+
+<center>
+
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/5Vu1ZmWMTNQ?si=dwesotTVTknMOKvP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Vídeo 1: Rastreamento de ônibus em tempo real </p>
+
+Fonte: [Genilson Silva](https://github.com/GenilsonJrs).
+
+</center>
+
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
 >- Serrano, M., & Serrano, M. (2017). Requisitos – Aula 23. Disponivel em: https://aprender3.unb.br/pluginfile.php/2843809/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf
@@ -110,4 +117,5 @@ A tabela 1, logo abaixo, mostra o modelo de como avaliaremos os erros encontrado
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
 | `2.0`   | 11/06/2024 | adição do checklist                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `3.0`   | 12/06/2024 | Aplicando checklist do Cenário Compartilhamento de Trajetos                        | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
+| `3.0`   | 12/06/2024 | Aplicando checklist do Cenário Compartilhamento de Trajetos                        | [Pedro Henrique](https://github.com/PedroHhenriq) | 
+| `4.0`   | 12/06/2024 | Aplicando checklist do Rastreamento de ônibus em tempo real                        | [Genilson Silva](https://github.com/GenilsonJrs) |  |
