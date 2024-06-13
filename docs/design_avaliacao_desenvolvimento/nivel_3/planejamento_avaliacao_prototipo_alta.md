@@ -18,27 +18,125 @@ Os objetivos são importante para nortear o planejamento do projeto. Sendo assim
 - conformidade com o padrão
 - problemas interativos na interface
 
-**Justificativa de escolha dos objetivos:** Esses objetivos foram escolhidos com o intuito de analisar se nossa proposta está adequada com o [perfil do usuário](../../analise_requisitos_1/perfil_usuario.md) e o [guia de estilo](../../analise_requisitos_2/guia_estilo.md). Em relação à apropriação da tecnologia, este perfil de usuário sugere que o usuário alvo tem facilidade com a tecnologia, logo é preciso desenvolver um sistema de acordo com este requisito. Sobre a conformidade com o padrão, é essencial que sigamos corretamento o guia de estilo, a fim de não distoar com o padrão que já existe no site [CBMERJ](https://www.cbmerj.rj.gov.br/). Por fim, sobre os problemas interativos na interface, é essencial que nessa etapa identifiquemos todos os possíveis problemas interativos, antes que seja executado o oproduto final.
+**Justificativa de escolha dos objetivos:** Esses objetivos foram escolhidos com o intuito de analisar se nossa proposta está adequada com o [perfil do usuário](../../analise_requisitos_1/perfil_usuario.md) e o [guia de estilo](../../analise_requisitos_2/guia_estilo.md). Em relação à apropriação da tecnologia, este perfil de usuário sugere que o usuário alvo tem facilidade com a tecnologia, logo é preciso desenvolver um sistema de acordo com este requisito. Sobre a conformidade com o padrão, é essencial que sigamos corretamento o guia de estilo, a fim de não distoar com o padrão que já existe no site [CBMERJ](https://www.cbmerj.rj.gov.br/). Por fim, sobre os problemas interativos na interface, é essencial que nessa etapa identifiquemos todos os possíveis problemas interativos, antes que seja executado o o produto final.
+
 ### E - Explorar Perguntas
 
 ### C - Escolher método de avaliação
 
 ### I - Identificar quesitos práticos da avaliação
 
+### Recrutamento
+X participantes foram devem ser recrutados de acordo com o perfil do participante escolhido. O perfil foi selecionado com base nas características correspondentes definidas no [Perfil do Usuário](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/), seguindo a metodologia de Nielsen...
+
+<center>
+
+// Perfil do usuário
+
+</center>
+
+<p style="text-align: center">Tabela 1: Perfil do participante.</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
+### Mão-de-obra necessária
+Cada avaliação deve envolver pelo menos dois avaliadores:
+
+1. Responsável por conduzir a avaliação, guiando o participante;
+2. Responsável por observar o participante durante a sessão, fazendo anotações sobre sua interação e comentários com o protótipo. (5)
+
+### Custos
+Os custos incluem o valor das impressões dos materiais mencionados anteriormente
+
+### Materiais
+Os materiais a serem utilizados incluem: <br>
+
+- Celular e/ou um notebook: Serão utilizados para gravação de videos e para auxiliar os avaliadores durante a avaliação; <br>
+- Papel e caneta: Serão utilizados pelos avaliadores para realizarem anotações. <br>
+
+### Preparação
+
+#### Materiais impressos
+- Termo de consentimento livre e esclarecido (TCLE), de acordo com os cuidados éticos necessários;
+- Instruções e cenários das tarefas a serem realizadas;
+- Roteiro de acompanhamento da observação, de modo a facilitar a captura de dados e anotações.
+
+#### Ambiente, hardware e software
+1. Todas as instalações, configurações e demais procedimentos de preparação para a sessão de avaliação devem ser concluídos antes de receber cada participante;
+2. Devemos configurar testar câmeras de vídeo e a gravação de audios;
+3. O laboratório deve estar limpo e arrumado para receber os participantes. (3)
+
+#### Teste Piloto
+Três integrantes da equipe se reunirão para conduzir um teste piloto, com o objetivo de validar e otimizar o planejamento da simulação com o protótipo de alta fidelidade antes de sua execução oficial.
+
+Após a execução do teste piloto, se qualquer problema for identificado, iremos revisar tanto o planejamento quanto o material de apoio. Essa revisão é importante para garantir que os ajustes necessários sejam feitos e que a avaliação principal ocorra da forma esperada.
+
+Este teste piloto não influenciará a coleta nem a interpretação dos dados. O cronograma planejado para realização do teste é apresentado na tabela 1.
+
+<center> 
+  
+|    Avaliadores         | Participante      | Horário |   Data    | Tarefa(s) |      Local     |
+| :--------------------: | :---------------: | :-----: | :-------: | :-------: | :------------: | 
+| | | xx:00 | xx/06/24 |  | FGA |
+
+</center>
+
+<p style="text-align: center">Tabela 2: Cronograma do teste piloto.</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
+### Roteiro de avaliação
+A seguir, é apresentada a sequência de passos que devem ser abordados durante a avaliação:
+
+1. Apresentação dos termos de consentimento;
+2. Breve explicação dos objetivos da avaliação e da funcionalidade que será avaliada para contextualização do participante;
+3. Esclarecer para o participante como a avaliação será conduzida e responder a quaisquer dúvidas.
+4. Questionário pré-teste;
+5. Apresentar a funcionalidade e permitir que o participante explore o protótipo livremente por alguns minutos. (4)
+5. Entregar os cenários e iniciar simulação da funcionalidade no protótipo de alta fidelidade;
+6. Questionário pós-teste.
+
+Se o avaliador julgar necessário uma compreensão mais detalhada da experiência, ele pode solicitar que o participante utilize a técnica do *think aloud*.
+
+### Prazos
+Na Tabela 2, apresentamos o cronograma planejado para a avaliação de cada uma das seis funcionalidades. Cada avaliação, inclui os avaliadores, o participante, a tarefa que será simulada, a data, o horário e o local.
+
+<center> 
+  
+|    Avaliadores         | Participante      | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
+| :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
+|  |  |  |  |  |  |  |
+
+</center>
+
+<p style="text-align: center">Tabela 3: Cronograma de avaliação do protótipo de alta fidelidade.</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
 ### D - Decidir questões éticas
+
+<center> 
+
+<img alt="Logo" src="img/TermoDeConsentimento.png" width="80%">
+
+</center>
+
+<p style="text-align: center">Figura 1 - Termo de Consentimento (Fonte: Daniela Alarcão, 2024).</p>
 
 ### E - Avaliar, interpretar e apresentar dados
 
-## Teste Piloto
-
 ## Bibliografia
 > - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
+
 ## Referências Bibliográficas
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. [Capítulo 11, p. 264, 266]
-> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. [Capítulo 11, p. 280]
+> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. [Capítulo 11, p. 280] 
+> 3. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. [Capítulo 11.7.2, p. 276]
+> 4. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. [Capítulo 11.7.3, p. 277]
+> 5. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. [Capítulo 11.7.3, p. 274]
+
+
 ## Histórico de Versões
 
 | Versão  | Data       | Descrição                 | Autor(es)                   | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | --------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
-| `2.0`   | 13/06/2024 | Adição de introdução, metodologia, e dos objetivos do planejamento         | [Mariana Letícia](https://github.com/Marianannn) | |
+| `2.0`   | 13/06/2024 | Adição de introdução, metodologia, e dos objetivos do planejamento | [Mariana Letícia](https://github.com/Marianannn) | |
+| `3.0`   | 13/06/2024 | Adição da questões práticas e aspectos éticos | [Bruna Lima](https://github.com/libruna) | |
