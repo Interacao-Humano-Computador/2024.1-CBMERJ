@@ -42,6 +42,18 @@ A avaliação designada para a criação e desenvolvimento da lista de verifica�
     - **Imagem:** ![](img/Plan_Av_A_7.png)
 <p align="center">Imagem 7 - Teste Piloto </p>
 
+## Resultado do Checklist
+
+<center> 
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | O objetivo do estudo e como será conduzido está claramente definido? | 1.0 | Conforme |  | |
+|  2   | O termo de consentimento possui uma clara declaração de consentimento, informação sobre voluntariedade e definição de como os dados serão utilizados? | 1.0 | Conforme |  |  | |
+|  3   | É citado procedimentos para proteger a privacidade dos dados coletados? | 1.0 | Conforme |  | |
+|  4   | O documento elicita e busca cumprir diante das diretrizes os principios da autonomia, beneficência, não maleficência, e justiça e equidade? | 1.0 | Conforme |  | |
+
+</center>
 
 ## Referências Bibliográficas
 > - Barbosa, S. D. J.; Silva, B. S. da (2010) Interação Humano-Computador.

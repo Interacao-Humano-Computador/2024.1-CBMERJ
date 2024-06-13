@@ -74,7 +74,15 @@ O **avaliador** responsável por desenvolver a lista de verificação da etapa 2
 ### Resultado da Checklist:
 
 ### Persona 1: nome - Revisor: 
-### Persona 1: nome - Revisor: 
+### Persona 1: Pedro- Revisor: [Lucas Avelar](https://github.com/LucasAvelar2711)
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | A persona possui dados básicos como identificação, foto representativa, frase que capture a essencia? | 1.0 | Conforme | | | |
+|  2   | A persona possui contexto de uso (ambiente físico onde realiza as tarefas, equipamentos utilizados, frequência de uso da tecnologia)? | 1.0 | Conforme | | | |
+|  3   | A persona possui status adequado (definição de persona primária, secundária, anti persona e/ou suas características)? | 1.0 | Incompleto | No Git hub pages não contam todas as variações de personas, por exemplo não consta no arquivo uma anti-persona, que é crucial para entender o público de maneira mais abrangente. | Completar a seção de personas, no github pages. |  | 
+|  4   | A persona possui objetivos claros? | 1.0 | Conforme | | | |
+|  5   | A persona possui suas habilidades bem definidas?  | 1.0 | Cpnforme | | | Uma sugestão de melhoria, seria colocar habilidades mais detalhadas e/ou adicinor novas. |
 
 ### Persona 3: Mariana - Revisora: Bruna Lima
 

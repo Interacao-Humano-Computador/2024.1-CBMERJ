@@ -119,6 +119,23 @@ Fonte: Bruna Lima, 2024.
 <p style="text-align: center">Tabela 7: Checklist de verificação do storyboard Rastreamento de ônibus em tempo real.</p>
 <p style="text-align: center">Fonte: Genilson Silva, 2024</p>
 
+### Funcionalidade: Histórico de passagens compradas - Revisor: Lucas Aevlar
+
+<center> 
+
+| Item | Descrição | Versão do Artefato | Avaliação | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | --------- | ------------------ | --------- | --------------------- | -------------------------- | ----------- |
+|  1   | Apresenta as quatro características principais de um storyboard: o cenário, as atividades, os visuais e a história? | 1.0 | Conforme | | | |
+|  2   | Outros elementos-chave, como personagens, enredo, diálogo e dicas visuais, foram incluídos no storyboard? | 1.0 | Conforme | | ||
+|  3   | Os desenhos do storyboard são simples e claros? | 1.0 | Conforme | | | Melhorar caligraffia e enquadramento.|
+|  4   | É possível confirmar que o storyboard criado não possui cenas/imagens do produto final? | 1.0 | Conforme | | | |
+|  5   | O storyboard consegue transmitir a ideia de uso da funcionalidade em um contexto real? | 1.0 | Conforme | | | |
+
+</center>
+
+<p style="text-align: center">Tabela 8: Checklist de Hostórico de passagem.</p>
+<p style="text-align: center">Fonte: Lucas Avelar, 2024</p>
+
 ## Biografia
 > - O que é um storyboard? Miro. Disponível em: https://miro.com/pt/storyboard/o-que-e-storyboard/
 > - Como fazer seu storoboard. StoryboardThat. Disponível em: https://www.storyboardthat.com/pt/articles/e/como-fazer-seu-storyboards-pop

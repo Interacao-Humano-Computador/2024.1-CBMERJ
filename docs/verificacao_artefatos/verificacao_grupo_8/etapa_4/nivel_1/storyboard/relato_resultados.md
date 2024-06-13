@@ -27,6 +27,21 @@ O responsável por criar e desenvolver a lista de verificação desse artefato s
     - **Imagem:** ![](img/Relato_Resul_S_4.png)
 <p align="center">Imagem 4 - Análise e interpretação de dados </p>
 
+## Resultado do Checklist
+
+<center> 
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | O objetivo do estudo e como será conduzido está claramente definido? | 1.0 | Conforme |  | |
+|  2   | O termo de consentimento possui uma clara declaração de consentimento, informação sobre voluntariedade e definição de como os dados serão utilizados? | 1.0 | Conforme |  |  | |
+|  3   | É citado procedimentos para proteger a privacidade dos dados coletados? | 1.0 | Conforme |  | |
+|  4   | O documento elicita e busca cumprir diante das diretrizes os principios da autonomia, beneficência, não maleficência, e justiça e equidade? | 1.0 | Conforme |  | |
+
+</center>
+<p style="text-align: center">Tabela 1: Checklist </p>
+<p style="text-align: center">Fonte: Lucas Avelar, 2024</p>
+
 ## Referências Bibliográficas
 > - Barbosa, S. D. J.; Silva, B. S. da (2010) Interação Humano-Computador.
 

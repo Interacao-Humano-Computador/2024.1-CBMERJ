@@ -91,6 +91,17 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 <p style="text-align: center">Tabela 4: resultado da checklist do Rastreamento de ônibus em tempo real</p>
 <p style="text-align: center">Fonte: Genilson Silva, 2024</p>
 
+### Cenário: Histórico de passagens compradas - Revisor: [Lucas Avelar](https://github.com/LucasAvelar2711) 
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | O cenário está presente no documento, segundo é evidente na Figura 1? | 1.0 | Conforme |  |  | |
+|  2   | O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura 2? | 1.0 | Conforme|  |   | |
+|  3   | O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999)? | 1.0 | Imcompleto, não foi possivel identificar o elemento de avaliação no cenário. |  | implementar o Aspecto de avaliação no cenário.c   |  |
+|  4   | Os cenários respondem, segundo a figura 4 seguir, as perguntas: Por que? Como? O que é? | 1.0 | Conforme  | | | |
+<p style="text-align: center">Tabela 3: resultado da checklist do cenário Acompanhar compra de passagem</p>
+<p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
+
+
 <center>
 
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/5Vu1ZmWMTNQ?si=dwesotTVTknMOKvP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

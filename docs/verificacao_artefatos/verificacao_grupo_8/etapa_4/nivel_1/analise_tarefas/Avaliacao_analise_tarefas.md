@@ -24,7 +24,7 @@
 |  12/06/2024  | Realizar verificação das Características Gerais do Projeto| [Mariana Letícia](https://github.com/Marianannn) |   
 
 ## Checklist
-<p style="text-align: justify">As checklists a seguir detalham os aspectos que serão analisados durante a verificação do artefato.</p>
+<p style="text-align: justify">As checklists a seguir detalham os aspectos que serão analisados durante a verificação dos artefatos.</p>
 
 ### Checklist para o Relato da Avaliação da Análise de Tarefas
 | ID     | Descrição           | Verificação        | 
@@ -38,6 +38,8 @@
 |07| No pages, consta o roteiro de perguntas? | sim/não |  
 |08| No pages existe o planejamento do teste piloto e o mesmo? | sim/não |  
 |08| O pages tem uma lista com os problemas encontrados?  | sim/não |  
+<p style="text-align: center">Tabela 1: Checklist para o Relato da Avaliação da Análise de Tarefas</p>
+<p style="text-align: center">Fonte: Lucas Avelar, 2024</p>
 
 ### Checklist para a verificação das Metas de Usabilidade
 | ID     | Descrição           | Verificação        | 
@@ -47,6 +49,8 @@
 |03| As metas de usabilidade definem os fatores de qualidade? | sim/não |   
 |04| O pages, possui nas metas de usabilidade: Eficiência, Eficácia, Memorização, Aprendizagem, segurança e Utilidade?| sim/não |   
 |05| Eles citaram as referencias bibliograficas? | sim/não |   
+<p style="text-align: center">Tabela 2: Checklist para a verificação das Metas de Usabilidade</p>
+<p style="text-align: center">Fonte: Lucas Avelar, 2024</p>
 
 ### Checklist do Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel
 | ID     | Descrição           | Verificação        | 
@@ -59,6 +63,8 @@
 |06| O grupo se preocupou em achar e resolver problemas encontrados? | sim/não |  
 |07| O grupo se preocupou em colocar onde o problema foi encontrado, deu uma descrição ao problema? | sim/não | 
 |08| O grupo citou sugestões de melhoria?| sim/não | 
+<p style="text-align: center">Tabela 3: Checklist do Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel</p>
+<p style="text-align: center">Fonte: Lucas Avelar, 2024</p>
 
 ## Referências Bibliográficas
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 10 de junho de 2024.

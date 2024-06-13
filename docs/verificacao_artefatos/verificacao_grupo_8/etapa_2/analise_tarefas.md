@@ -121,7 +121,24 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 |  3   | Os diagramas HTA propostos seguem a notação da técnica? | 1.0 | Conforme | | | As notações técnicas foram aplicadas coretamente. | 
 |  4   | Cada integrante do grupo analisou pelo menos uma funcionalidade? | 1.0 | Conforme | | |
 |  5   | A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos? | 1.0 | Conforme | | | Os objetivos conferem com a funcionalidade proposta, além das listas de ações que conseguem compreender o escopo da funcionalidade |
+<p style="text-align: center">Tabela 3</p>
+<p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
+</center>
+
+</center>
+
+### Funcionalidade : Histórico de passagens compradas - Revisor: [Lucas Avelar](https://github.com/LucasAvelar2711)
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | A análise de tarefas está presente no documento, segundo a figura 1 a seguir? | 1.0 | Conforme |  |  | |
+|  2   | Há no mínimo duas técnicas para especificar as tarefas? Por exemplo: HTA, GOMS ou CTT, como está descrito na figura 2 logo abaixo? | 1.0 | Conforme|  |   | Foram aplicadas ambas as técnicas  GOMS e HTA |
+|  3   | Os diagramas HTA propostos seguem a notação da técnica, segundo a figura 3 a seguir? | 1.0 | Conforme | |  | | 
+|  4   | Cada integrante do grupo analisou pelo menos uma funcionalidade, conforme está descrito na figura 4 a seguir? | 1.0 | Conforme  | | | |
+|  5   | A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos, conforme é evidenciado na figura 5 a seguir? | 1.0 | Conforme  | | | |
+<p style="text-align: center">Tabela 4:Histórico</p>
+<p style="text-align: center">Fonte: Lucas Avelar, 2024</p>
 </center>
 
 <p style="text-align: center">Tabela 3: Checklist de verificação da funcionalidade "Acompanhar pedido de compra de passagem".</p>
