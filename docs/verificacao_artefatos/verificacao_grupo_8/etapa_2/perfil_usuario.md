@@ -90,6 +90,6 @@ O **avaliador** responsável por desenvolver a lista de verificação da etapa 2
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `2.0`   | 12/06/2024 | Adição do checklist                       | [Genilson Silva](https://github.com/GenilsonJrs) |   |
-| `3.0`   | 12/06/2024 | Adição da verificação do artefato         | [Bruna Lima](https://github.com/libruna) |   |
+| `1.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Pedro Henrique](https://github.com/PedroHhenriq)  |
+| `2.0`   | 12/06/2024 | Adição do checklist                       | [Genilson Silva](https://github.com/GenilsonJrs) |  [Pedro Henrique](https://github.com/PedroHhenriq) |
+| `3.0`   | 12/06/2024 | Adição da verificação do artefato         | [Bruna Lima](https://github.com/libruna) |  [Pedro Henrique](https://github.com/PedroHhenriq) |

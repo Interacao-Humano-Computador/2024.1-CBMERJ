@@ -126,7 +126,7 @@ Foi conduzida uma inspeção do checklist acima da persona Rafael do Grupo 07 po
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `2.0`   | 12/06/2024 | Adição do checklist                         | [Genilson Silva](https://github.com/GenilsonJrs) |   |
-| `3.0`   | 12/06/2024 | Adição da verificação da persona 3     | [Genilson Silva](https://github.com/GenilsonJrs) |   |
-| `4.0`   | 12/06/2024 | Adição do checklist Persona (Rafael) e inspeção realizada                        | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
+| `1.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna) |
+| `2.0`   | 12/06/2024 | Adição do checklist                         | [Genilson Silva](https://github.com/GenilsonJrs) |  [Bruna Lima](https://github.com/libruna) |
+| `3.0`   | 12/06/2024 | Adição da verificação da persona 3     | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna)  |
+| `4.0`   | 12/06/2024 | Adição do checklist Persona (Rafael) e inspeção realizada                        | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Bruna Lima](https://github.com/libruna) |

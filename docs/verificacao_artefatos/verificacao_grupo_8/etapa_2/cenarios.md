@@ -115,7 +115,7 @@ Fonte: [Genilson Silva](https://github.com/GenilsonJrs).
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `2.0`   | 11/06/2024 | adição do checklist                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `3.0`   | 12/06/2024 | Aplicando checklist do Cenário Compartilhamento de Trajetos                        | [Pedro Henrique](https://github.com/PedroHhenriq) | 
-| `4.0`   | 12/06/2024 | Aplicando checklist do Rastreamento de ônibus em tempo real                        | [Genilson Silva](https://github.com/GenilsonJrs) |  |
+| `1.0`   | 11/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna) |
+| `2.0`   | 11/06/2024 | adição do checklist                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna) |
+| `3.0`   | 12/06/2024 | Aplicando checklist do Cenário Compartilhamento de Trajetos                        | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Bruna Lima](https://github.com/libruna)| 
+| `4.0`   | 12/06/2024 | Aplicando checklist do Rastreamento de ônibus em tempo real                        | [Genilson Silva](https://github.com/GenilsonJrs) |  [Bruna Lima](https://github.com/libruna)|
