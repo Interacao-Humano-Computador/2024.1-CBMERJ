@@ -89,6 +89,19 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 <p style="text-align: center">Tabela 6: Checklist de verificação do storyboard de "comprar passagem".</p>
 <p style="text-align: center">Fonte: Bruna Lima, 2024</p>
 
+**A gravação da verificação encontra-se abaixo:**
+
+<center>
+
+[Link para o vídeo da apresentação](https://youtu.be/YouyhrO5cSw)
+
+<iframe width="1000" height="400" src="https://www.youtube.com/embed/YouyhrO5cSw?si=kMu32ogntdceIqyu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 1: Verificação do storyboard "Comprar passagem".</p>
+Fonte: Bruna Lima, 2024.
+
+</center>
+
 ### Funcionalidade: Rastreamento de ônibus em tempo real - Revisor: Genilson Silva
 
 <center> 
