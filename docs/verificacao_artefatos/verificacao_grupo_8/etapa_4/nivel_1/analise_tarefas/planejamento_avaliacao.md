@@ -48,11 +48,16 @@ A avaliação designada para a criação e desenvolvimento da lista de verifica�
 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   | O objetivo do estudo e como será conduzido está claramente definido? | 1.0 | Conforme |  | |
-|  2   | O termo de consentimento possui uma clara declaração de consentimento, informação sobre voluntariedade e definição de como os dados serão utilizados? | 1.0 | Conforme |  |  | |
-|  3   | É citado procedimentos para proteger a privacidade dos dados coletados? | 1.0 | Conforme |  | |
-|  4   | O documento elicita e busca cumprir diante das diretrizes os principios da autonomia, beneficência, não maleficência, e justiça e equidade? | 1.0 | Conforme |  | |
-
+|  1   |O contexto da avaliação da análise de tarefa está claramente definido, incluindo os objetivos da avaliação, aqueles que serão entrevistados, o motivo da avaliação e as tarefas que serão analisadas? | 1.0 | Conforme |  | |
+|  2   |O objetivo da avaliação está de acordo com os interesses e necessidades dos usuários, estando em conformidade com os 4 principais aspectos:  Apropriação de tecnologia pelos usuários, ideias e alternativas de design, conformidade com um padrão e problemas na interação e na interface (Hix e Hartson, 1993; Rubin, 1994; Mack e Nielsen, 1994; Sharp et al., 2007)? | 1.0 | Conforme |  |  | |
+|  3   | As perguntas que serão conduzidas na entrevista estão alinhadas com o(s) objetivo(s) definido(s)? | 1.0 | Conforme |  | |
+|  4   | É utilizado o Framework DECIDE conforme proposto por Sharp, Rogers e Preece (2007)? | 1.0 | Conforme |  | |
+|  5   | O planejamento também aborda aspectos práticos da avaliação como: Recrutamento dos participantes, a utilização dos equipamentos, a preparação, orçamento, prazos e mão-de-obra disponíveis? | 1.0 | Imcompleto |  | |
+|  6   | As perguntas desenvolvidas, assim como o planejamento, estão de acordo com o perfil do usuário que foi estabelecido previamente? | 1.0 | Conforme |  | |
+|  7   | É estabelecido um teste piloto no planejamento que foi realizado antes da avaliação? | 1.0 | Conforme |  | |
+ 
+<p style="text-align: center">Tabela 1, Checklist.</p>
+<p style="text-align: center">Fonte: Lucas Avelar, 2024</p>
 </center>
 
 ## Referências Bibliográficas
