@@ -68,7 +68,7 @@ O **avaliador** responsável por desenvolver a lista de verificação da etapa 2
 |  1   | O documento possui informações básicas demográficas como: Idade, Gênero, Escolaridade? | 1.0 | Conforme | | | O perfil contém todos esses itens. |
 |  2   | É especificado um contexto de uso? | 1.0 | Conforme | | | A coleta de dados foi feita em grande maioria com estudantes da FGA por meio de questionários online. |
 |  3   | Existe questionamento acerca de nível de experiência e preferências em relação a tecnologia? | 1.0 | Conforme | | | No questionário da pesquisa haviam perguntas para essa finalidade. | 
-|  4   | O documento possui preferências de interação, estilos e abertura para sugestões? | 1.0 | Não conforme | | | Não houve nenhuma coleta de dados para identificar essas preferências |
+|  4   | O documento possui preferências de interação, estilos e abertura para sugestões? | 1.0 | Não conforme | De acordo com o documento, não houve nenhuma coleta de dados para identificar as preferências e estilos dos usuários. | Adicionar de 2 a 3 perguntas sobre as preferências do usuário. |  |
 
 </center>
 
