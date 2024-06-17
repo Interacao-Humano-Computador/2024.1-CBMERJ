@@ -1,22 +1,7 @@
 ## Introdução
-
 A avaliação é crucial para o desenvolvimento de um projeto, especialmente na etapa de ideação com recolhimento dos dados. Ela nos oferece a perspectiva do usuário, ajudando a verificar se a funcionalidade atende aos seus interesses.
 
 Por isso, é essencial planejar como relatar os resultados dessa avaliação. Isso permite validar os resultados com os participantes e identificar problemas e sugestões de melhorias. Organizar e extrair esses dados de maneira eficiente nos orientará durante o desenvolvimento do projeto.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Metodologia
 
@@ -30,22 +15,6 @@ Utilizando como base alguns pontos cruciais evidenciados por Barbosa e Silva  em
 6. Lista de problemas encontrados;
 7. Sugestões e Melhorias;
 8. Reprojeto.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Objetivos e escopos
 

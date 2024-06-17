@@ -1,13 +1,46 @@
 ## Introdução
+<p style="text-align: justify;">O planejamento do relato dos resultados do protótipo de alta fidelidade tem a finalidade de estruturar previamente um documento que descreve, de maneira clara e ordenada, os achados e conclusões da avaliação. Esse planejamento é crucial para garantir que todas as informações relevantes sejam abordadas, facilitando a compreensão dos dados coletados e das implicações dos resultados. Ao seguir o planejamento, é possível assegurar que o relato seja completo e coeso, abrangendo desde o contexto do teste e os objetivos iniciais até os métodos utilizados e as observações finais. </p>
 
 ## Metodologia
+<p style="text-align: justify;">Com base nos pontos fundamentais delineados por Barbosa e Silva em seu livro "Interação Humano-Computador" (1) na etapa de planejamento de avaliação, analisaremos os seguintes tópicos que serão utilizados mais tarde na construção do relato dos resultados das análises de tarefas: </p>
+<ul>
+<li>Objetivo e escopo;</li>
+<li>Método;</li>
+<li>Seleção de participantes;</li>
+<li>Coleta e interpretação de dados;</li>
+<li>Lista de problemas encontrados;</li>
+<li>Sugestões e melhorias;</li>
+<li>Reprojeto.</li>
+</ul>
 
-## Bibliografia
+### Objetivos e escopo
+<p style="text-align: justify;">No relato dos resultados, os objetivos da avaliação deverão ser detalhados, esclarecendo expectativas e propósitos específicos. É essencial indicar se esses objetivos foram atingidos. Além disso, deve-se definir claramente o escopo da avaliação, delineando os limites e focos principais da avaliação realizada, garantindo uma compreensão completa e precisa dos resultados obtidos.</p>
+
+### Método
+
+
+### Seleção de participantes 
+<p style="text-align: justify;">No relato dos resultados, deverão ser listados os participantes de cada avaliação e quais foram os seus respectivos papéis.  </p>
+
+### Coleta e interpretação de dados
+<p style="text-align: justify;">No relato dos resultados do protótipo de alta fidelidade, deverão ser descritos com fidelidade quais foram os dados coletados em cada etapa de cada avaliação. Posteriormente, deverão ser apresentadas as interpretações dos dados coletados por parte da cada integrante da equipe. Nesta fase de interpretação, serão contextualizados os resultados das avaliações, informando se eles atendem ou não às expectativas e propósitos estabelecidos inicialmente. </p>
+
+### Lista de problemas encontrados
+
+### Segestões de melhorias 
+
+### Reprojeto 
+
+## Biografia
+
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
 
 ## Referências Bibliográficas
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. [Capítulo 12, p. 318]
 
 ## Histórico de Versões
 
 | Versão  | Data       | Descrição                 | Autor(es)                   | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | --------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
+| `2.0`   | 17/06/2024 | Adição da introdução, metodologia, objetivos e escopo, participantes e coleta e interpretação de dados         | [Daniela Alarcão](https://github.com/danialarcao) | |
