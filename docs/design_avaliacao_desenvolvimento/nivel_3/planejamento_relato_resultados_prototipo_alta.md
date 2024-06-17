@@ -27,7 +27,7 @@
 
 ### Lista de problemas encontrados
 
-### Segestões de melhorias 
+### Sugestões de melhorias 
 
 ### Reprojeto 
 
