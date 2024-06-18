@@ -27,16 +27,7 @@ Os objetivos são importante para nortear o planejamento do projeto. Sendo assim
 ### I - Identificar quesitos práticos da avaliação
 
 ### Recrutamento
-X participantes foram devem ser recrutados de acordo com o perfil do participante escolhido. O perfil foi selecionado com base nas características correspondentes definidas no [Perfil do Usuário](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/), seguindo a metodologia de Nielsen...
-
-<center>
-
-// Perfil do usuário
-
-</center>
-
-<p style="text-align: center">Tabela 1: Perfil do participante.</p>
-<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+Os participantes devem ser recrutados de acordo com o perfil do [Usuário](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/). Cada fucionalidade deve ser avaliada por no mínimo três participantes, seguindo a técnica de Krug, com três ou quatro participantes, a maioria dos problemas é detectada, tornando possível fazer a análise no mesmo dia. (6)
 
 ### Mão-de-obra necessária
 Cada avaliação deve envolver pelo menos dois avaliadores:
@@ -76,11 +67,11 @@ Este teste piloto não influenciará a coleta nem a interpretação dos dados. O
   
 |    Avaliadores         | Participante      | Horário |   Data    | Tarefa(s) |      Local     |
 | :--------------------: | :---------------: | :-----: | :-------: | :-------: | :------------: | 
-| | | xx:00 | xx/06/24 |  | FGA |
+| Daniela, Genilson, Pedro | Um integrante do grupo fará o papel de usuário | 10:00 | 20/06/24 | Solicitar Ficha de Atendimento | FGA |
 
 </center>
 
-<p style="text-align: center">Tabela 2: Cronograma do teste piloto.</p>
+<p style="text-align: center">Tabela 1: Cronograma do teste piloto.</p>
 <p style="text-align: center">Fonte: Bruna Lima, 2024</p>
 
 ### Roteiro de avaliação
@@ -97,24 +88,25 @@ A seguir, é apresentada a sequência de passos que devem ser abordados durante 
 Se o avaliador julgar necessário uma compreensão mais detalhada da experiência, ele pode solicitar que o participante utilize a técnica do *think aloud*.
 
 ### Prazos
-Na Tabela 2, apresentamos o cronograma planejado para a avaliação de cada uma das seis funcionalidades. Cada avaliação, inclui os avaliadores, o participante, a tarefa que será simulada, a data, o horário e o local.
+Na Tabela 2, apresentamos o cronograma planejado para a avaliação de cada uma das seis funcionalidades. Para cada avaliação, os três participantes selecionados avaliarão três funcionalidades.
 
 <center> 
   
-|    Avaliadores         | Participante      | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
-| :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
-|  |  |  |  |  |  |  |
+|    Avaliadores       | Participantes   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefas    |      Local     |
+| :------------------: | :-------------: | :----------------: | ---------------- | :--------: | :-----------: | :------------: |
+| Bruna, Daniela e Mariana | A definir | 00:00 | 00:00 | XX/06/24 | 1. Solicitar ficha de atendimento<br>2. Agendamento de atendimento presencial<br>3. Obter declaração do registro de ocorrência | FGA |
+| Genilson, Lucas e Pedro | A definir | 00:00 | 00:00 | XX/06/24 | 1. Checar e gerar certificado<br>2. Curso do corpo de bombeiros - primeiro socorros<br>3. Curso do corpo de bombeiros - acidentes domiciliares | FGA |
 
 </center>
 
-<p style="text-align: center">Tabela 3: Cronograma de avaliação do protótipo de alta fidelidade.</p>
+<p style="text-align: center">Tabela 2: Cronograma de avaliação do protótipo de alta fidelidade.</p>
 <p style="text-align: center">Fonte: Bruna Lima, 2024</p>
 
 ### D - Decidir questões éticas
-
+De acordo com os princípios éticos e de integridade, o termo de consentimento da Figura 1 deve ser apresentado ao participante antes do início da avaliação. Este documento explica comos os dados coletados serão utilizados, sua assinatura é completamente voluntária e indicará o consentimento informado do participante para participar ou não da avaliação. 
 <center> 
 
-<img alt="Logo" src="img/TermoDeConsentimento.png" width="80%">
+![](img/TermoDeConsentimento.png)
 
 </center>
 
@@ -131,7 +123,7 @@ Na Tabela 2, apresentamos o cronograma planejado para a avaliação de cada uma 
 > 3. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. [Capítulo 11.7.2, p. 276]
 > 4. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. [Capítulo 11.7.3, p. 277]
 > 5. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. [Capítulo 11.7.3, p. 274]
-
+> 6. Avaliação E Projeto No Design De Interfaces - Autor: José Guilherme Santa Rosa - Ano: Capa comum – 1 janeiro 2010. [Capítulo 9, p. 144]
 
 ## Histórico de Versões
 
@@ -140,3 +132,4 @@ Na Tabela 2, apresentamos o cronograma planejado para a avaliação de cada uma 
 | `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
 | `2.0`   | 13/06/2024 | Adição de introdução, metodologia, e dos objetivos do planejamento | [Mariana Letícia](https://github.com/Marianannn) | |
 | `3.0`   | 13/06/2024 | Adição da questões práticas e aspectos éticos | [Bruna Lima](https://github.com/libruna) | |
+| `3.1`   | 18/06/2024 | Adição da seleção de participantes e cronograma | [Bruna Lima](https://github.com/libruna) | |
