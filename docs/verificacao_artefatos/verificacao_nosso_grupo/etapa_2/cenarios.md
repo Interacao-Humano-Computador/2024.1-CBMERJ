@@ -6,7 +6,7 @@
 
 ### Participantes
 
-### Template de Checklist: Análise de tarefas
+### Template de Checklist: Cenários
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 
