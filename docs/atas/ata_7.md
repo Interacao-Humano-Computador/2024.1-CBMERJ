@@ -65,6 +65,15 @@
     - **Responsáveis:** Genilson.
 
 ## Gravação da Reunião
+Segue abaixo a reunião gravada no horário da aula de Interação Humano-Computador com a autorização do professor.
+
+<audio controls>
+    <source scr="reunioes_audio/reuniao_6_2.mp4" type="audio/mp4">
+    <p>
+        Seu navegador pode não suportar o "audio HTML5". Aqui está o 
+        <a href="reunioes_audio/reuniao_6_2.mp4">link para o áudio</a> .
+    </p>
+</audio>
 
 ## Próxima reunião
 

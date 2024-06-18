@@ -66,10 +66,10 @@
 Essa reunião aconteceu durante a aula destinada a desenvolvimento de projeto, dessa forma gravamos o audio da reunião.
 
 <audio controls>
-    <source scr="./reunioes_audio/reuniao_6.mp4" type="audio/mp4">
+    <source scr="reunioes_audio/reuniao_6_1.mp4" type="audio/mp4">
     <p>
         Seu navegador pode não suportar o "audio HTML5". Aqui está o 
-        <a href="./reunioes_audio/reuniao_6.mp4">link para o áudio</a> .
+        <a href="reunioes_audio/reuniao_6_1.mp4">link para o áudio</a> .
     </p>
 </audio>
 
