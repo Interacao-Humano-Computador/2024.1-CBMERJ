@@ -143,4 +143,12 @@ nav:
               - Personas: verificacao_artefatos/verificacao_nosso_grupo/etapa_2/personas.md
               - Cenários: verificacao_artefatos/verificacao_nosso_grupo/etapa_2/cenarios.md
               - Análise de tarefas: verificacao_artefatos/verificacao_nosso_grupo/etapa_2/analise_tarefas.md
-            
+          - Etapa 3:
+              - Características Gerais: verificacao_artefatos/verificacao_nosso_grupo/etapa_3/caracteristicas_gerais.md
+              - Guia de estilo: verificacao_artefatos/verificacao_nosso_grupo/etapa_3/guia_estilo.md
+              - Metas de Usabilidade: verificacao_artefatos/verificacao_nosso_grupo/etapa_3/metas_usabilidade.md
+              - Princípios Gerais: verificacao_artefatos/verificacao_nosso_grupo/etapa_3/principios_gerais.md
+          - Etapa 4:
+              - Nível 1:
+                  - Análise de tarefas:
+                  - Storyboard: 
