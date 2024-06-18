@@ -27,7 +27,7 @@ Os objetivos são importante para nortear o planejamento do projeto. Sendo assim
 ### I - Identificar quesitos práticos da avaliação
 
 ### Recrutamento
-Os participantes devem ser recrutados de acordo com o perfil do [Usuário](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/). Cada fucionalidade deve ser avaliada por no mínimo três participantes, seguindo a técnica de Krug, com três ou quatro participantes, a maioria dos problemas é detectada, tornando possível fazer a análise no mesmo dia. (6)
+Os participantes devem ser recrutados de acordo com o [Perfil do Usuário](https://interacao-humano-computador.github.io/2024.1-CBMERJ/analise_requisitos_1/perfil_usuario/). Cada fucionalidade deve ser avaliada por no mínimo três participantes, seguindo a técnica de Krug, com três ou quatro participantes, a maioria dos problemas é detectada, tornando possível fazer a análise no mesmo dia. (6)
 
 ### Mão-de-obra necessária
 Cada avaliação deve envolver pelo menos dois avaliadores:
