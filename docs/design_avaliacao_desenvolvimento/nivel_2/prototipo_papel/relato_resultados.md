@@ -236,6 +236,54 @@ Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://git
 
 - **Sugestões de melhoria:**
     
+## Entrevista 4 - Cursos [Acidentes Domiciliares]
+
+<center>
+
+[Link para o vídeo da apresentação](https://www.youtube.com/watch?v=nbtQHGYZpdU)
+
+<iframe width="882" height="496" src="https://www.youtube.com/embed/nbtQHGYZpdU" title="Avaliação - Protótipo de Papel / Curso - Acidentes Domiciliares" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 4: Entrevista 4 - Cursos [Acidentes Domiciliares)</p>
+
+Fonte: [Pedro Henrique](https://github.com/PedroHhenriq).
+
+</center>
+
+<br>
+
+- **Coleta de dados:** Nesta etapa, para a avaliação da funcionalidade Cursos - Acidentes domiciliares, foi apresentado pelo integrante Pedro Henrique, responsável por ser o facilitador e máquina, um contexto de processo que seria realizada em um protótipo de papel ao participante Rafael que, desta maneira, realizou interações em telas de interface que simulavam o processo de inscrição e de acesso ao conteúdo de algum módulo do curso. Além disso, foi utilizado a técnica recomendada de "Loud Thinking" e, posteriormente, conduzido série de perguntas gerais pelo integrante Genilson que ficou responsável por observar e fazer anotações durante todo o processo. As perguntas realizadas, assim como suas respostas obtidas podem ser encontradas abaixo na **tabela 4**: 
+
+<center>
+
+| Número | Pergunta | Respostas |
+| :----: | :------: | :-------: |
+|   1    | Você conseguiu operar o sistema com tranquila | Sim, bem tranquilo. |
+|   2    | Ao final do processo, você conseguiu atingir o seu objetivo final? | Consegui. Alcancei a página de vídeo-aulas e o acesso as informações que buscava. |
+|   3    | Você conseguiu entender o que acontecia de um passo para o outro? | Consegue. Bem claro o processo de como as páginas mudam e conteúdo de cada tela. |
+|   4    | Com o passar dos passos, você se sentiu motivado para continuar o processo? | Foi um processo normal. Não muito diferente de um processo de inscrição em um site qualquer. Bem convencional. |
+|   5    | As instruções e informações, sem a ajuda do facilitador, foram claras? | Foi bem claro. |
+|   6    | Em algum momento, você se sentiu pelo menos um pouco confuso? | Não. Todas as telas são bem claras, sucintas nos assuntos que elas trazem, bem objetivas.  |
+|   7    | No geral, você tem alguma sugestão de melhoria? | Acho que não. O processo está bem enxuto, não sinto falta de nada assim de um processo convecional de login e acesso à um site. Parece na medida. |
+
+**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+**Tabela 4** - Roteiro de perguntas da entrevista.
+
+</center>
+
+- **Interpretação dos dados:** 
+    - A avaliação orientada e conduzida pelo processo de "Loud Thinking" pelo participante, auxiliou no entedimento e seguimento dos seus passos durante as interações. 
+    - A condução da avaliação do protótipo de papel foi realizada de forma tranquila, de modo em que o participante alcançasse o seu objetivo sem nenhum problema ou dificuldade;
+    - O participante não precisou do auxílio do facilitador no geral, tendo conseguido executar as operações e interações somente a partir de um contexto incial entregue para que pudesse se situar e compreender o seu objetivo final;
+    - As telas pareceram claras, bem compreensíveis e o processo não foi confuso para o participante.  <br><br>
+    **Conclusão:** A avaliação seguiu de forma clara e sem confusão para o participante que conseguiu se situar no processo e realizar o seu objetivo com êxito de forma tranquila. 
+
+- **Lista de problemas encontrados:** 
+    - Em relação a avaliação, não foi identificado nenhum grande problema durante o encontro, nem após uma revisão por parte do vídeo. Uma única observação que foi levantada por parte do condutor que simulava a máquina, seria que talvez poderia ter organizado as folhas mais ao lado do participante. 
+
+- **Sugestões de melhoria:**
+    - Conforme, pode ser analisado, o entrevistado acredita que o processo esteja adequado e claro o suficiente para seu entendimento e, desta forma, não foram levantadas nenhuma sugestão de melhoria por sua parte. 
 
 ## Conclusão
 
@@ -252,3 +300,4 @@ Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://git
 | `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)|
 | `2.0`   | 18/06/2024 | Adição da entrevista 1         | [Genilson Silva](https://github.com/GenilsonJrs) | |
 | `3.0`   | 19/06/2024 | Adição da entrevista 2         | [Daniela Alarcão](https://github.com/danialarcao) | |
+| `4.0`   | 19/06/2024 | Adição da entrevista 4         | [Pedro Henrique](https://github.com/PedroHhenriq) | |
