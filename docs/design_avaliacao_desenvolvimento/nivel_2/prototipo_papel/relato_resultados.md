@@ -19,6 +19,23 @@ A seleção dos participantes teve como base o [perfil do usuário](../../../ana
 - escolaridade: ensino médio
 - gênero predominantemente feminino
 
+## Cronograma executado de entrevistas
+
+Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
+
+<center>
+  
+|    Entrevistador(es)   | Entrevistado(s)   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
+| :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
+| [Mariana Letícia](https://github.com/Marianannn) e [Bruna Lima](https://github.com/libruna) | João Victor | 14:00 | 14:20 | 19/06/2024 | Solicitar declaração de registro de ocorrência e Solicitação de Ficha de Atendimento  | FGA |
+| [Daniela Alarcão](https://github.com/danialarcao) e [Lucas Avelar](https://github.com/LucasAvelar2711) | - | 10:00 | 10:20 | 18/06/2024 | Agendamento de atendimento presencial e CB Cursos 1 | FGA |
+| [Pedro Henrique](https://github.com/PedroHhenriq) e [Genilson](https://github.com/GenilsonJrs) |     Rafael    |      10:00     |     10:20     |  18/06/2024  |   CB Cursos 2 e Checar e Gerar Certificado   | FGA |
+
+
+<p style="text-align: center">Tabela 1: Cronograma executado de entrevistas</p>
+<p style="text-align: center">Fonte: Mariana Letícia</p>
+
+</center>
 
 ## Entrevistas
 
@@ -116,7 +133,7 @@ Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
 
 <br>
 
-- **Coleta de dados:** Para a entrevista, foram preparadas uma série de perguntas gerais visando respostas condizentes para validação e posterior implementação correta da funcionalidade, presente na **tabela 1**, viabilizando assim uma coleta de dados bem direcionada, com perguntas discussivas para o entrevistado.
+- **Coleta de dados:** Para a entrevista, foram preparadas uma série de perguntas gerais visando respostas condizentes para validação e posterior implementação correta da funcionalidade, presente na **tabela 2**, viabilizando assim uma coleta de dados bem direcionada, com perguntas discussivas para o entrevistado.
 
 <center>
 
@@ -134,7 +151,7 @@ Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
 
 **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
 
-**Tabela 1** - Roteiro de perguntas da entrevista.
+**Tabela 2** - Roteiro de perguntas da entrevista.
 
 </center>
 
@@ -169,7 +186,7 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao).
 
 <br>
 
-- **Coleta de dados:** Para a coleta de dados, uma entrevista foi realizada com o participante Cainã Freitas, estudante de engenharia de software. Durante a entrevista foi realizada uma série de perguntas de modo a direcionar o diálogo para que dados relevantes pudessem ser coletados. As perguntas e suas respectivas respostas estão presentes na **tabela 2** abaixo. 
+- **Coleta de dados:** Para a coleta de dados, uma entrevista foi realizada com o participante Cainã Freitas, estudante de engenharia de software. Durante a entrevista foi realizada uma série de perguntas de modo a direcionar o diálogo para que dados relevantes pudessem ser coletados. As perguntas e suas respectivas respostas estão presentes na **tabela 3** abaixo. 
 
 <center>
 
@@ -185,7 +202,7 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao).
 
 **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
 
-**Tabela 2** - Roteiro de perguntas da entrevista.
+**Tabela 3** - Roteiro de perguntas da entrevista.
 
 </center>
 
@@ -218,7 +235,7 @@ Fonte: [Pedro Henrique](https://github.com/PedroHhenriq).
 
 <br>
 
-- **Coleta de dados:** Nesta etapa, para a avaliação da funcionalidade Cursos - Acidentes domiciliares, foi apresentado pelo integrante Pedro Henrique, responsável por ser o facilitador e máquina, um contexto de processo que seria realizada em um protótipo de papel ao participante Rafael que, desta maneira, realizou interações em telas de interface que simulavam o processo de inscrição e de acesso ao conteúdo de algum módulo do curso. Além disso, foi utilizado a técnica recomendada de "Loud Thinking" e, posteriormente, conduzido série de perguntas gerais pelo integrante Genilson que ficou responsável por observar e fazer anotações durante todo o processo. As perguntas realizadas, assim como suas respostas obtidas podem ser encontradas abaixo na **tabela 3**: 
+- **Coleta de dados:** Nesta etapa, para a avaliação da funcionalidade Cursos - Acidentes domiciliares, foi apresentado pelo integrante Pedro Henrique, responsável por ser o facilitador e máquina, um contexto de processo que seria realizada em um protótipo de papel ao participante Rafael que, desta maneira, realizou interações em telas de interface que simulavam o processo de inscrição e de acesso ao conteúdo de algum módulo do curso. Além disso, foi utilizado a técnica recomendada de "Loud Thinking" e, posteriormente, conduzido série de perguntas gerais pelo integrante Genilson que ficou responsável por observar e fazer anotações durante todo o processo. As perguntas realizadas, assim como suas respostas obtidas podem ser encontradas abaixo na **tabela 4**: 
 
 <center>
 
@@ -234,7 +251,7 @@ Fonte: [Pedro Henrique](https://github.com/PedroHhenriq).
 
 **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
 
-**Tabela 3** - Roteiro de perguntas da entrevista.
+**Tabela 4** - Roteiro de perguntas da entrevista.
 
 </center>
 
@@ -274,7 +291,7 @@ Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://git
 
 <br>
 
-- **Coleta de dados:** Durante a avaliação, a avaliadora observadora fez anotações. E após a simulação com protótipo de baixa fidelidade, conduzimos uma entrevista com as perguntas que estão listadas na Tabela 4.
+- **Coleta de dados:** Durante a avaliação, a avaliadora observadora fez anotações. E após a simulação com protótipo de baixa fidelidade, conduzimos uma entrevista com as perguntas que estão listadas na Tabela 5.
 
 <center>
 
@@ -290,7 +307,7 @@ Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://git
 
 **Fonte** - Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 11, p. 266] e [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) ..
 
-**Tabela 4** - Roteiro de perguntas da entrevista da avaliação 4.
+**Tabela 5** - Roteiro de perguntas da entrevista da avaliação 4.
 
 </center>
 
@@ -329,7 +346,7 @@ Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://git
     - gênero predominantemente feminino
 
 - **Coleta de dados:** foram adicionadas perguntas gerais sobre o entrevistado e sobre o protótipo de papel daquela funcionalidade em específico.<br><br>
-As perguntas e respostas representando a coleta de dados da entrevista 1 estão explícitas abaixo na **tabela 5**:
+As perguntas e respostas representando a coleta de dados da entrevista 1 estão explícitas abaixo na **tabela 6**:
 
 <center>
 
@@ -348,7 +365,7 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 
 **Fonte** - Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 11, p. 266] e [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) .
 
-**Tabela 5** - Roteiro de perguntas da entrevista.
+**Tabela 6** - Roteiro de perguntas da entrevista.
 
 </center>
 
