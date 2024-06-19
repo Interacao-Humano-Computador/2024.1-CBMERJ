@@ -78,7 +78,7 @@ Este teste piloto não influenciará a coleta nem a interpretação dos dados. O
   
 |    Avaliadores         | Participante      | Horário |   Data    | Tarefa(s) |      Local     |
 | :--------------------: | :---------------: | :-----: | :-------: | :-------: | :------------: | 
-| Daniela, Genilson, Pedro | Um integrante do grupo fará o papel de usuário | 10:00 | 20/06/24 | Solicitar Ficha de Atendimento | FGA |
+| Daniela, Genilson, Pedro | Um integrante do grupo fará o papel de usuário | 10:00 | 25/06/24 | Solicitar Ficha de Atendimento | FGA |
 
 </center>
 
@@ -105,8 +105,8 @@ Na Tabela 2, apresentamos o cronograma planejado para a avaliação de cada uma 
   
 |    Avaliadores       | Participantes   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefas    |      Local     |
 | :------------------: | :-------------: | :----------------: | ---------------- | :--------: | :-----------: | :------------: |
-| Bruna, Daniela e Mariana | A definir | 00:00 | 00:00 | XX/06/24 | 1. Solicitar ficha de atendimento<br>2. Agendamento de atendimento presencial<br>3. Obter declaração do registro de ocorrência | FGA |
-| Genilson, Lucas e Pedro | A definir | 00:00 | 00:00 | XX/06/24 | 1. Checar e gerar certificado<br>2. Curso do corpo de bombeiros - primeiro socorros<br>3. Curso do corpo de bombeiros - acidentes domiciliares | FGA |
+| Bruna, Daniela e Mariana | A definir | 14:00 | 15:00 | 28/06/24 | 1. Solicitar ficha de atendimento<br>2. Agendamento de atendimento presencial<br>3. Obter declaração do registro de ocorrência | FGA |
+| Genilson, Lucas e Pedro | A definir | 10:00 | 11:00 | 27/06/24 | 1. Checar e gerar certificado<br>2. Curso do corpo de bombeiros - primeiro socorros<br>3. Curso do corpo de bombeiros - acidentes domiciliares | FGA |
 
 </center>
 
