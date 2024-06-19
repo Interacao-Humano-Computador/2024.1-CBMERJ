@@ -83,7 +83,7 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 
   -->
 
-## Entrevista 1 - Checar e Gerar Certificado
+## Avaliação 1 - Checar e Gerar Certificado
 
 <center>
 
@@ -91,7 +91,7 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/9j8Gt3qfdp4?si=rtYRWDjuBHTXDrcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>Vídeo 1: Entrevista 1 - funcionalidade checar e gerar certificado</p>
+<p>Vídeo 1: Avaliação 1 - funcionalidade checar e gerar certificado</p>
 
 Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
 
@@ -136,7 +136,7 @@ Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
     - Foi sugerido a alteração de local ou do ícone de acessibilidade, pois causou estranhamento e confusão ao usuário e diminuir o excesso de informações em uma só página, buscando dividir em outros subtópicos ou outros setores.
 
 
-## Entrevista 2 - Agendar atendimento presencial 
+## Avaliação 2 - Agendar atendimento presencial 
 
 <center>
 
@@ -144,7 +144,7 @@ Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
 
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/2tnUI7h3R_I?si=ic1-jqoZILQ3SpNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p>Vídeo 2: Entrevista 2 - funcionalidade de agendar atendimento presencial</p>
+<p>Vídeo 2: Avaliação 2 - funcionalidade de agendar atendimento presencial</p>
 
 Fonte: [Daniela Alarcão](https://github.com/danialarcao).
 
@@ -185,6 +185,57 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao).
 - **Sugestões de melhoria:**
     - Não foram sugeridas melhorias por parte do entrevistado. 
 
+## Avaliação 3 - Solicitar ficha de atendimento 
+A [Bruna Lima](https://github.com/libruna) foi a responsável por conduzir a avaliação, enquanto a [Mariana Letícia](https://github.com/Marianannn) desempenhou o papel de avaliadora observadora. Durante o processo, seguimos o roteiro de avaliação detalhado no planejamento, que consistiu em:
+
+1. Apresentar os termos de consentimento e explicar como os dados coletados serão utilizados;
+2. Breve explicação dos objetivos da entrevista para contextualização do participante;
+3. Simulação da funcionalidade a ser availiada com o protótipo em papel;
+4. Avaliação explorando as perguntas definidas previamente.
+
+<center>
+
+[Link para o vídeo da apresentação]()
+
+<iframe width="1000vw" height="400vh" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Vídeo 3: Avaliação 3 - Funcionalidade de Solicitar ficha de atendimento</p>
+
+Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://github.com/Marianannn).
+
+</center>
+
+<br>
+
+- **Coleta de dados:** Durante a avaliação, a avaliadora observadora fez anotações. E após a simulação com protótipo de baixa fidelidade, conduzimos uma entrevista com as perguntas que estão listadas na Tabela 3.
+
+<center>
+
+| Número | Pergunta | Respostas |
+| :----: | :------: | :-------: |
+|   1    | Você conseguiu operar o sistema com tranquilidade? | Sim, porém tive uma dúvida no ícone de acessibilidade. |
+|   2    | Ao final, você conseguiu atingir o seu objetivo? | Sim. |
+|   3    | Você conseguiu entender o que acontecia de um passo para o outro? | Sim. |
+|   4    | Com o passar dos passos, você se sentiu motivado para continuar o processo? | Sim. |
+|   5    | As instruções e informações foram claras? | Sim. |
+|   6    | Em algum momento, você se sentiu confuso? | Sim. |
+|   7    | Sugestão de melhoria? |  |
+
+**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+**Tabela 1** - Roteiro de perguntas da entrevista da avaliação 3.
+
+</center>
+
+- **Interpretação dos dados:** 
+     <br><br>
+    **Conclusão:** 
+
+- **Lista de problemas encontrados:** 
+
+
+- **Sugestões de melhoria:**
+    
 
 ## Conclusão
 
