@@ -32,8 +32,7 @@ Diante do objetivo principal da avaliação de coleta de informações relevante
 - Você recomendaria o uso deste sistema a outras pessoas? Por quê?
 
 ### C - Escolher método de avaliação
-O método escolhido, visando a utilização do prótótipo de alta fidelidade pelo entrevistado, é o teste de usabilidade juntamente com a entrevista, sendo nesta ordem, avaliar e testar a usabilidade do produto a partir da observação de uso e posteriormente a realização de perguntas especificas que irão determinar a eficiência prestabilidade atual da funcionalidade, como definido na literatura de Barbosa e Silva.
-O motivo da escolha é dado pela possibilidade de obtenção de muitas informações, durante e pós utilização, com devidas observações e em seguida, perguntas direcionadas. A entrevista será gravada e devidamente documentada, seguindo um padrão de tratagem de dados.
+Optamos pelo método de teste de usabilidade com protótipo de alta fidelidade, complementado por questionários pré e pós-teste conforme recomendado por Barbosa e Silva. Os participantes iniciam com o questionário pré-teste, seguido pela interação com o protótipo, onde observamos seu uso para avaliar a usabilidade. Após o teste, eles preenchem o questionário pós-teste para avaliar a eficiência e usabilidade percebida. As entrevistas serão gravadas e documentadas para garantir consistência no tratamento dos dados.
 
 ### I - Identificar quesitos práticos da avaliação
 
