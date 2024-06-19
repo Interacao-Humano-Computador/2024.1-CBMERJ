@@ -95,6 +95,20 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 
 <p>Tabela 6: Cronograma do Ponto de controle 6 (Fonte: Bruna Lima, 2024)</p>
 
+## Cronograma Ponto de Controle 7
+
+|    | Atividade                                                                | Local        | Inicio período de desenvolvimento das atividades   | Fim do período de desenvolvimento das atividades          | Responsáveis       | Inicio período de revisão   | Fim do período de revisão          | Revisores   |
+|---:|:-------------------------------------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:-------------------|:---------------------|:--------------------|:------------|
+|  1 | Relato dos resultados do Protótipo de Papel | Microsoft Teams | 18/06/2024 | 19/06/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 19/06/2024   | 19/06/2024  | Lucas e Genilson      |
+|  2 | Planejamento da avaliação do protótipo de alta fidelidade | Microsoft Teams | 13/06/2024  | 19/06/2024  | Mariana, Genilson e Bruna | 19/06/2024   | 19/06/2024  | Pedro e Daniela    |
+|  3 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Microsoft Teams | 17/06/2024                           | 19/06/2024  | Pedro, Daniela e Lucas | 19/06/2024   | 19/06/2024  | Bruna e Mariana   |
+|  4 | Gravar apresentação | Microsoft Teams | 19/06/2024  | 19/06/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro              | 19/06/2024   | 19/06/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+|  5 | Implementar git page                                                     | -- | 13/05/2024                           | 19/06/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro            | 19/06/2024   |19/06/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+
+<p>Tabela 7: Cronograma do Ponto de controle 7 (Fonte: Pedro Henrique, 2024)</p>
+
+
+
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
@@ -108,3 +122,4 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 | `5.0`   | 22/05/2024 | Adição Ponto de controle 4                   | [Bruna Lima](https://github.com/libruna)  |    [Mariana Letícia](https://github.com/Marianannn)    | 
 | `6.0`   | 03/05/2024 | Adição Ponto de controle 5                   | [Mariana Letícia](https://github.com/Marianannn)  |    [Bruna Lima](https://github.com/libruna)    | 
 | `7.0`   | 12/06/2024 | Adição Ponto de controle 6                   |  [Bruna Lima](https://github.com/libruna) |       | 
+| `8.0`   | 19/06/2024 | Adição Ponto de controle 7                   |  [Pedro Henrique](https://github.com/PedroHhenriq) |       | 
