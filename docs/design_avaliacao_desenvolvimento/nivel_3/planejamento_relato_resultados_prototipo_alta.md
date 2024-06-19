@@ -10,14 +10,13 @@
 <li>Coleta e interpretação de dados;</li>
 <li>Lista de problemas encontrados;</li>
 <li>Sugestões e melhorias;</li>
-<li>Reprojeto.</li>
 </ul>
 
 ### Objetivos e escopo
 <p style="text-align: justify;">No relato dos resultados, os objetivos da avaliação deverão ser detalhados, esclarecendo expectativas e propósitos específicos. É essencial indicar se esses objetivos foram atingidos. Além disso, deve-se definir claramente o escopo da avaliação, delineando os limites e focos principais da avaliação realizada, garantindo uma compreensão completa e precisa dos resultados obtidos.</p>
 
 ### Método
-
+O método para a avaliação do protótipo de alta fidelidade será realizado por meio do teste de usabilidade, desta forma, será realizada uma avaliação com convidados em um ambiente controlado que utilizará os protótipos de cada funcionalidade e por meio da experiência de uso e das opiniões e respostas obtidas dos participantes, obteremos os dados e o interpretaremos.
 
 ### Seleção de participantes 
 <p style="text-align: justify;">No relato dos resultados, deverão ser listados os participantes de cada avaliação e quais foram os seus respectivos papéis.  </p>
@@ -39,8 +38,6 @@ Por meio da avaliação, o participante pode sugerir melhorias que acredita esta
 
 Desta forma, nessa etapa, será listado as sugestões de melhorias relacionadas a cada protótipo de alta fidelidade que foi conduzido. 
 
-### Reprojeto 
-
 ## Biografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
@@ -55,3 +52,4 @@ Desta forma, nessa etapa, será listado as sugestões de melhorias relacionadas 
 | `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
 | `2.0`   | 17/06/2024 | Adição da introdução, metodologia, objetivos e escopo, participantes e coleta e interpretação de dados         | [Daniela Alarcão](https://github.com/danialarcao) | |
 | `3.0`   | 19/06/2024 | Adição da lista de problemas encontrados e sugestões de melhorias         | [Pedro Henrique](https://github.com/PedroHhenriq) | |
+| `3.1`   | 19/06/2024 | Adição do método         | [Pedro Henrique](https://github.com/PedroHhenriq) | |
