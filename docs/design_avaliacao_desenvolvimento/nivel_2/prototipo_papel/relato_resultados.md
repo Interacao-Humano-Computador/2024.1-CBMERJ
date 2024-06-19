@@ -184,59 +184,8 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao).
 
 - **Sugestões de melhoria:**
     - Não foram sugeridas melhorias por parte do entrevistado. 
-
-## Avaliação 3 - Solicitar ficha de atendimento 
-A [Bruna Lima](https://github.com/libruna) foi a responsável por conduzir a avaliação, enquanto a [Mariana Letícia](https://github.com/Marianannn) desempenhou o papel de avaliadora observadora. Durante o processo, seguimos o roteiro de avaliação detalhado no planejamento, que consistiu em:
-
-1. Apresentar os termos de consentimento e explicar como os dados coletados serão utilizados;
-2. Breve explicação dos objetivos da entrevista para contextualização do participante;
-3. Simulação da funcionalidade a ser availiada com o protótipo em papel;
-4. Avaliação explorando as perguntas definidas previamente.
-
-<center>
-
-[Link para o vídeo da apresentação]()
-
-<iframe width="1000vw" height="400vh" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p>Vídeo 3: Avaliação 3 - Funcionalidade de Solicitar ficha de atendimento</p>
-
-Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://github.com/Marianannn).
-
-</center>
-
-<br>
-
-- **Coleta de dados:** Durante a avaliação, a avaliadora observadora fez anotações. E após a simulação com protótipo de baixa fidelidade, conduzimos uma entrevista com as perguntas que estão listadas na Tabela 3.
-
-<center>
-
-| Número | Pergunta | Respostas |
-| :----: | :------: | :-------: |
-|   1    | Você conseguiu operar o sistema com tranquilidade? | Sim, porém tive uma dúvida no ícone de acessibilidade. |
-|   2    | Ao final, você conseguiu atingir o seu objetivo? | Sim. |
-|   3    | Você conseguiu entender o que acontecia de um passo para o outro? | Sim. |
-|   4    | Com o passar dos passos, você se sentiu motivado para continuar o processo? | Sim. |
-|   5    | As instruções e informações foram claras? | Sim. |
-|   6    | Em algum momento, você se sentiu confuso? | Sim. |
-|   7    | Sugestão de melhoria? |  |
-
-**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
-
-**Tabela 1** - Roteiro de perguntas da entrevista da avaliação 3.
-
-</center>
-
-- **Interpretação dos dados:** 
-     <br><br>
-    **Conclusão:** 
-
-- **Lista de problemas encontrados:** 
-
-
-- **Sugestões de melhoria:**
     
-## Entrevista 4 - Cursos [Acidentes Domiciliares]
+## Entrevista 3 - Cursos [Acidentes Domiciliares]
 
 <center>
 
@@ -244,7 +193,7 @@ Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://git
 
 <iframe width="882" height="496" src="https://www.youtube.com/embed/nbtQHGYZpdU" title="Avaliação - Protótipo de Papel / Curso - Acidentes Domiciliares" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p>Vídeo 4: Entrevista 4 - Cursos [Acidentes Domiciliares)</p>
+<p>Vídeo 3: Entrevista 3 - Cursos [Acidentes Domiciliares)</p>
 
 Fonte: [Pedro Henrique](https://github.com/PedroHhenriq).
 
@@ -252,7 +201,7 @@ Fonte: [Pedro Henrique](https://github.com/PedroHhenriq).
 
 <br>
 
-- **Coleta de dados:** Nesta etapa, para a avaliação da funcionalidade Cursos - Acidentes domiciliares, foi apresentado pelo integrante Pedro Henrique, responsável por ser o facilitador e máquina, um contexto de processo que seria realizada em um protótipo de papel ao participante Rafael que, desta maneira, realizou interações em telas de interface que simulavam o processo de inscrição e de acesso ao conteúdo de algum módulo do curso. Além disso, foi utilizado a técnica recomendada de "Loud Thinking" e, posteriormente, conduzido série de perguntas gerais pelo integrante Genilson que ficou responsável por observar e fazer anotações durante todo o processo. As perguntas realizadas, assim como suas respostas obtidas podem ser encontradas abaixo na **tabela 4**: 
+- **Coleta de dados:** Nesta etapa, para a avaliação da funcionalidade Cursos - Acidentes domiciliares, foi apresentado pelo integrante Pedro Henrique, responsável por ser o facilitador e máquina, um contexto de processo que seria realizada em um protótipo de papel ao participante Rafael que, desta maneira, realizou interações em telas de interface que simulavam o processo de inscrição e de acesso ao conteúdo de algum módulo do curso. Além disso, foi utilizado a técnica recomendada de "Loud Thinking" e, posteriormente, conduzido série de perguntas gerais pelo integrante Genilson que ficou responsável por observar e fazer anotações durante todo o processo. As perguntas realizadas, assim como suas respostas obtidas podem ser encontradas abaixo na **tabela 3**: 
 
 <center>
 
@@ -268,7 +217,7 @@ Fonte: [Pedro Henrique](https://github.com/PedroHhenriq).
 
 **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
 
-**Tabela 4** - Roteiro de perguntas da entrevista.
+**Tabela 3** - Roteiro de perguntas da entrevista.
 
 </center>
 
@@ -284,6 +233,64 @@ Fonte: [Pedro Henrique](https://github.com/PedroHhenriq).
 
 - **Sugestões de melhoria:**
     - Conforme, pode ser analisado, o entrevistado acredita que o processo esteja adequado e claro o suficiente para seu entendimento e, desta forma, não foram levantadas nenhuma sugestão de melhoria por sua parte. 
+
+## Avaliação 4 - Solicitar ficha de atendimento 
+
+A [Bruna Lima](https://github.com/libruna) foi a responsável por conduzir a avaliação, enquanto a [Mariana Letícia](https://github.com/Marianannn) desempenhou o papel de avaliadora observadora. Durante o processo, seguimos o roteiro de avaliação detalhado no planejamento, que consistiu em:
+
+1. Apresentar os termos de consentimento e explicar como os dados coletados serão utilizados;
+2. Breve explicação dos objetivos da entrevista para contextualização do participante;
+3. Simulação da funcionalidade a ser availiada com o protótipo em papel;
+4. Avaliação explorando as perguntas definidas previamente.
+
+<center>
+
+[Link para o vídeo da apresentação](https://www.youtube.com/watch?v=oX4NRj08Tw4)
+
+<iframe width="1000" height="400" src="https://www.youtube.com/embed/oX4NRj08Tw4?si=OQrZnW8Ki5sYFZXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 4: Avaliação 4 - Funcionalidade de Solicitar ficha de atendimento</p>
+
+Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://github.com/Marianannn).
+
+</center>
+
+<br>
+
+- **Coleta de dados:** Durante a avaliação, a avaliadora observadora fez anotações. E após a simulação com protótipo de baixa fidelidade, conduzimos uma entrevista com as perguntas que estão listadas na Tabela 4.
+
+<center>
+
+| Número | Pergunta | Respostas |
+| :----: | :------: | :-------: |
+|   1    | Você conseguiu operar o sistema com tranquilidade? | Sim, porém tive uma dúvida no ícone de acessibilidade. |
+|   2    | Ao final, você conseguiu atingir o seu objetivo? | Sim. |
+|   3    | Você conseguiu entender o que acontecia de um passo para o outro? | Sim, ficou bem vísivel e fácil de se orientar. |
+|   4    | Com o passar dos passos, você se sentiu motivado para continuar o processo? | Sim. |
+|   5    | As instruções e informações foram claras? | Sim, foram claras, ao "clicar" fui direcionado para a opção que desejava e não houve nenhuma impedimento. |
+|   6    | Em algum momento, você se sentiu confuso? | Sim, no momento de selecionar o tipo de requerimento. Fiquei confuso com as opções de "Vistoria a pedido" e "Vistoria - recurso". |
+|   7    | Sugestão de melhoria? | Acho que não ter tantas abas para serem abertas e no lugar disso, utilizar pop-up. |
+
+**Fonte** - Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 11, p. 266] e [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) ..
+
+**Tabela 4** - Roteiro de perguntas da entrevista da avaliação 4.
+
+</center>
+
+- **Interpretação dos dados:** 
+    - Durante a avaliação, o participante utilizou a técnica do think aloud, o que facilitou a compreensão de que ele entendeu os passos necessários para executar a funcionalidade;
+    - O participante não teve dificuldades em concluir a tarefa;
+    - O participante destacou pontos que poderiam ser melhorados, esse feedback é importante para identificar as oportunidade no protótipo.
+     <br><br>
+    **Conclusão:** 
+
+- **Lista de problemas encontrados:** 
+    - Grande quantidade de novas abas abertas;
+    - Confusão ao tentar compreender os textos; opções com descrições parecidas.
+
+- **Sugestões de melhoria:** 
+    - Diminuir a quantidade de abas abertas durante o processo;
+    - Melhorar a descrição dos textos apresentados.
 
 ### Entrevista 5 - Obter declaração do registro de ocorrência
 <center>
@@ -344,7 +351,6 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
     - A sugestão de melhoria do entrevistado é pertinente e algo que realmente será mudado na implementação dela. A sugestão em questão é a não necessidade de cadastrar dados pessoais dentro da funcionalidade em si, deixando apenas isso a ser cadastrado no cadastro da conta, e deixando essa funcionalidade uma a qual os usuários podem ter acesso ao fazerem o login na conta.
 
 
-
 ## Conclusão
 
 Conforme o que foi observado nas entrevistas, há elementos a serem reconsiderados em cada uma delas, visando uma melhor qualidade de uso sobre as funcionalidades e o bom proveitamento por parte delas pelo o usuário.
@@ -361,7 +367,8 @@ Alguns dos elementos são melhorias relacionados a reestruturação das funciona
 
 | Versão  | Data       | Descrição                 | Autor(es)                   | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | --------------------------- | ---------------------------------------------- |
-| `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)|
+| `1.0`   | 13/06/2024 | Criação da página | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)|
 | `2.0`   | 18/06/2024 | Adição da entrevista 1         | [Genilson Silva](https://github.com/GenilsonJrs) | |
 | `3.0`   | 19/06/2024 | Adição da entrevista 2         | [Daniela Alarcão](https://github.com/danialarcao) | |
-| `4.0`   | 19/06/2024 | Adição da entrevista 4         | [Pedro Henrique](https://github.com/PedroHhenriq) | |
+| `4.0`   | 19/06/2024 | Adição da entrevista 3         | [Pedro Henrique](https://github.com/PedroHhenriq) | |
+| `5.0`   | 19/06/2024 | Adição da entrevista 4         | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)|
