@@ -285,6 +285,66 @@ Fonte: [Pedro Henrique](https://github.com/PedroHhenriq).
 - **Sugestões de melhoria:**
     - Conforme, pode ser analisado, o entrevistado acredita que o processo esteja adequado e claro o suficiente para seu entendimento e, desta forma, não foram levantadas nenhuma sugestão de melhoria por sua parte. 
 
+### Entrevista 5 - Obter declaração do registro de ocorrência
+<center>
+
+<iframe width="1000vw" height="400vh" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Vídeo 5: Avaliação 5 - Funcionalidade Obter declaração do reistro de Ocorrência</p>
+
+Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://github.com/Marianannn).
+
+</center>
+
+- **Perfil do usuário:** antes de realizarmos a estrevista para o protótipo de papel, procuramos perguntar a(ao) (COLOQUE O NOME DA PESSOA AQUI) se ela tem as seguintes características presentes no [perfil do usuário](../../../analise_requisitos_1/perfil_usuario.md), e concluímos que essa pessoa selecionada possui em maioria os atributos que a fazem estar dentro do perfil do usuário:
+
+    - idade entre 18 e 24 anos
+    - morar no centro oeste ou sudeste
+    - possuir familiaridade com a tecnologia
+    - escolaridade: ensino médio
+    - gênero predominantemente feminino
+
+- **Coleta de dados:** foram adicionadas perguntas gerais sobre o entrevistado e sobre o protótipo de papel daquela funcionalidade em específico.<br><br>
+As perguntas e respostas representando a coleta de dados da entrevista 1 estão explícitas abaixo na **tabela 5**:
+
+<center>
+
+| Número |                                                              Pergunta                                                               |     Respostas     |
+| :----: | :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------: |
+|   1   |  Qual o seu nome?                                                           |   João Victor de Araújo Messias      |
+|   2   |  Qual a sua idade?                                            |   21     |
+|   3   |  Possui facilidade com a tecnologia?|   sim       |
+|   4   |  você conseguiu operar o sistema com tranquilidade? |    sim    |
+|   5   |  ao final, você conseguiu atingir o seu objetivo? |   sim    |
+|   6   |  você conseguiu entender o que acontecia de um passo para o outro?          |   sim   |
+|   7   |  com o passar dos passos, você se sentiu motivado para continuar o processo?   |  sim |
+|   8   |  as instruções e informações foram claras? Explique sua resposta                                   |  sim, foram claras  |
+|   9   |  em algum momento, você se sentiu confuso? Explique sua resposta                                                                |   só tive dúvida sobre o cmbrj  |
+|  10   |  sugestão de melhoria? Explique sua resposta                                                           |   login e cadastro único para não precisar inserir todas as informaçoes mais de uma vez    |
+
+**Fonte** - Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 11, p. 266] e [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) .
+
+**Tabela 5** - Roteiro de perguntas da entrevista.
+
+</center>
+
+<br>
+
+- **Interpretação dos dados:** 
+    - O participante conseguiu compreender os passos de como executar a funcionalidade com maestria. 
+    - O participante em alguns momentos se encontrou confuso dado a complexidade de executar a funcionalidade de obter declaração do registro de ocorrência.
+    - O participante conseguiu criticar o sistema de forma clara, conseuindo fornecer aos avaliadores feedbacks interessantes e práticos a serem aplicados.
+    <br><br>
+    - **Conclusão:** O participante executou o protótipo de papel e a entrevista tendo clareza nas suas ações e respostas além de conseuir demonstrar falhas e possíveis melhorias a serem aplicaddas na funcionalidade. <br>
+
+- **Lista de problemas encontrados:** 
+    - Durante a eecução do método de avaliação por protótipo de papel, não foram encontrados problemas na funcionalidade e na maneira como foi posta. Apenas sugestões de melhorias.
+
+- **Sugestões de melhoria:**
+    - A sugestão de melhoria do entrevistado é pertinente e algo que realmente será mudado na implementação dela. A sugestão em questão é a não necessidade de cadastrar dados pessoais dentro da funcionalidade em si, deixando apenas isso a ser cadastrado no cadastro da conta, e deixando essa funcionalidade uma a qual os usuários podem ter acesso ao fazerem o login na conta.
+
+
+
 ## Conclusão
 
 ## Bibliografia
