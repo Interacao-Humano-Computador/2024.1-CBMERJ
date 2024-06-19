@@ -21,8 +21,19 @@ Os objetivos são importante para nortear o planejamento do projeto. Sendo assim
 **Justificativa de escolha dos objetivos:** Esses objetivos foram escolhidos com o intuito de analisar se nossa proposta está adequada com o [perfil do usuário](../../analise_requisitos_1/perfil_usuario.md) e o [guia de estilo](../../analise_requisitos_2/guia_estilo.md). Em relação à apropriação da tecnologia, este perfil de usuário sugere que o usuário alvo tem facilidade com a tecnologia, logo é preciso desenvolver um sistema de acordo com este requisito. Sobre a conformidade com o padrão, é essencial que sigamos corretamento o guia de estilo, a fim de não distoar com o padrão que já existe no site [CBMERJ](https://www.cbmerj.rj.gov.br/). Por fim, sobre os problemas interativos na interface, é essencial que nessa etapa identifiquemos todos os possíveis problemas interativos, antes que seja executado o o produto final.
 
 ### E - Explorar Perguntas
+Diante do objetivo principal da avaliação de coleta de informações relevantes através de um usuário em potencial, foram selecionadas e preparadas perguntas visando, para checagem e melhoria geral da funcionalidade, a verificação de conformidade da interface e o modo como é operada, e o comportamento do usuário, assim como suas sugestões, para comparação de ideias de design. Foram preparadas perguntas para a entrevista, de acordo com o _Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)_<a id="anchor_1" href="#REF1"></a>. São elas:
+
+- Você conseguiu operar o sistema com tranquilidade e sem erros?
+- Houve algum momento em que você se sentiu perdido ou confuso?
+- O sistema permitiu que você completasse sua tarefa de forma eficiente?
+- Você atingiu seu objetivo? A funcionalidade apresenta de forma clara o objetivo esperado?
+- O design do protótipo manteve seu interesse durante a interação? Ele é agradável e apropriado para a tarefa?
+- Qual foi sua impressão sobre o protótipo? O que você mudaria ou melhoraria?
+- Você recomendaria o uso deste sistema a outras pessoas? Por quê?
 
 ### C - Escolher método de avaliação
+O método escolhido, visando a utilização do prótótipo de alta fidelidade pelo entrevistado, é o teste de usabilidade juntamente com a entrevista, sendo nesta ordem, avaliar e testar a usabilidade do produto a partir da observação de uso e posteriormente a realização de perguntas especificas que irão determinar a eficiência prestabilidade atual da funcionalidade, como definido na literatura de Barbosa e Silva.
+O motivo da escolha é dado pela possibilidade de obtenção de muitas informações, durante e pós utilização, com devidas observações e em seguida, perguntas direcionadas. A entrevista será gravada e devidamente documentada, seguindo um padrão de tratagem de dados.
 
 ### I - Identificar quesitos práticos da avaliação
 
@@ -113,6 +124,11 @@ De acordo com os princípios éticos e de integridade, o termo de consentimento 
 <p style="text-align: center">Figura 1 - Termo de Consentimento (Fonte: Daniela Alarcão, 2024).</p>
 
 ### E - Avaliar, interpretar e apresentar dados
+Após a conclusão da avaliação, os dados coletados serão documentados e analisados, levando em consideração o contexto em que foram obtidos. Será verificado se esses dados possuem um alto grau de confiabilidade e se podem ser generalizados para representar a base de usuários do site.
+
+Durante o processo, será essencial registrar os problemas encontrados e as dificuldades enfrentadas durante a interação, que podem incluir questões de usabilidade, falta de funcionalidades, bem como decorrentes problemas de desempenho. As descrições detalhadas dos problemas serão registradas, juntamente com suas classificações, sugestões de melhorias e o feedback dos usuários. Além disso, observações gerais sobre a entrevista serão documentadas.
+
+Após essa etapa, os dados processados serão apresentados à equipe de desenvolvimento, com o objetivo de extrair o máximo de informações relevantes para o aprimoramento do projeto. Isso garantirá que todas as descobertas sejam utilizadas para melhorar o sistema e atender melhor às necessidades dos usuários.
 
 ## Bibliografia
 > - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
