@@ -84,6 +84,58 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 
   -->
 
+## Entrevista 1 - Checar e Gerar Certificado
+
+<center>
+
+[Link para o vídeo da apresentação](https://youtu.be/9j8Gt3qfdp4)
+
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/9j8Gt3qfdp4?si=rtYRWDjuBHTXDrcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Vídeo 1: Entrevista 1 - funcionalidade checar e gerar certificado</p>
+
+Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
+
+</center>
+
+<br>
+
+- **Coleta de dados:** Para a entrevista, foram preparadas uma série de perguntas gerais visando respostas condizentes para validação e posterior implementação correta da funcionalidade, presente na **tabela 1**, viabilizando assim uma coleta de dados bem direcionada, com perguntas discussivas para o entrevistado.
+
+<center>
+
+| Número | Pergunta | Respostas |
+| :----: | :------: | :-------: |
+|   1    | Você conseguiu operar o sistema com tranquilidade? | Sim, porém tive uma dúvida no ícone de acessibilidade. |
+|   2    | Ao final, você conseguiu atingir o seu objetivo? | Sim. |
+|   3    | Você conseguiu entender o que acontecia de um passo para o outro? | Sim, está bem detalhado. |
+|   4    | Com o passar dos passos, você se sentiu motivado para continuar o processo? | Sim, bem convencional. |
+|   5    | As instruções e informações foram claras? | Sim. |
+|   6    | Em algum momento, você se sentiu confuso? | Na segunda tela mostra muito conteúdo, poderia ser mais resumido. |
+|   7    | Sugestão de melhoria? | Mudar ícone de acessibilidade. |
+|   8    | Sugestões/Melhorias | Adicionar filtros de certificado por ano. |
+|   9    | A sequência é coerente e funcional? | Sim. |
+
+**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+**Tabela 1** - Roteiro de perguntas da entrevista.
+
+</center>
+
+- **Interpretação dos dados:** 
+    - O participante se mostrou interessado e participativo, entendendo todos os processos e oferecendo respostas e feedbacks condizentes com a funcionalidade, como melhorias e alterações a serem feitas;
+    - Foram encontrados poucos problemas na funcionalidade, sendo eles um ícone da tela inicial já presente no site do CBMRJ que causou confusão no entrevistado e a quantidade de informações na segunda tela, também provenientes do CBMRJ. 
+    - Foi sugerido que vídeos seriam uma forma mais adequada para aprender e o ideal de tempo para conclusão desse curso seria entre 3 semanas;  
+    - Por fim, a sequência de passos seguidos e a conclusão da tarefa proposta ao entrevistado foi concluida. <br><br>
+    **Conclusão:** Portando, é possível concluir que, apesar de uns ajustes iniciais na questão visual e quantidade de informações, a tarefa é dada de forma convencional, tendo sido de fácil entendimento e rápida realização, sem maiores problemas.
+
+- **Lista de problemas encontrados:** 
+    - O fluxo da entrevista foi conduzido de forma que não apresentasse muitos problemas em relação ao entedimento do entrevistado. 
+    - Os problemas encontrados dizem respeito a elementos presentes no site, no processo para alcance da funcionalidade, mas que se encontram em seu caminho.
+
+- **Sugestões de melhoria:**
+    - Foi sugerido a alteração de local ou do ícone de acessibilidade, pois causou estranhamento e confusão ao usuário e diminuir o excesso de informações em uma só página, buscando dividir em outros subtópicos ou outros setores.
+
 ## Conclusão
 
 ## Bibliografia
@@ -96,4 +148,5 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 
 | Versão  | Data       | Descrição                 | Autor(es)                   | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | --------------------------- | ---------------------------------------------- |
-| `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
+| `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)|
+| `2.0`   | 18/06/2024 | Adição da entrevista 1         | [Genilson Silva](https://github.com/GenilsonJrs) | |
