@@ -389,3 +389,4 @@ Alguns dos elementos são melhorias relacionados a reestruturação das funciona
 | `3.0`   | 19/06/2024 | Adição da entrevista 2         | [Daniela Alarcão](https://github.com/danialarcao) | |
 | `4.0`   | 19/06/2024 | Adição da entrevista 3         | [Pedro Henrique](https://github.com/PedroHhenriq) | |
 | `5.0`   | 19/06/2024 | Adição da entrevista 4         | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)|
+| `6.0`   | 19/06/2024 | Adição da entrevista 5         | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)|
