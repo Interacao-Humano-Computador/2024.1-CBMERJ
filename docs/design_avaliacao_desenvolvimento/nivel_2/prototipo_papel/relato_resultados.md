@@ -1,5 +1,5 @@
 ## Introdução
-
+O relato dos resultados e sua devida interpretação se trata de conceber os dados técnicamente e e endendê-los de modo a acrescentar soluções e opniões vindas do usuário nos protótipos e nas funcionalidades
 ## Metodologia
 [](../../../analise_requisitos_1/perfil_usuario.md)
 
