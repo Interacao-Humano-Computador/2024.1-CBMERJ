@@ -1,14 +1,31 @@
 ## Introdução
-O relato dos resultados e sua devida interpretação se trata de conceber os dados técnicamente e e endendê-los de modo a acrescentar soluções e opniões vindas do usuário nos protótipos e nas funcionalidades
+O relato dos resultados e sua devida interpretação se trata de conceber os dados técnicamente e e endendê-los de modo a acrescentar soluções e opiniões vindas do usuário nos protótipos e nas funcionalidades
 ## Metodologia
-[](../../../analise_requisitos_1/perfil_usuario.md)
+A metodologia terá como base o [planejamento do relato dos resultados do protótipo de papel](./planejamento_relato_resultados_prototipo_papel.md), levando em conta abordar os objetivos, seleção dos participantes e a metodologia de avaliação da prototipação de papel e entrevistas.
+O método escolhido foi o de avaliação por prototipação em papel e por entrevistas, sendo essa escolha justificada por abranjer os possíveis defeitos e levantar-los, impedindo que perdurem nas próximas etapas do projeto.
+Por uma questão de praticidade, foi possível realizar a avaliação por prototipação em papel mais a entrevista abordando duas funcionalidades para cada um dos entrevistados. 
+
+### Objetivos e Escopo
+Os objetivos são identificar problemas de usabilidade e melhorar as funcionalidades.
+
+O escopo inclui todas as interações relacionadas a essas funcionalidades, como navegação, acesso e obtenção de informações.
+
+### Seleção de participantes
+A seleção dos participantes teve como base o [perfil do usuário](../../../analise_requisitos_1/perfil_usuario.md). No geral, e de preferência, eles precisam atender aos seguintes requisitos por ordem de prioridade descentente:
+
+- idade entre 18 e 24 anos
+- morar no centro oeste ou sudeste
+- possuir familiaridade com a tecnologia
+- escolaridade: ensino médio
+- gênero predominantemente feminino
+
 
 ## Entrevistas
 
 
 --------------------------------------------------------------------------------------------------------------
 
-SEGUE ABAIXO O TEMPLATE DE RELATO DE RESULTADO DO PROTÓTIPO DE PAPEL
+
 
 <!-- ### Entrevista (adicionar o numero aqui) - Colocar o nome da entrevista
 <center>
