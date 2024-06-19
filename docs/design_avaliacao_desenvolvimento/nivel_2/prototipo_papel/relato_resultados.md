@@ -10,8 +10,7 @@
 
 SEGUE ABAIXO O TEMPLATE DE RELATO DE RESULTADO DO PROTÓTIPO DE PAPEL
 
-### Entrevista (adicionar o numero aqui) - Colocar o nome da entrevista
-<!-- 
+<!-- ### Entrevista (adicionar o numero aqui) - Colocar o nome da entrevista
 <center>
 
 [Link para o vídeo](Adicionar o link do vídeo no youtube)
@@ -136,6 +135,57 @@ Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
 - **Sugestões de melhoria:**
     - Foi sugerido a alteração de local ou do ícone de acessibilidade, pois causou estranhamento e confusão ao usuário e diminuir o excesso de informações em uma só página, buscando dividir em outros subtópicos ou outros setores.
 
+
+## Entrevista 2 - Agendar atendimento presencial 
+
+<center>
+
+[Link para o vídeo da apresentação](https://youtu.be/2tnUI7h3R_I?si=rHsUw_N14NqBoP-j)
+
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/2tnUI7h3R_I?si=ic1-jqoZILQ3SpNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 2: Entrevista 2 - funcionalidade de agendar atendimento presencial</p>
+
+Fonte: [Daniela Alarcão](https://github.com/danialarcao).
+
+</center>
+
+<br>
+
+- **Coleta de dados:** Para a coleta de dados, uma entrevista foi realizada com o participante Cainã Freitas, estudante de engenharia de software. Durante a entrevista foi realizada uma série de perguntas de modo a direcionar o diálogo para que dados relevantes pudessem ser coletados. As perguntas e suas respectivas respostas estão presentes na **tabela 2** abaixo. 
+
+<center>
+
+| Número | Pergunta | Respostas |
+| :----: | :------: | :-------: |
+|   1    | Você conseguiu operar o sistema com tranquilidade? | Sim, tranquilamente. |
+|   2    | Ao final, você conseguiu atingir o seu objetivo? | Sim. |
+|   3    | Você conseguiu entender o que acontecia de um passo para o outro? | Sim. |
+|   4    | Com o passar dos passos, você se sentiu motivado para continuar o processo? | Sim. |
+|   5    | As instruções e informações foram claras? | Sim. |
+|   6    | Em algum momento, você se sentiu confuso? | Não. |
+|   7    | Sugestão de melhoria? | Não, nenhuma. |
+
+**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+**Tabela 2** - Roteiro de perguntas da entrevista.
+
+</center>
+
+- **Interpretação dos dados:** 
+    - Ao utilizar a técnica de "Think Aloud" de forma espontânea, o entrevistado transmite a sensação de estar confiante e confortável com o processo, expressando uma transparência cognitiva. 
+    - O protótipo de papel foi satisfatório para o entrevistado.
+    - O participante não se mostrou surpreso com os passos do protótipo de papel. 
+    - O participante não apresentou sugestões ou melhorias. As razões que possam ter motivado essa atitude podem ser tanto positivas quanto negativas. Ou o participante ficou bastante satisfeito com o protótipo, tendo suas expectativas bem atendidas ou o participante não estava engajado o suficiente, tendo uma relutância ao dar feedback. <br><br>
+    **Conclusão:** A entrevista fluiu bem, atendendo às necessidades da resposável pelo protótipo (Daniela Alarcão). <br><br>
+
+- **Lista de problemas encontrados:** 
+    - Por apresentar colagens de papéis, as folhas estavam um pouco amassadas. Este detalhe pode ter dificultado o manuseio do protótipo. Ter passado ou prensado as folhas antes da entrevista teria sido uma boa ideia. 
+
+- **Sugestões de melhoria:**
+    - Não foram sugeridas melhorias por parte do entrevistado. 
+
+
 ## Conclusão
 
 ## Bibliografia
@@ -150,3 +200,4 @@ Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
 | ------- | :--------: | ------------------------- | --------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)|
 | `2.0`   | 18/06/2024 | Adição da entrevista 1         | [Genilson Silva](https://github.com/GenilsonJrs) | |
+| `3.0`   | 19/06/2024 | Adição da entrevista 2         | [Daniela Alarcão](https://github.com/danialarcao) | |
