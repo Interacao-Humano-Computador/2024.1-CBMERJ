@@ -299,7 +299,7 @@ Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://git
     - O participante não teve dificuldades em concluir a tarefa;
     - O participante destacou pontos que poderiam ser melhorados, esse feedback é importante para identificar as oportunidade no protótipo.
      <br><br>
-    **Conclusão:** 
+    **Conclusão:** A avaliação mostrou que o protótipo não apresenta problemas significativos, mas ainda há áreas que podem ser melhoradas.
 
 - **Lista de problemas encontrados:** 
     - Grande quantidade de novas abas abertas;
