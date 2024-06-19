@@ -347,6 +347,10 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 
 ## Conclusão
 
+Conforme o que foi observado nas entrevistas, há elementos a serem reconsiderados em cada uma delas, visando uma melhor qualidade de uso sobre as funcionalidades e o bom proveitamento por parte delas pelo o usuário.
+
+Alguns dos elementos são melhorias relacionados a reestruturação das funcionalidades, enquanto outros estão relacionados a disposição da interface.
+
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 17 de maio de 2024.
 
