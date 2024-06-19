@@ -53,5 +53,5 @@ Desta forma, nessa etapa, será listado as sugestões de melhorias relacionadas 
 | Versão  | Data       | Descrição                 | Autor(es)                   | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | --------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
-| `2.0`   | 17/06/2024 | Adição da introdução, metodologia, objetivos e escopo, participantes e coleta e interpretação de dados         | [Daniela Alarcão](https://github.com/danialarcao) | |
+| `2.0`   | 17/06/2024 | Adição da introdução, metodologia, objetivos e escopo, participantes e coleta e interpretação de dados         | [Daniela Alarcão](https://github.com/danialarcao) | [Bruna Lima](https://github.com/libruna) |
 | `3.0`   | 19/06/2024 | Adição da lista de problemas encontrados e sugestões de melhorias         | [Pedro Henrique](https://github.com/PedroHhenriq) | |
