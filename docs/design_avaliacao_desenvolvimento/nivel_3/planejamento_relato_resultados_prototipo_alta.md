@@ -26,8 +26,18 @@
 <p style="text-align: justify;">No relato dos resultados do protótipo de alta fidelidade, deverão ser descritos com fidelidade quais foram os dados coletados em cada etapa de cada avaliação. Posteriormente, deverão ser apresentadas as interpretações dos dados coletados por parte da cada integrante da equipe. Nesta fase de interpretação, serão contextualizados os resultados das avaliações, informando se eles atendem ou não às expectativas e propósitos estabelecidos inicialmente. </p>
 
 ### Lista de problemas encontrados
+É fundamental por meio da avaliação do protótipo de alta fidelidade, levantarmos e identificarmos problemas e gargalos que encontramos, uma vez que por meio dessa etapa podemos revelar aspectos que não conseguírimos em uma análise única e é apartir deles que podemos sugerir correções e aprimorar nosso sistema. Assim, após a coleta de dados, cada avaliador deve identificar e filtrar os problemas de sua funcionalidade. ALém disso, segundo Kuniavsky (2003) no livro Interação Humano-Computador, é recomendado aos avaliadores que seja descrito a categoria do problema, onde o problema ocorreu e os impactos imediatos que ocorrerem na usabilidade. 
+
+Desta maneira, utilizando a recomendação de Kuniavsky, nessa etapa, no relato estarão os problemas que forem identificados na avaliações em cada protótipo contendo os seguintes tópicos abaixo:
+- local onde ocorreu aquele erro;
+- descrição e justiﬁcativa;
+- discussão, que indique os fatores de usabilidade que foram prejudicados;
+- sugestões de solução.
 
 ### Sugestões de melhorias 
+Por meio da avaliação, o participante pode sugerir melhorias que acredita estar alinhada ao projeto. Além disso, por meio  dos problemas levantados e das soluções propostas, pode-se identificar também sugestões de melhorias, seja na interface ou na interação. Assim, aqueles que foram responsáveis por fazer anotações, devem listar todas as sugestões que forem elucidadas pelo participante e, posteriormente, o avaliador responsável por aquela tarefa deve filtrar as sugestões que achar adequado ao seu sistema e identificar novas sugestões após uma análise posterior baseadas na avaliação, nos dados coletados e nos problemas encontrados. 
+
+Desta forma, nessa etapa, será listado as sugestões de melhorias relacionadas a cada protótipo de alta fidelidade que foi conduzido. 
 
 ### Reprojeto 
 
@@ -44,3 +54,4 @@
 | ------- | :--------: | ------------------------- | --------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
 | `2.0`   | 17/06/2024 | Adição da introdução, metodologia, objetivos e escopo, participantes e coleta e interpretação de dados         | [Daniela Alarcão](https://github.com/danialarcao) | |
+| `3.0`   | 19/06/2024 | Adição da lista de problemas encontrados e sugestões de melhorias         | [Pedro Henrique](https://github.com/PedroHhenriq) | |
