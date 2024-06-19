@@ -282,7 +282,7 @@ Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://git
     - O participante não teve dificuldades em concluir a tarefa;
     - O participante destacou pontos que poderiam ser melhorados, esse feedback é importante para identificar as oportunidade no protótipo.
      <br><br>
-    **Conclusão:** 
+    **Conclusão:** A avaliação mostrou que o protótipo não apresenta problemas significativos, mas ainda há áreas que podem ser melhoradas.
 
 - **Lista de problemas encontrados:** 
     - Grande quantidade de novas abas abertas;
@@ -371,4 +371,4 @@ Alguns dos elementos são melhorias relacionados a reestruturação das funciona
 | `2.0`   | 18/06/2024 | Adição da entrevista 1         | [Genilson Silva](https://github.com/GenilsonJrs) | |
 | `3.0`   | 19/06/2024 | Adição da entrevista 2         | [Daniela Alarcão](https://github.com/danialarcao) | |
 | `4.0`   | 19/06/2024 | Adição da entrevista 3         | [Pedro Henrique](https://github.com/PedroHhenriq) | |
-| `5.0`   | 19/06/2024 | Adição da entrevista 4         | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)|
+| `5.0`   | 19/06/2024 | Adição da entrevista 4         | [Bruna Lima](https://github.com/libruna) | |
