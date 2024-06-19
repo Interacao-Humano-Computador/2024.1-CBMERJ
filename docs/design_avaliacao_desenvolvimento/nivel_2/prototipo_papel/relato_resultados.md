@@ -1,8 +1,8 @@
 ## Introdução
-O relato dos resultados e sua devida interpretação se trata de conceber os dados técnicamente e e endendê-los de modo a acrescentar soluções e opiniões vindas do usuário nos protótipos e nas funcionalidades
+O relato dos resultados e sua devida interpretação se trata de conceber os dados técnicamente e endendê-los de modo a acrescentar soluções e opiniões vindas do usuário nos protótipos e nas funcionalidades
 ## Metodologia
-A metodologia terá como base o [planejamento do relato dos resultados do protótipo de papel](./planejamento_relato_resultados_prototipo_papel.md), levando em conta abordar os objetivos, seleção dos participantes e a metodologia de avaliação da prototipação de papel e entrevistas.
-O método escolhido foi o de avaliação por prototipação em papel e por entrevistas, sendo essa escolha justificada por abranjer os possíveis defeitos e levantar-los, impedindo que perdurem nas próximas etapas do projeto.
+A metodologia terá como base o [planejamento do relato dos resultados do protótipo de papel](./planejamento_relato_resultados_prototipo_papel.md), levando em conta abordar os objetivos, seleção dos participantes e a metodologia de avaliação foi teste de usabilidade por prototipação de papel e entrevistas.
+O método escolhido foi o de avaliação por teste de usabilidade em prototipação em papel e por entrevistas, sendo essa escolha justificada por levantar os possíveis defeitos, impedindo que perdurem nas próximas etapas do projeto.
 Por uma questão de praticidade, foi possível realizar a avaliação por prototipação em papel mais a entrevista abordando duas funcionalidades para cada um dos entrevistados. 
 
 ### Objetivos e Escopo
@@ -219,7 +219,7 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao).
 - **Sugestões de melhoria:**
     - Não foram sugeridas melhorias por parte do entrevistado. 
     
-## Entrevista 3 - Cursos [Acidentes Domiciliares]
+## Avaliação 3 - Cursos [Acidentes Domiciliares]
 
 <center>
 
@@ -326,7 +326,7 @@ Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://git
     - Diminuir a quantidade de abas abertas durante o processo;
     - Melhorar a descrição dos textos apresentados.
 
-### Entrevista 5 - Obter declaração do registro de ocorrência
+### Avaliação 5 - Obter declaração do registro de ocorrência
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oX4NRj08Tw4?si=BIasjqBgEyaurU3b&amp;start=590" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -337,31 +337,21 @@ Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://git
 
 </center>
 
-- **Perfil do usuário:** antes de realizarmos a estrevista para o protótipo de papel, procuramos perguntar a(ao) (COLOQUE O NOME DA PESSOA AQUI) se ela tem as seguintes características presentes no [perfil do usuário](../../../analise_requisitos_1/perfil_usuario.md), e concluímos que essa pessoa selecionada possui em maioria os atributos que a fazem estar dentro do perfil do usuário:
 
-    - idade entre 18 e 24 anos
-    - morar no centro oeste ou sudeste
-    - possuir familiaridade com a tecnologia
-    - escolaridade: ensino médio
-    - gênero predominantemente feminino
-
-- **Coleta de dados:** foram adicionadas perguntas gerais sobre o entrevistado e sobre o protótipo de papel daquela funcionalidade em específico.<br><br>
+- **Coleta de dados:** foram adicionadas perguntas gerais sobre o entrevistado e sobre o protótipo de papel daquela funcionalidade em específico. A pessoa escolhida foi o João Victor, um estudante de engenharia Aeroespacial de 21 anos, o qual possui experiência com a tecnologia.<br><br>
 As perguntas e respostas representando a coleta de dados da entrevista 1 estão explícitas abaixo na **tabela 6**:
 
 <center>
 
 | Número |                                                              Pergunta                                                               |     Respostas     |
 | :----: | :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------: |
-|   1   |  Qual o seu nome?                                                           |   João Victor de Araújo Messias      |
-|   2   |  Qual a sua idade?                                            |   21     |
-|   3   |  Possui facilidade com a tecnologia?|   sim       |
-|   4   |  você conseguiu operar o sistema com tranquilidade? |    sim    |
-|   5   |  ao final, você conseguiu atingir o seu objetivo? |   sim    |
-|   6   |  você conseguiu entender o que acontecia de um passo para o outro?          |   sim   |
-|   7   |  com o passar dos passos, você se sentiu motivado para continuar o processo?   |  sim |
-|   8   |  as instruções e informações foram claras? Explique sua resposta                                   |  sim, foram claras  |
-|   9   |  em algum momento, você se sentiu confuso? Explique sua resposta                                                                |   só tive dúvida sobre o cmbrj  |
-|  10   |  sugestão de melhoria? Explique sua resposta                                                           |   login e cadastro único para não precisar inserir todas as informaçoes mais de uma vez    |
+|   1   |  você conseguiu operar o sistema com tranquilidade? |    sim    |
+|   2   |  ao final, você conseguiu atingir o seu objetivo? |   sim    |
+|   3   |  você conseguiu entender o que acontecia de um passo para o outro?          |   sim   |
+|   4   |  com o passar dos passos, você se sentiu motivado para continuar o processo?   |  sim |
+|   5   |  as instruções e informações foram claras? Explique sua resposta                                   |  sim, foram claras  |
+|   6   |  em algum momento, você se sentiu confuso? Explique sua resposta                                                                |   só tive dúvida sobre o cmbrj  |
+|  7   |  sugestão de melhoria? Explique sua resposta                                                           |   login e cadastro único para não precisar inserir todas as informaçoes mais de uma vez    |
 
 **Fonte** - Dinis, S., & Santana, B. (2021). Interação Humano-Computador (1ª ed.). [Capítulo 11, p. 266] e [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) .
 
