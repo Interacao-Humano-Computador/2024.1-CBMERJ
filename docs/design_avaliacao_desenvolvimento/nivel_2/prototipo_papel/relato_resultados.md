@@ -1,3 +1,19 @@
+## Sumário
+- [Introdução](#introdução)
+- [Metodologia](#metodologia)
+    - [objetivos](#objetivos-e-escopo)
+    - [participantes](#participantes)
+- [Cronograma Executado](#cronograma-executado-de-entrevistas)
+- [Avaliações](#entrevistas)
+    - [avaliação 1 - checar e gerar certificado - Genilson Silva](#avaliação-1---checar-e-gerar-certificado)
+    - [avaliação 2 - agendar atendimento presencial - Daniela Alarcão](#avaliação-2---agendar-atendimento-presencial)
+    - [avaliação 3 - cursos-acidentes-domiciliares - Pedro Henrique](#avaliação-3---cursos-acidentes-domiciliares)
+    - [avaliação 4 - solicitar ficha de atendimento - Bruna Lima](#avaliação-4---solicitar-ficha-de-atendimento)
+    - [avaliação 5 - obter declaração do registro de ocorrência - Mariana Letícia](#avaliação-5---obter-declaração-do-registro-de-ocorrência)
+- [Conclusão](#conclusão)
+- [Bibliografia](#bibliografia)
+- [Referência Bibliográfica](#referências-bibliográficas)
+
 ## Introdução
 O relato dos resultados e sua devida interpretação se trata de conceber os dados técnicamente e endendê-los de modo a acrescentar soluções e opiniões vindas do usuário nos protótipos e nas funcionalidades
 ## Metodologia
@@ -28,7 +44,7 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 |    Entrevistador(es)   | Entrevistado(s)   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
 | :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
 | [Mariana Letícia](https://github.com/Marianannn) e [Bruna Lima](https://github.com/libruna) | João Victor | 14:00 | 14:20 | 19/06/2024 | Solicitar declaração de registro de ocorrência e Solicitação de Ficha de Atendimento  | FGA |
-| [Daniela Alarcão](https://github.com/danialarcao) e [Lucas Avelar](https://github.com/LucasAvelar2711) | - | 10:00 | 10:20 | 18/06/2024 | Agendamento de atendimento presencial e CB Cursos 1 | FGA |
+| [Daniela Alarcão](https://github.com/danialarcao) e [Lucas Avelar](https://github.com/LucasAvelar2711) | Cainã Freitas | 10:00 | 10:20 | 18/06/2024 | Agendamento de atendimento presencial e CB Cursos 1 | FGA |
 | [Pedro Henrique](https://github.com/PedroHhenriq) e [Genilson](https://github.com/GenilsonJrs) |     Rafael    |      10:00     |     10:20     |  18/06/2024  |   CB Cursos 2 e Checar e Gerar Certificado   | FGA |
 
 
