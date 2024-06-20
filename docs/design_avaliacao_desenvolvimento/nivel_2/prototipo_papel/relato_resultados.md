@@ -5,11 +5,11 @@
     - [participantes](#participantes)
 - [Cronograma Executado](#cronograma-executado-de-entrevistas)
 - [Avaliações](#entrevistas)
-    - [avaliação 1 - checar e gerar certificado - Genilson Silva](#avaliação-1---checar-e-gerar-certificado)
-    - [avaliação 2 - agendar atendimento presencial - Daniela Alarcão](#avaliação-2---agendar-atendimento-presencial)
-    - [avaliação 3 - cursos-acidentes-domiciliares - Pedro Henrique](#avaliação-3---cursos-acidentes-domiciliares)
-    - [avaliação 4 - solicitar ficha de atendimento - Bruna Lima](#avaliação-4---solicitar-ficha-de-atendimento)
-    - [avaliação 5 - obter declaração do registro de ocorrência - Mariana Letícia](#avaliação-5---obter-declaração-do-registro-de-ocorrência)
+    - [avaliação 1 - checar e gerar certificado - Genilson Silva](#avaliação-1-checar-e-gerar-certificado)
+    - [avaliação 2 - agendar atendimento presencial - Daniela Alarcão](#avaliação-2-agendar-atendimento-presencial)
+    - [avaliação 3 - cursos-acidentes-domiciliares - Pedro Henrique](#avaliação-3-cursos-acidentes-domiciliares)
+    - [avaliação 4 - solicitar ficha de atendimento - Bruna Lima](#avaliação-4-solicitar-ficha-de-atendimento)
+    - [avaliação 5 - obter declaração do registro de ocorrência - Mariana Letícia](#avaliação-5-obter-declaração-do-registro-de-ocorrência)
 - [Conclusão](#conclusão)
 - [Bibliografia](#bibliografia)
 - [Referência Bibliográfica](#referências-bibliográficas)
@@ -133,7 +133,7 @@ As perguntas e respostas representando a coleta de dados da entrevista 1 estão 
 
   -->
 
-## Avaliação 1 - Checar e Gerar Certificado
+## Avaliação 1: Checar e Gerar Certificado
 
 <center>
 
@@ -185,7 +185,7 @@ Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
     - Foi sugerido a alteração de local ou do ícone de acessibilidade, pois causou estranhamento e confusão ao usuário e diminuir o excesso de informações em uma só página, buscando dividir em outros subtópicos ou outros setores.
 
 
-## Avaliação 2 - Agendar atendimento presencial 
+## Avaliação 2: Agendar atendimento presencial 
 
 <center>
 
@@ -234,7 +234,7 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao).
 - **Sugestões de melhoria:**
     - Não foram sugeridas melhorias por parte do entrevistado. 
     
-## Avaliação 3 - Cursos [Acidentes Domiciliares]
+## Avaliação 3: Cursos [Acidentes Domiciliares]
 
 <center>
 
@@ -283,7 +283,7 @@ Fonte: [Pedro Henrique](https://github.com/PedroHhenriq).
 - **Sugestões de melhoria:**
     - Conforme, pode ser analisado, o entrevistado acredita que o processo esteja adequado e claro o suficiente para seu entendimento e, desta forma, não foram levantadas nenhuma sugestão de melhoria por sua parte. 
 
-## Avaliação 4 - Solicitar ficha de atendimento 
+## Avaliação 4: Solicitar ficha de atendimento 
 
 A [Bruna Lima](https://github.com/libruna) foi a responsável por conduzir a avaliação, enquanto a [Mariana Letícia](https://github.com/Marianannn) desempenhou o papel de avaliadora observadora. Durante o processo, seguimos o roteiro de avaliação detalhado no planejamento, que consistiu em:
 
@@ -341,7 +341,7 @@ Fonte: [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://git
     - Diminuir a quantidade de abas abertas durante o processo;
     - Melhorar a descrição dos textos apresentados.
 
-### Avaliação 5 - Obter declaração do registro de ocorrência
+### Avaliação 5: Obter declaração do registro de ocorrência
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oX4NRj08Tw4?si=BIasjqBgEyaurU3b&amp;start=590" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
