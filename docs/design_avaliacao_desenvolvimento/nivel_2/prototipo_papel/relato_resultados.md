@@ -56,10 +56,6 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 ## Avaliações
 
 
---------------------------------------------------------------------------------------------------------------
-
-
-
 <!-- ### Entrevista (adicionar o numero aqui) - Colocar o nome da entrevista
 <center>
 
