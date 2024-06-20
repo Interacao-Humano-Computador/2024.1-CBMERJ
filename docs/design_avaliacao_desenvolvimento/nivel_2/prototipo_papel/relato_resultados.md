@@ -146,8 +146,7 @@ Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
 |   5    | As instruções e informações foram claras? | Sim. |
 |   6    | Em algum momento, você se sentiu confuso? | Na segunda tela mostra muito conteúdo, poderia ser mais resumido. |
 |   7    | Sugestão de melhoria? | Mudar ícone de acessibilidade. |
-|   8    | Sugestões/Melhorias | Adicionar filtros de certificado por ano. |
-|   9    | A sequência é coerente e funcional? | Sim. |
+|   8    | A sequência é coerente e funcional? | Sim. |
 
 **Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
 
@@ -392,8 +391,8 @@ Alguns dos elementos são melhorias relacionados a reestruturação das funciona
 | Versão  | Data       | Descrição                 | Autor(es)                   | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | --------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)|
-| `2.0`   | 18/06/2024 | Adição da entrevista 1         | [Genilson Silva](https://github.com/GenilsonJrs) | |
-| `3.0`   | 19/06/2024 | Adição da entrevista 2         | [Daniela Alarcão](https://github.com/danialarcao) | |
-| `4.0`   | 19/06/2024 | Adição da entrevista 3         | [Pedro Henrique](https://github.com/PedroHhenriq) | |
+| `2.0`   | 18/06/2024 | Adição da entrevista 1         | [Genilson Silva](https://github.com/GenilsonJrs) | [Lucas Avelar](https://github.com/LucasAvelar2711)|
+| `3.0`   | 19/06/2024 | Adição da entrevista 2         | [Daniela Alarcão](https://github.com/danialarcao) | [Lucas Avelar](https://github.com/LucasAvelar2711)|
+| `4.0`   | 19/06/2024 | Adição da entrevista 3         | [Pedro Henrique](https://github.com/PedroHhenriq) | [Genilson Silva](https://github.com/GenilsonJrs)|
 | `5.0`   | 19/06/2024 | Adição da entrevista 4         | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)|
 | `6.0`   | 19/06/2024 | Adição da entrevista 5         | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)|
