@@ -1,15 +1,15 @@
 ## Sumário
 - [Introdução](#introdução)
 - [Metodologia](#metodologia)
-- [objetivos](#objetivos-e-escopo)
-- [participantes](#participantes)
+- [Objetivos e escopo](#objetivos-e-escopo)
+- [Participantes](#participantes)
 - [Cronograma Executado](#cronograma-executado-de-entrevistas)
-- [Avaliações](#entrevistas)
-- [avaliação 1 - checar e gerar certificado - Genilson Silva](#avaliação-1-checar-e-gerar-certificado)
-- [avaliação 2 - agendar atendimento presencial - Daniela Alarcão](#avaliação-2-agendar-atendimento-presencial)
-- [avaliação 3 - cursos-acidentes-domiciliares - Pedro Henrique](#avaliação-3-cursos-acidentes-domiciliares)
-- [avaliação 4 - solicitar ficha de atendimento - Bruna Lima](#avaliação-4-solicitar-ficha-de-atendimento)
-- [avaliação 5 - obter declaração do registro de ocorrência - Mariana Letícia](#avaliação-5-obter-declaração-do-registro-de-ocorrência)
+- [Avaliações](#avaliações)
+- [Avaliação 1: checar e gerar certificado - Genilson Silva](#avaliação-1-checar-e-gerar-certificado)
+- [Avaliação 2: agendar atendimento presencial - Daniela Alarcão](#avaliação-2-agendar-atendimento-presencial)
+- [Avaliação 3: cursos-acidentes-domiciliares - Pedro Henrique](#avaliação-3-cursos-acidentes-domiciliares)
+- [Avaliação 4: solicitar ficha de atendimento - Bruna Lima](#avaliação-4-solicitar-ficha-de-atendimento)
+- [Avaliação 5: obter declaração do registro de ocorrência - Mariana Letícia](#avaliação-5-obter-declaração-do-registro-de-ocorrência)
 - [Conclusão](#conclusão)
 - [Bibliografia](#bibliografia)
 - [Referência Bibliográfica](#referências-bibliográficas)
@@ -48,12 +48,12 @@ Segue abaixo na tabela 1, o cronograma das entrevistas feitas:
 | [Pedro Henrique](https://github.com/PedroHhenriq) e [Genilson](https://github.com/GenilsonJrs) |     Rafael    |      10:00     |     10:20     |  18/06/2024  |   CB Cursos 2 e Checar e Gerar Certificado   | FGA |
 
 
-<p style="text-align: center">Tabela 1: Cronograma executado de entrevistas</p>
+<p style="text-align: center">Tabela 1: Cronograma executado de avaliações</p>
 <p style="text-align: center">Fonte: Mariana Letícia</p>
 
 </center>
 
-## Entrevistas
+## Avaliações
 
 
 --------------------------------------------------------------------------------------------------------------
