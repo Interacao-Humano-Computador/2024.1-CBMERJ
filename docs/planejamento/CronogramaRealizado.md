@@ -99,10 +99,10 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 
 |    | Atividade                                                                | Local        | Inicio período de desenvolvimento das atividades   | Fim do período de desenvolvimento das atividades          | Responsáveis       | Inicio período de revisão   | Fim do período de revisão          | Revisores   |
 |---:|:-------------------------------------------------------------------------|:-------------|:--------------------------------------------|:--------------------|:-------------------|:---------------------|:--------------------|:------------|
-|  1 | Relato dos resultados do Protótipo de Papel | Microsoft Teams | 18/06/2024 | 19/06/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 19/06/2024   | 19/06/2024  | Lucas e Genilson      |
+|  1 | Relato dos resultados do Protótipo de Papel | Microsoft Teams | 18/06/2024 | 19/06/2024  | Bruna, Daniela, Genilson, Mariana e Pedro | 19/06/2024   | 19/06/2024  | Genilson      |
 |  2 | Planejamento da avaliação do protótipo de alta fidelidade | Microsoft Teams | 13/06/2024  | 19/06/2024  | Mariana, Genilson e Bruna | 19/06/2024   | 19/06/2024  | Pedro e Daniela    |
-|  3 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Microsoft Teams | 17/06/2024                           | 19/06/2024  | Pedro, Daniela e Lucas | 19/06/2024   | 19/06/2024  | Bruna e Mariana   |
-|  4 | Gravar apresentação | Microsoft Teams | 19/06/2024  | 19/06/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro              | 19/06/2024   | 19/06/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
+|  3 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Microsoft Teams | 17/06/2024                           | 19/06/2024  | Pedro e Daniela | 19/06/2024   | 19/06/2024  | Bruna e Mariana   |
+|  4 | Gravar apresentação | Microsoft Teams | 19/06/2024  | 19/06/2024  |  Bruna, Daniela, Genilson, Mariana e Pedro              | 19/06/2024   | 19/06/2024  |  Bruna, Daniela, Genilson, Mariana e Pedro       |
 |  5 | Implementar git page                                                     | -- | 13/05/2024                           | 19/06/2024  | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro            | 19/06/2024   |19/06/2024  |  Bruna, Daniela, Genilson, Lucas, Mariana, Pedro       |
 
 <p>Tabela 7: Cronograma do Ponto de controle 7 (Fonte: Pedro Henrique, 2024)</p>
