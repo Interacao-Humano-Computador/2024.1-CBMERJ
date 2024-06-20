@@ -1,38 +1,46 @@
 ## Introdução
+Revisar os itens de um projeto é uma tarefa dinâmica e pode ser trabalhosa pela necessidade de analisar algum projeto, encontrar erros, e até sugerir melhorias.
 
+A partir disso, se é capaz de fazer uma verificação da análise de tarefas de modo a compreender essa seção do projeto e garantir essa melhoria.
 
 ## Metodologia
+Através do que foi descrito anteriormente no [planejamento de verificação](../planejamento_verificacao.md), a metodologia a ser utilizada é a inspeção, com o objetivo de analisar e encontrar problemas na interface a partir da exploração dela. (1)
 
+A seguir, primeiramente evidenciaremos os participantes dessa lista de revisão, o template de tópicos a ser analisados durante a avaliação, e a tabela 1 descrevendo os problemas encontrados e suas especificações.
 
 ### Participantes
+A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre a análise de tarefas para o grupo 8 será a [Mariana Letícia](https://github.com/Marianannn), e os **revisores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md). 
 
 ### Template de Checklist: Análise de tarefas
-<!-- template de checklist -->
-<!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
-    - **Fonte:** 
+
+- **Item 1:** A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos, conforme é evidenciado na figura 5 a seguir?
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 178.
     - **Imagem:**
     <br>
 
     <center>
 
-    ![](img/)
+    ![](img/analise_tarefa_objetivo_img_1.png)
 
     </center>
 
-    <p style="text-align: center">Figura 1: (COLOCAR A DESCRIÇÃO DA PERGUNTA QUI)</p>
+    <p style="text-align: center">Figura 1: Evidência da necessidade de objetivos e listas para a análise de tarefas</p>
 
-- **Item 2:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (COLOCAR FONTE AQUI)
+- **Item 2:** Caso tenha sido representado o HTA como uma das análises de tarefa, foram utilizados corretamente elementos como plano e operações - feedback, input etc. ? 
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 178.
     - **Imagem:** 
     <br>
 
     <center>
 
-    ![](img/)
+    ![](img/analise_tarefa_HTA_img_2.png)
 
     </center>
 
-    <p style="text-align: center">Figura 2: (COLOCAR A LEGENDA AQUI)</p>
+    <p style="text-align: center">Figura 2: Uso do HTA</p>
+<!-- template de checklist -->
+<!--
+
 
 
 - **Item 3:** (COLOCAR DESCRIÇÃO)
