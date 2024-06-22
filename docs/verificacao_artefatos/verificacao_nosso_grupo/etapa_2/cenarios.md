@@ -1,12 +1,65 @@
 ## Introdução
-
+A verificação dos cenários se mostra como uma peça importante ao avaliar se eles condizem com a realidade daquela funcionalidade e se podemos implementá-las em diversos contextos. Sendo assim, para verificá-las, seguiremos com uma metodologia a fim de conferir se os cenários estão adequados o suficiente.
 
 ## Metodologia
+A metodologia a ser abordada foi a de inspeção, devidamente explicada no [planejamento de verificação](../planejamento_verificacao.md), é uma avaliação individual que consiste na exploração da interface para identificar diversos tipos de erros. (1)
 
+Nela, primeiramente abordaremos um template de checklist que irá ser preenchido em uma tabela modelo,  presente em [planejamento de verificação](../planejamento_verificacao.md), pelo verificador durante a avaliação do projeto [CBMERJ](https://interacao-humano-computador.github.io/2024.1-CBMERJ/).
 
 ### Participantes
+A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre os cenários para o grupo 7 será a [Mariana Letícia](https://github.com/Marianannn), e os **revisores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md).
 
 ### Template de Checklist: Cenários
+
+- **Item 1:** O cenário possui os seguintes 5 elementos abordado por Cooper (1999): ciclo de vida de processo, segmentos de públicos, funções de produto, variantes de uma classe de situações de tarefa e métodos para realizar uma tarefa.
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 176
+    - **Imagem:** <br>
+
+    <center>
+
+    ![](img/cenario_cooper.png)
+
+    </center>
+
+    <p style="text-align: center">Figura 1:    5 elementos para cenários abordados por Cooper (1999)</p>
+
+- **Item 2:** O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura 2?
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
+    - **Imagem:** <br>
+
+    <center>
+
+    ![](img/cenario_descricao_img_1.png)
+
+    </center>
+
+    <p style="text-align: center">Figura 2: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
+
+- **Item 3:** O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999) e a Figura 3 a seguir:
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
+    - **Imagem:** <br>
+
+    <center>
+
+    ![](img/cenario_elementos_img_2.png)
+
+    </center>
+
+    <p style="text-align: center">Figura 3: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
+
+- **Item 4:** Os cenários respondem, segundo a figura 4 seguir, as perguntas: Por que? Como? O que é?
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 174
+    - **Imagem:** <br>
+
+    <center>
+
+    ![imagem com texto descrevendo quais perguntas o cenário deve responder](img/cenario_tabela_perguntas_img_3.png)
+
+    </center>
+
+    <p style="text-align: center">Figura 4: imagem com texto descrevendo quais perguntas o cenário deve responder</p>
+
+
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 
@@ -101,10 +154,11 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
 
 ## Referências Bibliográficas
-
+> 1. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 286.
 
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `2.0`   | 22/06/2024 | adição do template de cenários                         | [Mariana Letícia](https://github.com/Marianannn) |   |
