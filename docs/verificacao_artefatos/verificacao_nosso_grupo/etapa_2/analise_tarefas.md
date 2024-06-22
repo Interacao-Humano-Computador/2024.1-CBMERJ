@@ -6,27 +6,95 @@ A partir disso, se é capaz de fazer uma verificação da análise de tarefas de
 ## Metodologia
 Através do que foi descrito anteriormente no [planejamento de verificação](../planejamento_verificacao.md), a metodologia a ser utilizada é a inspeção, com o objetivo de analisar e encontrar problemas na interface a partir da exploração dela. (1)
 
-A seguir, primeiramente evidenciaremos os participantes dessa lista de revisão, o template de tópicos a ser analisados durante a avaliação, e a tabela 1 descrevendo os problemas encontrados e suas especificações.
+A seguir, evidenciaremos: os participantes dessa lista de revisão; o template de tópicos a ser analisados durante a avaliação; e as tabelas de 1 a 6 descrevendo os resutados das verificações de análise de tarefas das checklists.
 
 ### Participantes
 A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre a análise de tarefas para o grupo 8 será a [Mariana Letícia](https://github.com/Marianannn), e os **revisores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md). 
 
 ### Template de Checklist: Análise de tarefas
 
-- **Item 1:** A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos, conforme é evidenciado na figura 5 a seguir?
-    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 178.
+- **Item 1:** A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos, conforme é evidenciado na figura 1 a seguir? Esse objetivo também é representado pelo primeiro passo de execução de um HTA na figura 2.
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 178.<br> &
+    Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 180.
     - **Imagem:**
     <br>
 
     <center>
 
     ![](img/analise_tarefa_objetivo_img_1.png)
+    <br><br>
+    ![](img/analise_tarefa_passo_1.png)
 
     </center>
 
-    <p style="text-align: center">Figura 1: Evidência da necessidade de objetivos e listas para a análise de tarefas</p>
+    <p style="text-align: center">Figura 1 e 2: Evidência da necessidade de objetivos e listas para a análise de tarefas</p>
 
-- **Item 2:** Caso tenha sido representado o HTA como uma das análises de tarefa, foram utilizados corretamente elementos como plano e operações - feedback, input etc. ? 
+- **Item 2:** foram implementados o segundo passo da execução de um HTA sendo ele: estabelecer uma ligação lógica entre os objetivos e as medidas de sucesso, mencionando quais seriam essas medidas de sucesso?
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 180.
+    - **Imagem:** 
+    <br>
+
+    <center>
+
+    ![](img/analise_tarefa_passo_2.png)
+
+    </center>
+
+    <p style="text-align: center">Figura 3: Passos 2 do HTA segundo o livro mencionado acima</p>
+
+- **Item 3:** foram implementados os passos 3 e 4 do HTA, sendo o 3 se o HTA possui dados verossímeis que condizem com a funcionalidade analisada, e o 4 se houve uma decomposição de objetivos em subobjetivos em um diagrama ou tabela hierárquica contendo ações, feedbacks disparadas a partir dos objetivos?
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 181.
+    - **Imagem:** 
+    <br>
+
+    <center>
+
+    ![](img/analise_tarefa_passo_3_4_img_3.png)
+
+    </center>
+
+    <p style="text-align: center">Figura 4: Passos 3 e 4 do HTA segundo o livro mencionado acima</p>
+
+- **Item 4:** Segundo os passo 5, os dados foram coletados de usuários reais, garantindo a confiabilidade da análise?
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 181.
+    - **Imagem:** 
+    <br>
+
+    <center>
+
+    ![](img/analise_tarefa_passo_5.png)
+
+    </center>
+
+    <p style="text-align: center">Figura 5: Passos 3 e 4 do HTA segundo o livro mencionado acima</p>
+
+- **Item 5:** Segundo os passo 6, as operações se apresentam como significativas e de acordo com os objetivos definidos?
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 181.
+    - **Imagem:** 
+    <br>
+
+    <center>
+
+    ![](img/analise_tarefa_passo_6.png)
+
+    </center>
+
+    <p style="text-align: center">Figura 6: Passos 6 do HTA segundo o livro mencionado acima</p>
+
+- **Item 6:** Segundo os passo 7, foram considerados erros humanos, e foram representados os diagramas? 
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 181.
+    - **Imagem:** 
+    <br>
+
+    <center>
+
+    ![](img/analise_tarefa_passo_7.png)
+
+    </center>
+
+    <p style="text-align: center">Figura 7: Passos 6 do HTA segundo o livro mencionado acima</p>
+
+- **Item 7:** Caso tenha sido representado o HTA como uma das análises de tarefa, foram utilizados corretamente elementos como plano e operações - feedback, input etc. e uso correto das representações de elementos visuais do HTA tais como está ilustrado abaixo? 
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 178.
     - **Imagem:** 
     <br>
@@ -37,50 +105,8 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     </center>
 
-    <p style="text-align: center">Figura 2: Uso do HTA</p>
-<!-- template de checklist -->
-<!--
+    <p style="text-align: center">Figura 8: Uso correto do HTA</p>
 
-
-
-- **Item 3:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (COLOCAR FONTE AQUI)
-    - **Imagem:**
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 3: (COLOCAR A LEGENDA AQUI)</p>
-
-- **Item 4:** 
-    - **Fonte:** 
-    - **Imagem:**
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 4: (COLOCAR A LEGENDA AQUI)</p>
-
-- **Item 5:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (INSERIR FONTE)
-    - **Imagem:**
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 5: (COLOCAR LEGENDA AQUI)</p> -->
 
 ## Resultado do Checklist
  <!-- template de VERIFICAÇÃO -->
@@ -109,10 +135,11 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
 
 ## Referências Bibliográficas
-
+> 1. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 286.
 
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `2.0`   | 22/06/2024 | Adição do template de checklist a ser verificado                          | [Mariana Letícia](https://github.com/Marianannn) |   |
