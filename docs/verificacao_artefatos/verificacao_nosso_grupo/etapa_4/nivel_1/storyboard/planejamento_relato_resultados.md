@@ -1,78 +1,45 @@
 ## Introdução
+Verificar o planejamento do relato dos resultados é fundamental para conseguir organizar a maneira como os avaliadores coletarão e analisarão os dados para pesquisas futuras e para o reprojeto. 
 
+Sendo assim este documento compreende a metodologia, os templates de checklists e os resultados da avaliação conforme esses templates, todos focados no planejamento da avaliação do relato dos resultados do storyboard.
 
 ## Metodologia
+Será inicialmente evidenciado todos os checklists a serem verificados e depois os avaliadores irão inserir uma tabela, como consta no [Planejamento da verificação](../../../planejamento_verificacao.md), com os devidos resultados das análises feitas. 
 
+A verificação será feita através da inspeção. Os maiores detalhes sobre como funciona a metodologia estão no [Planejamento da verificação](../../../planejamento_verificacao.md).
 
 ### Participantes
+A **avaliadora** responsável por desenvolver a lista de verificação da etapa 4 para o grupo 7 será a [Mariana Letícia](https://github.com/Marianannn), e a **revisora** será [Daniela Alarcão](https://github.com/danialarcao).
 
-### Template de Checklist: Planejamento da avaliação do relato de resultados dos Storyboards
-<!-- template de checklist -->
-<!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
-    - **Fonte:** 
+### Template de Checklist - Planejamento do Relato dos Resultados do StoryBoard
+
+- **Item 1:** O relato dos resultados possui objetivos, método, numero e perfil dos usuários e avaliadores, sumário de dados coletados, interpretação e análise de dados, os problemas encontrados, e planejamento para reprojeto, assim como consta na figura 1 a seguir?
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 279
     - **Imagem:**
     <br>
 
     <center>
 
-    ![](img/)
+    ![](img/planejamento_relato_resultados.png)
 
     </center>
 
-    <p style="text-align: center">Figura 1: (COLOCAR A DESCRIÇÃO DA PERGUNTA QUI)</p>
+    <p style="text-align: center">Figura 1: Elementos necessários na estrutura no relato dos resultados.</p>
 
-- **Item 2:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (COLOCAR FONTE AQUI)
-    - **Imagem:** 
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 2: (COLOCAR A LEGENDA AQUI)</p>
-
-
-- **Item 3:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (COLOCAR FONTE AQUI)
+- **Item 2:** O relato dos resultados é claro, conciso, objetivo, replicável e formal como é evidente na figura 2 a seguir?
+    - **Fonte:**  INBOUNDCYCLE. Como montar um relatório de resultados. Disponível em: https://www.inboundcycle.com/pt/blog-de-inbound-marketing/como-montar-um-relatorio-de-resultados. Acesso em: 23 jun. 2024
     - **Imagem:**
     <br>
 
     <center>
 
-    ![](img/)
+    ![](img/planejamento_relato_resultados_caracteristicas.png)
 
     </center>
 
-    <p style="text-align: center">Figura 3: (COLOCAR A LEGENDA AQUI)</p>
+    <p style="text-align: center">Figura 2: Elementos necessários na execução do relato dos resultados.</p>
 
-- **Item 4:** 
-    - **Fonte:** 
-    - **Imagem:**
-    <br>
 
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 4: (COLOCAR A LEGENDA AQUI)</p>
-
-- **Item 5:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (INSERIR FONTE)
-    - **Imagem:**
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 5: (COLOCAR LEGENDA AQUI)</p> -->
 
 ## Resultado do Checklist
  <!-- template de VERIFICAÇÃO -->
@@ -100,11 +67,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
 
-## Referências Bibliográficas
-
-
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `2.0`   | 23/06/2024 | adicão de introdução e template de checklist do storyboard                          | [Mariana Letícia](https://github.com/Marianannn) |   |

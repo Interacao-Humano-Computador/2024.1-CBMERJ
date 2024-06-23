@@ -66,7 +66,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     </center>
 
-    <p style="text-align: center">Figura 5: Passos 3 e 4 do HTA segundo o livro mencionado acima</p>
+    <p style="text-align: center">Figura 5: Passo 5 do HTA segundo o livro mencionado acima</p>
 
 - **Item 5:** Segundo os passo 6, as operações se apresentam como significativas e de acordo com os objetivos como está descrito na figura 6 a seguir?
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 181.
@@ -79,7 +79,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     </center>
 
-    <p style="text-align: center">Figura 6: Passos 6 do HTA segundo o livro mencionado acima</p>
+    <p style="text-align: center">Figura 6: Passo 6 do HTA segundo o livro mencionado acima</p>
 
 - **Item 6:** Segundo os passo 7, foram considerados erros humanos, e foram representados os diagramas como está descrito na figura 7 a seguir? 
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 181.
