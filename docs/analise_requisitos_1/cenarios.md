@@ -38,44 +38,43 @@ contextuais, de uma situação de uso da aplicação, envolvendo usuários, proc
 
 <p>A partir da metodologia explicada anteriormente, foi possível criar os cenários a seguir. Seus objetivos compreendem ilustrar possíveis situações problema que um usuário pode passar. Todos os atores descritos nos cenários abaixo são fictícios. Em alguns dos cenários surgem problemas os quais são esclarecidos nas observações de 1 a 5.</p>
 
-### Cenário 1
+### Cenário 1: Funcionalidade: Solicitação de Ficha de Atendimento
+Fernando Pessoa é o diretor de 65 anos de idade da escola Fonte do saber, no Rio de Janeiro. Recentemente, ele notou reclamações por parte dos alunos e professores, da péssima condição das paredes das salas de aula, com rachaduras grandes, que as vezes iam até o teto. <br><br>
+Visto que é um problema de risco grave às pessoas e para resolver isso, ele procurou pesquisar na internet com o objetivo de solucionar esse problema o mais rápido possível. Assim, ele encontrou que no site do Corpo de Bombeiros Militar do Estado do Rio de Janeiro, ele poderia solicitar por uma ficha de atendimento a qual conseguiria pedir para os bombeiros fazerem um agendamento de vistoria nos locais com rachaduras e outros problemas.<br><br>
+Ao acessar o site, já de cara, havia um painel apresentando várias funcionalidades do site, e uma delas era a Solicitação da Ficha de Atendimento. Fernando conseguiu preencher suas informações pessoais e da escola para depois solicitar o agendamento da vistoria.<br><br>
+Por fim, os bombeiros conseguiram chegar no dia e hora marcada para analisar o grau de severidade das rachaduras da escola, e recomendar maneiras de resolver aquele problema.
 
-<p>Fulano é um homem de 23 anos, e se encontra estudando para concursos públicos de bombeiros. Ele recebeu notícias de que o abriu um edital para o concurso público de bombeiro militar do Rio de Janeiro, sendo assim, gostaria de se informar e entender o que deverá estudar e as datas das provas. Para isso, Fulano, que é experiênte com tecnologias, pesquisa o site CBMERJ e, ao entrar, consegue selecionar a guia "SOBRE O CBMERJ", vê o tópico de "INFORMAÇÕES" e clica no botão de últimos concursos. Desse modo, Fulano é redirecionado a uma página contendo a lista de todos os últimos concursos do site. Por fim, ele encontra o item da lista chamado "CONCURSO PÚBLICO ABMDPII/2024" que era o que ele procurava.</p>
+### Cenário 2: Obter Declaração do registro de Ocorrência
 
-<p style="font-size: smaller;">Observação 1: os links nessa página em específico não possuem organização, logo o usuário teria dificuldade de encontrar o que precisa com facilidade e rapidez.</p>
+Certo dia, Carlos Eduardo, morador do Rio de janeiro, e empregado da empresa CarlJohnsonTec, estava preparando seu café da manhã, fritando um ovo e se preparando para sair para o trabalho. Em um momento de desatenção, ele esqueceu do ovo na panela e este começou a queimar muito, a ponto de sair do controle. Carlos Eduardo então liga para o 193, e chama os bombeiros à sua casa, e eles conseguem apagar o fogo a tempo de causar estragos maiores. <br><br>
+O incidente durou a manhã inteira, e Carlos Eduardo teve que lidar com o fato de não saber como explicar para a empresa, sendo esta bem rigorosa com horários, o ocorrido. Porém, ele começa a insistir em buscar informações, e, aproveitando que o bombeiro está presente no lugar, Carlos Eduardo pergunta aos bombeiros presentes ainda em sua casa alguma recomendação de como garantir um documento que justifique sua ausência no trabalho.
+<br><br>
+Um dos bombeiros explicou a ele que poderia acessar o site CBMERJ, que lá seria possível adquirir uma declaração do registro de ocorrência para enviar à empresa. Quase que de imediato, Carlos Eduardo acessou seu computador, e solicitou uma declaração de registro de ocorrência. Apesar de que a obtenção da declaração não era imediata, o quanto antes solicitasse, teria como justificar mais cedo.
+<br><br>
+Portanto, assim que recebeu a declaração, conseguiu enviar aos superiores evitando possíveis mal-entendidos sobre sua falta. 
 
-### Cenário 2
+### Cenário 3: Agendamento de atendimento presencial
 
-<p>Ciclano, primo de Beltrano e morador do Rio de Janeiro, comprou um imóvel de Beltrano e procura fazer um requerimento padrão a fim de regularizar uma edificação sua. Ao pesquisar um pouco, descobriu que essa funcionalidade está presente no site dos bombeiros do estado do Rio de Janeiro. Sendo assim, ele começa a procurar na barra de navegação do site uma opção de requerimento padrão, o que ele acha após ter passado seu mouse em cima da guia "PARA O CIDADÃO". Logo, ele clica no requerimento padrão do tópico regularização de edificações, consegue preencher todas as informações do formulário e pede para imprimir a folha da documentação com a finalidade apresentar esse documento as autoridades necessárias para regularizar seu imóvel.</p>
+Pedro Paulo, o dono da pizzaria Mamma Mia localizada no centro do Rio de Janeiro, recentemente presenciou um incêndio dentro dela. Ele conseguiu chamar os bombeiros e apagar o incêndio, ninguém se feriu, porém ele teve danos materiais grandes.
+<br><br>
+Ele conseguiu contatar seu advogado para ver o que poderia fazer sobre os danos materiais. Dessa forma, seu advogado sugeriu que ele agendasse pelo site do Corpo de Bombeiros Militar do Estado do Rio de Janeiro(CBMERJ), um atendimento presencial em uma das unidades do corpo de bombeiros, de preferência a mais perto de sua residência, a fim de conseguir obter um relatório do ocorrido e ver se o dano foi causaod por algo interno ou externo e para recorrer a justiça caso tenha sido por algo externo.
+<br><br>
+Sendo assim, ele chega no dia e horário agendado, na unidade do Corpo de Bombeiros Militar do Estado do Rio de Janeiro marcada, explica a situação, os atendentes solicitam as informações pessoais e do ocorrido, e Pedro Eduardo, por fim, sai de lá com os relatórios desejados.
 
-<p style="font-size: smaller;">Observação 2: o formulário apesar de conseguir captar os dados, ele pode vir a não funcionar corretamente em caso do usuário não preencher todos os dados.</p>
+### Cenário 4: Curso do Corpo de Bombeiros - Primeiro Socorros
 
-### Cenário 3
+Renato Figueiredo, morador do Rio de Janeiro há 40 anos, recentemente ficou responsável por cuidar de sua avó com condições especiais e delicadas. Para garantir a segurança dela, ele resolveu buscar sobre cursos de primeiros socorros. Ao fazer uma pesquisa rápida na internet, ele descobre que o site do Corpo de Bombeiros Militar do Estado do Rio de Janeiro (CBMERJ), disponibiliza cursos online e gratuitos com certificado sobre primeiros socorros.
+<br><br>
+Renato então acessa o site e conclui no tempo estimado o curso de primeiros socorros, sentindo finalmente a segurança sobre o que fazer com sua avó caso algo ocorra com ela.
 
-<p>Beltrana tem o objetivo de se tornar grande empresária do Rio de Janeiro no ramo de festas. Sendo assim, para não ter nenhum problema, gostaria de saber se ela poderia realizar seu primeiro evento em um certo local. Ela soube que para obter essa informação, era necessário ir à página do site do corpo de bombeiros do estado do rio de janeiro e solicitar um requerimento padrão. Desse modo, ela o fez. Ao acessar o site, se dirigiu à guia "PARA O CIDADÃO" e clicando em requerimento padrão no tópico diversões públicas. Assim, ela conseguiu preencher o formulário, imprimir e apresentar para as autoridades responsáveis. </p>
-
-### Cenário 4
-
-<p>Júlia Cesar é uma garota de 14 anos, moradora do Rio de Janeiro e tem o desejo de um dia se tornar bombeira. Por isso, ela se tornou uma acompanhadora assídua do site do corpo de bombeiro de seu estado, sempre vendo notícias e compartilhando seus feitos. Dessa forma, com o objetivo de apoiar ainda mais o corpo de bombeiros em questão, ela decide procurar as redes sociais no site, mais especificamente o Facebook. Júlia clica na guia te "CONTATO", e seleciona o botão "Imprensa". Por fim, ela tem acesso às redes sociais e a partir do próprio site consegue curtir o perfil do facebook do corpo de bombeiros mencionado.</p>
-
-<p style="font-size: smaller;">Observação 3: esse botão de "dar like" para o perfil do CBMERJ no facebook não funciona. Logo não seria possível realizar esse cenário.</p>
-
-### Cenário 5
-
-<p>Ronaldo é um militar pertencente ao corpo de bombeiros do estado do Rio de Janeiro e que gostaria de se especializar em alguma atividade do corpo de bombeiros. Certo dia, ele soube que as informações sobre como fazer isso estavam no site CBMERJ. Ao pesquisar e, por fim, acessar o site, ele já de cara encontrou painéis com fotos no fundo e um títulos bem grandes. Ao passar as imagens para o lado, apesar de ter um pouco de dificuldade de enxergar, ele encontra um painél sobre atividades especializadas. Ao clicar nele, ele é redirecionado à uma página explicando as funções desse tipo de profissional e como se tormar um.</p>
+### Cenário 5: Curso do Corpo de Bombeiros 2 
 
 
-### Cenário 6
 
-<p>Marisa Betânia é uma senhora de idade e tem muita dificuldade em utilizar tecnologias. Ela recentemente conseguiu obter e entregar um requerimento padrão para a regularização de uma edificação dela aos técnicos administrativos do corpo de bombeiro militar do estado do Rio de Janeiro. Esses técnicos mencionaram a ela que a partir do próprio site CBMERJ ela poderia encontrar o andamento do processo do requerimento padrão que ela enviou. Contudo, ela não conseguia achar. Sendo assim, ela procurou no site algum telefone pelo qual ela poderia ligar para a central para a auxiliarem nisso. Ela conseguiu encontrar na guia de navegação o botão "CONTATO" e encontrou o botão catálogo telefônico. Por fim ela conseguiu ligar para a central de atendimento, tirar sua dúvida e saber do status do seu requerimento padrão.</p>
 
-<p style="font-size: smaller;">Observação 4: a página de catálogo possui um erro de acesso proibido, impossibilitando o usuário ter acesso adequado a esse catálogo. </p>
+### Cenário 6: Checar e Gerar Certificado
 
-### Cenário 7
-
-<p>Roberto Tarlos é um jovem de 19 anos com deficiência visual. Ele Soube que um edital do concurso para bombeiro militar do estado do Rio de Janeiro havia sido lançado e gostaria de conferir para já começar a estudar e se preparar para as provas. Roberto foi então usufruir das funcionalidades de acessibilidade oferecidas no site e a partir disso encontrou o tópico "SOBRE O CBMERJ" e dentro desse tópico foi listado o botão "últimos concursos" no qual Roberto selecionou e por fim conseguiu encontrar o edital do concurso que gostaria de se inscrever.</p>
-
-<p style="font-size: smaller;">Observação 5: O site CBMERJ não possui recursos de acessibilidade para qualquer tipo de deficiência. Sendo assim, um usuário com essa condição teria uma grande dificuldade e até impossibilidade de utilizar o site.</p>
+Jeferson Caminhos é um produtor de festas na Zona Sul do Rio de Janeiro. Faz dois meses que ele solicitou via site CBMERJ uma vistoria para autorizar um estabelecimento a poder fazer festas e gerar um certificado de comprovação. No início desses dois meses, de fato, o Corpo de Bombeiros foi até o local para a vistoria e essa primeira questão deu certo. O problema foi o fato de estar demorando demais para gerar esses certificados e Jeferson já tinha em mente alguns eventos para realizar na época do ano. Então Jeferson ficou preocupado e foi novamente ao site do CBMERJ para ver o que podia fazer. Na aba de checar e gerar certificado ele percebeu que poderia acompanhar a solicitação desse certificado e  
 
 ## Referências Bibliográficas
 
@@ -90,4 +89,5 @@ contextuais, de uma situação de uso da aplicação, envolvendo usuários, proc
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 16/04/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)       |
-| `2.0`   | 17/04/2024 | Criação dos cenários                      | [Mariana Letícia](https://github.com/Marianannn) |     [Bruna Lima](https://github.com/libruna)      |
+| `2.0`   | 17/04/2024 | Adição dos cenários                      | [Mariana Letícia](https://github.com/Marianannn) |     [Bruna Lima](https://github.com/libruna)      |
+| `3.0`   | 23/06/2024 | Atualização de todos os cenários                     | [Mariana Letícia](https://github.com/Marianannn) |     [Bruna Lima](https://github.com/libruna)      |
