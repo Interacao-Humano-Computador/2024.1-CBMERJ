@@ -29,7 +29,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <p style="text-align: center">Figura 1 e 2: Evidência da necessidade de objetivos e listas para a análise de tarefas</p>
 
-- **Item 2:** foram implementados o segundo passo da execução de um HTA sendo ele: estabelecer uma ligação lógica entre os objetivos e as medidas de sucesso, mencionando quais seriam essas medidas de sucesso?
+- **Item 2:** foram implementados o segundo passo da execução de um HTA sendo ele: estabelecer uma ligação lógica entre os objetivos e as medidas de sucesso, mencionando quais seriam essas medidas de sucesso como está descrito na figura 3 a seguir?
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 180.
     - **Imagem:** 
     <br>
@@ -42,7 +42,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <p style="text-align: center">Figura 3: Passos 2 do HTA segundo o livro mencionado acima</p>
 
-- **Item 3:** foram implementados os passos 3 e 4 do HTA, sendo o 3 se o HTA possui dados verossímeis que condizem com a funcionalidade analisada, e o 4 se houve uma decomposição de objetivos em subobjetivos em um diagrama ou tabela hierárquica contendo ações, feedbacks disparadas a partir dos objetivos?
+- **Item 3:** foram implementados os passos 3 e 4 do HTA, sendo o 3 se o HTA possui dados verossímeis que condizem com a funcionalidade analisada, e o 4 se houve uma decomposição de objetivos em subobjetivos em um diagrama ou tabela hierárquica contendo ações, feedbacks disparadas a partir dos objetivos como está descrito na figura 4 a seguir?
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 181.
     - **Imagem:** 
     <br>
@@ -55,7 +55,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <p style="text-align: center">Figura 4: Passos 3 e 4 do HTA segundo o livro mencionado acima</p>
 
-- **Item 4:** Segundo os passo 5, os dados foram coletados de usuários reais, garantindo a confiabilidade da análise?
+- **Item 4:** Segundo os passo 5, os dados foram coletados de usuários reais, garantindo a confiabilidade da análise como está descrito na figura 5 a seguir?
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 181.
     - **Imagem:** 
     <br>
@@ -68,7 +68,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <p style="text-align: center">Figura 5: Passos 3 e 4 do HTA segundo o livro mencionado acima</p>
 
-- **Item 5:** Segundo os passo 6, as operações se apresentam como significativas e de acordo com os objetivos definidos?
+- **Item 5:** Segundo os passo 6, as operações se apresentam como significativas e de acordo com os objetivos como está descrito na figura 6 a seguir?
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 181.
     - **Imagem:** 
     <br>
@@ -81,7 +81,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <p style="text-align: center">Figura 6: Passos 6 do HTA segundo o livro mencionado acima</p>
 
-- **Item 6:** Segundo os passo 7, foram considerados erros humanos, e foram representados os diagramas? 
+- **Item 6:** Segundo os passo 7, foram considerados erros humanos, e foram representados os diagramas como está descrito na figura 7 a seguir? 
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 181.
     - **Imagem:** 
     <br>
@@ -94,7 +94,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <p style="text-align: center">Figura 7: Passos 6 do HTA segundo o livro mencionado acima</p>
 
-- **Item 7:** Caso tenha sido representado o HTA como uma das análises de tarefa, foram utilizados corretamente elementos como plano e operações - feedback, input etc. e uso correto das representações de elementos visuais do HTA tais como está ilustrado abaixo? 
+- **Item 7:** Caso a análise tenha sido representada o HTA como uma das análises de tarefa, foram utilizados corretamente elementos como plano e operações - feedback, input etc. e uso correto das representações de elementos visuais do HTA tais como está ilustrado abaixo como está descrito na figura 8 a seguir? 
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 178.
     - **Imagem:** 
     <br>
@@ -107,7 +107,44 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <p style="text-align: center">Figura 8: Uso correto do HTA</p>
 
+- **Item 8:** Caso a análise tenha sido representada pelo GOMS, está descrito os objetivos, operadores, métodos e regras de seleção, assim como está descrito na figura 9 a seguir?
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 182.
+    - **Imagem:** 
+    <br>
 
+    <center>
+
+    ![](img/analise_tarefa_GOMS_1.png)
+
+    </center>
+
+    <p style="text-align: center">Figura 9: Uso correto do GOMS</p>
+
+- **Item 9:** Caso a análise tenha sido representada pela Árvore de tarefas Concorrentes(CTT), foram representados corretamente as tarefas de usuário, sistema, iterativas e abstradas, como está conforma na figura 10 a seguir?
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 187.
+    - **Imagem:** 
+    <br>
+
+    <center>
+
+    ![](img/analise_tarefa_CTT_1.png)
+
+    </center>
+
+    <p style="text-align: center">Figura 10: Uso correto dos elementos do CTT</p>
+
+- **Item 10:** Caso a análise tenha sido representada pela Árvore de tarefas Concorrentes(CTT), foram representados corretamente as relações entre elementos, como a ativação, ativação com passagem de informação, escolha, tarefas concorrentes, tarefas concorrentes e comunicantes, tarefas independentes, desativação e suspensão/retomada, como está evidente na figura 11 a seguir?
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 188.
+    - **Imagem:** 
+    <br>
+
+    <center>
+
+    ![](img/analise_tarefa_CTT_1.png)
+
+    </center>
+
+    <p style="text-align: center">Figura 11: Uso correto das relações do CTT</p>
 ## Resultado do Checklist
  <!-- template de VERIFICAÇÃO -->
 
