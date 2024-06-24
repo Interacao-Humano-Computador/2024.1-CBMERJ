@@ -1,18 +1,18 @@
 ## Sumário
-- [Introdução](#introdução)
-- [Metodologia](#metodologia)
-- [Objetivos e escopo](#objetivos-e-escopo)
-- [Seleção de Participantes](#seleção-de-participantes)
-- [Cronograma Executado de entrevistas](#cronograma-executado-de-entrevistas)
-- [Avaliações](#avaliações)
-- [Avaliação 1 checar e gerar certificado - Genilson Silva](#avaliação-1-checar-e-gerar-certificado)
-- [Avaliação 2 agendar atendimento presencial - Daniela Alarcão](#avaliação-2-agendar-atendimento-presencial)
-- [Avaliação 3 cursos-acidentes-domiciliares - Pedro Henrique](#avaliação-3-cursos-acidentes-domiciliares)
-- [Avaliação 4 solicitar ficha de atendimento - Bruna Lima](#avaliação-4-solicitar-ficha-de-atendimento)
-- [Avaliação 5 obter declaração do registro de ocorrência - Mariana Letícia](#avaliação-5-obter-declaração-do-registro-de-ocorrência)
-- [Conclusão](#conclusão)
-- [Bibliografia](#bibliografia)
-- [Referências Bibliográfica](#referências-bibliográficas)
+- [Introdução](#Introdução)
+- [Metodologia](#Metodologia)
+- [Objetivos e escopo](#Objetivos-e-escopo)
+- [Seleção de Participantes](#Seleção-de-participantes)
+- [Cronograma Executado de entrevistas](#Cronograma-executado-de-entrevistas)
+- [Avaliações](#Avaliações)
+- [Avaliação 1 checar e gerar certificado - Genilson Silva](#Avaliação-1-checar-e-gerar-certificado)
+- [Avaliação 2 agendar atendimento presencial - Daniela Alarcão](#Avaliação-2-agendar-atendimento-presencial)
+- [Avaliação 3 cursos-acidentes-domiciliares - Pedro Henrique](#Avaliação-3-cursos-acidentes-domiciliares)
+- [Avaliação 4 solicitar ficha de atendimento - Bruna Lima](#Avaliação-4-solicitar-ficha-de-atendimento)
+- [Avaliação 5 obter declaração do registro de ocorrência - Mariana Letícia](#Avaliação-5-obter-declaração-do-registro-de-ocorrência)
+- [Conclusão](#Conclusão)
+- [Bibliografia](#Bibliografia)
+- [Referências Bibliográfica](#Referências-bibliográficas)
 
 ## Introdução
 O relato dos resultados e sua devida interpretação se trata de conceber os dados técnicamente e endendê-los de modo a acrescentar soluções e opiniões vindas do usuário nos protótipos e nas funcionalidades
@@ -23,7 +23,6 @@ Por uma questão de praticidade, foi possível realizar a avaliação por protot
 
 ### Objetivos e Escopo
 Os objetivos são identificar problemas de usabilidade e melhorar as funcionalidades.
-
 O escopo inclui todas as interações relacionadas a essas funcionalidades, como navegação, acesso e obtenção de informações.
 
 ### Seleção de participantes
