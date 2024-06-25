@@ -4,7 +4,7 @@ A verificação é uma etapa crítica no desenvolvimento de software, com o obje
 A seguir, apresentamos o planejamento para verificação dos artefatos do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ) (Corpo de Bombeiros Militar do Estado do Rio de Janeiro).
 
 ## Metodologia
-Para a verificação dos artefatos, o método de inspeção RTF (Revisões Técnicas Formais) foi escolhido. Este método é uma análise estática destinada a verificar a qualidade de um determinado artefato.<br>
+Para a verificação dos artefatos, o método de inspeção RTF (Revisões Técnicas Formais) foi escolhida. A técnica de inspeção foi originalmente desenvolvida na IBM em meados de 1970 por Michael Fagan e, inicialmente, proposta para avaliação do código-fonte de programa. O objetivo específico é a identificação e remoção de erros de forma antecipada, ou seja, antes de o produto ser entregue, sem, contudo, envolver-se na procura de soluções para esses erros. (2)<br>
 
 Para detectar defeitos durante a inspeção, seguimos os seguintes passos:<br>
 - Leitura do documento;<br>
@@ -13,6 +13,8 @@ Para detectar defeitos durante a inspeção, seguimos os seguintes passos:<br>
 
 ### Participantes
 Os seis membros do grupo ficaram responsáveis tanto de elaborar as listas de verificação quanto de conduzir as inspeções. Para os artefatos como cenários, análise de tarefas e storyboards, todos os membros participam da revisão. No caso desses artefatos, cada integrante do Grupo 07 é responsável por avaliar uma funcionalidade de outro integrante do grupo.
+
+Além disso, para cada checklist elaborado, um membro do grupo será responsável pela revisão. Se houver sugestões de melhorias, elas devem ser analisadas e corrigidas antes da verificação final. Dessa forma, para cada artefato, há mínimo o envolvimento de três integrantes: um para criar o checklist, outro para revisá-lo e um terceiro para realizar a verificação.
 
 A distribuição e organização dessas revisões são detalhadas na Tabela 1 abaixo.
 
@@ -72,6 +74,7 @@ Quanto a verificação, para facilitar a organização das informações, o revi
 
 ## Referências Bibliográficas
 > 1. Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
+> 2. KAWAI, K. K. (2005). Diretrizes para elaboração de documento de requisitos com ênfase nos requisitos funcionais. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de São Carlos. Disponível em: https://repositorio.ufscar.br/bitstream/handle/ufscar/352/DissKKK.pdf?sequence=1&isAllowed=y
 
 ## Histórico de Versões
 
