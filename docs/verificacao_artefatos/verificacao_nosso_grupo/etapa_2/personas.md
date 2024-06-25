@@ -6,7 +6,7 @@
 
 ### Participantes
 
-### Template de Checklist: Personas
+### Checklist: Personas
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 

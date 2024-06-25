@@ -6,7 +6,7 @@
 
 ### Participantes
 
-### Template de Checklist: Perfil do usuário
+### Checklist: Perfil do usuário
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 

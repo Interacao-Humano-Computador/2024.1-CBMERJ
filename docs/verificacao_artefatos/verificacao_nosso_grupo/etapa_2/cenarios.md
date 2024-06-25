@@ -9,7 +9,7 @@ Nela, primeiramente abordaremos um template de checklist que irá ser preenchido
 ### Participantes
 A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre os cenários para o grupo 7 será a [Mariana Letícia](https://github.com/Marianannn), e os **revisores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md).
 
-### Template de Checklist: Cenários
+### Checklist: Cenários
 
 - **Item 1:** O cenário possui os seguintes 5 elementos abordado por Cooper (1999) na figura 1 a seguir: ciclo de vida de processo, segmentos de públicos, funções de produto, variantes de uma classe de situações de tarefa e métodos para realizar uma tarefa.
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 176

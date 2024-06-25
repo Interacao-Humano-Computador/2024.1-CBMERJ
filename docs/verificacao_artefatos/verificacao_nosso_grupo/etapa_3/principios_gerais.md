@@ -6,7 +6,7 @@
 
 ### Participantes
 
-### Template de Checklist: Princípios Gerais
+### Checklist: Princípios Gerais
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 

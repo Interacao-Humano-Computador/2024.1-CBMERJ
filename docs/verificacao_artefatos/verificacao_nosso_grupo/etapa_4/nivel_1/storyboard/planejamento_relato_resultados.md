@@ -11,7 +11,7 @@ A verificação será feita através da inspeção. Os maiores detalhes sobre co
 ### Participantes
 A **avaliadora** responsável por desenvolver a lista de verificação da etapa 4 para o grupo 7 será a [Mariana Letícia](https://github.com/Marianannn), e a **revisora** será [Daniela Alarcão](https://github.com/danialarcao).
 
-### Template de Checklist - Planejamento do Relato dos Resultados do StoryBoard
+### Checklist: Planejamento do Relato dos Resultados do StoryBoard
 
 - **Item 1:** O relato dos resultados possui objetivos, método, numero e perfil dos usuários e avaliadores, sumário de dados coletados, interpretação e análise de dados, os problemas encontrados, e planejamento para reprojeto, assim como consta na figura 1 a seguir?
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 279
