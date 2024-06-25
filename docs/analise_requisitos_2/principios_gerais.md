@@ -103,7 +103,7 @@ Por outro lado, na figura 10, observamos que embora haja opções de acessibilid
 <p align="center">Figura 11 - Erro ao imprimir Requerimento Padrão (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
 
 ## Bibliografia
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
+>- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
 
 ## Histórico de Versões
 

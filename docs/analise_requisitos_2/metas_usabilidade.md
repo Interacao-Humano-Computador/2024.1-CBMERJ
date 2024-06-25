@@ -79,7 +79,7 @@ O site apresenta suas principais falhas em relação à eficiência, aprendizage
 > 2. ISO/IEC. ISO/IEC 9126-1:2001 Software engineering - Product quality - Part 1: Quality model. Geneva: International Organization for Standardization, 2001.
 
 ## Bibliografia
-> IRLABR. Apostila de IHC: Usabilidade e suas metas. Disponível em: <https://irlabr.wordpress.com/apostila-de-ihc/6-usabilidade-e-suas-metas/#:~:text=As%20metas%20de%20usabilidade%20tratam,para%20o%20desenvolvimento%20do%20projeto>. Acesso em: 11 de maio de 2024.
+> - IRLABR. Apostila de IHC: Usabilidade e suas metas. Disponível em: <https://irlabr.wordpress.com/apostila-de-ihc/6-usabilidade-e-suas-metas/#:~:text=As%20metas%20de%20usabilidade%20tratam,para%20o%20desenvolvimento%20do%20projeto>. Acesso em: 11 de maio de 2024.
 
 
 ## Histórico de Versões
