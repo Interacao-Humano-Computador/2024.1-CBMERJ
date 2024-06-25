@@ -9,7 +9,7 @@ Considerando o método definido no planejamento, a verificação ocorrerá por m
 ### Participantes
 A [Bruna Lima](https://github.com/libruna) foi responsável pela elaboração da lista de verificação, enquanto a [Daniela Alarcão](https://github.com/danialarcao) ficou responsável pela revisão do artefato.
 
-### Checklist:  Planejamento da avaliação do Storyboard
+### Checklist: Planejamento da avaliação do Storyboard
 A lista de verificações abaixo detalha os aspectos que serão analisados durante a verificação do artefato, com suas respectivas fontes e imagens de referência.
 
 - **Item 1:** **O planejamento descreve os objetivos da avaliação, por que e para quem tais objetivos são importantes?** 
