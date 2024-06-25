@@ -2,7 +2,10 @@
 
 ## Introdução
 
-<p align="justify"></p>
+<p align="justify">Nessa seção, serão abordados a avaliação dos integrantes sobre os sites que cada um deles escolheram, abordando os pontos positivos e negativos deles.</p>
+
+## Tabela de sites avaliados
+Na tabela 1 abaixo há os sites que foram avaliados e seus respectivos avaliadores.
 
 <center>
 
@@ -13,9 +16,9 @@
 | [Caixa TEM](#caixa-tem) | [Genilson Silva](https://github.com/GenilsonJrs) 
 | [Correios](#correios) |[Lucas Avelar](https://github.com/LucasAvelar2711)
 | [CBMERJ](#cbmerj)| [Mariana Letícia](https://github.com/Marianannn) 
-| []()| [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq)
+| [ -- ]()| [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq)
 
-<b>Tabela 1</b> Sites avaliados individualmente por cada membro da equipe.</p>
+<b>Tabela 1:</b> Sites avaliados individualmente por cada membro da equipe.</p>
 
 </center>
 
@@ -85,6 +88,9 @@ O site CBMERJ - Corpo de Bombeiros do Estado do Rio de Janeiro -, que teve como 
 - Problema de visibilidade do status do problema: ao usuário deixar de preencher qualquer informação do formulário, o site apresenta um comportamento inesperado, e além de não indicar o que ocorreu, ele indica como o usuário como contornar a situação --> *gravidade alta*
 
 [Link para visualizar a avaliação completa e mais detalhada](https://drive.google.com/file/d/1kQxBZX7ceb8yqGvYbOTTB9pGGsW2FqH7/view?usp=sharing)
+
+## Bibliografia
+> IRLABR. Apostila de IHC: Usabilidade e suas metas. Disponível em: <https://irlabr.wordpress.com/apostila-de-ihc/6-usabilidade-e-suas-metas/#:~:text=As%20metas%20de%20usabilidade%20tratam,para%20o%20desenvolvimento%20do%20projeto>. Acesso em: 6 de abril de 2024.
 
 ## Histórico de Versões
 

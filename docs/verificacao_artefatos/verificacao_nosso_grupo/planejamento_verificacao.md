@@ -77,4 +77,4 @@ Quanto a verificação, para facilitar a organização das informações, o revi
 
 | Versão |    Data    | Descrição      | Autor(es)           | Revisor(es)               |
 | ------ | :--------: | -------------- | --------------------| ------------------------- |
-| `1.0`  | 25/06/2024 | Criação da página e adição do planejamento | [Bruna Lima](https://github.com/libruna) |   |
+| `1.0`  | 25/06/2024 | Criação da página e adição do planejamento | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)  |
