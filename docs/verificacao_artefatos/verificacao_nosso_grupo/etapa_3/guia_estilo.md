@@ -6,7 +6,7 @@
 
 ### Participantes
 
-### Template de Checklist: Guia de Estilo
+### Checklist: Guia de Estilo
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 

@@ -11,7 +11,7 @@ A seguir, evidenciaremos: os participantes dessa lista de revisão; o template d
 ### Participantes
 A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre a análise de tarefas para o grupo 7 será a [Mariana Letícia](https://github.com/Marianannn), e os **revisores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md). 
 
-### Template de Checklist: Análise de tarefas
+### Checklist: Análise de tarefas
 
 - **Item 1:** A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos, conforme é evidenciado na figura 1 a seguir? Esse objetivo também é representado pelo primeiro passo de execução de um HTA na figura 2.
     - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 178.<br> &
@@ -140,7 +140,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <center>
 
-    ![](img/analise_tarefa_CTT_1.png)
+    ![](img/analise_tarefa_CTT_2.png)
 
     </center>
 

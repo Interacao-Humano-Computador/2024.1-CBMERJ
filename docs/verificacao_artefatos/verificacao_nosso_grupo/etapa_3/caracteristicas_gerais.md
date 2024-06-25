@@ -6,7 +6,7 @@
 
 ### Participantes
 
-### Template de Checklist: Características Gerais
+### Checklist: Características Gerais
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 

@@ -6,7 +6,7 @@
 
 ### Participantes
 
-### Template de Checklist: Planejamento da avaliação da Análise de tarefas
+### Checklist: Planejamento da avaliação da Análise de tarefas
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 

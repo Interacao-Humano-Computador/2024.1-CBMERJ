@@ -6,7 +6,7 @@
 
 ### Participantes
 
-### Template de Checklist: Relato dos Resultados do Storyboard
+### Checklist: Relato dos Resultados do Storyboard
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 
