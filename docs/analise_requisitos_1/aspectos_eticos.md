@@ -15,7 +15,7 @@
 
 
 ## Bibliografia
-> 1. ACADÊMICA. <strong>Ética em pesquisa - Pesquisa na Prática #20. </strong> YouTube, 13 de agosto de 2019. Disponível em: <<https://www.youtube.com/watch?v=uApu0Eg1brY>>. Acesso em: 17 de abr. de 2024.
+> ACADÊMICA. <strong>Ética em pesquisa - Pesquisa na Prática #20. </strong> YouTube, 13 de agosto de 2019. Disponível em: <<https://www.youtube.com/watch?v=uApu0Eg1brY>>. Acesso em: 17 de abr. de 2024.
 
 
 ## Histórico de Versões

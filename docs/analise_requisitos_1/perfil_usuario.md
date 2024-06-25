@@ -85,8 +85,8 @@ Respostas obtidas em relação aos erros encontradas no site:
 ![](img/Pergunta_erros_site.png)
 <p align="center">Figura 15 - Pergunta 1 (Erros) </p>
  
- ### 16. Sugestões
- Respostas obtidas em relação as sugestões de melhoria do site:
+### 16. Sugestões
+Respostas obtidas em relação as sugestões de melhoria do site:
 ![](img/Pergunta_sugestao_site.png)
 <p align="center">Figura 16 - Pergunta 2 (Sugestões) </p>
 
@@ -160,7 +160,7 @@ Desta maneira, podemos descrever as caractéristicas gerais do perfil do usuári
 
 
 ## Bibliografia
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
 
 ## Histórico de Versões
 
