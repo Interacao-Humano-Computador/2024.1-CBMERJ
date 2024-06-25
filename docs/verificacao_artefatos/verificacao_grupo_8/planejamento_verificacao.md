@@ -1,7 +1,7 @@
 ## Introdução
 A verificação é uma etapa crítica no desenvolvimento de software, com o objetivo de garantir sua qualidade e desempenho adequado. Por meio de métodos como testes e análises, busca-se identificar e corrigir potenciais falhas e inconsistências, assegurando que o software atenda aos requisitos e expectativas estabelecidos. Essa prática contínua é essencial para garantir a confiabilidade e a segurança dos sistemas em um ambiente tecnológico em constante evolução.
 
-A seguir, apresentamos o planejamento para verificação dos artefatos do [Grupo 08](https://interacao-humano-computador.github.io/2024.1-Central-Expresso) (Central Expresso).
+A seguir, apresentamos o planejamento para verificação dos artefatos do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ) (Corpo de Bombeiros Militar do Estado do Rio de Janeiro).
 
 ## Metodologia
 Para a verificação dos artefatos, o método de inspeção RTF (Revisões Técnicas Formais) foi escolhido. Este método é uma análise estática destinada a verificar a qualidade de um determinado artefato.<br>
@@ -12,7 +12,7 @@ Para detectar defeitos durante a inspeção, seguimos os seguintes passos:<br>
 - Verificação das propriedades de qualidade requeridas. (1)<br>
 
 ### Participantes
-Os seis membros do grupo ficaram responsáveis tanto de elaborar as listas de verificação quanto de conduzir as inspeções. Para os artefatos como cenários, análise de tarefas e storyboards, todos os membros participam da revisão. No caso desses artefatos, cada integrante do Grupo 7 é responsável por avaliar a funcionalidade de um membro do Grupo 8.
+Os seis membros do grupo ficaram responsáveis tanto de elaborar as listas de verificação quanto de conduzir as inspeções. Para os artefatos como cenários, análise de tarefas e storyboards, todos os membros participam da revisão. No caso desses artefatos, cada integrante do Grupo 07 é responsável por avaliar uma funcionalidade de outro integrante do grupo.
 
 A distribuição e organização dessas revisões são detalhadas na Tabela 1 abaixo.
 
@@ -22,24 +22,24 @@ A distribuição e organização dessas revisões são detalhadas na Tabela 1 ab
 
 | Prazo      | Artefato        | Responsável pelo checklist | Responsável pela verificação | 
 | ---------- | --------------- | -------------------------- | ---------------------------- |
-| 12/06/2024 | Aspectos Éticos | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna) |
-| 12/06/2024 | Perfil do Usuário | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna) | 
-| 12/06/2024 | Personas | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq) | 
-| 12/06/2024 | Cenários | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Silva](https://github.com/GenilsonJrs), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq) | 
-| 12/06/2024 | Análise de Tarefas | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Silva](https://github.com/GenilsonJrs), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq) | 
-| 12/06/2024 | Características da Plataforma | [Daniela Alarcão](https://github.com/danialarcao) | [Pedro Henrique](https://github.com/PedroHhenriq) |
-| 12/06/2024 | Princípios Gerais do Projeto | [Daniela Alarcão](https://github.com/danialarcao) |  [Pedro Henrique](https://github.com/PedroHhenriq) |
-| 12/06/2024 | Metas de Usabilidade | [Daniela Alarcão](https://github.com/danialarcao) | [Genilson Silva](https://github.com/GenilsonJrs) |
-| 12/06/2024 | Guia de Estilo | [Daniela Alarcão](https://github.com/danialarcao) | [Genilson Silva](https://github.com/GenilsonJrs) |
-| 12/06/2024 | Storyboard | [Bruna Lima](https://github.com/libruna) | [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao),  [Genilson Silva](https://github.com/GenilsonJrs), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq) | 
-| 12/06/2024 | Planejamento da Avaliação do Storyboard | [Bruna Lima](https://github.com/libruna) | [Daniela Alarcão](https://github.com/danialarcao) | 
-| 12/06/2024 | Planejamento do Relato dos Resultados do Storyboard | [Mariana Letícia](https://github.com/Marianannn) | [Daniela Alarcão](https://github.com/danialarcao) |
-| 12/06/2024 | Relato dos Resultados da Avaliação do Storyboard | [Pedro Henrique](https://github.com/PedroHhenriq) | [Lucas Avelar](https://github.com/LucasAvelar2711) |
-| 12/06/2024 | Planejamento da Avaliação da Análise de Tarefas | [Pedro Henrique](https://github.com/PedroHhenriq) | [Lucas Avelar](https://github.com/LucasAvelar2711) |
-| 12/06/2024 | Planejamento do Relato dos Resultados da Análise de Tarefas |  [Pedro Henrique](https://github.com/PedroHhenriq) | [Genilson Silva](https://github.com/GenilsonJrs) |
-| 12/06/2024 | Relato da Avaliação da Análise de Tarefa | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Mariana Letícia](https://github.com/Marianannn) |
-| 12/06/2024 | Planejamento da Avaliação do Protótipo de Papel | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Mariana Letícia](https://github.com/Marianannn) |
-| 12/06/2024 | Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Mariana Letícia](https://github.com/Marianannn) |
+| 26/06/2024 | Aspectos Éticos | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna) |
+| 26/06/2024 | Perfil do Usuário | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna) | 
+| 26/06/2024 | Personas | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq) | 
+| 26/06/2024 | Cenários | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Silva](https://github.com/GenilsonJrs), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq) | 
+| 26/06/2024 | Análise de Tarefas | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Silva](https://github.com/GenilsonJrs), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq) | 
+| 26/06/2024 | Características da Plataforma | [Bruna Lima](https://github.com/libruna) | [Pedro Henrique](https://github.com/PedroHhenriq) |
+| 26/06/2024 | Princípios Gerais do Projeto | [Daniela Alarcão](https://github.com/danialarcao) |  [Pedro Henrique](https://github.com/PedroHhenriq) |
+| 26/06/2024 | Metas de Usabilidade | [Daniela Alarcão](https://github.com/danialarcao) | [Genilson Silva](https://github.com/GenilsonJrs) |
+|26/06/2024 | Guia de Estilo | [Daniela Alarcão](https://github.com/danialarcao) | [Genilson Silva](https://github.com/GenilsonJrs) |
+|26/06/2024 | Storyboard | [Bruna Lima](https://github.com/libruna) | [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao),  [Genilson Silva](https://github.com/GenilsonJrs), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq) | 
+| 26/06/2024 | Planejamento da Avaliação do Storyboard | [Bruna Lima](https://github.com/libruna) | [Daniela Alarcão](https://github.com/danialarcao) | 
+| 26/06/2024 | Planejamento do Relato dos Resultados do Storyboard | [Mariana Letícia](https://github.com/Marianannn) | [Daniela Alarcão](https://github.com/danialarcao) |
+| 26/06/2024 | Relato dos Resultados da Avaliação do Storyboard | [Pedro Henrique](https://github.com/PedroHhenriq) | [Lucas Avelar](https://github.com/LucasAvelar2711) |
+| 26/06/2024 | Planejamento da Avaliação da Análise de Tarefas | [Pedro Henrique](https://github.com/PedroHhenriq) | [Lucas Avelar](https://github.com/LucasAvelar2711) |
+| 26/06/2024 | Planejamento do Relato dos Resultados da Análise de Tarefas |  [Pedro Henrique](https://github.com/PedroHhenriq) | [Genilson Silva](https://github.com/GenilsonJrs) |
+| 26/06/2024 | Relato da Avaliação da Análise de Tarefa | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Mariana Letícia](https://github.com/Marianannn) |
+| 26/06/2024 | Planejamento da Avaliação do Protótipo de Papel | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Mariana Letícia](https://github.com/Marianannn) |
+| 26/06/2024 | Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Mariana Letícia](https://github.com/Marianannn) |
 
 </center>
 
@@ -77,6 +77,4 @@ Quanto a verificação, para facilitar a organização das informações, o revi
 
 | Versão |    Data    | Descrição      | Autor(es)           | Revisor(es)               |
 | ------ | :--------: | -------------- | --------------------| ------------------------- |
-| `1.0`  | 10/06/2024 | Criação da página              | [Bruna Lima](https://github.com/libruna) |   |
-| `2.0`  | 10/06/2024 | Adição do planejamento | [Bruna Lima](https://github.com/libruna) |   |
-| `2.1`  | 11/06/2024 | Adição do cronograma de verificação | [Bruna Lima](https://github.com/libruna) |   |
+| `1.0`  | 25/06/2024 | Criação da página e adição do planejamento | [Bruna Lima](https://github.com/libruna) |   |
