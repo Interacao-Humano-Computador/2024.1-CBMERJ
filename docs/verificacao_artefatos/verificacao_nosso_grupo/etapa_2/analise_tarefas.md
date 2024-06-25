@@ -140,7 +140,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <center>
 
-    ![](img/analise_tarefa_CTT_1.png)
+    ![](img/analise_tarefa_CTT_2.png)
 
     </center>
 
