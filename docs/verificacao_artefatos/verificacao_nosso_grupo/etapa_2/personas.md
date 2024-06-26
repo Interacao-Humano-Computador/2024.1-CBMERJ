@@ -74,6 +74,31 @@ A criação da lista de verificação será conduzida pelo integrante [Genilson 
     <p style="text-align: center">Figura 5: Questionamento sobre habilidade da persona</p>
 
 ## Resultado do Checklist
+
+### Persona:  - Revisora: 
+
+### Persona:  - Revisora: 
+
+### Persona: Maria Luiza Lacerda - Revisora: Bruna Lima
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | A persona possui dados básicos como identificação, foto representativa, frase que capture a essencia? | 2.0 | Conforme  |  |  | |
+|  2   | A persona possui contexto de uso (ambiente físico onde realiza as tarefas, equipamentos utilizados, frequência de uso da tecnologia)? | 2.0 | Conforme  |  |  | |
+|  3   | A persona possui status adequado (definição de persona primária, secundária, anti persona e/ou suas características)? | 2.0 | Conforme |  |  | |
+|  4   | A persona possui objetivos claros? | 2.0 | Conforme  |  |  | |
+|  5   | A persona possui suas habilidades bem definidas? | 2.0 | Não conforme  | Não descreve as habilidades da persona. | Adicionar as habilidades da persona. | |
+
+<p style="text-align: center">Tabela 3: Verificação da terceira persona.</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tTo7npZHCZc?si=-tJDCrhCLYN7sD2b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<p style="text-align: center">Vídeo 3: Verificação da terceira persona.</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
  
 ## Conclusão
 
@@ -89,3 +114,4 @@ A criação da lista de verificação será conduzida pelo integrante [Genilson 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)  |
 | `2.0`   | 26/06/2024 | Adição do Checklist                   | [Genilson Silva](https://github.com/GenilsonJrs) |   |
+| `3.0`   | 26/06/2024 | Adição da verificação da terceira persona        | [Bruna Lima](https://github.com/libruna) |   |
