@@ -99,20 +99,18 @@ O responsável pela criação da lista de verificação desse artefato será o [
 <p align="center">Imagem 4 - Análise e interpretação de dados </p>
 
 ## Resultado do Checklist
- <!-- template de VERIFICAÇÃO -->
 
-<!-- ### Funcionalidade : (COLOCAR O NOME DA FUNCIONALIDADE AQUI) - Revisor: C(OLOCAR NOME DO REVISOR AQUI)
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   | (COLOCAR DECRIÇÃO DO ITEM 1 AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME) |  | |
-|  2   | (COLOCAR DECRIÇÃO DO ITEM 2 AQUI) | (COLOCAR VERSÃO AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)|  |   |  |
-|  3   | (COLOCAR DECRIÇÃO DO ITEM 3 AQUI) | (COLOCAR VERSÃO AQUI)| (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME) | |  | 
-|  4   | (COLOCAR DECRIÇÃO DO ITEM 4 AQUI) | (COLOCAR VERSÃO AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)  | | | |
-|  5   | (COLOCAR DECRIÇÃO DO ITEM 5 AQUI) | (COLOCAR VERSÃO AQUI)| (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)  | | |  |
-<p style="text-align: center">Tabela (COLQUE O NUMERO DA TABELA AQUI): (COLOQUE O TÍTULO DA TABELA AQUI)</p>
-<p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p>
+|  1   | Nas avaliações, foi apresentado ao entrevistado um termo de consentimento? | 1.0 | Sim | |
+|  2   | Foram relatados todos os tópicos que deveriam ter sido incluidos no planejamento dos relatos? | 1.0 | Não necessário|  |   |  |
+|  3   | Foram coletadas opiniões dos entrevistados acerca da avaliação? Esses feedbacks, sugestões ou correções estão relatados? | 1.0| Sim | |  | 
+|  4   | Foi realizado um trabalho de análise e intepretação dos dados coletados? Essa análise está relatada e alinhado com o método que foi definido? | 1.0 | Sim  | | | |
 
-<iframe width="560" height="315" 
+<p style="text-align: center">Tabela Tabela 1: Resultado checklist</p>
+<p style="text-align: center">Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711), 2024</p>
+
+<!-- <iframe width="560" height="315" 
 src="(COLOQUE O LINK EMBED AQUI)" 
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -133,3 +131,4 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
 | `2.0`   | 26/06/2024 | Criação da lista de verificação do Relato de Resultados do Storyboard                      | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
+| `3.0`   | 26/06/2024 | Adicionanado checklist feito                      | [Lucas Avelar](https://github.com/LucasAvelar2711)) |   |
