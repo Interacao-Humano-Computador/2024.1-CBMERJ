@@ -74,6 +74,25 @@ A criação da lista de verificação será conduzida pelo integrante [Genilson 
     <p style="text-align: center">Figura 5: Questionamento sobre habilidade da persona</p>
 
 ## Resultado do Checklist
+
+### Persona 1: Lygia Araujo - Revisor: Pedro Henrique
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | A persona possui dados básicos como identificação, foto representativa, frase que capture a essencia? | 1.0 | Incompleto | Ausência de frase que capture a essência | Colocar uma frase para Lygya |  |
+|  2   | A persona possui contexto de uso (ambiente físico onde realiza as tarefas, equipamentos utilizados, frequência de uso da tecnologia)? | 1.0 | Não | Ausência de ambiente físico, equipamentos e frequência de uso da tecnologia | Adicionar os itens descritos anteriormente  | Possui uma biografia, mas não exatamente um contexto de uso.|
+|  3   | A persona possui status adequado (definição de persona primária, secundária, anti persona e/ou suas características)? | 1.0 | Conforme |  |  | Está adequado |
+|  4   | A persona possui objetivos claros? | 1.0 | Conforme  | | Trocar "Motivação" ou "Expecativa" por "Objetivos"| Tem motivação e expecativa, mas não especificamente que qual o objetivo concreto |
+|  5   | A persona possui suas habilidades bem definidas? | 1.0 | Não  | Ausência das habilidades da persona | Adicionar um tópico, assim como as habilidade da Lygia |  |
+
+<p style="text-align: center">Fonte: Pedro Henrique, 2024</p>
+
+### Inspeção - Persona Primária (Revisor: Pedro Henrique)
+Foi conduzida uma inspeção do checklist acima da persona primária Lygia por meio de um vídeo. Segue abaixo, para visualizar a inspeção realizada:
+
+[Link para o vídeo da inspeção da persona 1 (Lygia)](https://www.youtube.com/watch?v=1Ary5uo-4IQ)
+
+<iframe width="882" height="496" src="https://www.youtube.com/embed/1Ary5uo-4IQ" title="Verificacao Personas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  
 ## Conclusão
 
@@ -89,3 +108,4 @@ A criação da lista de verificação será conduzida pelo integrante [Genilson 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)  |
 | `2.0`   | 26/06/2024 | Adição do Checklist                   | [Genilson Silva](https://github.com/GenilsonJrs) |   |
+| `3.0`   | 26/06/2024 | Adição da verificação da Persona Primária                   | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
