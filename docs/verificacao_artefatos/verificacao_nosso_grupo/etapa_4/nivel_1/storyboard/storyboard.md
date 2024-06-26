@@ -75,7 +75,7 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 <p style="text-align: center">Vídeo 2: Verificação do Storyboard Solicitar ficha de atendimento .</p>
 <p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
-### Funcionalidade: Compartilhamento de Trajeto - Revisor: Pedro Henrique 
+### Funcionalidade: = - Revisor: Pedro Henrique 
 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
@@ -98,7 +98,33 @@ Fonte: autor, 2024.
 </center>
 
 
-### Funcionalidade: Comprar passagem - Revisora: Bruna Lima
+### Funcionalidade: Checar e Gerar Certificado - Revisora: Bruna Lima
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | Aprensenta as quatro características principais de um storyboard: o cenário, as atividades, os visuais e a história?  | 1.6 | conforme |  |  | |
+|  2   | Outros elementos-chave, como personagens, enredo, diálogo e dicas visuais, foram incluídos no storyboard? | 1.6 | Conforme |  |  | Apresenta todos os elementos, mas poderiam ser melhor explorados. |
+|  3   | Os desenhos do storyboard são simples e claros? | 1.6 | Conforme |  |  | |
+|  4   | É possível confirmar que o storyboard criado não possui cenas/imagens do produto final? | 1.6 | Conforme  |  |  | |
+|  5   | O storyboard consegue transmitir a ideia de uso da funcionalidade em um contexto real? | 1.6 | Conforme |  | |
+
+<p style="text-align: center">Tabela 4: Verificação do Storyboard Checar e Gerar Certificado. </p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
+**A gravação da verificação encontra-se abaixo:**
+
+<center>
+
+[Link para o vídeo da apresentação](https://youtu.be/rp8WlU0hI1g)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rp8WlU0hI1g?si=xZdsyUAetdUiklfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Video 4: Verificação do storyboard da funcionalidade de Checar e Gerar Certificado.</p>
+Fonte: Bruna Lima, 2024.
+
+</center>
+
+### Funcionalidade: - Revisor: Genilson Silva
 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
@@ -120,29 +146,7 @@ Fonte: autor, 2024.
 
 </center>
 
-### Funcionalidade: Rastreamento de ônibus em tempo real - Revisor: Genilson Silva
-
-| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
-| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   |  | | |  |  | |
-
-<p style="text-align: center">Tabela numero: .</p>
-<p style="text-align: center">Fonte: autor, 2024</p>
-
-**A gravação da verificação encontra-se abaixo:**
-
-<center>
-
-[Link para o vídeo da apresentação]()
-
-<!-- iframe aqui-->
-
-<p>Vídeo numero: .</p>
-Fonte: autor, 2024.
-
-</center>
-
-### Funcionalidade: Histórico de passagens compradas - Revisor: Lucas Aevlar
+### Funcionalidade:  - Revisor: Lucas Aevlar
 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
@@ -176,3 +180,4 @@ Fonte: autor, 2024.
 | ------ | :----: | ---------- | --------- | ----------- |
 | `1.0`   | 25/06/2024 | Criação da página e adição do checklist | [Bruna Lima](https://github.com/libruna) |   |
 | `2.0`   | 26/06/2024 | Adição do checklist do storyboard primeiros socorros  | [Daniela Alarcão](https://github.com/danialarcao) |   |
+| `3.0`   | 26/06/2024 | Adição do checklist do storyboard checar e gerar certificado  | [Bruna Lima](https://github.com/libruna) |   |
