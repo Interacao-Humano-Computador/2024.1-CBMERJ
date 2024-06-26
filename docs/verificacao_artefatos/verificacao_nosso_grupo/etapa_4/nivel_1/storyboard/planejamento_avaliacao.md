@@ -7,7 +7,7 @@ Nesse contexto, apresentamos a verificação do Planejamento da Avaliação do S
 Considerando o método definido no planejamento, a verificação ocorrerá por meio da inspeção. 
 
 ### Participantes
-A [Bruna Lima](https://github.com/libruna) foi responsável pela elaboração da lista de verificação, enquanto a [Daniela Alarcão](https://github.com/danialarcao) ficou responsável pela revisão do artefato.
+A [Bruna Lima](https://github.com/libruna) ficou responsável pela elaboração da lista de verificação, a [Mariana Letícia](https://github.com/Marianannn) ficou responsável pela revisão da lista e a [Daniela Alarcão](https://github.com/danialarcao) ficou responsável pela revisão do artefato.
 
 ### Checklist: Planejamento da avaliação do Storyboard
 A lista de verificações abaixo detalha os aspectos que serão analisados durante a verificação do artefato, com suas respectivas fontes e imagens de referência.

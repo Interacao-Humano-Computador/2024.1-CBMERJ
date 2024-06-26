@@ -1,78 +1,16 @@
 ## Introdução
+A verificação é uma etapa crítica no desenvolvimento de software, com o objetivo de garantir sua qualidade e desempenho adequado.
 
+Nesse contexto, apresentamos a verificação do Planejamento da Avaliação do Storyboard do [Grupo 07](https://interacao-humano-computador.github.io/2024.1-CBMERJ) (Corpo de Bombeiros Militar do Estado do Rio de Janeiro).</p>
 
 ## Metodologia
-
+Considerando o método definido no planejamento, a verificação ocorrerá por meio da inspeção.
 
 ### Participantes
+A [Bruna Lima](https://github.com/libruna) ficou responsável pela elaboração da lista de verificação, a [Mariana Letícia](https://github.com/Marianannn) ficou responsável pela revisão da lista e o [Pedro Henrique](https://github.com/PedroHhenriq) ficou responsável pela revisão do artefato.
 
 ### Checklist: Características Gerais
-<!-- template de checklist -->
-<!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
-    - **Fonte:** 
-    - **Imagem:**
-    <br>
 
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 1: (COLOCAR A DESCRIÇÃO DA PERGUNTA QUI)</p>
-
-- **Item 2:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (COLOCAR FONTE AQUI)
-    - **Imagem:** 
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 2: (COLOCAR A LEGENDA AQUI)</p>
-
-
-- **Item 3:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (COLOCAR FONTE AQUI)
-    - **Imagem:**
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 3: (COLOCAR A LEGENDA AQUI)</p>
-
-- **Item 4:** 
-    - **Fonte:** 
-    - **Imagem:**
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 4: (COLOCAR A LEGENDA AQUI)</p>
-
-- **Item 5:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (INSERIR FONTE)
-    - **Imagem:**
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 5: (COLOCAR LEGENDA AQUI)</p> -->
 
 ## Resultado do Checklist
  <!-- template de VERIFICAÇÃO -->
@@ -108,3 +46,4 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `2.0`   | 25/06/2024 | Adição do checklist                        | [Bruna Lima](https://github.com/libruna) |   |

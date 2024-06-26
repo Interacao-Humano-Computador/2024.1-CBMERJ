@@ -7,7 +7,7 @@ Nesse contexto, apresentamos a verificação do Planejamento da Avaliação do S
 Considerando o método definido no planejamento, a verificação ocorrerá por meio da inspeção. 
 
 ### Participantes
-Para este artefato, cada membro do Grupo 07 irá avaliar um storyboard de uma funcionalidade desenvolvido por outro integrante do grupo.
+A [Bruna Lima](https://github.com/libruna) ficou responsável pela elaboração da lista de verificação, enquanto a [Mariana Letícia](https://github.com/Marianannn) ficou responsável pela revisão da lista. Além disso, para a verificação deste artefato, cada membro do Grupo 07 irá avaliar um storyboard de uma funcionalidade desenvolvido por outro integrante do grupo.
 
 ## Checklist: Storyboard
 A lista de verificações abaixo detalha os aspectos que serão analisados durante a verificação do artefato, com suas respectivas fontes e imagens de referência.
