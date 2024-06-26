@@ -52,28 +52,27 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
     - **Imagem:** ![](img/planejamento_item_8.png)
 <p align="center">Imagem 8 - Destaque no livro sobre o teste piloto. </p>
 
-## Resultado do Checklist
- <!-- template de VERIFICAÇÃO -->
-
-<!-- 
+## Resultado do Checklist 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   | (COLOCAR DECRIÇÃO DO ITEM 1 AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME) |  | |
-|  2   | (COLOCAR DECRIÇÃO DO ITEM 2 AQUI) | (COLOCAR VERSÃO AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)|  |   |  |
-|  3   | (COLOCAR DECRIÇÃO DO ITEM 3 AQUI) | (COLOCAR VERSÃO AQUI)| (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME) | |  | 
-|  4   | (COLOCAR DECRIÇÃO DO ITEM 4 AQUI) | (COLOCAR VERSÃO AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)  | | | |
-|  5   | (COLOCAR DECRIÇÃO DO ITEM 5 AQUI) | (COLOCAR VERSÃO AQUI)| (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)  | | |  |
-<p style="text-align: center">Tabela (COLQUE O NUMERO DA TABELA AQUI): (COLOQUE O TÍTULO DA TABELA AQUI)</p>
-<p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p>
+|  1   | O planejamento descreve os objetivos da avaliação, por que e para quem tais objetivos são importantes? | 5.0 | Incompleta | Está faltando descrever para quem os objetivos são importantes.  | |
+|  2   | O planejamento explora as perguntas específicas de cada objetivo definido?| 5.0 | Completa |  |   |  |
+|  3   | O planejamento determina os métodos a serem utilizados na avaliação considerando o prazo, orçamento, equipamentos e experiência dos avaliadores?| 5.0 | Incompleta | Falta um maior detalhamento da escolha do método |  | 
+|  4   | O planejamento justifica para o método adotado, a escolha do perfil e o número de participantes?| 5.0 | Incompleta  | O planejamento não justifica a escolha do perfil e o número de participantes | | |
+|  5   | O planejamento aborda questões práticas da avaliação, como o recrutamento dos usuários, a preparação e o uso dos equipamentos, os prazos, o orçamento disponível e a mão-de-obra para conduzir as avaliações?| 5.0 | Incompleta  | Falta um maior detalhamento acerca das questões práticas | |  |
+|  6   | O planejamento descreve como lidar com as questões éticas?| 5.0 | Completa  | | |  |
+|  7   | O planejamento descreve como o grupo irá avaliar, interpretar e apresentar os dados?| 5.0| Completa |  | Deixar mais claro que o tópico "E - Explorar dados" aborda avaliação, interpretação e apresentação dos dados|  |
+|  8   | O documento inclui um planejamento para a realização do teste piloto?| 5.0| Completa  | | |  |
+<p style="text-align: center">Tabela 1: Checklist do Planejamento da Avaliação do StoryBoard</p>
+<p style="text-align: center">Fonte: Daniela Alarcão, 2024</p>
 
-<iframe width="560" height="315" 
-src="(COLOQUE O LINK EMBED AQUI)" 
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Verificação do artefato
 
-<p style="text-align: center">Vídeo (COLOQUE O NUMERO DO VÍDEO AQUI): (COLOQUE O TÍTULO DO VÍDEO AQUI).</p>
-<p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p> -->
+[Link para o vídeo da verificação do artefato](https://youtu.be/EUzhroXBy64?si=1zrh3kYMz_3vpRIf)
 
-## Conclusão
+<iframe width="853" height="480" src="https://www.youtube.com/embed/EUzhroXBy64?si=EKbML4Ta4jTsJyaq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p style="text-align: center">Vídeo 1: Verificação de artefato</p>
+<p style="text-align: center">Fonte: Daniela Alarcão, 2024</p>
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
@@ -88,3 +87,5 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
 | `2.0`   | 25/06/2024 | Adição do checklist | [Bruna Lima](https://github.com/libruna) |   |
+| `3.0`   | 26/06/2024 | Resultado do checklist | [Daniela Alarcão](https://github.com/danialarcao) |   |
+| `4.0`   | 26/06/2024 | Adição de vídeo verificando artefato | [Daniela Alarcão](https://github.com/danialarcao) |   |
