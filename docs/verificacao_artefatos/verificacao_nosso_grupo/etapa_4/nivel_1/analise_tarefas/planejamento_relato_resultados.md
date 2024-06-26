@@ -131,5 +131,5 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `2.0`   | 26/06/2024 | Criação da lista de verificação do Planejamento de Relato de Resultados da Analise de Tarefas                   | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
+| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Genilson Silva](https://github.com/GenilsonJrs) |
+| `2.0`   | 26/06/2024 | Criação da lista de verificação do Planejamento de Relato de Resultados da Analise de Tarefas                   | [Pedro Henrique](https://github.com/PedroHhenriq) | [Genilson Silva](https://github.com/GenilsonJrs)  |

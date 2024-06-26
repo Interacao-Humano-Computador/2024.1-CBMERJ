@@ -129,6 +129,6 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `2.0`   | 26/06/2024 | Criação da lista de verificação do Relato de Resultados do Storyboard                      | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
-| `3.0`   | 26/06/2024 | Adicionanado checklist feito                      | [Lucas Avelar](https://github.com/LucasAvelar2711) |   |
+| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Genilson Silva](https://github.com/GenilsonJrs) |
+| `2.0`   | 26/06/2024 | Criação da lista de verificação do Relato de Resultados do Storyboard                      | [Pedro Henrique](https://github.com/PedroHhenriq) |   [Genilson Silva](https://github.com/GenilsonJrs)|
+| `3.0`   | 26/06/2024 | Adicionanado checklist feito                      | [Lucas Avelar](https://github.com/LucasAvelar2711) |  [Genilson Silva](https://github.com/GenilsonJrs) |
