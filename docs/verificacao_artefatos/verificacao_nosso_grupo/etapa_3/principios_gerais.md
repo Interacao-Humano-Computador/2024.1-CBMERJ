@@ -5,7 +5,7 @@
 <p style="text-align: justify;"> O método escolhido para a verificação é o de inspeção. Este método permite uma análise minuciosa dos artefatos, envolvendo uma equipe de revisores que trazem diferentes perspectivas, aumentando a probabilidade de detectar problemas. Esse método também facilita a documentação dos achados, permitindo um acompanhamento detalhado das correções necessárias. </p> </p>
 
 ### Participantes
-<p style="text-align: justify;"> A integrante <strong>Daniela Alarcão</strong> é a responsável pela elaboração da lista de verificação dos princípios gerais da etapa 3. A revisão deste artefato ficará na responsabilidade do integrante <strong>Pedro Henrique.</strong></p>
+<p style="text-align: justify;"> A integrante <strong>Daniela Alarcão</strong> é a responsável pela elaboração da lista de verificação dos princípios gerais da etapa 3. A verificação deste artefato é de responsabilidade do integrante <strong>Pedro Henrique.</strong> A revisão do checklist é de responsabilidade do integrante <strong>Lucas Avelar</strong>.</p>
 
 ### Template de Checklist: Princípios Gerais
 - **Item 1:** A fim de corresponder com as expectativas do usuário, os princípios gerais do projeto se preocupam em seguir as convenções do mundo real, garantindo que as informações apareçam em uma ordem natural e lógica? 

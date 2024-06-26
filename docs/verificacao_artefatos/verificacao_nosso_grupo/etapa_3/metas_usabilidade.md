@@ -5,7 +5,7 @@
 <p style="text-align: justify;"> O método escolhido para a verificação é o de inspeção. Este método permite uma análise minuciosa dos artefatos, envolvendo uma equipe de revisores que trazem diferentes perspectivas, aumentando a probabilidade de detectar problemas. Esse método também facilita a documentação dos achados, permitindo um acompanhamento detalhado das correções necessárias. </p> </p>
 
 ### Participantes
-<p style="text-align: justify;"> A integrante <strong>Daniela Alarcão</strong> é a responsável pela elaboração da lista de verificação das metas de usabilidade da etapa 3. A revisão deste artefato ficará na responsabilidade do integrante <strong>Genilson Silva.</strong></p>
+<p style="text-align: justify;"> A integrante <strong>Daniela Alarcão</strong> é a responsável pela elaboração da lista de verificação das metas de usabilidade da etapa 3. A verificação deste artefato é de responsabilidade do integrante <strong>Genilson Silva.</strong> A revisão do checklist é de responsabilidade do integrante <strong>Lucas Avelar</strong>.</p>
 
 ### Template de Checklist: Metas de Usabilidade
 - **Item 1:** A facilidade de aprendizado é uma das metas de usabilidade? O objetivo desta meta está bem explicado? 
