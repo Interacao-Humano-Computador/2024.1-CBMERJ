@@ -67,7 +67,9 @@ Renato Figueiredo, morador do Rio de Janeiro há 40 anos, recentemente ficou res
 <br><br>
 Renato então acessa o site e conclui no tempo estimado o curso de primeiros socorros, sentindo finalmente a segurança sobre o que fazer com sua avó caso algo ocorra com ela.
 
-### Cenário 5: Curso do Corpo de Bombeiros 2 
+### Cenário 5: Curso do Corpo de Bombeiros - Acidentes Domiciliares
+
+Juliana Cláudia da Silva Pereira é uma dona de casa carioca de 53 anos que recentemente quase sofreu um acidente doméstico no qual envolvia um vazamento de gás no fogão. Quando aconteceu essa situação, ela ficou assustada porém teve amparo de seus familiares para a ajudar a resolver o problema em questão. <br> <br> Seu filho acaba a informando que para evitar esse tipo de situação, ela poderia fazer o curso de acidentes domiciliares que o corpo de bombeiros do estado do Rio de Janeiro oferecia em seu site. Sendo assim, ela conseguiu acessar o site no computador de sua casa, e visualizou o curso de acidentes domiciliares e prontamente começou a fazer. Ela conseguiu concluir o curso depois de alguns dias e por fim finalmente se sentiu satisfeita e segura para lidar com os perigos dos equipamentos.
 
 
 
