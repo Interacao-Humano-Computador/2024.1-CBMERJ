@@ -110,15 +110,15 @@ O responsável pela criação da lista de verificação desse artefato será o [
 <p style="text-align: center">Tabela Tabela 1: Resultado checklist</p>
 <p style="text-align: center">Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711), 2024</p>
 
-<!-- <iframe width="560" height="315" 
-src="(COLOQUE O LINK EMBED AQUI)" 
+ <iframe width="560" height="315" 
+src="https://www.youtube.com/embed/4RH8YPsD1tE?si=tHWQm02G7UAd9dsy"
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p style="text-align: center">Vídeo (COLOQUE O NUMERO DO VÍDEO AQUI): (COLOQUE O TÍTULO DO VÍDEO AQUI).</p>
-<p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p> -->
+<p style="text-align: center">Vídeo 1: Relato desultados storyboard.</p>
+<p style="text-align: center">Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711), 2024</p> 
 
 ## Conclusão
-
+ Com os fatos expostos acima coclui-se que está completo.
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
 
@@ -131,4 +131,4 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
 | `2.0`   | 26/06/2024 | Criação da lista de verificação do Relato de Resultados do Storyboard                      | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
-| `3.0`   | 26/06/2024 | Adicionanado checklist feito                      | [Lucas Avelar](https://github.com/LucasAvelar2711)) |   |
+| `3.0`   | 26/06/2024 | Adicionanado checklist feito                      | [Lucas Avelar](https://github.com/LucasAvelar2711) |   |
