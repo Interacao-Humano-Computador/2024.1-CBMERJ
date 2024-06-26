@@ -67,8 +67,8 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 <p style="text-align: center">Tabela 2: Verificação do Storyboard Solicitar ficha de atendimento </p>
 <p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
-<center
->
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BgJfh32HxXI?si=aXogi0SZ-aYCFryP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>

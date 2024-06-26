@@ -164,7 +164,11 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 <p style="text-align: center">Tabela 1: Tabela de verificação de checklist da análise de tarefa Solicitar ficha de atendimento </p>
 <p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-TokPA8pGXU?si=-H-M6LWiTKA5eKzy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 <p style="text-align: center">Vídeo 1: Verificação da análise de tarefa Solicitar ficha de atendimento .</p>
 <p style="text-align: center">Fonte: Mariana Letícia, 2024</p>

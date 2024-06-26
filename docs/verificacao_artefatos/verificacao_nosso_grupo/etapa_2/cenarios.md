@@ -149,10 +149,16 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 <p style="text-align: center">Tabela 2: Verificação do Cenário Solicitar ficha de atendimento </p>
 <p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r7qgyzcD68Q?si=bg8PFN3m0kl1uyDu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 <p style="text-align: center">Vídeo 2: Verificação do Cenário Solicitar ficha de atendimento .</p>
 <p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
+
+
 
 
 <!--<iframe width="560" height="315" 
