@@ -30,8 +30,8 @@ gerenciar o trabalho de forma contínua, dando maior flexibilidade para que poss
 comunicação e capacidade de resposta às necessidades conforme o andamento do trabalho, características que identificamos fundamentais para um desenvolvimento satisfatório e adequado.
 
 ## Bibliografia
-> 1. Atlassian. Disponível em: <<https://www.atlassian.com/br/agile/kanban>>. Acesso em: 05 de abr. de 2024.
-> 2. Alura. Disponível em: <<https://www.alura.com.br/artigos/metodo-kanban>>. Acesso em: 05 de abr. de 2024.
+> - Atlassian. Disponível em: <<https://www.atlassian.com/br/agile/kanban>>. Acesso em: 05 de abr. de 2024.
+> - Alura. Disponível em: <<https://www.alura.com.br/artigos/metodo-kanban>>. Acesso em: 05 de abr. de 2024.
 
 ## Histórico de Versões
 

@@ -31,7 +31,7 @@ A construção das Personas deriva do perfil de usuário e de seus aspectos, que
 <p align="center">Figura 3 - Anti Persona (Criado pelo site: Uxpressia)  </p>
 
 ## Bibliografia
-> 1. UXPRESSION. Disponível em: <https://uxpressia.com/personas-online-tool>
+> UXPRESSION. Disponível em: <https://uxpressia.com/personas-online-tool>
 
 ## Histórico de Versões
 

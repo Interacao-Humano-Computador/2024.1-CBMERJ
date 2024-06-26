@@ -57,8 +57,12 @@
 </p>
 <p align="center">Figura 5: Excesso de links em uma das páginas sobre o concurso de bombeiros (Fonte: Autores)</p>
 
+- Um outro motivo da escolha do site CBMERJ, foi o fato do site em si ter potencial para possuir mais funcionalidades úteis aos próprios profissionais da área e aos cidadãos comuns também, em comparação a outros sites de bombeiro como exemplo, o [Corpo de Bombeiros do Distrito Federal](https://www.cbm.df.gov.br/). Este possui funcionalidades como: dicas de bombeiros, ouvidoria, suporte técnico, programas sociais, programas preventivos etc.
+
 [link para a avaliação detalhada](https://drive.google.com/file/d/1kQxBZX7ceb8yqGvYbOTTB9pGGsW2FqH7/view?usp=sharing)
 
+## Bibliografia
+> IRLABR. Apostila de IHC: Usabilidade e suas metas. Disponível em: <https://irlabr.wordpress.com/apostila-de-ihc/6-usabilidade-e-suas-metas/#:~:text=As%20metas%20de%20usabilidade%20tratam,para%20o%20desenvolvimento%20do%20projeto>. Acesso em: 6 de abril de 2024.
 
 ## Histórico de Versões
 

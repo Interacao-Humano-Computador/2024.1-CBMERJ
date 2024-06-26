@@ -6,7 +6,7 @@
 
 ### Participantes
 
-### Template de Checklist: Relato dos Resultados da Análise de Tarefas 
+### Checklist: Relato dos Resultados da Análise de Tarefas 
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 

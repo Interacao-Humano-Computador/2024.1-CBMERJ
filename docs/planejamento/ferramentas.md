@@ -18,12 +18,12 @@
 
 
 ## Bibliografia
-1. GitHub. Disponível em: <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/">https://interacao-humano-computador.github.io/2024.1-CBMERJ/</a>. Acesso em: 08/04/2024
-2. WhatsApp. Disponível em: <a href="https://www.whatsapp.com/">https://www.whatsapp.com/</a>. Acesso em: 08/04/2024
-3. Notion. Disponível em: <a href="https://www.notion.so">https://www.notion.so</a>. Acesso em: 08/04/2024
-4. Google Planilhas. Disponível em: <a href="https://docs.google.com/login">https://docs.google.com/login</a> . Acesso em: 08/04/2024
-5. Visual Studio Code. Disponível em: <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a> . Acesso em: 08/04/2024
-6. Google Meet. Disponível em: <a href="https://workspace.google.com/products/meet/">https://workspace.google.com/products/meet/</a> . Acesso em: 08/04/2024
+>- GitHub. Disponível em: <a href="https://interacao-humano-computador.github.io/2024.1-CBMERJ/">https://interacao-humano-computador.github.io/2024.1-CBMERJ/</a>. Acesso em: 08/04/2024
+>- WhatsApp. Disponível em: <a href="https://www.whatsapp.com/">https://www.whatsapp.com/</a>. Acesso em: 08/04/2024
+>- Notion. Disponível em: <a href="https://www.notion.so">https://www.notion.so</a>. Acesso em: 08/04/2024
+>- Google Planilhas. Disponível em: <a href="https://docs.google.com/login">https://docs.google.com/login</a> . Acesso em: 08/04/2024
+>- Visual Studio Code. Disponível em: <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a> . Acesso em: 08/04/2024
+>- Google Meet. Disponível em: <a href="https://workspace.google.com/products/meet/">https://workspace.google.com/products/meet/</a> . Acesso em: 08/04/2024
 
 ## Histórico de Versões
 

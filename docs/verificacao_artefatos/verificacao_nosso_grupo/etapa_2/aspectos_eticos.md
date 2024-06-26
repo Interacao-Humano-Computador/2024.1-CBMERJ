@@ -6,7 +6,7 @@
 
 ### Participantes
 
-### Template de Checklist: Aspectos Éticos
+### Checklist: Aspectos Éticos
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 

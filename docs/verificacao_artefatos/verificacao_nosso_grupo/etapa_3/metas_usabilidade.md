@@ -6,7 +6,7 @@
 
 ### Participantes
 
-### Template de Checklist: Metas de Usabilidade
+### Checklist: Metas de Usabilidade
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 
