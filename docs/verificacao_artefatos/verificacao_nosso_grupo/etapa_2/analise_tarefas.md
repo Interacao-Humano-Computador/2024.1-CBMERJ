@@ -148,27 +148,25 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 ## Resultado do Checklist
 
 
-### Funcionalidade : Checar e Gerar Certificado - Revisora: Mariana Letícia
+### Funcionalidade: Solicitar ficha de atendimento  - Revisora: Mariana Letícia
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   | A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos, conforme é evidenciado na figura 1 a seguir? Esse objetivo também é representado pelo primeiro passo de execução de um HTA na figura 2. | 1.6 | CONFORME | |
-|  2   | foram implementados o segundo passo da execução de um HTA sendo ele: estabelecer uma ligação lógica entre os objetivos e as medidas de sucesso, mencionando quais seriam essas medidas de sucesso como está descrito na figura 3 a seguir? | 1.6 | CONFORME|  |   |  |
-|  3   | foram implementados os passos 3 e 4 do HTA, sendo o 3 se o HTA possui dados verossímeis que condizem com a funcionalidade analisada, e o 4 se houve uma decomposição de objetivos em subobjetivos em um diagrama ou tabela hierárquica contendo ações, feedbacks disparadas a partir dos objetivos como está descrito na figura 4 a seguir?| 1.6 |CONFORME |  | 
-|  4   | Segundo os passo 5, os dados foram coletados de usuários reais, garantindo a confiabilidade da análise como está descrito na figura 5 a seguir? | 1.6 | NÃO CONFORME  | | Adicionar se houve validação com usuário real | Não está descrito no documento se foi validado esse fluxo com usuários reais|
-|  5   | Segundo os passo 6, as operações se apresentam como significativas e de acordo com os objetivos como está descrito na figura 6 a seguir? | 1.6| CONFORME  | | | Elas são significativas porém parecem redundantes entre recente solicitados e disponíveis|
-|  6   | Segundo os passo 7, foram considerados erros humanos, e foram representados os diagramas como está descrito na figura 7 a seguir?  | 1.6| NÃO CONFORME  | não estao representados os erros humanos em tabela | |  |
-|  7   | Caso a análise tenha sido representada o HTA como uma das análises de tarefa, foram utilizados corretamente elementos como plano e operações - feedback, input etc. e uso correto das representações de elementos visuais do HTA tais como está ilustrado abaixo como está descrito na figura 8 a seguir?  | 1.6|  CONFORME |  | |  |
-|  8   | Caso a análise tenha sido representada pelo GOMS, está descrito os objetivos, operadores, métodos e regras de seleção, assim como está descrito na figura 9 a seguir? | 1.6| --  |-- | --| --  |
-|  9   | Caso a análise tenha sido representada pela Árvore de tarefas Concorrentes(CTT), foram representados corretamente as tarefas de usuário, sistema, iterativas e abstradas, como está conforma na figura 10 a seguir? | 1.6| CONFORME  | | |  |
-|  10   | Caso a análise tenha sido representada pela Árvore de tarefas Concorrentes(CTT), foram representados corretamente as relações entre elementos, como a ativação, ativação com passagem de informação, escolha, tarefas concorrentes, tarefas concorrentes e comunicantes, tarefas independentes, desativação e suspensão/retomada, como está evidente na figura 11 a seguir? | 1.6| NÃO CONFORME  | faltam ligações entre os usuários e os computadores | adicionar a ligação entre os usuários e os computadores com a relação correta |  |
-<p style="text-align: center">Tabela 1: Tabela de Verificação de Checar e Gerar Certificados</p>
+|  1   | A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos, conforme é evidenciado na figura 1 a seguir? Esse objetivo também é representado pelo primeiro passo de execução de um HTA na figura 2. |  1.6| conforme | | |
+|  2   | foram implementados o segundo passo da execução de um HTA sendo ele: estabelecer uma ligação lógica entre os objetivos e as medidas de sucesso, mencionando quais seriam essas medidas de sucesso como está descrito na figura 3 a seguir? | 1.6 | conforme|  |   |  |
+|  3   | foram implementados os passos 3 e 4 do HTA, sendo o 3 se o HTA possui dados verossímeis que condizem com a funcionalidade analisada, e o 4 se houve uma decomposição de objetivos em subobjetivos em um diagrama ou tabela hierárquica contendo ações, feedbacks disparadas a partir dos objetivos como está descrito na figura 4 a seguir?| 1.6 | conforme |  | 
+|  4   | Segundo os passo 5, os dados foram coletados de usuários reais, garantindo a confiabilidade da análise como está descrito na figura 5 a seguir? | 1.6| não conforme  |adicionar se aqueles dados para a funcionalidade foram validados com algum usuário | | não há indicios de que os dados para essa funcionalidade foram pegos de usuários reais|
+|  5   | Segundo os passo 6, as operações se apresentam como significativas e de acordo com os objetivos como está descrito na figura 6 a seguir? | 1.6| conforme  | | |  |
+|  6   | Segundo os passo 7, foram considerados erros humanos, e foram representados os diagramas como está descrito na figura 7 a seguir?  | 1.6| conforme | | | não há recomendações sobre o que o usuário deve fazer naquela etapa |
+|  7   | Caso a análise tenha sido representada o HTA como uma das análises de tarefa, foram utilizados corretamente elementos como plano e operações - feedback, input etc. e uso correto das representações de elementos visuais do HTA tais como está ilustrado abaixo como está descrito na figura 8 a seguir?  | 1.6| conforme  | | | o ultimo item não apresenta representação do objetivo, se ele é sequencial, de seleção ou em paralelo |
+|  8   | Caso a análise tenha sido representada pelo GOMS, está descrito os objetivos, operadores, métodos e regras de seleção, assim como está descrito na figura 9 a seguir? | 1.6| -  | -|- |-  |
+|  9   | Caso a análise tenha sido representada pela Árvore de tarefas Concorrentes(CTT), foram representados corretamente as tarefas de usuário, sistema, iterativas e abstradas, como está conforma na figura 10 a seguir? | 1.6| conforme  | | |  |
+|  10   | Caso a análise tenha sido representada pela Árvore de tarefas Concorrentes(CTT), foram representados corretamente as relações entre elementos, como a ativação, ativação com passagem de informação, escolha, tarefas concorrentes, tarefas concorrentes e comunicantes, tarefas independentes, desativação e suspensão/retomada, como está evidente na figura 11 a seguir? | 1.6| não conforme  | entre selecionar o tipo do requerimento e preencher a ficha de atendimento, seria necessário executar uma dessas tarefas antes da outra| adicionar simbolo >> ao invés do quadrado|  |
+<p style="text-align: center">Tabela 1: Tabela de verificação de checklist da análise de tarefa Solicitar ficha de atendimento </p>
 <p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/PalxLLIckFM?si=hyu61smPFkaXVKnu" 
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-TokPA8pGXU?si=-H-M6LWiTKA5eKzy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p style="text-align: center">Vídeo 1: Verificação da Funcionalidade Checar e Gerar Certificado.</p>
+<p style="text-align: center">Vídeo 1: Verificação da análise de tarefa Solicitar ficha de atendimento .</p>
 <p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
 
