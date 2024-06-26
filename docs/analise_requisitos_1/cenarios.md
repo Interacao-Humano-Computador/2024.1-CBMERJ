@@ -76,7 +76,9 @@ Juliana Cláudia da Silva Pereira é uma dona de casa carioca de 53 anos que rec
 
 ### Cenário 6: Checar e Gerar Certificado
 
-Jeferson Caminhos é um produtor de festas na Zona Sul do Rio de Janeiro. Faz dois meses que ele solicitou via site CBMERJ uma vistoria para autorizar um estabelecimento a poder fazer festas e gerar um certificado de comprovação. No início desses dois meses, de fato, o Corpo de Bombeiros foi até o local para a vistoria e essa primeira questão deu certo. O problema foi o fato de estar demorando demais para gerar esses certificados e Jeferson já tinha em mente alguns eventos para realizar na época do ano. Então Jeferson ficou preocupado e foi novamente ao site do CBMERJ para ver o que podia fazer. Na aba de checar e gerar certificado ele percebeu que poderia acompanhar a solicitação desse certificado e  
+Jeferson Caminhos é um produtor de festas na Zona Sul do Rio de Janeiro. Há dois meses, ele solicitou uma vistoria pelo site do CBMERJ para autorizar um estabelecimento a realizar festas e gerar um certificado de comprovação. No início desses dois meses, o Corpo de Bombeiros visitou o local para a vistoria, e essa etapa foi bem-sucedida. No entanto, o processo de geração dos certificados estava demorando demais, e Jeferson já tinha planejado alguns eventos para essa época do ano. Preocupado com a demora, ele decidiu acessar novamente o site do CBMERJ para verificar o status de sua solicitação.
+
+Na aba de "Checar e Gerar Certificado", Jeferson percebeu que poderia acompanhar o andamento de sua solicitação, visualizar os certificados disponíveis e baixá-los, caso estivessem prontos. Ele navegou pelo site, utilizando os recursos de filtragem e busca para encontrar rapidamente a sua solicitação. A interface era intuitiva e fornecia atualizações em tempo real sobre o status do certificado. Isso permitiu a Jeferson acompanhar cada etapa do processo, desde a solicitação inicial até a emissão do certificado final.
 
 ## Referências Bibliográficas
 
