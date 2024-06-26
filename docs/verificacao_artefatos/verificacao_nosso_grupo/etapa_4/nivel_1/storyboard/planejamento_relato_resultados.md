@@ -42,27 +42,17 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
 
 ## Resultado do Checklist
- <!-- template de VERIFICAÇÃO -->
-
-<!-- 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   | (COLOCAR DECRIÇÃO DO ITEM 1 AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME) |  | |
-|  2   | (COLOCAR DECRIÇÃO DO ITEM 2 AQUI) | (COLOCAR VERSÃO AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)|  |   |  |
-|  3   | (COLOCAR DECRIÇÃO DO ITEM 3 AQUI) | (COLOCAR VERSÃO AQUI)| (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME) | |  | 
-|  4   | (COLOCAR DECRIÇÃO DO ITEM 4 AQUI) | (COLOCAR VERSÃO AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)  | | | |
-|  5   | (COLOCAR DECRIÇÃO DO ITEM 5 AQUI) | (COLOCAR VERSÃO AQUI)| (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)  | | |  |
-<p style="text-align: center">Tabela (COLQUE O NUMERO DA TABELA AQUI): (COLOQUE O TÍTULO DA TABELA AQUI)</p>
-<p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p>
+|  1   | O relato dos resultados possui objetivos, método, numero e perfil dos usuários e avaliadores, sumário de dados coletados, interpretação e análise de dados, os problemas encontrados, e planejamento para reprojeto, assim como consta na figura 1 a seguir? | 2.0 | Conforme | |
+|  2   |  O relato dos resultados é claro, conciso, objetivo, replicável e formal como é evidente na figura 2 a seguir? | 2.0 | Conforme |  |   |  |
+<p style="text-align: center">Tabela 1 : Resultado de Checklist</p>
+<p style="text-align: center">Fonte: Daniela Alarcão, 2024</p>
 
-<iframe width="560" height="315" 
-src="(COLOQUE O LINK EMBED AQUI)" 
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/ncVxB96fsuE?si=O6Q-M3rUwMJk_kJP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p style="text-align: center">Vídeo (COLOQUE O NUMERO DO VÍDEO AQUI): (COLOQUE O TÍTULO DO VÍDEO AQUI).</p>
-<p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p> -->
-
-## Conclusão
+<p style="text-align: center">Vídeo 1: Verificação de artefato - planejamento do relato dos resultados do storyboard.</p>
+<p style="text-align: center">Fonte: Daniela Alarcão, 2024</p> 
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
@@ -73,3 +63,4 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
 | `2.0`   | 23/06/2024 | adicão de introdução e template de checklist do storyboard                          | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `3.0`   | 26/06/2024 | Verificação do artefato | [Daniela Alarcão](https://github.com/danialarcao) |   |
