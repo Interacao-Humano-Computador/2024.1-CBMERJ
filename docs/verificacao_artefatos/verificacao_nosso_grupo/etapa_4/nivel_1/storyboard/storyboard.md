@@ -54,27 +54,26 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 <p style="text-align: center">Tabela número: 1.</p>
 <p style="text-align: center">Fonte: Daniela Alarcão, 2024</p>
 
-### Funcionalidade: Acompanhar pedido de compra de passagem - Revisora: Mariana Letícia
+### Funcionalidade: Solicitar Ficha de Atendimento - Revisora: Mariana Letícia
 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   |  | | |  |  | |
+|  1   | Aprensenta as quatro características principais de um storyboard: o cenário, as atividades, os visuais e a história?  | 1.6 | conforme |  |  | |
+|  2   | Outros elementos-chave, como personagens, enredo, diálogo e dicas visuais, foram incluídos no storyboard? | 1.6 | conforme |  |  | |
+|  3   | Os desenhos do storyboard são simples e claros? | 1.6 | conforme |  |  | |
+|  4   | É possível confirmar que o storyboard criado não possui cenas/imagens do produto final? | 1.6 | conforme  |  |  | |
+|  5   | O storyboard consegue transmitir a ideia de uso da funcionalidade em um contexto real? |1.6 | conforme |  | |
 
-<p style="text-align: center">Tabela numero: .</p>
-<p style="text-align: center">Fonte: autor, 2024</p>
+<p style="text-align: center">Tabela 2: Verificação do Storyboard Solicitar ficha de atendimento </p>
+<p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
-**A gravação da verificação encontra-se abaixo:**
-
-<center>
-
-[Link para o vídeo da apresentação]()
-
-<!-- iframe aqui-->
-
-<p>Vídeo numero: .</p>
-Fonte: autor, 2024.
+<center
+>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BgJfh32HxXI?si=aXogi0SZ-aYCFryP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
+<p style="text-align: center">Vídeo 2: Verificação do Storyboard Solicitar ficha de atendimento .</p>
+<p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
 
 ### Funcionalidade: Compartilhamento de Trajeto - Revisor: Pedro Henrique 
 
