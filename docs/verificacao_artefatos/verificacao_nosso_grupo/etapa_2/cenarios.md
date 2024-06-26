@@ -139,6 +139,22 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 <p style="text-align: center">Tabela 1 : Verificação do cenário Primeiros Socorros</p>
 <p style="text-align: center">Fonte: Daniela Alarcão, 2024</p>
 
+### Cenário : Solicitar Ficha de atendimento - Revisora: Mariana Letícia
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   |  O cenário possui os seguintes 5 elementos abordado por Cooper (1999) na figura 1 a seguir: ciclo de vida de processo, segmentos de públicos, funções de produto, variantes de uma classe de situações de tarefa e métodos para realizar uma tarefa? | 3.0 | conforme | |
+|  2   | O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura 2? | 3.0 | conforme|  |   |  |
+|  3   | O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999) e a Figura 3 a seguir? | 3.0| conforme | |  | 
+|  4   | Os cenários respondem, segundo a figura 4 seguir, as perguntas: Por que? Como? O que é? | 3.0 | conforme  | | | |
+<p style="text-align: center">Tabela 2: Verificação do Cenário Solicitar ficha de atendimento </p>
+<p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r7qgyzcD68Q?si=bg8PFN3m0kl1uyDu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center">Vídeo 2: Verificação do Cenário Solicitar ficha de atendimento .</p>
+<p style="text-align: center">Fonte: Mariana Letícia, 2024</p>
+
+
 <!--<iframe width="560" height="315" 
 src="(COLOQUE O LINK EMBED AQUI)" 
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
