@@ -112,8 +112,7 @@ A criação da lista de verificação será conduzida pelo integrante [Pedro Hen
 <p align="center">Imagem 7 - Teste Piloto </p>
 
 ## Resultado do Checklist
- 
-<!-- 
+  
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
 |  1   | O contexto da avaliação da análise de tarefa está claramente definido, incluindo os objetivos da avaliação, aqueles que serão entrevistados, o motivo da avaliação e as tarefas que serão analisadas? | 1.0 | Sim | |
@@ -127,14 +126,14 @@ A criação da lista de verificação será conduzida pelo integrante [Pedro Hen
 <p style="text-align: center">Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711), 2024</p>
 
 <iframe width="560" height="315" 
-src="(COLOQUE O LINK EMBED AQUI)" 
+src="https://www.youtube.com/embed/qMGgOgjjdh4?si=9T4ruf8SjI4ok_rg"  
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p style="text-align: center">Vídeo (COLOQUE O NUMERO DO VÍDEO AQUI): (COLOQUE O TÍTULO DO VÍDEO AQUI).</p>
-<p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p> -->
+<p style="text-align: center">Vídeo Planejamento avaliação: Planejamneto avaliação.</p>
+<p style="text-align: center">Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711), 2024</p> >
 
 ## Conclusão
-
+ O grupo Apresentou bom rendimento e terá de revisar poucas coisas do artefato.
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
 
@@ -145,5 +144,6 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)  |
-| `2.0`   | 26/06/2024 | Criação da lista de verificação do Planjemento da Avaliação da Analise de Tarefas                       | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Genilson Silva](https://github.com/GenilsonJrs) |
+| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `2.0`   | 26/06/2024 | Criação da lista de verificação do Planjemento da Avaliação da Analise de Tarefas                       | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
+| `3.0`   | 26/06/2024 | Fazendo checklist                      | [Lucas Avelar](https://github.com/LucasAvelar2711) |   |
