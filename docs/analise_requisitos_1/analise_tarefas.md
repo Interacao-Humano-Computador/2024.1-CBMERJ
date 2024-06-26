@@ -212,22 +212,21 @@ Desta maneira, foram utilizadas duas das seguintes técnicas de analise de taref
 ![](img/Arvore_de_tarefa_concorrente_9.png)
 <p align="center">Figura 9 - Diagrama da Árvore de Tarefa Concorrente do "Catálogo Telefônico" (Fonte: Pedro Henrique, 2024). </p>
 
-### 6. Consulta de processos.
+### 6. Curso dos Bombeiros.
 
-O governo do Rio de janeiro está mudando seus processos do meio fisico (UPO) para o Digital (SEI-RJ)> No site dos bombeiros existe uma aba no rodapé do mesmo que mostra alguns links uteis para o usuário entre eles o link do UPO para consultar andamento de seu processo no meio fisico, mas o link da pagina nao redireciona para o endereço certo (Site UPO), Mas é uma funcionalidade muito interessante visto que muitos processo govrenamentais envolvem o corpo de bombeiros
+A proposta é adicionar ao site do corpo de bombeiros, uma funcionalidade de cursos para o cidadão, afim de democratizar o acesso a conhecimento e  ser algo que possam usar em suas vidas. Esse é um dos motivos da funcionalidade dar um certificado ao final da conclusão dos cursos, valido em todo o território nacional.
+
 
 Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes.
 
 |    Objetivos/Operações    |    Problemas e recomendações    |
 | :-----------------------: | ------------------------------- | 
-| 0. Consultar processos no estado do Rio de Janeiro. | **input:** Acessar o site do UPO.<br> **feedback:** Apresentar menu solicitanto informações.<br> **plano:** Exibir dados do atual processo e como vai o andamento.<br> **recomendação:** Corrigir endereço do link. | 
-| 1. Visualizar dados dos processos em andamento.  | **plano:** Exibir informações detalhadas sobre o mesmo, |
-| 2. Confirmar Dados e ser avisado pelo governo via e mail. | **ação:** Colocar seu e mail para receber atualizações. <br>**recomendação:** Editar ou melhorar encaminhamento de email, Alguns usuários reclamam que não são atualizazdas do processo.  |
-| 3. Integrar mais rapidamente a plataforma do SEI_RJ. | **plano:** Melhorar o acesso do cidadão a plataforma mais atualizada. <br>**recomendação:** Retirar link do do UPO do site por enquanto. |
-<p align="center">Tabela 5 - Análise hierárquica do sistema UPO pelo site do CBMRJ (Fonte: Lucas Avelar, 2024). </p>
+| 1. Fazer o curso. | **input:** Acessar o CB cursos.<br> **feedback:** Finalizar e receber o certificado.<br> **plano:** Democratizar conhecimento.<br> **recomendação:** Implementar funcionalidade. | 
+|
+<p align="center">Tabela 5 - Análise hierárquica do sistema CB cursos (Fonte: Lucas Avelar, 2024). </p>
 
 **Árvores de Tarefas Concorrentes:** A figura 10 apresenta a análise dessa tarefa, representada em diagrama, com o uso de Árvores de Tarefas Concorrentes. 
-![](img/UPO_BRJ.png)
+![](img/CB%20cursos.png)
 <p align="center">Figura 10 - Diagrama da Árvores de Tarefas Concorrentes de "Locais certificados" (Fonte: Lucas Avelar, 2024). </p>
 
 ## Bibliografia
