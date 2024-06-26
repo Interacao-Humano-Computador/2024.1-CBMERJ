@@ -11,7 +11,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
 ### Checklist: Cenários
 
-- **Item 1:** O cenário possui os seguintes 5 elementos abordado por Cooper (1999) na figura 1 a seguir: ciclo de vida de processo, segmentos de públicos, funções de produto, variantes de uma classe de situações de tarefa e métodos para realizar uma tarefa.
+- **Item 1:** O cenário possui os seguintes 5 elementos abordado por Cooper (1999) na figura 1 a seguir: ciclo de vida de processo, segmentos de públicos, funções de produto, variantes de uma classe de situações de tarefa e métodos para realizar uma tarefa?
     - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 176
     - **Imagem:** <br>
 
@@ -35,7 +35,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
     <p style="text-align: center">Figura 2: Imagem do livro citado acima descrevendo como deve ser um cenário</p>
 
-- **Item 3:** O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999) e a Figura 3 a seguir:
+- **Item 3:** O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999) e a Figura 3 a seguir?
     - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 172
     - **Imagem:** <br>
 

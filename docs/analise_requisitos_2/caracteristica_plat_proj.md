@@ -75,7 +75,7 @@ Utilizando o atalho "Ctrl + U" na tela inicial do site do Corpo de Bombeiros, fo
 
 ## Bibliografia
 
-> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> - BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
