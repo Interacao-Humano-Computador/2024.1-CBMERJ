@@ -112,18 +112,19 @@ A criação da lista de verificação será conduzida pelo integrante [Pedro Hen
 <p align="center">Imagem 7 - Teste Piloto </p>
 
 ## Resultado do Checklist
- <!-- template de VERIFICAÇÃO -->
-
+ 
 <!-- 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   | (COLOCAR DECRIÇÃO DO ITEM 1 AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME) |  | |
-|  2   | (COLOCAR DECRIÇÃO DO ITEM 2 AQUI) | (COLOCAR VERSÃO AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)|  |   |  |
-|  3   | (COLOCAR DECRIÇÃO DO ITEM 3 AQUI) | (COLOCAR VERSÃO AQUI)| (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME) | |  | 
-|  4   | (COLOCAR DECRIÇÃO DO ITEM 4 AQUI) | (COLOCAR VERSÃO AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)  | | | |
-|  5   | (COLOCAR DECRIÇÃO DO ITEM 5 AQUI) | (COLOCAR VERSÃO AQUI)| (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)  | | |  |
-<p style="text-align: center">Tabela (COLQUE O NUMERO DA TABELA AQUI): (COLOQUE O TÍTULO DA TABELA AQUI)</p>
-<p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p>
+|  1   | O contexto da avaliação da análise de tarefa está claramente definido, incluindo os objetivos da avaliação, aqueles que serão entrevistados, o motivo da avaliação e as tarefas que serão analisadas? | 1.0 | Sim | |
+|  2   | O objetivo da avaliação está de acordo com os interesses e necessidades dos usuários, estando em conformidade com os 4 principais aspectos:  Apropriação de tecnologia pelos usuários, ideias e alternativas de design, conformidade com um padrão e problemas na interação e na interface (Hix e Hartson, 1993; Rubin, 1994; Mack e Nielsen, 1994; Sharp et al., 2007)?** | 1.0 | Sim |  |   |  |
+|  3   | As perguntas que serão conduzidas na entrevista estão alinhadas com o(s) objetivo(s) definido(s)?** | 1.0| Sim | |  | 
+|  4   | É utilizado o Framework DECIDE conforme proposto por Sharp, Rogers e Preece (2007)?** | 1.0 | Sim | | | |
+|  5   | O planejamento também aborda aspectos práticos da avaliação como: Recrutamento dos participantes, a utilização dos equipamentos, a preparação, orçamento, prazos e mão-de-obra disponíveis?  | 1.0| Incompleto | | Revisar |  |
+|  6   | As perguntas desenvolvidas, assim como o planejamento, estão de acordo com o perfil do usuário que foi estabelecido previamente? | 1.0| Sim  | | |  |
+|  7   | É estabelecido um teste piloto no planejamento que foi realizado antes da avaliação? | 1.0| Sim | | |  |
+<p style="text-align: center">Tabela 1: Resultado Checklist</p>
+<p style="text-align: center">Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711), 2024</p>
 
 <iframe width="560" height="315" 
 src="(COLOQUE O LINK EMBED AQUI)" 

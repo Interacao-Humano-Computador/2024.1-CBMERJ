@@ -33,10 +33,10 @@ O responsável por criar e desenvolver a lista de verificação desse artefato s
 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   | O objetivo do estudo e como será conduzido está claramente definido? | 1.0 | Conforme |  | |
-|  2   | O termo de consentimento possui uma clara declaração de consentimento, informação sobre voluntariedade e definição de como os dados serão utilizados? | 1.0 | Conforme |  |  | |
-|  3   | É citado procedimentos para proteger a privacidade dos dados coletados? | 1.0 | Conforme |  | |
-|  4   | O documento elicita e busca cumprir diante das diretrizes os principios da autonomia, beneficência, não maleficência, e justiça e equidade? | 1.0 | Conforme |  | |
+|  1   |Nas avaliações, foi apresentado ao entrevistado um termo de consentimento? | 1.0 | Conforme |  | |
+|  2   |Foram relatados todos os tópicos que deveriam ter sido incluidos no planejamento dos relatos? | 1.0 | Conforme |  |  | |
+|  3   |Foram coletadas opiniões dos entrevistados acerca da avaliação? Esses feedbacks, sugestões ou correções estão relatados? | 1.0 | Conforme |  | |
+|  4   | Foi realizado um trabalho de análise e intepretação dos dados coletados? Essa análise está relatada e alinhado com o método que foi definido? | 1.0 | Conforme |  | |
 
 </center>
 <p style="text-align: center">Tabela 1: Checklist </p>
