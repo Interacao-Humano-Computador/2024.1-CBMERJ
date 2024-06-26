@@ -187,8 +187,8 @@ Logo baixo, há a figura 6 a qual demonstra a tabela 3 acima de modo visual:
 
 <br>
 
-### 5. Acesso ao Catálogo Telefônico
-<p style="text-align: justify;"> O catálogo telefônico é uma funcionalidade que refere-se a disponibilização e apresentação de uma lista telefônica das unidades do CBM do estado.
+### 5. Curso CBMERJ - Acidentes Domicilares
+<p style="text-align: justify;"> O Cursos CBMERJ - Acidentes domiciliares é uma funcionalidade que introduz um curso de Acidentes Domiciliares para o site do CBMRJ. 
 
 Desta maneira, foram utilizadas duas das seguintes técnicas de analise de tarefas (Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes), conforme pode ser visto abaixo: </p>
 
@@ -196,21 +196,37 @@ Desta maneira, foram utilizadas duas das seguintes técnicas de analise de taref
 
 |    Objetivos/Operações    |    Problemas e recomendações    |
 | :-----------------------: | ------------------------------- | 
-| 0. Acessar ao Catálogo Telefônico 1>2 | **input:** Acessar o menu "Contato" na tela inicial.<br> **feedback:** Carregar a página catálago telefônico <br> **plano:** Apresentar uma lista telefônica <br> **recomendação:** Implementar filtros para encontrar unidades de forma mais rápida. | 
-| 1. Visualizar lista telefônica  | **plano:** Exibir uma lista com informações telefônicas com dados de OBM, Seção, Telefone e Endereço respectivo de cada unidade. |
-| 2. Baixar conteúdo 1/2 | **ação:** Disponibilizar o catálogo para download. <br>**recomendação:** Assegurar que a lista esteja sempre com dados atualizados.  |
-| 2.1 Baixar lista telefônica |  |
-| 2.2 Baixar contatos móveis do CBMERJ |   |
+| 0. Realizar o curso do CBMERJ | **input:** Acessar ao site CBMERJ. <br> **feedback**: Carregar a página inicial do Corpo de Bombeiros. <br> **plano**: Realizar o curso do Corpo de Bombeiros | 
+| 1. Acessar aos Cursos 1>2  | |
+| 1.2 Acesso à página de cursos | **Plano**: Acessar a página de cursos do CBMERJ
+Ação: Selecionar a aba “Cursos EAD” no menu suspenso do site |
+| 2. Realização do Login 1/2 | **Plano**: Acessar a área de login ou realizar um novo cadastro.  |
+| 2.1 Inserir credenciais | **Ação**: Digitar o nome de usuário e senha fornecidos  |
+| 2.2 Fazer cadastro | **Ação**: Preencher um formulário de cadastro com informações pessoais. |
+| 3. Acesso às páginas e módulos do curso 1/2 | |
+| 3.1 Escolher o curso designado | **Plano**: Encontrar e selecionar o curso desejado na lista de cursos disponíveis. <br> **Ação**: Navegar pelas opções de cursos ou usar a barra de pesquisa para encontrar o curso. |
+| 4. Interagir 1+2 | |
+| 4.1 Suporte Técnico e Tutoria | **Plano**: Obter assistência técnica ou orientação adicional, se necessário. <br>
+**Ação**: Enviar um formulário para o suporte técnico ou usar o chat ao vivo para entrar em contato com um tutor. |
+| 4.2 Participação de Fóruns e Discussões | **Plano**: Envolvimento em discussões online com instrutores e outros participantes. |
+| 5. Aprender 1+2 | |
+| 5.1 Acesso às aulas e conteúdos | |
+| 5.2 Download do Material de Apoio | **Plano**: Acesso a documentos, guias ou vídeos adicionais relacionados ao curso.<br> **Ação**: Clicar em links de download ou acessar seções específicas do site para encontrar recursos complementares.|
+| 6. Avaliar o desempenho e rendimento 1>2 | |
+| 6.1 Realização de Teste e Avaliações | **Ação**: Responder a perguntas de múltipla escolha ou realizar atividades práticas para avaliar o aprendizado. |
+| 7. Concluir Curso  1>2 | |
+| 7.1 Realização do Teste Final | **Plano**: Conclusão de uma avaliação final para demonstrar o conhecimento adquirido. <br> **Ação**: Responder a um teste final ou concluir uma atividade prática para avaliar as habilidades adquiridas. |
+| 7.2 Emissão de Certificado e Conclusão | **Ação**: Clicar em um botão para solicitar o certificado.|
 
-<p align="center"> Tabela 4 - Análise hierárquica do "Catálogo Telefônico" (Fonte: Pedro Henrique, 2024). </p>
+<p align="center"> Tabela 4 - Análise hierárquica do "Cursos CBMERJ - Acidentes domiciliares" (Fonte: Pedro Henrique, 2024). </p>
 
-![](img/Analise_hierarquica_de_tarefas_8.png)
-<p align="center"> Figura 8 - Diagrama de Análise hierárquica do "Catálogo Telefônico" (Fonte: Pedro Henrique, 2024). </p>
+![](img/AnaliseHierarq_Cursos_AD.png)
+<p align="center"> Figura 8 - Diagrama de Análise hierárquica do "Cursos Acidentes domiciliares" (Fonte: Pedro Henrique, 2024). </p>
 
-**Árvores de Tarefas Concorrentes:** A figura 9 apresenta uma representação do diagrama com a utilização da técnica de Árvores de Tarefas Concorrentes a partir da analise da tarefa "Catálogo Telefônico":
+**Árvores de Tarefas Concorrentes:** A figura 9 apresenta uma representação do diagrama com a utilização da técnica de Árvores de Tarefas Concorrentes a partir da analise da tarefa "Curso CBMERJ - Acidentes Domiciliares":
 
-![](img/Arvore_de_tarefa_concorrente_9.png)
-<p align="center">Figura 9 - Diagrama da Árvore de Tarefa Concorrente do "Catálogo Telefônico" (Fonte: Pedro Henrique, 2024). </p>
+![](img/CTT_Cursos_AD.png)
+<p align="center">Figura 9 - Diagrama da Árvore de Tarefa Concorrente do "Cursos - Acidente Domiciliares" (Fonte: Pedro Henrique, 2024). </p>
 
 ### 6. Curso dos Bombeiros.
 
@@ -243,3 +259,4 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 | `1.4`   | 06/05/2024 | Adição da tarefa "Locais certificados"                    | [Daniela Alarcão](https://github.com/danialarcao) | [Bruna Lima](https://github.com/libruna)         |
 | `1.5`   | 06/05/2024 | Adição da tarefa 5 "Catálogo Telefônico"                    | [Pedro Henrique](https://github.com/PedroHhenriq) | [Genilson Silva](https://github.com/GenilsonJrs)        |
 | `1.6`   | 06/05/2024 | Adição da tarefa 6 "sistema UPO"                    | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Mariana Letícia](https://github.com/Marianannn) |
+| `2.0`   | 06/05/2024 | Adição e Correção da Analise Cursos - Acidentes Domiciliares                    | [Pedro Henrique](https://github.com/PedroHhenriq) | |
