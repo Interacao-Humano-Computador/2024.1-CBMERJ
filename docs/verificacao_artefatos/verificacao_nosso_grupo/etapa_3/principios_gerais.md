@@ -91,6 +91,25 @@
 
 
 ## Resultado do Checklist
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | A fim de corresponder com as expectativas do usuário, os princípios gerais do projeto se preocupam em seguir as convenções do mundo real, garantindo que as informações apareçam em uma ordem natural e lógica? |1.0 | Conforme |  | Está adequado |
+|  2   | Os princípios gerais do projeto buscam de alguma forma simplificar a estrutura das tarefas? |1.0 | Conforme |  | Está adequado |
+|  3   | Os princípios gerais se preocupam em estabelecer um equilíbrio entre controle e liberdade do usuário? |1.0 | Conforme |  | Está adequado |
+|  4   | Os princípios gerais abordam sobre a padronização dos layouts das funcionalidades do sistema? |1.0 | Conforme |  | Está adequado |
+|  5   | Os princípios gerais entendem a importância de priorizar a eficiência do usuário? |1.0 | Conforme |  | Está adequado |
+|  6   | Os princípios gerais buscam garantir recursos que promovam a antecipação, ou seja, que preveem o que o usuário quer e precisa? |1.0 | Conforme |  | Está adequado |
+|  7   | No quesito "Visibilidade e Reconhecimento", os princípios gerais reconhecem a importância do feedback? |1.0 | Conforme |  | Está adequado |
+|  8   | Os princípios gerais se preocupam com a qualidade e a relevância do conteúdo do site? |1.0 | Conforme |  | Está adequado |
+|  9   | Os princípios gerais reportam a necessidade do site ser projetado para o erro, ou seja, que assuma qualquer erro potencial que poderá ser cometido? |1.0 | Conforme |  | Está adequado |
+
+## Inspeção
+
+[Link para o vídeo da verificação principios gerais)](https://www.youtube.com/watch?v=NXSz9Gppwbk)
+
+<iframe width="882" height="496" src="https://www.youtube.com/embed/NXSz9Gppwbk" title="Verificacão Principios Gerais" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
  <!-- template de VERIFICAÇÃO -->
 
 <!-- 
@@ -125,3 +144,4 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
 | `2.0`   | 26/06/2024 | Adição de checklist                        | [Daniela Alarcão](https://github.com/danialarcao) |   |
+| `3.0`   | 26/06/2024 | Adição da verificação principios gerais                       | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
