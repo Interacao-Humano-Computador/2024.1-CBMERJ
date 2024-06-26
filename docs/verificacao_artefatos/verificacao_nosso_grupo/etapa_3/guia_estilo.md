@@ -7,72 +7,7 @@
 ### Participantes
 
 ### Checklist: Guia de Estilo
-<!-- template de checklist -->
-<!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
-    - **Fonte:** 
-    - **Imagem:**
-    <br>
 
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 1: (COLOCAR A DESCRIÇÃO DA PERGUNTA QUI)</p>
-
-- **Item 2:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (COLOCAR FONTE AQUI)
-    - **Imagem:** 
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 2: (COLOCAR A LEGENDA AQUI)</p>
-
-
-- **Item 3:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (COLOCAR FONTE AQUI)
-    - **Imagem:**
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 3: (COLOCAR A LEGENDA AQUI)</p>
-
-- **Item 4:** 
-    - **Fonte:** 
-    - **Imagem:**
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 4: (COLOCAR A LEGENDA AQUI)</p>
-
-- **Item 5:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (INSERIR FONTE)
-    - **Imagem:**
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 5: (COLOCAR LEGENDA AQUI)</p> -->
 
 ## Resultado do Checklist
  <!-- template de VERIFICAÇÃO -->
@@ -108,3 +43,4 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `2.0`   | 26/06/2024 | Adição de checklist                         | [Daniela Alarcão](https://github.com/danialarcao) |   |

@@ -1,78 +1,58 @@
 ## Introdução
-
+<p style="text-align: justify;"> A verificação é uma das fases cruciais no desenvolvimento de um projeto. Durante essa etapa, os artefatos gerados são minuciosamente examinados para assegurar que atendam aos requisitos estabelecidos. Portanto, este documento apresenta o cronograma elaborado para a verificação dos artefatos desenvolvidos pelo nosso grupo acerca das metas de usabilidade. </p>
 
 ## Metodologia
-
+<p style="text-align: justify;"> O método escolhido para a verificação é o de inspeção. Este método permite uma análise minuciosa dos artefatos, envolvendo uma equipe de revisores que trazem diferentes perspectivas, aumentando a probabilidade de detectar problemas. Esse método também facilita a documentação dos achados, permitindo um acompanhamento detalhado das correções necessárias. </p> </p>
 
 ### Participantes
+<p style="text-align: justify;"> A integrante <strong>Daniela Alarcão</strong> é a responsável pela elaboração da lista de verificação das metas de usabilidade da etapa 3. A revisão deste artefato ficará na responsabilidade do integrante <strong>Genilson Silva.</strong></p>
 
-### Checklist: Metas de Usabilidade
-<!-- template de checklist -->
-<!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
-    - **Fonte:** 
+### Template de Checklist: Metas de Usabilidade
+- **Item 1:** A facilidade de aprendizado é uma das metas de usabilidade? O objetivo desta meta está bem explicado? 
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 49.
     - **Imagem:**
     <br>
-
     <center>
+    ![](img//Usabilidade1.png)
+    <br><br>
+    <p style="text-align: center">Figura 1: 3.2.1 Usabilidade - Learnability. </p><br>
 
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 1: (COLOCAR A DESCRIÇÃO DA PERGUNTA QUI)</p>
-
-- **Item 2:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (COLOCAR FONTE AQUI)
-    - **Imagem:** 
-    <br>
-
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 2: (COLOCAR A LEGENDA AQUI)</p>
-
-
-- **Item 3:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (COLOCAR FONTE AQUI)
+- **Item 2:** A facilidade de recordação/memorização é uma das metas de usabilidade? O objetivo desta meta está bem explicado? 
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 49.
     - **Imagem:**
     <br>
-
     <center>
+    ![](img/Usabilidade2.png)
+    <br><br>
+    <p style="text-align: center">Figura 2: 3.2.1 Usabilidade - Memorability. </p><br>
 
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 3: (COLOCAR A LEGENDA AQUI)</p>
-
-- **Item 4:** 
-    - **Fonte:** 
+- **Item 3:** A eficiência é uma das metas de usabilidade? O objetivo desta meta está bem explicado?
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 49.
     - **Imagem:**
     <br>
-
     <center>
+    ![](img/Usabilidade3.png)
+    <br><br>
+    <p style="text-align: center">Figura 3: 3.2.1 Usabilidade - Efficiency. </p><br>
 
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 4: (COLOCAR A LEGENDA AQUI)</p>
-
-- **Item 5:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (INSERIR FONTE)
+- **Item 4:** A segurança é uma das metas de usabilidade? O objetivo desta meta está bem explicado?
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 49 .
     - **Imagem:**
     <br>
-
     <center>
+    ![](img/Usabilidade4.png)
+    <br><br>
+    <p style="text-align: center">Figura 4: 3.2.1 Usabilidade - Safety. </p><br>
 
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 5: (COLOCAR LEGENDA AQUI)</p> -->
+- **Item 5:** A satisfação do usuário é uma das metas de usabilidade? O objetivo desta meta está bem explicado?
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 50.
+    - **Imagem:**
+    <br>
+    <center>
+    ![](img/Usabilidade-part5.png)
+    ![](img/Usabilidade5.png)
+    <br><br>
+    <p style="text-align: center">Figura 5: 3.2.1 Usabilidade - Satisfaction . </p><br>
 
 ## Resultado do Checklist
  <!-- template de VERIFICAÇÃO -->
@@ -108,3 +88,4 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `2.0`   | 26/06/2024 | Adição de checklist                         | [Daniela Alarcão](https://github.com/danialarcao) |   |
