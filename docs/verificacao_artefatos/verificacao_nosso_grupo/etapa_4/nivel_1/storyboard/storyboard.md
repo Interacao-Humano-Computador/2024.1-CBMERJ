@@ -41,27 +41,18 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 
 ## Resultado do Checklist
 
-### Funcionalidade: Histórico de passagens compradas - Revisor: Daniela Oliveira Alarcão 
+### Funcionalidade: Primeiros Socorros - Revisor: Daniela Oliveira Alarcão 
 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   |  | | |  |  | |
+|  1   | Aprensenta as quatro características principais de um storyboard: o cenário, as atividades, os visuais e a história?  | 1.6 | Conforme |  |  | |
+|  2   | Outros elementos-chave, como personagens, enredo, diálogo e dicas visuais, foram incluídos no storyboard? | 1.6 | Conforme |  |  | |
+|  3   | Os desenhos do storyboard são simples e claros? | 1.6 | Conforme |  |  | |
+|  4   | É possível confirmar que o storyboard criado não possui cenas/imagens do produto final? | 1.6 | Conforme  |  |  | |
+|  5   | O storyboard consegue transmitir a ideia de uso da funcionalidade em um contexto real? | 1.6 | Conforme |  |  | |
 
-<p style="text-align: center">Tabela numero: .</p>
-<p style="text-align: center">Fonte: autor, 2024</p>
-
-**A gravação da verificação encontra-se abaixo:**
-
-<center>
-
-[Link para o vídeo da apresentação]()
-
-<!-- iframe aqui-->
-
-<p>Vídeo numero: .</p>
-Fonte: autor, 2024.
-
-</center>
+<p style="text-align: center">Tabela número: 1.</p>
+<p style="text-align: center">Fonte: Daniela Alarcão, 2024</p>
 
 ### Funcionalidade: Acompanhar pedido de compra de passagem - Revisora: Mariana Letícia
 
@@ -185,3 +176,4 @@ Fonte: autor, 2024.
 | Versão |  Data  | Descrição  | Autor(es) | Revisor(es) |
 | ------ | :----: | ---------- | --------- | ----------- |
 | `1.0`   | 25/06/2024 | Criação da página e adição do checklist | [Bruna Lima](https://github.com/libruna) |   |
+| `2.0`   | 26/06/2024 | Adição do checklist do storyboard primeiros socorros  | [Daniela Alarcão](https://github.com/danialarcao) |   |
