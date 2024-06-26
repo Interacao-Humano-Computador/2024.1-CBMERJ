@@ -1,5 +1,6 @@
 ## Introdução
-A verificação dos cenários é essencial para avaliar se eles refletem a realidade da funcionalidade e se podem ser aplicados em diferentes contextos.
+Revisar os componentes de um projeto é uma atividade dinâmica que pode ser exigente, pois envolve examinar o projeto, identificar falhas e propor melhorias.
+Dessa forma, é possível realizar uma verificação da análise de tarefas para entender essa seção do projeto e garantir a sua aprimoração.
 
 ## Metodologia
 A metodologia utilizada foi a de inspeção, conforme detalhado no [planejamento de verificação](../planejamento_verificacao.md). Este método é uma análise estática destinada a verificar a qualidade de um determinado artefato.
