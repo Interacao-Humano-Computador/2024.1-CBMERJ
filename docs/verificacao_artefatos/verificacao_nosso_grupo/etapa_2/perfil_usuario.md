@@ -1,110 +1,81 @@
 ## Introdução
-
+A verificação dos cenários é essencial para avaliar se eles refletem a realidade da funcionalidade e se podem ser aplicados em diferentes contextos.
 
 ## Metodologia
+A metodologia utilizada foi a de inspeção, conforme detalhado no [planejamento de verificação](../planejamento_verificacao.md). Este método de avaliação individual envolve a exploração da interface para identificar vários tipos de erros.
 
+Iremos abordar um template de checklist que deverá ser preenchido bem como o modelo disposto em [planejamento de verificação](../planejamento_verificacao.md), devendo ser feita uma inspeção para cada artefato presente no nosso projeto [CBMRJ - Grupo 7](https://interacao-humano-computador.github.io/2024.1-CBMERJ/).
 
 ### Participantes
+A criação da lista de verificação será conduzida pelo integrante [Genilson Silva](https://github.com/GenilsonJrs), enquanto o revisor responsável por verificar se as perguntas e itens estão adequados será [Pedro Henrique](https://github.com/PedroHhenriq) e a verificação em si da lista terá como responsável a [Bruna Lima](https://github.com/libruna).
 
-### Checklist: Perfil do usuário
-<!-- template de checklist -->
-<!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
-    - **Fonte:** 
-    - **Imagem:**
-    <br>
+## Checklist
 
-    <center>
-
-    ![](img/)
-
-    </center>
-
-    <p style="text-align: center">Figura 1: (COLOCAR A DESCRIÇÃO DA PERGUNTA QUI)</p>
-
-- **Item 2:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (COLOCAR FONTE AQUI)
-    - **Imagem:** 
-    <br>
+- **Item 1:** O documento possui informações básicas demográficas como: Idade, Gênero, Escolaridade?
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 134
+    - **Imagem:** <br>
 
     <center>
 
-    ![](img/)
+    ![](img/perfil1.png)
 
     </center>
 
-    <p style="text-align: center">Figura 2: (COLOCAR A LEGENDA AQUI)</p>
+    <p style="text-align: center">Figura 1: Questionamento sobre informações básicas a serem apresentadas</p>
 
-
-- **Item 3:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (COLOCAR FONTE AQUI)
-    - **Imagem:**
-    <br>
+- **Item 2:** É especificado um contexto de uso? (Ambiente onde a pesquisa será realizada, equipamentos utilizados e forma de uso).
+    - **Fonte:**  Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 187
+    - **Imagem:** <br>
 
     <center>
 
-    ![](img/)
+    ![](img/perfil2.png)
 
     </center>
 
-    <p style="text-align: center">Figura 3: (COLOCAR A LEGENDA AQUI)</p>
+    <p style="text-align: center">Figura 2: Questionamento sobre materiais e metodologia da pesquisa</p>
 
-- **Item 4:** 
-    - **Fonte:** 
-    - **Imagem:**
-    <br>
+- **Item 3:** Existe questionamento acerca de nível de experiência e preferências em relação a tecnologia?
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 305
+    - **Imagem:** <br>
 
     <center>
 
-    ![](img/)
+    ![](img/perfil3.png)
 
     </center>
 
-    <p style="text-align: center">Figura 4: (COLOCAR A LEGENDA AQUI)</p>
+    <p style="text-align: center">Figura 3: Questionamento experiência e preferencias quanto ao usuário</p>
 
-- **Item 5:** (COLOCAR DESCRIÇÃO)
-    - **Fonte:** (INSERIR FONTE)
-    - **Imagem:**
-    <br>
+- **Item 4:** O documento possui preferências de interação, estilos e abertura para sugestões?
+    - **Fonte:** Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 299
+    - **Imagem:** <br>
 
     <center>
 
-    ![](img/)
+    ![](img/perfil4.png)
 
     </center>
 
-    <p style="text-align: center">Figura 5: (COLOCAR LEGENDA AQUI)</p> -->
+    <p style="text-align: center">Figura 4: Questionamento sobre abertura para preferências e demais comentários do usuário</p>
+
 
 ## Resultado do Checklist
- <!-- template de VERIFICAÇÃO -->
-
-<!-- 
-| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
-| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   | (COLOCAR DECRIÇÃO DO ITEM 1 AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME) |  | |
-|  2   | (COLOCAR DECRIÇÃO DO ITEM 2 AQUI) | (COLOCAR VERSÃO AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)|  |   |  |
-|  3   | (COLOCAR DECRIÇÃO DO ITEM 3 AQUI) | (COLOCAR VERSÃO AQUI)| (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME) | |  | 
-|  4   | (COLOCAR DECRIÇÃO DO ITEM 4 AQUI) | (COLOCAR VERSÃO AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)  | | | |
-|  5   | (COLOCAR DECRIÇÃO DO ITEM 5 AQUI) | (COLOCAR VERSÃO AQUI)| (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)  | | |  |
-<p style="text-align: center">Tabela (COLQUE O NUMERO DA TABELA AQUI): (COLOQUE O TÍTULO DA TABELA AQUI)</p>
-<p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p>
-
-<iframe width="560" height="315" 
-src="(COLOQUE O LINK EMBED AQUI)" 
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p style="text-align: center">Vídeo (COLOQUE O NUMERO DO VÍDEO AQUI): (COLOQUE O TÍTULO DO VÍDEO AQUI).</p>
-<p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p> -->
-
+ 
 ## Conclusão
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
 
 ## Referências Bibliográficas
-
+> 1. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 134.
+> 2. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 187.
+> 3. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 299.
+> 4. Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 305.
 
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 13/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `1.0`   | 13/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |[Genilson Silva](https://github.com/GenilsonJrs)   |
+| `2.0`   | 26/06/2024 | Adição do Checklist                   | [Genilson Silva](https://github.com/GenilsonJrs) |   |
