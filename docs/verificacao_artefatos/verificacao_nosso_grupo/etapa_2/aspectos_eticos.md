@@ -62,6 +62,23 @@ A criação da lista de verificação será conduzida pelo integrante [Genilson 
 
 ## Resultado do Checklist
 
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | O objetivo do estudo e como será conduzido está claramente definido (Proteção dos Participantes, Consentimento Informado, Transparência)? | 3.0 | Conforme | | |
+|  2   | O termo de consentimento possui uma clara declaração de consentimento, informação sobre voluntariedade e definição de como os dados serão utilizados? | 3.0 | Conforme |  | 
+|  3   | É citado procedimentos para proteger a privacidade dos dados coletados? | 3.0 | Conforme  | | ||
+|  4   | O documento elicita e busca cumprir diante das diretrizes os principios da autonomia, beneficência, não maleficência, e justiça e equidade? | 3.0 | Conforme  | | |  |
+
+<p style="text-align: center">Tabela 1: Tabela de verificação de checklist dos aspectos éticos.</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
+[Link para o vídeo da apresentação](https://www.youtube.com/watch?v=KlFgZcjZEIk)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KlFgZcjZEIk?si=AxsyBu1jOJvS1aAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center">Vídeo 1: Verificação dos aspectos éticos.</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
 ## Conclusão
 
 ## Biografia
@@ -78,3 +95,4 @@ A criação da lista de verificação será conduzida pelo integrante [Genilson 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |[Genilson Silva](https://github.com/GenilsonJrs)   |
 | `2.0`   | 26/06/2024 | Adição do Checklist                   | [Genilson Silva](https://github.com/GenilsonJrs) |   |
+| `3.0`   | 26/06/2024 | Adição da verificação                | [Bruna Lima](https://github.com/libruna) |   |
