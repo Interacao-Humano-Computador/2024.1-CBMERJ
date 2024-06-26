@@ -192,6 +192,33 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 <p style="text-align: center">Fonte: Daniela Alarcão, 2024</p>
 
 
+### Funcionalidade: Checar e Gerar Certificado - Revisora: Bruna Lima
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos, conforme é evidenciado na figura 1 a seguir? Esse objetivo também é representado pelo primeiro passo de execução de um HTA na figura 2. | 2.0 | Conforme | | |
+|  2   | Foram implementados o segundo passo da execução de um HTA sendo ele: estabelecer uma ligação lógica entre os objetivos e as medidas de sucesso, mencionando quais seriam essas medidas de sucesso como está descrito na figura 3 a seguir? | 2.0 | Conforme |  |  |  |
+|  3   | Foram implementados os passos 3 e 4 do HTA, sendo o 3 se o HTA possui dados verossímeis que condizem com a funcionalidade analisada, e o 4 se houve uma decomposição de objetivos em subobjetivos em um diagrama ou tabela hierárquica contendo ações, feedbacks disparadas a partir dos objetivos como está descrito na figura 4 a seguir?| 2.0 | Conforme |  | 
+|  4   | Segundo os passo 5, os dados foram coletados de usuários reais, garantindo a confiabilidade da análise como está descrito na figura 5 a seguir? | 2.0 | Conforme |  | | Na versão atual da análise já foi validada com usuários durante as entrevistas realizadas. |
+|  5   | Segundo os passo 6, as operações se apresentam como significativas e de acordo com os objetivos como está descrito na figura 6 a seguir? | 2.0 | Conforme  | | |  |
+|  6   | Segundo os passo 7, foram considerados erros humanos, e foram representados os diagramas como está descrito na figura 7 a seguir?  | 2.0 | Não conforme | O diagrama não considera erros humanos. | Adicionar os aspectos relacionados aos erros humanos. | |
+|  7   | Caso a análise tenha sido representada o HTA como uma das análises de tarefa, foram utilizados corretamente elementos como plano e operações - feedback, input etc. e uso correto das representações de elementos visuais do HTA tais como está ilustrado abaixo como está descrito na figura 8 a seguir?  | 2.0 | Não conforme | Não possui todos os elementos, apresenta apenas objetivos e subobjetivos | Adicionar ações e operações. | |
+|  8   | Caso a análise tenha sido representada pelo GOMS, está descrito os objetivos, operadores, métodos e regras de seleção, assim como está descrito na figura 9 a seguir? | 2.0 | | | | |
+|  9   | Caso a análise tenha sido representada pela Árvore de tarefas Concorrentes(CTT), foram representados corretamente as tarefas de usuário, sistema, iterativas e abstradas, como está conforma na figura 10 a seguir? | 2.0 | Conforme  | | |  |
+|  10   | Caso a análise tenha sido representada pela Árvore de tarefas Concorrentes(CTT), foram representados corretamente as relações entre elementos, como a ativação, ativação com passagem de informação, escolha, tarefas concorrentes, tarefas concorrentes e comunicantes, tarefas independentes, desativação e suspensão/retomada, como está evidente na figura 11 a seguir? | 2.0 | Conforme  |  | |  |
+
+<p style="text-align: center">Tabela 3: Tabela de verificação de checklist da análise de tarefa Checar e Gerar Certificado.</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8jPbxBm1wAY?si=5xCJ1KVwmgQFPb2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<p style="text-align: center">Vídeo 3: Verificação da análise de tarefa Checar e Gerar Certificado.</p>
+<p style="text-align: center">Fonte: Bruna Lima, 2024</p>
+
+
 <!-- template de VERIFICAÇÃO -->
 
 <!-- ### Funcionalidade : (COLOCAR O NOME DA FUNCIONALIDADE AQUI) - Revisor: C(OLOCAR NOME DO REVISOR AQUI)
@@ -232,3 +259,4 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 | `1.0`   | 13/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna) |
 | `2.0`   | 22/06/2024 | Adição do template de checklist a ser verificado       | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna) |
 | `3.0`   | 26/06/2024 | Verificação da funcionalidade consulta de processos    | [Daniela Alarcão](https://github.com/danialarcao) |  |
+| `4.0`   | 26/06/2024 | Verificação da funcionalidade checar e gerar certificado   | [Bruna Lima](https://github.com/libruna)  |  |
