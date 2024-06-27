@@ -94,6 +94,28 @@ Foi conduzida uma inspeção do checklist acima da persona primária Lygia por m
 
 <iframe width="882" height="496" src="https://www.youtube.com/embed/1Ary5uo-4IQ" title="Verificacao Personas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Persona 2: Maria Luiza Lacerda - Revisor: Lucas Avelar
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | A persona possui dados básicos como identificação, foto representativa, frase que capture a essencia? | 1.0 | Conforme  |  |  | |
+|  2   | A persona possui contexto de uso (ambiente físico onde realiza as tarefas, equipamentos utilizados, frequência de uso da tecnologia)? | 1.0 | Conforme  |  |  | |
+|  3   | A persona possui status adequado (definição de persona primária, secundária, anti persona e/ou suas características)? | 1.0 | Conforme |  |  | |
+|  4   | A persona possui objetivos claros? | 1.0 | Conforme  |  |  | |
+|  5   | A persona possui suas habilidades bem definidas? | 1.0 | Não conforme  | Não descreve as habilidades da persona. | Adicionar as habilidades da persona. | |
+
+<p style="text-align: center">Tabela 2: Verificação da terceira persona.</p>
+<p style="text-align: center">Fonte: Lucas Avelar, 2024</p>
+
+<center>
+
+<iframe width="882" height="496" src="https://www.youtube.com/embed/ZdzyHxePEro?si=lFYcuh4-0fkWeT-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<p style="text-align: center">Vídeo 2: Verificação da segunda persona.</p>
+<p style="text-align: center">Fonte: Lucas Avelar, 2024</p>
+
 ### Persona 3: Maria Luiza Lacerda - Revisora: Bruna Lima
 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
