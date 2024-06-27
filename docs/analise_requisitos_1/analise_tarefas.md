@@ -243,7 +243,7 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 
 **Árvores de Tarefas Concorrentes:** A figura 10 apresenta a análise dessa tarefa, representada em diagrama, com o uso de Árvores de Tarefas Concorrentes. 
 ![](img/CB%20cursos.png)
-<p align="center">Figura 10 - Diagrama da Árvores de Tarefas Concorrentes de "Locais certificados" (Fonte: Lucas Avelar, 2024). </p>
+<p align="center">Figura 10 - Diagrama da Árvores Curso dos bombeiros (Fonte: Lucas Avelar, 2024). </p>
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021)
