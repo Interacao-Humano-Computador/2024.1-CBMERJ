@@ -128,25 +128,29 @@ Fonte: Bruna Lima, 2024.
 
 </center>
 
-### Funcionalidade: - Revisor: Genilson Silva
+### Funcionalidade: Obter Declaração do Registro de Ocorrência - Revisor: Genilson Silva
 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   |  | | |  |  | |
+|  1   | Aprensenta as quatro características principais de um storyboard: o cenário, as atividades, os visuais e a história?  | 1.6 | conforme |  |  | |
+|  2   | Outros elementos-chave, como personagens, enredo, diálogo e dicas visuais, foram incluídos no storyboard? | 1.6 | Conforme |  |  | |
+|  3   | Os desenhos do storyboard são simples e claros? | 1.6 | Conforme |  |  | |
+|  4   | É possível confirmar que o storyboard criado não possui cenas/imagens do produto final? | 1.6 | Conforme  |  |  | |
+|  5   | O storyboard consegue transmitir a ideia de uso da funcionalidade em um contexto real? | 1.6 | Conforme |  | |
 
-<p style="text-align: center">Tabela numero: .</p>
-<p style="text-align: center">Fonte: autor, 2024</p>
+<p style="text-align: center">Tabela 5: Verificação do Storyboard Obter Declaração do Registro de Ocorrência. </p>
+<p style="text-align: center">Fonte: Genilson Silva, 2024</p>
 
 **A gravação da verificação encontra-se abaixo:**
 
 <center>
 
-[Link para o vídeo da apresentação]()
+[Link para o vídeo da apresentação](https://youtu.be/XzSWhwTluCw?si=QkVaIdouuQJvjGTX)
 
-<!-- iframe aqui-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XzSWhwTluCw?si=WrbXl0mJeOuWzzA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p>Vídeo numero: .</p>
-Fonte: autor, 2024.
+<p>Video 5: Verificação do storyboard da funcionalidade de Obter Declaração do Registro de Ocorrência.</p>
+Fonte: Genilson Silva, 2024.
 
 </center>
 
@@ -186,3 +190,4 @@ Fonte: autor, 2024.
 | `2.0`   | 26/06/2024 | Adição do checklist do storyboard primeiros socorros  | [Daniela Alarcão](https://github.com/danialarcao) |   |
 | `3.0`   | 26/06/2024 | Adição do checklist do storyboard checar e gerar certificado  | [Bruna Lima](https://github.com/libruna) |   |
 | `4.0`   | 26/06/2024 | Adição do checklist do Agendamento de atendimento presencial  | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
+| `5.0`   | 26/06/2024 | Adição do checklist de Obter Declaração do Registro de Ocorrência  | [Genilson Silva](https://github.com/GenilsonJrs) |   |
