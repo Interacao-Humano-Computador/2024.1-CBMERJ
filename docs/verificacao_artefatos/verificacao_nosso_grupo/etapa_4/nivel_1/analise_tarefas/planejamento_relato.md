@@ -1,3 +1,4 @@
+
 ## Metodologia
 <p style="text-align: justify;">  O método utilizado foi o de inspeção por sua habilidade em revelar efetivamente possíveis falhas de usabilidade. Este procedimento permite que nossos avaliadores projetem as implicações das escolhas de design sobre a experiência final dos usuários, ajudando a interceptar problemas potenciais antes de se tornarem reais. A técnica de inspeção também é proveitosa para avaliar e comparar diferentes alternativas de design, garantindo que estejam em alinhamento com os padrões estabelecidos ou guias de estilo. É um método rápido e econômico, fundamentado no uso de uma lista de verificação detalhada.</p>
 
@@ -86,12 +87,12 @@
 
 
 
-## Metodologia
+<!-- ## Metodologia
 
 
 ### Participantes
 
-### Checklist: Planejamento da avaliação da Análise de tarefas
+### Checklist: Planejamento da avaliação da Análise de tarefas -->
 <!-- template de checklist -->
 <!-- - **Item 1:** (COLOCAR DESCRIÇÃO AQUI)
     - **Fonte:** 
@@ -159,7 +160,7 @@
 
     <p style="text-align: center">Figura 5: (COLOCAR LEGENDA AQUI)</p> -->
 
-## Resultado do Checklist
+<!-- ## Resultado do Checklist -->
  <!-- template de VERIFICAÇÃO -->
 
 <!-- 
@@ -180,16 +181,16 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 <p style="text-align: center">Vídeo (COLOQUE O NUMERO DO VÍDEO AQUI): (COLOQUE O TÍTULO DO VÍDEO AQUI).</p>
 <p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p> -->
 
-## Conclusão
+<!-- ## Conclusão -->
 
-## Biografia
->- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
+<!-- ## Biografia -->
+<!-- >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf -->
 
-## Referências Bibliográficas
+<!-- ## Referências Bibliográficas
 
 
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 25/06/2024 | Criação da página                         | [Lucas Avelar](https://github.com/LucasAvelar2711) |   |
+| `1.0`   | 25/06/2024 | Criação da página                         | [Lucas Avelar](https://github.com/LucasAvelar2711) |   |  -->
