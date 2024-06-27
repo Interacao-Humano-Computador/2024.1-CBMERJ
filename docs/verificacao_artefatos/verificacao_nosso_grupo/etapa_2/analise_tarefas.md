@@ -218,6 +218,33 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 <p style="text-align: center">Vídeo 3: Verificação da análise de tarefa Checar e Gerar Certificado.</p>
 <p style="text-align: center">Fonte: Bruna Lima, 2024</p>
 
+### Funcionalidade: Agendamento de atendimento presencial - Revisor: Pedro Henrique
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   | A análise de tarefas possui um conjunto de objetivos que correspondem ao objetivo das pessoas que utilizarão aquele sistema, além de uma lista de ações correspondentes ao objetivos, conforme é evidenciado na figura 1 a seguir? Esse objetivo também é representado pelo primeiro passo de execução de um HTA na figura 2. | 2.0 | Conforme | | Definir quais itens são objetivos e operações | Não define quais são objetivos e quais são operações |
+|  2   | Foram implementados o segundo passo da execução de um HTA sendo ele: estabelecer uma ligação lógica entre os objetivos e as medidas de sucesso, mencionando quais seriam essas medidas de sucesso como está descrito na figura 3 a seguir? | 2.0 | Não conforme | Como está em descrição textual, não dá para definir se há ligação lógica  | Fazar a representação do diagrama |  |
+|  3   | Foram implementados os passos 3 e 4 do HTA, sendo o 3 se o HTA possui dados verossímeis que condizem com a funcionalidade analisada, e o 4 se houve uma decomposição de objetivos em subobjetivos em um diagrama ou tabela hierárquica contendo ações, feedbacks disparadas a partir dos objetivos como está descrito na figura 4 a seguir?| 2.0 | Não conforme | Não dá para definir quais são objetivos e quais são subobjetivos  | 
+|  4   | Segundo os passo 5, os dados foram coletados de usuários reais, garantindo a confiabilidade da análise como está descrito na figura 5 a seguir? | 2.0 | Não conforme | Não há nenhum lugar que relate se os dados foram coletados dos usuários  | |  |
+|  5   | Segundo os passo 6, as operações se apresentam como significativas e de acordo com os objetivos como está descrito na figura 6 a seguir? | 2.0 | Não conforme  | Não dá para saber quais são operações ou objetivos | Definir quais itens são objetivos e operações |  |
+|  6   | Segundo os passo 7, foram considerados erros humanos, e foram representados os diagramas como está descrito na figura 7 a seguir?  | 2.0 | Não conforme | Não foi relatado se foram considerados erros humanos e não há representaçaõ em diagrama | | |
+|  7   | Caso a análise tenha sido representada o HTA como uma das análises de tarefa, foram utilizados corretamente elementos como plano e operações - feedback, input etc. e uso correto das representações de elementos visuais do HTA tais como está ilustrado abaixo como está descrito na figura 8 a seguir?  | 2.0 | Incompleto | Não foi definido quais itens são objetivos ou operações  |  | No entanto, foram relatados feedback, plano, etc.. |
+|  8   | Caso a análise tenha sido representada pelo GOMS, está descrito os objetivos, operadores, métodos e regras de seleção, assim como está descrito na figura 9 a seguir? | 2.0 | Não se aplica | | | |
+|  9   | Caso a análise tenha sido representada pela Árvore de tarefas Concorrentes(CTT), foram representados corretamente as tarefas de usuário, sistema, iterativas e abstradas, como está conforma na figura 10 a seguir? | 2.0 | Não conforme  | Ausência de imagem | |  |
+|  10   | Caso a análise tenha sido representada pela Árvore de tarefas Concorrentes(CTT), foram representados corretamente as relações entre elementos, como a ativação, ativação com passagem de informação, escolha, tarefas concorrentes, tarefas concorrentes e comunicantes, tarefas independentes, desativação e suspensão/retomada, como está evidente na figura 11 a seguir? | 2.0 | Não conforme | Ausência de imagem | |  |
+
+<p style="text-align: center">Tabela 4: Tabela de verificação de checklist da Agendamento de atendimento presencial.</p>
+<p style="text-align: center">Fonte: Pedro Henrique, 2024</p>
+
+(Link do vídeo)[youtu.be/JV3r1A4bVBM]
+
+<center>
+
+<iframe width="882" height="496" src="https://www.youtube.com/embed/JV3r1A4bVBM" title="Verificacao AnaliseDeTarefas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<p style="text-align: center">Vídeo 4: Verificacão Agendamento de atendimento presencial.</p>
+<p style="text-align: center">Fonte: Pedro Henrique, 2024</p>
 
 <!-- template de VERIFICAÇÃO -->
 
@@ -260,3 +287,4 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 | `2.0`   | 22/06/2024 | Adição do template de checklist a ser verificado       | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna) |
 | `3.0`   | 26/06/2024 | Verificação da funcionalidade consulta de processos    | [Daniela Alarcão](https://github.com/danialarcao) |  |
 | `4.0`   | 26/06/2024 | Verificação da funcionalidade checar e gerar certificado   | [Bruna Lima](https://github.com/libruna)  |  |
+| `5.0`   | 26/06/2024 | Verificação da funcionalidade Agendamento de atendimento presencial  | [Pedro Henrique](https://github.com/PedroHhenriq)  |  |
