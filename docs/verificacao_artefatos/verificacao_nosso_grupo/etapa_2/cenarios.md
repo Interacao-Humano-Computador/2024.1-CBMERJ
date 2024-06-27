@@ -179,7 +179,7 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 <p style="text-align: center">Vídeo 3: Verificação do Cenário de Checar e Gerar Certificado.</p>
 <p style="text-align: center">Fonte: Bruna Lima, 2024</p>
 
-### Cenário 4: Agendamento de atendimento presencial - Revisor: Pedro
+### Cenário: Agendamento de atendimento presencial - Revisor: Pedro
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
 |  1   |  O cenário possui os seguintes 5 elementos abordado por Cooper (1999) na figura 1 a seguir: ciclo de vida de processo, segmentos de públicos, funções de produto, variantes de uma classe de situações de tarefa e métodos para realizar uma tarefa? | 3.0 | Conforme | |
@@ -201,6 +201,27 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 <p style="text-align: center">Vídeo 4: Agendamento de atendimento presencial.</p>
 <p style="text-align: center">Fonte: Pedro Henrique, 2024</p>
 
+
+### Cenário: Obter Declaração do Registro de Ocorrência - Revisor: Genilson Silva
+
+| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
+|  1   |  O cenário possui os seguintes 5 elementos abordado por Cooper (1999) na figura 1 a seguir: ciclo de vida de processo, segmentos de públicos, funções de produto, variantes de uma classe de situações de tarefa e métodos para realizar uma tarefa? | 3.0 | Conforme | |
+|  2   | O cenário consiste em uma narrativa real ou pitoresca, com vários detalhes e contexto em formalizado, segundo é evidente na Figura 2? | 3.0 | Conforme |  |   |  |
+|  3   | O cenário contém esses seguintes elementos: ambiente ou contexto; atores; objetivos; planejamento; ações; eventos; e avaliação, segundo Rosson e Carroll (2002) e Cooper (1999) e a Figura 3 a seguir? | 3.0 | Conforme | |  | 
+|  4   | Os cenários respondem, segundo a figura 4 seguir, as perguntas: Por que? Como? O que é? | 3.0 | Conforme  | | | |
+
+<p style="text-align: center">Tabela 5: Verificação do Cenário de Obter Declaração do Registro de Ocorrência.</p>
+<p style="text-align: center">Fonte: Genilson Silva, 2024</p>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/872DsGJ6nx4?si=M4FYYQzygAq8qIme" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<p style="text-align: center">Vídeo 5: Verificação do Cenário de Obter Declaração do Registro de Ocorrência.</p>
+<p style="text-align: center">Fonte: Genilson Silva, 2024</p>
 
 <!--<iframe width="560" height="315" 
 src="(COLOQUE O LINK EMBED AQUI)" 
@@ -226,3 +247,4 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 | `3.0`   | 26/06/2024 | verificação do cenário primeiros socorros | [Daniela Alarcão](https://github.com/danialarcao) |   |
 | `4.0`   | 26/06/2024 | Adição da verificação do cenário de checar e gerar certificado           | [Bruna Lima](https://github.com/libruna) |   |
 | `5.0`   | 26/06/2024 | Adição da verificação do cenário  Agendamento de atendimento presencial         | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
+| `6.0`   | 26/06/2024 | Adição da verificação do cenário  Obter Declaração do Registro de Ocorrência         | [Genilson Silva](https://github.com/GenilsonJrs) |   |
