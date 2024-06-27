@@ -49,7 +49,11 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 <p style="text-align: center">Tabela 1 : Resultado de Checklist</p>
 <p style="text-align: center">Fonte: Daniela Alarcão, 2024</p>
 
+<center>
+
 <iframe width="853" height="480" src="https://www.youtube.com/embed/ncVxB96fsuE?si=O6Q-M3rUwMJk_kJP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 <p style="text-align: center">Vídeo 1: Verificação de artefato - planejamento do relato dos resultados do storyboard.</p>
 <p style="text-align: center">Fonte: Daniela Alarcão, 2024</p> 

@@ -74,7 +74,11 @@ A criação da lista de verificação será conduzida pelo integrante [Genilson 
 
 [Link para o vídeo da apresentação](https://www.youtube.com/watch?v=KlFgZcjZEIk)
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KlFgZcjZEIk?si=AxsyBu1jOJvS1aAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 <p style="text-align: center">Vídeo 1: Verificação dos aspectos éticos.</p>
 <p style="text-align: center">Fonte: Bruna Lima, 2024</p>

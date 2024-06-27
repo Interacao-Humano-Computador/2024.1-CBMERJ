@@ -125,9 +125,13 @@ A criação da lista de verificação será conduzida pelo integrante [Pedro Hen
 <p style="text-align: center">Tabela 1: Resultado Checklist</p>
 <p style="text-align: center">Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711), 2024</p>
 
+<center>
+
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/qMGgOgjjdh4?si=9T4ruf8SjI4ok_rg"  
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 <p style="text-align: center">Vídeo Planejamento avaliação: Planejamneto avaliação.</p>
 <p style="text-align: center">Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711), 2024</p> >

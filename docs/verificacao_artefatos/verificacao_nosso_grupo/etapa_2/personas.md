@@ -8,7 +8,6 @@ A metodologia utilizada foi a de inspeção, conforme detalhado no [planejamento
 Iremos abordar um template de checklist que deverá ser preenchido bem como o modelo disposto em [planejamento de verificação](../planejamento_verificacao.md), devendo ser feita uma inspeção para cada artefato presente no nosso projeto [CBMRJ - Grupo 7](https://interacao-humano-computador.github.io/2024.1-CBMERJ/).
 
 ### Participantes
-### Participantes
 A criação da lista de verificação será conduzida pelo integrante [Genilson Silva](https://github.com/GenilsonJrs), enquanto o revisor responsável por verificar se as perguntas e itens estão adequados será [Pedro Henrique](https://github.com/PedroHhenriq) e a verificação em si da lista terá como responsaveis os integrantes [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq).
 
 ## Checklist
@@ -92,7 +91,11 @@ Foi conduzida uma inspeção do checklist acima da persona primária Lygia por m
 
 [Link para o vídeo da inspeção da persona 1 (Lygia)](https://www.youtube.com/watch?v=1Ary5uo-4IQ)
 
+<center>
+
 <iframe width="882" height="496" src="https://www.youtube.com/embed/1Ary5uo-4IQ" title="Verificacao Personas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ### Persona 2: Maria Luiza Lacerda - Revisor: Lucas Avelar
 

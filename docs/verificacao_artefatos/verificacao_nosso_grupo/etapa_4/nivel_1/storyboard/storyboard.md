@@ -170,11 +170,11 @@ Fonte: Genilson Silva, 2024.
 [Link para o vídeo da apresentação]()
 
 <!-- iframe aqui-->
-
-<p>Vídeo numero: .</p>
+<!-- </center> -->
+<!-- <p>Vídeo numero: .</p>
 Fonte: autor, 2024.
 
-</center> -->
+--> 
 
 
 ## Biografia

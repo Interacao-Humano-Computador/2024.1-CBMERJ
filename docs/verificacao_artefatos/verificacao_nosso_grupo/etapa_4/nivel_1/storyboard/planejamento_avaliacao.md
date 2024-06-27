@@ -70,9 +70,13 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 
 [Link para o vídeo da verificação do artefato](https://youtu.be/EUzhroXBy64?si=1zrh3kYMz_3vpRIf)
 
+<center>
+
 <iframe width="853" height="480" src="https://www.youtube.com/embed/EUzhroXBy64?si=EKbML4Ta4jTsJyaq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p style="text-align: center">Vídeo 1: Verificação de artefato</p>
 <p style="text-align: center">Fonte: Daniela Alarcão, 2024</p>
+
+</center>
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
