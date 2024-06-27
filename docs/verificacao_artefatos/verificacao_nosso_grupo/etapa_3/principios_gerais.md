@@ -130,7 +130,7 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 <p style="text-align: center">Vídeo (COLOQUE O NUMERO DO VÍDEO AQUI): (COLOQUE O TÍTULO DO VÍDEO AQUI).</p>
 <p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p> -->
 
-## Conclusão
+
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf

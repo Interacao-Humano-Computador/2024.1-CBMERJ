@@ -154,7 +154,7 @@ Fonte: Genilson Silva, 2024.
 
 </center>
 
-### Funcionalidade:  - Revisor: Lucas Aevlar
+<!-- ### Funcionalidade:  - Revisor: Lucas Aevlar
 
 | Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
 | ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
@@ -174,7 +174,7 @@ Fonte: Genilson Silva, 2024.
 <p>Vídeo numero: .</p>
 Fonte: autor, 2024.
 
-</center>
+</center> -->
 
 
 ## Biografia

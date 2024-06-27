@@ -79,7 +79,7 @@ A criação da lista de verificação será conduzida pelo integrante [Genilson 
 <p style="text-align: center">Vídeo 1: Verificação dos aspectos éticos.</p>
 <p style="text-align: center">Fonte: Bruna Lima, 2024</p>
 
-## Conclusão
+
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf

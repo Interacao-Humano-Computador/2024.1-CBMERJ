@@ -138,7 +138,7 @@ Foi conduzida uma inspeção do checklist acima da persona primária Lygia por m
 <p style="text-align: center">Vídeo 3: Verificação da terceira persona.</p>
 <p style="text-align: center">Fonte: Bruna Lima, 2024</p>
  
-## Conclusão
+
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf

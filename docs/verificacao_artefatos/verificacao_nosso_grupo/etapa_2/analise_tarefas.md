@@ -300,7 +300,6 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 <p style="text-align: center">Fonte: Genilson Silva, 2024</p>
 
 
-## Conclusão
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf

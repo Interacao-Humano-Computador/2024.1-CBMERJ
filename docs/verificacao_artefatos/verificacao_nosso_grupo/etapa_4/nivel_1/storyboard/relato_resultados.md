@@ -117,8 +117,7 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 <p style="text-align: center">Vídeo 1: Relato desultados storyboard.</p>
 <p style="text-align: center">Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711), 2024</p> 
 
-## Conclusão
- Com os fatos expostos acima coclui-se que está completo.
+
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
 

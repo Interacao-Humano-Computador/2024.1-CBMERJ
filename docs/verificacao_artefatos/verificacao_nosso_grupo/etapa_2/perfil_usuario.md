@@ -63,7 +63,7 @@ A criação da lista de verificação será conduzida pelo integrante [Genilson 
 
 ## Resultado do Checklist
  
-## Conclusão
+
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
