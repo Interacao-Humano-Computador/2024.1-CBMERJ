@@ -9,7 +9,7 @@ Através do que foi descrito anteriormente no [planejamento de verificação](..
 A seguir, evidenciaremos: os participantes dessa lista de revisão; o template de tópicos a ser analisados durante a avaliação; e as tabelas de 1 a 6 descrevendo os resutados das verificações de análise de tarefas das checklists.
 
 ### Participantes
-A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre a análise de tarefas para o grupo 7 será a [Mariana Letícia](https://github.com/Marianannn), e os **revisores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md). 
+A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre a análise de tarefas para o grupo 7 será a [Mariana Letícia](https://github.com/Marianannn), a revisora do checklist será [Bruna Lima](https://github.com/libruna) e os **Verificadores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md). 
 
 ### Checklist: Análise de tarefas
 
@@ -314,7 +314,8 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna) |
 | `2.0`   | 22/06/2024 | Adição do template de checklist a ser verificado       | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna) |
-| `3.0`   | 26/06/2024 | Verificação da funcionalidade consulta de processos    | [Daniela Alarcão](https://github.com/danialarcao) |  |
-| `4.0`   | 26/06/2024 | Verificação da funcionalidade checar e gerar certificado   | [Bruna Lima](https://github.com/libruna)  |  |
-| `5.0`   | 26/06/2024 | Verificação da funcionalidade Agendamento de atendimento presencial  | [Pedro Henrique](https://github.com/PedroHhenriq)  |  |
-| `6.0`   | 26/06/2024 | Verificação da funcionalidade Obter Declaração do Registro de Ocorrência  | [Genilson Silva](https://github.com/GenilsonJrs)  |  |
+| `3.0`   | 26/06/2024 | Verificação da funcionalidade consulta de processos    | [Daniela Alarcão](https://github.com/danialarcao) | [Bruna Lima](https://github.com/libruna) |
+| `4.0`   | 26/06/2024 | Verificação da funcionalidade checar e gerar certificado   | [Bruna Lima](https://github.com/libruna)  | [Bruna Lima](https://github.com/libruna) |
+| `5.0`   | 26/06/2024 | Verificação da funcionalidade Agendamento de atendimento presencial  | [Pedro Henrique](https://github.com/PedroHhenriq)  | [Bruna Lima](https://github.com/libruna) |
+| `6.0`   | 26/06/2024 | Verificação da funcionalidade Obter Declaração do Registro de Ocorrência  | [Genilson Silva](https://github.com/GenilsonJrs)  | [Bruna Lima](https://github.com/libruna) |
+| `7.0`   | 26/06/2024 | Verificação da funcionalidade Solicitar Ficha de atendimento       | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna) |

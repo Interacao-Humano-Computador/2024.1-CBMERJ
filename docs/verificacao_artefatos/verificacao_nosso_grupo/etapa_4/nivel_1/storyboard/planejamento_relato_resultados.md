@@ -9,7 +9,7 @@ Será inicialmente evidenciado todos os checklists a serem verificados e depois 
 A verificação será feita através da inspeção. Os maiores detalhes sobre como funciona a metodologia estão no [Planejamento da verificação](../../../planejamento_verificacao.md).
 
 ### Participantes
-A **avaliadora** responsável por desenvolver a lista de verificação da etapa 4 para o grupo 7 será a [Mariana Letícia](https://github.com/Marianannn), e a **revisora** será [Daniela Alarcão](https://github.com/danialarcao).
+A **avaliadora** responsável por desenvolver a lista de verificação da etapa 4 para o grupo 7 será a [Mariana Letícia](https://github.com/Marianannn), a revisora do checklist será [Bruna Lima](https://github.com/libruna) e a **verificadora** será [Daniela Alarcão](https://github.com/danialarcao).
 
 ### Checklist: Planejamento do Relato dos Resultados do StoryBoard
 
@@ -61,6 +61,6 @@ A **avaliadora** responsável por desenvolver a lista de verificação da etapa 
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `2.0`   | 23/06/2024 | adicão de introdução e template de checklist do storyboard                          | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `3.0`   | 26/06/2024 | Verificação do artefato | [Daniela Alarcão](https://github.com/danialarcao) |   |
+| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)  |
+| `2.0`   | 23/06/2024 | adicão de introdução e template de checklist do storyboard                          | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)  |
+| `3.0`   | 26/06/2024 | Verificação do artefato | [Daniela Alarcão](https://github.com/danialarcao) |  [Bruna Lima](https://github.com/libruna) |

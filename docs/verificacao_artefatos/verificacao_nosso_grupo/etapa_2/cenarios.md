@@ -7,7 +7,7 @@ A metodologia a ser abordada foi a de inspeção, devidamente explicada no [plan
 Nela, primeiramente abordaremos um template de checklist que irá ser preenchido em uma tabela modelo,  presente em [planejamento de verificação](../planejamento_verificacao.md), pelo verificador durante a avaliação do projeto [CBMERJ](https://interacao-humano-computador.github.io/2024.1-CBMERJ/).
 
 ### Participantes
-A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre os cenários para o grupo 7 será a [Mariana Letícia](https://github.com/Marianannn), e os **revisores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md).
+A **avaliadora** responsável por desenvolver a lista de verificação da etapa 2 sobre os cenários para o grupo 7 será a [Mariana Letícia](https://github.com/Marianannn), a revisora do checklist será [Bruna Lima](https://github.com/libruna) e os **verificadores** serão [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711) e  [Pedro Henrique](https://github.com/PedroHhenriq), conforme está evidente em [planejamento de verificação](../planejamento_verificacao.md).
 
 ### Checklist: Cenários
 
@@ -242,9 +242,10 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 13/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `2.0`   | 22/06/2024 | adição do template de cenários                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `3.0`   | 26/06/2024 | verificação do cenário primeiros socorros | [Daniela Alarcão](https://github.com/danialarcao) |   |
-| `4.0`   | 26/06/2024 | Adição da verificação do cenário de checar e gerar certificado           | [Bruna Lima](https://github.com/libruna) |   |
-| `5.0`   | 26/06/2024 | Adição da verificação do cenário  Agendamento de atendimento presencial         | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
-| `6.0`   | 26/06/2024 | Adição da verificação do cenário  Obter Declaração do Registro de Ocorrência         | [Genilson Silva](https://github.com/GenilsonJrs) |   |
+| `1.0`   | 13/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)  |
+| `2.0`   | 22/06/2024 | adição do template de cenários                         | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)  |
+| `3.0`   | 26/06/2024 | verificação do cenário primeiros socorros | [Daniela Alarcão](https://github.com/danialarcao) |  [Bruna Lima](https://github.com/libruna) |
+| `4.0`   | 26/06/2024 | Adição da verificação do cenário de checar e gerar certificado           | [Bruna Lima](https://github.com/libruna) |  [Bruna Lima](https://github.com/libruna) |
+| `5.0`   | 26/06/2024 | Adição da verificação do cenário  Agendamento de atendimento presencial         | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Bruna Lima](https://github.com/libruna) |
+| `6.0`   | 26/06/2024 | Adição da verificação do cenário  Obter Declaração do Registro de Ocorrência         | [Genilson Silva](https://github.com/GenilsonJrs) |  [Bruna Lima](https://github.com/libruna) |
+| `7.0`   | 22/06/2024 | Verificação do cenário Solicitar Ficha de atendimento                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna) |

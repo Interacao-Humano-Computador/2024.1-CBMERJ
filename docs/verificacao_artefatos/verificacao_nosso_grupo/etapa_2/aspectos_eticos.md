@@ -94,5 +94,5 @@ A criação da lista de verificação será conduzida pelo integrante [Genilson 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |[Genilson Silva](https://github.com/GenilsonJrs)   |
-| `2.0`   | 26/06/2024 | Adição do Checklist                   | [Genilson Silva](https://github.com/GenilsonJrs) |   |
-| `3.0`   | 26/06/2024 | Adição da verificação                | [Bruna Lima](https://github.com/libruna) |   |
+| `2.0`   | 26/06/2024 | Adição do Checklist                   | [Genilson Silva](https://github.com/GenilsonJrs) |  [Mariana Letícia](https://github.com/Marianannn) |
+| `3.0`   | 26/06/2024 | Adição da verificação                | [Bruna Lima](https://github.com/libruna) |  [Mariana Letícia](https://github.com/Marianannn) |

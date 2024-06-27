@@ -93,6 +93,6 @@ Fonte: Genilson Silva, 2024.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `2.0`   | 26/06/2024 | Adição de checklist                         | [Daniela Alarcão](https://github.com/danialarcao) |   |
-| `3.0`   | 26/06/2024 | Verificação do checklist                         | [Genilson Silva](https://github.com/GenilsonJrs) |   |
+| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)  |
+| `2.0`   | 26/06/2024 | Adição de checklist                         | [Daniela Alarcão](https://github.com/danialarcao) |  [Pedro Henrique](https://github.com/PedroHhenriq) |
+| `3.0`   | 26/06/2024 | Verificação do checklist                         | [Genilson Silva](https://github.com/GenilsonJrs) | [Pedro Henrique](https://github.com/PedroHhenriq)  |

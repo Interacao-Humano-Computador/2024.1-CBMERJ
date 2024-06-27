@@ -142,6 +142,6 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
-| `2.0`   | 26/06/2024 | Adição de checklist                        | [Daniela Alarcão](https://github.com/danialarcao) |   |
-| `3.0`   | 26/06/2024 | Adição da verificação principios gerais                       | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
+| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)  |
+| `2.0`   | 26/06/2024 | Adição de checklist                        | [Daniela Alarcão](https://github.com/danialarcao) |  [Mariana Letícia](https://github.com/Marianannn) |
+| `3.0`   | 26/06/2024 | Adição da verificação principios gerais                       | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Mariana Letícia](https://github.com/Marianannn) |

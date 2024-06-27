@@ -136,4 +136,4 @@ Fonte: Genilson Silva, 2024.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Genilson Silva](https://github.com/GenilsonJrs) |
 | `2.0`   | 26/06/2024 | Criação da lista de verificação do Planejamento de Relato de Resultados da Analise de Tarefas                   | [Pedro Henrique](https://github.com/PedroHhenriq) | [Genilson Silva](https://github.com/GenilsonJrs)  |
-| `3.0`   | 26/06/2024 | Checklist de verificação do Planejamento de Relato de Resultados da Analise de Tarefas                   | [Genilson Silva](https://github.com/GenilsonJrs) |   |
+| `3.0`   | 26/06/2024 | Checklist de verificação do Planejamento de Relato de Resultados da Analise de Tarefas                   | [Genilson Silva](https://github.com/GenilsonJrs) | [Mariana Letícia](https://github.com/Marianannn)  |
