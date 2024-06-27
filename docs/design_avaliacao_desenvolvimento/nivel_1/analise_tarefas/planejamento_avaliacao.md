@@ -31,8 +31,9 @@ Os objetivos desta avaliação são verificar se as funcionalidades desenvolvida
 ## E - Explore
 
 Dados os objetivos, foram elaboradas perguntas acerca do funcionamento e satisfação das funcinalidades, com foco em:
-- Verificar a coerência e seguimento de um padrão;
-- comparar ideias e alternativas de design.
+
+- Verificar a coerência e seguimento de um padrão
+- comparar ideias e alternativas de design
 
 Com a coleta de dados, as perguntas escolhidas devem ser respondidas pós avaliação e foram feitas com base no _Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)_<a id="anchor_1" href="#REF1"></a>  
 
