@@ -99,27 +99,30 @@ O avaliador responsável pelo criação da lista de verificação desse artefato
 <p align="center">Imagem 4 - Dados de acordo com método </p>
 
 ## Resultado do Checklist
- <!-- template de VERIFICAÇÃO -->
 
-<!-- 
-| Item | Descrição      | Versão do Artefato | Avaliação      | Descrição do problema | Sugestão de Ação Corretiva | Observações |
-| ---- | -------------- | ------------------ | -------------- | --------------------- | -------------------------- | ----------- |
-|  1   | (COLOCAR DECRIÇÃO DO ITEM 1 AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME) |  | |
-|  2   | (COLOCAR DECRIÇÃO DO ITEM 2 AQUI) | (COLOCAR VERSÃO AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)|  |   |  |
-|  3   | (COLOCAR DECRIÇÃO DO ITEM 3 AQUI) | (COLOCAR VERSÃO AQUI)| (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME) | |  | 
-|  4   | (COLOCAR DECRIÇÃO DO ITEM 4 AQUI) | (COLOCAR VERSÃO AQUI) | (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)  | | | |
-|  5   | (COLOCAR DECRIÇÃO DO ITEM 5 AQUI) | (COLOCAR VERSÃO AQUI)| (COLOCAR SE ESTÁ CONFORME OU NÃO CONFORME)  | | |  |
-<p style="text-align: center">Tabela (COLQUE O NUMERO DA TABELA AQUI): (COLOQUE O TÍTULO DA TABELA AQUI)</p>
-<p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p>
+### Planejamento do Relato - Revisor: Genilson Silva
 
-<iframe width="560" height="315" 
-src="(COLOQUE O LINK EMBED AQUI)" 
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Item | Descrição | Versão do Artefato | Avaliação | Descrição do problema | Sugestão de Ação Corretiva | Observações |
+| ---- | --------- | ------------------ | --------- | --------------------- | -------------------------- | ----------- |
+|  1   | Os tópicos do relato de resultados incluem: Objetivos e escopo da avaliação, método, seleção de participantes, dados coletados, interpretação e análise dos dados, lista de problemas e reprojeto? | 1.0 | Conforme | | | |
+|  2   | É descrito o método que será utilizado, assim como o motivo de terem o escolhido? | 1.0 | Conforme | | | Pode ser melhor explicada a forma como se deu a escolha.|
+|  3   | É descrito a forma como será realizada o recrutamento de usuários? Essa seleção está de acordo com o perfil do usuário? | 1.0 | Conforme | | | |
+|  4   | Os dados foram extraídos e coletados de acordo com o método escolhido? O relato registra esses dados conforme foi previamente estabelecido? | 1.0 | Conforme | | | |
 
-<p style="text-align: center">Vídeo (COLOQUE O NUMERO DO VÍDEO AQUI): (COLOQUE O TÍTULO DO VÍDEO AQUI).</p>
-<p style="text-align: center">Fonte: (COLOQUE SEU NOME AQUI), 2024</p> -->
+<p style="text-align: center">Tabela 1: Verificação do Planejamento do Relato. </p>
+<p style="text-align: center">Fonte: Genilson Silva, 2024</p>
 
-## Conclusão
+**A gravação da verificação encontra-se abaixo:**
+
+<center>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Am0OKONN3P0?si=SkxzHWdnnu0uBDIO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Video 1: Verificação do Planejamento do Relato.</p>
+Fonte: Genilson Silva, 2024.
+
+</center>
 
 ## Biografia
 >- Barbosa, E. F., & Souza, S. R. S. (2017). Inspeção de Software. Instituto de Ciências Matemáticas e de Computação — ICMC/USP. Disponivel em: https://edisciplinas.usp.br/pluginfile.php/5306452/mod_resource/content/0/Aula02-Inspecao.pdf
@@ -133,3 +136,4 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |  [Genilson Silva](https://github.com/GenilsonJrs) |
 | `2.0`   | 26/06/2024 | Criação da lista de verificação do Planejamento de Relato de Resultados da Analise de Tarefas                   | [Pedro Henrique](https://github.com/PedroHhenriq) | [Genilson Silva](https://github.com/GenilsonJrs)  |
+| `3.0`   | 26/06/2024 | Checklist de verificação do Planejamento de Relato de Resultados da Analise de Tarefas                   | [Genilson Silva](https://github.com/GenilsonJrs) |   |
