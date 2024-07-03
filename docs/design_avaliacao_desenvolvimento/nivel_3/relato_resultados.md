@@ -312,6 +312,71 @@ Segue abaixo a tabela com os resultados das entrevistas:
 - **Sugestões de melhoria:**
     - Assim como na funcionalidade de cursos [Acidentes Domiciliares], foi indicado que deveria ser clicado diretamente no botão de se inscrever e ir direto para a tela. 
 
+
+### Entrevista: Checar e Gerar Certificados - Responsáveis: Genilson Silva e Bruna Lima
+
+<details>
+<summary>Vídeos da Avaliação da funcionalidade: Checar e Gerar Certificados </summary>
+
+
+<center>
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yUkhX6hBoYQ?si=rx-a6G5fmenQHc0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 13: Avaliação 1 - Checar e Gerar Certificados</p>
+
+Fonte: Genilson Silva e Bruna Lima.
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/10bRQPvH4ec?si=CwKg8QJLvxAR_OmB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 14: Avaliação 2 - Checar e Gerar Certificados</p>
+
+Fonte: Genilson Silva e Bruna Lima.
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SnmLC810H9Y?si=r9Bnt6-53i3kEmVt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 15: Avaliação 3 - Checar e Gerar Certificados</p>
+
+Fonte: Genilson Silva e Bruna Lima.
+
+</center>
+</details>
+<br>
+Segue a tabela 7, com os resultados das entrevistas:
+
+<center>
+
+| Entrevistado | Entrevistadores(as)  |  Você conseguiu operar o sistema com tranquilidade e sem erros?      | Houve algum momento em que você se sentiu perdido ou confuso?| O sistema permitiu que você completasse sua tarefa de forma eficiente?| Você atingiu seu objetivo? A funcionalidade apresenta de forma clara o objetivo esperado? | O design do protótipo manteve seu interesse durante a interação? Ele é agradável e apropriado para a tarefa?| Qual foi sua impressão sobre o protótipo? O que você mudaria ou melhoraria?|Você recomendaria o uso deste sistema a outras pessoas? Por quê?                 |
+| ------- | -------- | ------------------------- | --------------------------- | ---------------------------------------------- | ---- | --- | ---- | --- |
+| Augusto Duarte |[Genilson Silva](https://github.com/GenilsonJrs) e [Bruna Lima](https://github.com/libruna) | sim | sim, não vi a notificação. | sim | sim |⁠sim, intuitivo. | achei intuitivo e bonito, só mudaria a parte de notificação.| sim, é importante que o usuário consiga ver sua solicitação.|
+| Gustavo Alves | [Genilson Silva](https://github.com/GenilsonJrs) e [Bruna Lima](https://github.com/libruna) | sim | sim, não visualizei a notificação. |  sim | sim |sim, bem intuitivo  | protótipo bonito e intuitivo, só colocaria um pop up para notificação. | sim, recomendaria. |
+| Larissa Stéfane | [Genilson Silva](https://github.com/GenilsonJrs) e [Bruna Lima](https://github.com/libruna) |sim |não | sim, intuitivo. gostei da interface de download. | sim | sim, fácil de compreender. | muito intuitivo, não mudaria nada.  |recomendo, pois é fácil de coompreender e navegar.|
+
+**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+**Tabela 7** - Roteiro de perguntas da entrevista da funcionalidade Checar e Gerar Certificados.
+
+</center>
+
+- **Interpretação dos dados:** 
+    - Os três participantes no geral conseguiram concluir a tarefa com sucesso.
+    - Os usuários ficaram confusos principalmente com a notificação, pois ela ficou de forma bastante discreta.
+    - Os usuários se apresentaram satisfeitos visualmente com a interface
+     <br><br>
+    **Conclusão:** No geral, os usuários encontraram poucas dificuldades em vizualizar que o download foi concluido, mas conseguiram interagir com o site de modo geral.
+
+- **Lista de problemas encontrados:** 
+    - Dificuldade de visualização da notificação.
+    - A tela de download poderia estar melhor apresentada.
+
+- **Sugestões de melhoria:**
+    - Adicionar Pop Up de notificação para fácil visualização.
+    - Melhoria na tela de download.
+    - É notável que se pode ter um caminho mais rápido para quem quer apenas visualizar o andamento da solciitação.
+
 ### Entrevista: x - Responsáveis: y
 ### Entrevista: x - Responsáveis: y
 ### Entrevista: x - Responsáveis: y
@@ -382,4 +447,5 @@ Segue a seguir na tabela (COLOQUE O NÚMERO DA TABELA AQUI), os resultados das e
 | `2.0`   | 02/07/2024 | Adição de introdução, metodologia, e dos objetivos do planejamento | [Mariana Letícia](https://github.com/Marianannn) | |
 | `3.0`   | 02/07/2024 | Adição do relato de resultados da funcionalidade Obter declaração do regitro de ocorrência | [Mariana Letícia](https://github.com/Marianannn) | |
 | `4.0`   | 03/07/2024 | Adição do relato de resultados da funcionalidade Agendamento de Atendimento Presencial | [Daniela Alarcão](https://github.com/danialarcao) | |
-| `5.0`   | 03/07/2024 | Adição do relato de resultados da funcionalidade Curso [Acidentes Domiciliares] e [Primeiros Socorros|  [Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https://github.com/LucasAvelar2711) | |
+| `5.0`   | 03/07/2024 | Adição do relato de resultados da funcionalidade Curso [Acidentes Domiciliares] e Primeiros Socorros|  [Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https://github.com/LucasAvelar2711) | |
+| `6.0`   | 03/07/2024 | Adição do relato de resultados da funcionalidade Checar e Gerar Certificados|  [Genilson Silva](https://github.com/GenilsonJrs)| |
