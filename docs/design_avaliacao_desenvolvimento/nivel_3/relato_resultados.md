@@ -89,9 +89,7 @@ Fonte: Daniela Alarcão e Mariana Letícia.
 
 </center>
 </details>
-
 <br>
-
 Segue a seguir na tabela 3, os resultados das entrevistas:
 
 <center>
@@ -124,7 +122,67 @@ Segue a seguir na tabela 3, os resultados das entrevistas:
     - Adicionar notificação assim que o processo de adicionar declaração fosse concluída
     - Adicionar outros mecanismos de login e cadastro além do .gov
 
-### Entrevista: x - Responsáveis: y
+
+### Entrevista: Agendamento de Atendimento Presencial - Responsáveis: Daniela Alarcão e Mariana Letícia 
+
+<details>
+<summary>Vídeos da Avaliação da funcionalidade: Obter declaração do registro de ocorrência </summary>
+
+<center>
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3JndRz_d2X8?si=f6gWM-CfdxYAVXL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 4: Avaliação 1 - Agendamento de Atendimento Presencial.</p>
+
+Fonte: Daniela Alarcão e Mariana Letícia.
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/46u387tNL5U?si=yKo049XiOJ1cFiHS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 5: Avaliação 2 - Agendamento de Atendimento Presencial.</p>
+
+Fonte: Daniela Alarcão e Mariana Letícia.
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iVIAximsSHE?si=k9RljPLdYrgpPTLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 6: Avaliação 3 - Agendamento de Atendimento Presencial.</p>
+
+Fonte: Daniela Alarcão e Mariana Letícia.
+
+</center>
+</details>
+<br>
+Segue a seguir na tabela 4, os resultados das entrevistas:
+
+<center>
+
+| Entrevistado | Entrevistadores(as)  |  Você conseguiu operar o sistema com tranquilidade e sem erros?      | Houve algum momento em que você se sentiu perdido ou confuso?| O sistema permitiu que você completasse sua tarefa de forma eficiente?| Você atingiu seu objetivo? A funcionalidade apresenta de forma clara o objetivo esperado? | O design do protótipo manteve seu interesse durante a interação? Ele é agradável e apropriado para a tarefa?| Qual foi sua impressão sobre o protótipo? O que você mudaria ou melhoraria?|Você recomendaria o uso deste sistema a outras pessoas? Por quê?                 |
+| ------- | -------- | ------------------------- | --------------------------- | ---------------------------------------------- | ---- | --- | ---- | --- |
+| Augusto Duarte |[Daniela Alarcão](https://github.com/danialarcao) e [Mariana Letícia](https://github.com/Marianannn) | Sim. | Não. | Sim. | Sim. |⁠ Sim, é intuitivo. | Deixo como sugestão que ao clicar no botão de ver a localização, que o redirecionamento seja direto, sem outra janela apenas para o link. | Sim, recomendaria. É eficiênte, prático e ágil. |
+| Gustavo Alves | [Daniela Alarcão](https://github.com/danialarcao) e [Mariana Letícia](https://github.com/Marianannn) | Sim. | Não. | Sim. | Sim. | Sim, bem intuitivo.  | O protótipo está bem detalhado, não mudaria nada. | Sim, recomendaria. O protótipo está fácil de entender.  |
+| Larissa Stéfane | [Daniela Alarcão](https://github.com/danialarcao) e [Mariana Letícia](https://github.com/Marianannn) | Sim. | Não. O protótipo está intuitivo e a usabilidade está boa. | Sim. | Sim, a funcionalidade está clara. | O design está apropriado, com uma interface boa e não está poluída.|⁠ Não mudaria em nada. | Sim, recomendaria.  |
+
+**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+**Tabela 4** - Roteiro de perguntas da entrevista da funcionalidade Agendamento de Atendimento Presencial.
+
+</center>
+
+- **Interpretação dos dados:**  
+    - Os três entrevistados se sentiram confortáveis e confiantes ao usar o protótipo. 
+    - A tarefa foi concluída com sucesso em todas as entrevistas. 
+    - Os entrevistados não obtiveram dúvidas nem demonstraram confusão durante o uso do protótipo.  
+     <br>
+    **Conclusão:** Conclui-se que o protótipo está adequado.
+
+- **Lista de problemas encontrados:** 
+    - Ruídos externos durante a gravação dos testes. 
+
+- **Sugestões de melhoria:**
+    - Ao clicar no botão "Ver localização", redirecionar diretamente ao Google Maps, sem janela adicional apenas para o link. 
+
 ### Entrevista: x - Responsáveis: y
 ### Entrevista: x - Responsáveis: y
 ### Entrevista: x - Responsáveis: y
@@ -194,3 +252,4 @@ Segue a seguir na tabela (COLOQUE O NÚMERO DA TABELA AQUI), os resultados das e
 | `1.0`   | 02/07/2024 | Criação da página         | [Mariana Letícia](https://github.com/Marianannn) | |
 | `2.0`   | 02/07/2024 | Adição de introdução, metodologia, e dos objetivos do planejamento | [Mariana Letícia](https://github.com/Marianannn) | |
 | `3.0`   | 02/07/2024 | Adição do relato de resultados da funcionalidade Obter declaração do regitro de ocorrência | [Mariana Letícia](https://github.com/Marianannn) | |
+| `4.0`   | 03/07/2024 | Adição do relato de resultados da funcionalidade Agendamento de Atendimento Presencial | [Daniela Alarcão](https://github.com/danialarcao) | |
