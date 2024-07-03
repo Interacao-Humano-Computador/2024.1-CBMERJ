@@ -136,6 +136,9 @@ Este teste piloto não influenciará a coleta nem a interpretação dos dados. O
 
 #### Teste Piloto 1: Obter Declaração do Registro de Ocorrência - Mariana 
 #### Teste Piloto 2: Agendar Atendimento Presencial - Daniela 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uso73t4Mt6w?si=EQynQil6xNwJ4yno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Teste Piloto 3: Checar e Gerar Certificado - Genilson
 #### Teste Piloto 4: Solicitar Ficha de Atendimento - Bruna
 #### Teste Piloto 5 e 6: Cursos: Acidentes Domiciliares e Primeiros Socrros - Lucas e Pedro
@@ -160,3 +163,4 @@ Este teste piloto não influenciará a coleta nem a interpretação dos dados. O
 | `3.0`   | 13/06/2024 | Adição da questões práticas e aspectos éticos | [Bruna Lima](https://github.com/libruna) | [Pedro Henrique](https://github.com/PedroHhenriq)|
 | `3.1`   | 18/06/2024 | Adição da seleção de participantes e cronograma | [Bruna Lima](https://github.com/libruna) | [Pedro Henrique](https://github.com/PedroHhenriq) |
 | `3.2`   | 03/07/2024 | Atualização do cronograma e preparação | [Bruna Lima](https://github.com/libruna) | |
+| `4.0`   | 03/07/2024 | Adição do Teste Piloto | [Daniela Alarcão](https://github.com/danialarcao) | |
