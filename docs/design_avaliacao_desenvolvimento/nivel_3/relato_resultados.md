@@ -29,11 +29,11 @@ Os participantes escolhidos estão descritos na tabela 1 abaixo, e estão confor
 
 <center>
 
-|    Entrevistados | Idade   | Ocupação  |  Facilidade com a tecnologia  |
-| :------------: | :-------: | :------: | :--------------: |
-| Augusto Duarte   | 22 | estudante | possui facilidade |
-| Gustavo Alves    | 21 | estudante | possui facilidade |
-| Larissa Stéfane | 23 | estudante | possui facilidade |
+|    Entrevistados | Idade   | Ocupação  |  Facilidade com a tecnologia  | Local onde moram |
+| :------------: | :-------: | :------: | :--------------: | :--: |
+| Augusto Duarte   | 22 | estudante | possui facilidade | Centro-Oeste |
+| Gustavo Alves    | 21 | estudante | possui facilidade |Centro-Oeste|
+| Larissa Stéfane | 23 | estudante | possui facilidade | Centro-Oeste |
 
 <p style="text-align: center">Tabela 1: Participantes da entrevista</p>
 <p style="text-align: center">Fonte: Mariana Letícia</p>
@@ -50,7 +50,7 @@ Segue abaixo na tabela 2, o cronograma das entrevistas feitas:
 | :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
 | [Mariana Letícia](https://github.com/Marianannn), [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711), [Pedro Henrique](https://github.com/PedroHhenriq) e [Genilson](https://github.com/GenilsonJrs) | Augusto Duarte | 08:30 | 09:30 | 02/07/2024 | - Solicitar declaração de registro de ocorrência <br> - Solicitação de Ficha de Atendimento <br> - Agendamento de atendimento presencial <br> - CB Cursos 1 <br> - CB Cursos 2 <br> - Checar e Gerar Certificado | FGA |
 | [Mariana Letícia](https://github.com/Marianannn), [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711), [Pedro Henrique](https://github.com/PedroHhenriq) e [Genilson](https://github.com/GenilsonJrs) | Gustavo Alves | 08:30 | 09:30 |  02/07/2024 | - Solicitar declaração de registro de ocorrência <br> - Solicitação de Ficha de Atendimento <br> - Agendamento de atendimento presencial <br> - CB Cursos 1 <br> - CB Cursos 2 <br> - Checar e Gerar Certificado | FGA |
-| [Mariana Letícia](https://github.com/Marianannn), [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711), [Pedro Henrique](https://github.com/PedroHhenriq) e [Genilson](https://github.com/GenilsonJrs) |     Larissa Steffane    |      08:30 | 09:30     |   02/07/2024  |   - Solicitar declaração de registro de ocorrência <br> - Solicitação de Ficha de Atendimento <br> - Agendamento de atendimento presencial <br> - CB Cursos 1 <br> - CB Cursos 2 <br> - Checar e Gerar Certificado   | FGA |
+| [Mariana Letícia](https://github.com/Marianannn), [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Lucas Avelar](https://github.com/LucasAvelar2711), [Pedro Henrique](https://github.com/PedroHhenriq) e [Genilson](https://github.com/GenilsonJrs) |     Larissa Stéfane    |      08:30 | 09:30     |   02/07/2024  |   - Solicitar declaração de registro de ocorrência <br> - Solicitação de Ficha de Atendimento <br> - Agendamento de atendimento presencial <br> - CB Cursos 1 <br> - CB Cursos 2 <br> - Checar e Gerar Certificado   | FGA |
 
 
 <p style="text-align: center">Tabela 2: Cronograma executado de avaliações</p>
