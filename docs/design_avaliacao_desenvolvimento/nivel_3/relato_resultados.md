@@ -377,9 +377,69 @@ Segue a tabela 7, com os resultados das entrevistas:
     - Melhoria na tela de download.
     - É notável que se pode ter um caminho mais rápido para quem quer apenas visualizar o andamento da solciitação.
 
-### Entrevista: x - Responsáveis: y
-### Entrevista: x - Responsáveis: y
-### Entrevista: x - Responsáveis: y
+### Entrevista: Solicitar Ficha de Atendimento - Responsáveis: Bruna Lima e Genilson Junior
+
+<details>
+<summary>Vídeos da Avaliação da funcionalidade: Solicitar Ficha de Atendimento.</summary>
+
+<center>
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zGcn1vaOqkU?si=INkV8wTHITW_EYhn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 16: Avaliação 1 - Solicitar Ficha de Atendimento.</p>
+
+Fonte: Bruna Lima e Genilson Junior.
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v-IULPiuExA?si=ADAWTG1OQnzewd4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 17: Avaliação 2 - Solicitar Ficha de Atendimento.</p>
+
+Fonte: Bruna Lima e Genilson Junior.
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RYpNkzS6GyM?si=7mpthJpRJcMlBEeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 18: Avaliação 3 - Solicitar Ficha de Atendimento.</p>
+
+Fonte: Bruna Lima e Genilson Junior.
+
+</center>
+
+</details>
+<br>
+Segue a seguir na tabela 8, os dados coletados das entrevistas:
+
+<center>
+
+| Entrevistado | Entrevistadores(as)  |  Você conseguiu operar o sistema com tranquilidade e sem erros? | Houve algum momento em que você se sentiu perdido ou confuso?| O sistema permitiu que você completasse sua tarefa de forma eficiente?| Você atingiu seu objetivo? A funcionalidade apresenta de forma clara o objetivo esperado? | O design do protótipo manteve seu interesse durante a interação? Ele é agradável e apropriado para a tarefa?| Qual foi sua impressão sobre o protótipo? O que você mudaria ou melhoraria?|Você recomendaria o uso deste sistema a outras pessoas? Por quê?                 |
+| ------- | -------- | ------------------------- | --------------------------- | ---------------------------------------------- | ---- | --- | ---- | --- |
+| Augusto Duarte | [Bruna Lima](https://github.com/libruna) e [Genilson Junior](https://github.com/manuziny) | No último botão fui direcionado para a tela de login novamente, mas fora isso não tive erros. | Não. | Sim. | Sim. |⁠ Sim. | Os processos estão coerentes e fáceis de visualizar. Só achei as que as letras estão pequenas em algumas telas e ao final poderia ser exibida uma confirmação do processo. | Sim, recomendaria. É uma funcionalidade útil para o cidadão. |
+| Gustavo Alves | [Bruna Lima](https://github.com/libruna) e [Genilson Junior](https://github.com/manuziny)  | Sim. | Não. | Sim, permitiu. É uma tarefa simples e fácil de executar. | Sim. | Sim, é intuitivo e fácil. | Tem um design leve e é visualmente agradável. Não mudaria nada. | Sim, recomendaria. |
+| Larissa Stéfane | [Bruna Lima](https://github.com/libruna) e [Genilson Junior](https://github.com/manuziny) | Sim. | Não, é intuitivo. Apenas o botão de criar solicitação que a depender da pessoa pode não ser tão fácil de ser identicado. | Sim, e o protótipo mostra bem quando finalizamos uma etapa antes de inciar uma nova. | Sim, apresenta. Está sempre comunicando o usuário o que está acontecendo. | Sim, manteve. É intuitivo e está fácil de ser compreendido. |⁠ Eu gostei bastante de sempre indicar com mensagens todos os passos e a usabilidade é boa. ,Mudaria apenas o botão de criar solicitação. | Sim, recomendaria. Acredito que pessoas de todas as idades teriam facilidade em utilizar essa funcionalidade, além da praticidade já que ela possibilita o agendamento online. |
+
+**Fonte** - [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Junior](https://github.com/manuziny), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
+**Tabela 8** - Roteiro de perguntas da entrevista da funcionalidade Solicitar Ficha de Atendimento.
+
+</center>
+
+- **Interpretação dos dados:**  
+    - Na primeira avaliação, ocorreu um problema técnico no protótipo, resultando na não exibição da tela final que apresenta a conclusão da criação da solicitação. Nas avaliações subsequentes, este problema foi corrigido e não foram observadas mais questões relacionadas a esse ponto.
+    - Foram feitas sugestões sobre o tamanho das fontes e a visibilidade do botão de criar solicitação.
+    - Os participantes elogiaram o design das telas e expressaram conforto com sua usabilidade.
+    - Os participantes consideraram o protótipo intuitivo.
+     <br>
+    **Conclusão:** Pode-se concluir que o protótipo é intuitivo e que possui um design adequado. Há apenas duas sugestões de melhoria relevantes que serão abordadas no reprojeto.
+
+- **Lista de problemas encontrados:** 
+    - O botão de criar uma solicitação não é fácil de ser identificado;
+    - Em algumas telas as letras estão muito pequenas.
+
+- **Sugestões de melhoria:**
+    - Redesenhar e reposicionar o botão de criação de solicitação: Aumentar seu tamanho e reposicioná-lo para a parte superior da tela, a fim de melhorar sua visibilidade e acessibilidade para os usuários.
+    - Aumentar o tamanho da fonte utilizada nas telas.
 
 <!-- Template de relato dos resultados -->
 
@@ -449,3 +509,4 @@ Segue a seguir na tabela (COLOQUE O NÚMERO DA TABELA AQUI), os resultados das e
 | `4.0`   | 03/07/2024 | Adição do relato de resultados da funcionalidade Agendamento de Atendimento Presencial | [Daniela Alarcão](https://github.com/danialarcao) | |
 | `5.0`   | 03/07/2024 | Adição do relato de resultados da funcionalidade Curso [Acidentes Domiciliares] e Primeiros Socorros|  [Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https://github.com/LucasAvelar2711) | |
 | `6.0`   | 03/07/2024 | Adição do relato de resultados da funcionalidade Checar e Gerar Certificados|  [Genilson Silva](https://github.com/GenilsonJrs)| |
+| `7.0`   | 03/07/2024 | Adição do relato de resultados da funcionalidade Solictar Ficha de Atendimento |  [Bruna Lima](https://github.com/libruna)| |
