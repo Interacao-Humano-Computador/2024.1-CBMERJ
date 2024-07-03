@@ -183,6 +183,127 @@ Segue a seguir na tabela 4, os resultados das entrevistas:
 - **Sugestões de melhoria:**
     - Ao clicar no botão "Ver localização", redirecionar diretamente ao Google Maps, sem janela adicional apenas para o link. 
 
+### Entrevista: Curso do Corpo de Bombeiros [Acidentes Domiciliares]- Responsáveis: Pedro Henrique e Lucas Avelar
+
+<details>
+<summary>Vídeos da Avaliação da funcionalidade: Curso do Corpo de Bombeiros [Acidentes Domiciliares] </summary>
+
+
+<center>
+
+<br>
+<iframe width="882" height="496" src="https://youtu.be/CF18_YEZv0o?t=207" title="Video 1 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 7: Avaliação 1 - Curso Corpo de Bombeiros [Acidentes Domiciliares]</p>
+
+<br>
+<iframe width="882" height="496" src="https://youtu.be/1TN-vlc_ViI?t=336" title="Video 2 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Fonte: Pedro Henrique e Lucas Avelar
+
+<br>
+<iframe width="882" height="496" src="https://www.youtube.com/embed/H9-u6hrgGCs" title="Video 3 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 8: Avaliação 2 - Curso Corpo de Bombeiros [Acidentes Domiciliares]</p>
+
+Fonte: Pedro Henrique e Lucas Avelar
+
+<br>
+<iframe width="882" height="496" src="https://www.youtube.com/embed/H9-u6hrgGCs" title="Video 3 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 9: Avaliação  3 - Curso Corpo de Bombeiros [Acidentes Domiciliares]</p>
+
+Fonte: Pedro Henrique e Lucas Avelar
+
+Segue abaixo a tabela com os resultados das entrevistas:
+
+<center>
+
+| Entrevistado | Entrevistadores(as)  |  Você conseguiu operar o sistema com tranquilidade e sem erros?      | Houve algum momento em que você se sentiu perdido ou confuso?| O sistema permitiu que você completasse sua tarefa de forma eficiente?| Você atingiu seu objetivo? A funcionalidade apresenta de forma clara o objetivo esperado? | O design do protótipo manteve seu interesse durante a interação? Ele é agradável e apropriado para a tarefa?| Qual foi sua impressão sobre o protótipo? O que você mudaria ou melhoraria?|Você recomendaria o uso deste sistema a outras pessoas? Por quê?                 |
+| ------- | -------- | ------------------------- | --------------------------- | ---------------------------------------------- | ---- | --- | ---- | --- |
+|  Larissa Stéfane|[Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https://github.com/LucasAvelar2711) | Sim | Não, achei bem intuitivo e bem claro como prosseguir. | Permitiu, e as coisas estão bem intuitivas, então se eu tivesse alguma confusão ou dificuldade, ele dava opção de voltar ou acessar. Gostei. | Atingi. Sim, eu gostei de como foi apresentada. | Manteve, ele está bem intuitivo, simples, ao mesmo tempo que está bem eficiente. Gostei de como foi apresentado. | A princípio não mudaria nada. Acho que ele entrega o que ele tem que entregar, de modo que a usabilidade está muito boa para usuários, tanto que tem tanta tecnologia, quanto quem não tem tanto. | Recomendaria. É uma coisa importante que todo cidadão precisa ter e ele entrega uma usabilidade boa para qualquer cidadão. |
+| Augusto Duarte | [Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https://github.com/LucasAvelar2711) | Sim | Não | Sim | Sim | Manteve. Foi agradável e apropriado com a tarefa.  | Nada. A tarefa está muito intuitiva. | Recomendaria. |
+| Gustavo Alves| [Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https://github.com/LucasAvelar2711) |Sim. Só teve um detalhe que eu não tinha um login. | Não, acho que está bem encaminhado. Os processos estão bem definidos. | Sim. | Sim. | Sim, achei bem intutivo. | Eu gostei do protótipo. Acho que quando a pessoa for se inscrever no curso, ir direto para a página e não se inscrever e depois clicar. | Sim, é importante as pessoas terem acesso a esse curso. Um dia a gente pode precisar ter medidas para previnir certos acidentes e até em caso aconteça, a gente saber como prosseguir. |
+
+**Tabela 5** - Roteiro de perguntas da entrevista da funcionalidade Curso do Corpo de Bombeiros [Acidentes Domiciliares]
+
+</center>
+
+- **Interpretação dos dados:** 
+    - Os três participantes conseguiram operar o sistema com tranquilidade e sem confusão;
+    - Para os participantes o sistema é bem intuitivo e apresenta uma boa usabilidade;
+    - Os participantes não tiverem nenhuma confusão ou dificuldade em seguir os passos até o seu objetivo;
+    - Todos os participantes gostaram e recomendariam o uso do sistema; 
+     <br><br>
+    **Conclusão:** A partir dos dados obtidos dos três participantes, conseguimos concluir que o sistema parece ter uma boa usabilidade, conseguindo ser bastante intuitivo para os usuários e apresentando de forma clara, sem dificuldade ou confusão os passos e objetivos esperados. 
+
+- **Lista de problemas encontrados:** 
+    - A partir da respostas obtidas e da analise dos entrevistadores, não foi detectado nenhuma problema. 
+
+- **Sugestões de melhoria:**
+    - Foi relatado por um dos participantes entrevistados que ao poderíamos apresentar a inscrição do sistema inicialmente com a suas devidas telas logo em seguida. 
+
+
+
+### Entrevista: Curso do Corpo de Bombeiros [Primeiro Socorros]- Responsáveis: Lucas Avelar e Pedro Henrique
+
+<details>
+<summary>Vídeos da Avaliação da funcionalidade: Curso do Corpo de Bombeiro [Primeiros Socorros] </summary>
+
+
+<center>
+
+<br>
+<iframe width="882" height="496" src="https://youtu.be/CF18_YEZv0o" title="Video 1 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<p>Vídeo 10: Avaliação 1 - Cursos Corpo de Bombeiro [Primeiros Socorros] </p>
+
+<br>
+<iframe width="882" height="496" src="https://www.youtube.com/embed/1TN-vlc_ViI" title="Video 2 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Fonte: Lucas Avelar e Pedro Henrique.
+
+<p>Vídeo 11: Avaliação 2 - Cursos Corpo de Bombeiro [Primeiros Socorros] </p>
+
+<iframe width="882" height="496" src="https://youtu.be/H9-u6hrgGCs?t=285" title="Video 3 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Fonte: Lucas Avelar e Pedro Henrique.
+
+<br>
+<iframe width="882" height="496" src="https://youtu.be/H9-u6hrgGCs?t=282" title="Video 3 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 12: Avaliação  3 - Cursos Corpo de Bombeiro [Primeiros Socorros] </p>
+
+Fonte: Lucas Avelar e Pedro Henrique.
+
+Segue abaixo a tabela com os resultados das entrevistas:
+
+<center>
+
+| Entrevistado | Entrevistadores(as)  |  Você conseguiu operar o sistema com tranquilidade e sem erros?      | Houve algum momento em que você se sentiu perdido ou confuso?| O sistema permitiu que você completasse sua tarefa de forma eficiente?| Você atingiu seu objetivo? A funcionalidade apresenta de forma clara o objetivo esperado? | O design do protótipo manteve seu interesse durante a interação? Ele é agradável e apropriado para a tarefa?| Qual foi sua impressão sobre o protótipo? O que você mudaria ou melhoraria?|Você recomendaria o uso deste sistema a outras pessoas? Por quê?                 |
+| ------- | -------- | ------------------------- | --------------------------- | ---------------------------------------------- | ---- | --- | ---- | --- |
+| Larissa Stéfane|[Lucas Avelar](https://github.com/LucasAvelar2711) e [Pedro Henrique](https://github.com/PedroHhenriq)| Sim | Não. Achei bem intuitivo, ele indica bem cada etapa/fase. Foi bem tranquilo de navegar. | Sim. Consegui. | Sim, ele deixa bem explícito a vídeo-aula e ele está sempre notificando a gente como usuário em qual fase estamos, como prosseguir e voltar. | Sim, ele está bem intuitivo, ele não está poluído, está fácil entendido e bem eficiente. | Não mudaria nada. Gostei de como foi apresentado. Achei que usabilidade está muito boa tanto para quem tem muita facilidade com tecnologia, ao mesmo tempo que está simples para quem tem dificuldade em tecnologia conseguir navegar. | Recomendaria, até porque todo mundo tem que saber o básico de primeiro socorros e ele está bem fácil de navegar de modo que qualquer pessoa conseguiria acessar. |
+|  Augusto Duarte |[Lucas Avelar](https://github.com/LucasAvelar2711) e [Pedro Henrique](https://github.com/PedroHhenriq) | Consegui | Não | Permitiu | Apresenta. Consegui chegar a video aula de primeiro socorros. | Agradável e bem prático de fazer o passo a passo. | Acredito que não mudaria nada, achei ele bem prático. Foi muito intuitivo o passo a passo. Consegui fazer cada passo bem tranquilo. | Recomendaria. |
+| Gustavo Alves | [Lucas Avelar](https://github.com/LucasAvelar2711) e [Pedro Henrique](https://github.com/PedroHhenriq) | Sim. Foi tranquilo. | Não. Está bem tranquilo. | Sim. | Sim. | Sim. | Eu mudaria a questão de clicar no botão de se inscrever e ir direto para tela.  | Com certeza, essa funcionalidade de primeiro socorros é muito importante, como qualquer outra coisa, a gente precisar ter conhecimento e estar se capacitando caso precise. |
+
+**Tabela 6** - Roteiro de perguntas da entrevista da funcionalidade Curso do Corpo de Bombeiros [Primeiros Socorros]
+
+</center>
+
+- **Interpretação dos dados:** 
+    - Os participantes conseguiram executar as tarefas de forma tranquila e sem confusão;
+    - Conseguiram alcançar seu objetivo de forma clara, relatando boa usabilidade e intuitividade;
+    - Tiveram uma boa impressão e recomendariam o uso do sistema. 
+     <br><br>
+    **Conclusão:** A partir dos dados, podemos concluir que o sistema é claro, intuitivo e com uma boa usabilidade de modo com que os usuários conseguiram chegar ao seu objetivo de forma bem traqnuila. 
+
+- **Lista de problemas encontrados:** 
+    - A partir dos dados que obtemos dos entrevistados e após uma análise posterior dos entrevistadores, não foi encontrado nenhum problema.
+
+- **Sugestões de melhoria:**
+    - Assim como na funcionalidade de cursos [Acidentes Domiciliares], foi indicado que deveria ser clicado diretamente no botão de se inscrever e ir direto para a tela. 
+
 ### Entrevista: x - Responsáveis: y
 ### Entrevista: x - Responsáveis: y
 ### Entrevista: x - Responsáveis: y
@@ -253,3 +374,4 @@ Segue a seguir na tabela (COLOQUE O NÚMERO DA TABELA AQUI), os resultados das e
 | `2.0`   | 02/07/2024 | Adição de introdução, metodologia, e dos objetivos do planejamento | [Mariana Letícia](https://github.com/Marianannn) | |
 | `3.0`   | 02/07/2024 | Adição do relato de resultados da funcionalidade Obter declaração do regitro de ocorrência | [Mariana Letícia](https://github.com/Marianannn) | |
 | `4.0`   | 03/07/2024 | Adição do relato de resultados da funcionalidade Agendamento de Atendimento Presencial | [Daniela Alarcão](https://github.com/danialarcao) | |
+| `5.0`   | 03/07/2024 | Adição do relato de resultados da funcionalidade Curso [Acidentes Domiciliares] e [Primeiros Socorros|  [Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https://github.com/LucasAvelar2711) | |
