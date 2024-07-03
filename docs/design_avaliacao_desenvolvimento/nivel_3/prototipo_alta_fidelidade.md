@@ -32,7 +32,18 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao), 2024.
 
 </center>
 
-### Funcionalidade: x - Responsável: y
+### Funcionalidade: Obter Declaração do registro de ocorrência - Responsável: Mariana Letícia
+
+[Link visualizar direto no Figma](https://www.figma.com/design/Njelyeqc5J3pMRurbkwhyJ/Funcionalidade-Mari?node-id=0-1&t=t9W9vjuEwE3jjSxq-1)
+
+<center>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FNjelyeqc5J3pMRurbkwhyJ%2FFuncionalidade-Mari%3Fnode-id%3D0-1%26t%3Dt9W9vjuEwE3jjSxq-1" allowfullscreen></iframe>
+
+<p>Protótipo 3: Obter declaração do registro de atendimento</p>
+
+Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
+
 ### Funcionalidade: x - Responsável: y
 ### Funcionalidade: x - Responsável: y
 ### Funcionalidade: x - Responsável: y
@@ -46,3 +57,4 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao), 2024.
 | `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
 | `2.0`   | 03/07/2024 | Adição do protótipo de solicitar ficha de atendimento   | [Bruna Lima](https://github.com/libruna) | |
 | `3.0`   | 03/07/2024 | Adição do protótipo de Agendamento de Atendimento Presencial   | [Daniela Alarcão](https://github.com/danialarcao) | |
+| `4.0`   | 03/07/2024 | Adição do protótipo de Obter declaração do registro de ocorrência   | [Mariana Letícia](https://github.com/Marianannn) | |
