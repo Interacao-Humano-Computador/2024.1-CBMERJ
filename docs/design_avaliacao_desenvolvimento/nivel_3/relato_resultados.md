@@ -215,6 +215,10 @@ Fonte: Pedro Henrique e Lucas Avelar
 
 Fonte: Pedro Henrique e Lucas Avelar
 
+</center>
+</details>
+<br>
+
 Segue abaixo a tabela com os resultados das entrevistas:
 
 <center>
@@ -276,6 +280,10 @@ Fonte: Lucas Avelar e Pedro Henrique.
 <p>Vídeo 12: Avaliação  3 - Cursos Corpo de Bombeiro [Primeiros Socorros] </p>
 
 Fonte: Lucas Avelar e Pedro Henrique.
+
+</center>
+</details>
+<br>
 
 Segue abaixo a tabela com os resultados das entrevistas:
 
