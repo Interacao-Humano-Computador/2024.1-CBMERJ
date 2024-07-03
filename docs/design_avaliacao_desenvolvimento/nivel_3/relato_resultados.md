@@ -192,17 +192,15 @@ Segue a seguir na tabela 4, os resultados das entrevistas:
 <center>
 
 <br>
-<iframe width="882" height="496" src="https://youtu.be/CF18_YEZv0o?t=207" title="Video 1 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="882" height="496" src="https://www.youtube.com/embed/CF18_YEZv0o&amp;start=195" title="Video 1 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 7: Avaliação 1 - Curso Corpo de Bombeiros [Acidentes Domiciliares]</p>
-
-<br>
-<iframe width="882" height="496" src="https://youtu.be/1TN-vlc_ViI?t=336" title="Video 2 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Fonte: Pedro Henrique e Lucas Avelar
 
 <br>
-<iframe width="882" height="496" src="https://www.youtube.com/embed/H9-u6hrgGCs" title="Video 3 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="882" height="496" src="https://www.youtube.com/embed/1TN-vlc_ViI&amp;start=319" title="Video 2 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="882" height="496" src="https://youtu.be/1TN-vlc_ViI?t=336" title="Video 2 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 8: Avaliação 2 - Curso Corpo de Bombeiros [Acidentes Domiciliares]</p>
 
@@ -257,25 +255,22 @@ Segue abaixo a tabela com os resultados das entrevistas:
 
 <center>
 
-<br>
-<iframe width="882" height="496" src="https://youtu.be/CF18_YEZv0o" title="Video 1 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="882" height="496" src="https://www.youtube.com/embed/CF18_YEZv0o" title="Video 1 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <p>Vídeo 10: Avaliação 1 - Cursos Corpo de Bombeiro [Primeiros Socorros] </p>
 
+Fonte: Lucas Avelar e Pedro Henrique.
+
 <br>
 <iframe width="882" height="496" src="https://www.youtube.com/embed/1TN-vlc_ViI" title="Video 2 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Fonte: Lucas Avelar e Pedro Henrique.
-
 <p>Vídeo 11: Avaliação 2 - Cursos Corpo de Bombeiro [Primeiros Socorros] </p>
-
-<iframe width="882" height="496" src="https://youtu.be/H9-u6hrgGCs?t=285" title="Video 3 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Fonte: Lucas Avelar e Pedro Henrique.
 
 <br>
-<iframe width="882" height="496" src="https://youtu.be/H9-u6hrgGCs?t=282" title="Video 3 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="882" height="496" src="https://www.youtube.com/embed/H9-u6hrgGCs&amp;start=246" title="Video 3 Prototipo Alta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 12: Avaliação  3 - Cursos Corpo de Bombeiro [Primeiros Socorros] </p>
 

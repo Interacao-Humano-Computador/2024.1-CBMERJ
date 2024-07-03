@@ -154,7 +154,19 @@ Fonte: [Bruna Lima](https://github.com/libruna), 2024.
 
 </center>
 
-#### Teste Piloto 5 e 6: Cursos: Acidentes Domiciliares e Primeiros Socrros - Lucas e Pedro
+#### Teste Piloto 5 e 6: Cursos: Acidentes Domiciliares e Primeiros Socorros - Lucas e Pedro
+
+[Link para assistir no YouTube](https://youtu.be/a-qpN63sQx8)
+
+<center>
+
+<iframe width="882" height="496" src="https://www.youtube.com/embed/a-qpN63sQx8" title="Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Video 6: Teste Piloto dos Cursos: Acidementes Domiciliares e Primeiro Socorros</p>
+
+Fonte: [Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https://github.com/LucasAvelar2711), 2024.
+
+</center>
 
 ## Bibliografia
 > - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
@@ -177,3 +189,4 @@ Fonte: [Bruna Lima](https://github.com/libruna), 2024.
 | `3.1`   | 18/06/2024 | Adição da seleção de participantes e cronograma | [Bruna Lima](https://github.com/libruna) | [Pedro Henrique](https://github.com/PedroHhenriq) |
 | `3.2`   | 03/07/2024 | Atualização do cronograma e preparação | [Bruna Lima](https://github.com/libruna) | |
 | `4.0`   | 03/07/2024 | Adição do Teste Piloto | [Daniela Alarcão](https://github.com/danialarcao) | |
+| `5.0`   | 03/07/2024 | Adição do Teste Piloto Cursos | [Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https://github.com/LucasAvelar2711)  | |
