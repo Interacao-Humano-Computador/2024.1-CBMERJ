@@ -85,9 +85,9 @@ Na Tabela 2, apresentamos o cronograma planejado para a avaliação de cada uma 
   
 |    Avaliadores       | Participantes   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefas    |      Local     |
 | :------------------: | :-------------: | :----------------: | ---------------- | :--------: | :-----------: | :------------: |
-| Bruna e Genilson     | Augusto, Gustavo e Larissa | 08:30 | 09:30 | 02/07/24 | 1. Solicitar ficha de atendimento<br>2. Checar e gerar certificado | FGA |
-| Daniela e Mariana    | Augusto, Gustavo e Larissa | 08:30 | 09:30 | 02/07/24 | 1. Agendamento de atendimento presencial<br>2. Obter declaração do degistro de ocorrência | FGA |
-| Lucas e Pedro | Augusto, Gustavo e Larissa | 08:30 | 09:30 | 02/07/24 | 1. Curso: Primeiro socorros<br>2. Curso: Acidentes domiciliares | FGA |
+| Bruna e Genilson     | Augusto Duarte, Gustavo Alves e Larissa Stéfane | 08:30 | 09:30 | 02/07/24 | 1. Solicitar ficha de atendimento<br>2. Checar e gerar certificado | FGA |
+| Daniela e Mariana    | Augusto Duarte, Gustavo Alves e Larissa Stéfane | 08:30 | 09:30 | 02/07/24 | 1. Agendamento de atendimento presencial<br>2. Obter declaração do degistro de ocorrência | FGA |
+| Lucas e Pedro | Augusto Duarte, Gustavo Alves e Larissa Stéfane | 08:30 | 09:30 | 02/07/24 | 1. Curso: Primeiro socorros<br>2. Curso: Acidentes domiciliares | FGA |
 
 
 </center>
@@ -141,6 +141,19 @@ Este teste piloto não influenciará a coleta nem a interpretação dos dados. O
 
 #### Teste Piloto 3: Checar e Gerar Certificado - Genilson
 #### Teste Piloto 4: Solicitar Ficha de Atendimento - Bruna
+
+[Link para assistir no YouTube](https://youtu.be/P_3T3NdC2KY)
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P_3T3NdC2KY?si=xqUTYAKELqfGBIEn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Video 5: Teste Piloto de Solicitar Ficha de Atendimento.</p>
+
+Fonte: [Bruna Lima](https://github.com/libruna), 2024.
+
+</center>
+
 #### Teste Piloto 5 e 6: Cursos: Acidentes Domiciliares e Primeiros Socrros - Lucas e Pedro
 
 ## Bibliografia
