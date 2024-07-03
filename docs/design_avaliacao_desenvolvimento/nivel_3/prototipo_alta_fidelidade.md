@@ -87,5 +87,5 @@ Fonte: [Genilson Silva](https://github.com/GenilsonJrs), 2024.
 <<<<<<< HEAD
 | `5.0`   | 03/07/2024 | Adição do protótipo do CB Cursos   | [Lucas Avelar](https://github.com/LucasAvelar2711) | |
 =======
-| `5.0`   | 03/07/2024 | Adição do protótipo de Checar e Gerar Certificados   | [Genilson Silva](https://github.com/GenilsonJrs) | |
+| `6.0`   | 03/07/2024 | Adição do protótipo de Checar e Gerar Certificados   | [Genilson Silva](https://github.com/GenilsonJrs) | |
 >>>>>>> f766dfd4ec01edf9b07f4eb9e3fca2466db7e5bf
