@@ -1,6 +1,5 @@
 ## Introdução
-
-## Metodologia
+Seguem abaixo os protótipo feitos no site Figma de todas as funcionalidades. Esses protótipos foram utilizados para a avaliação dos protótipos de alta fidelidade com os devidos entrevistados.
 
 ## Protótipos
 
