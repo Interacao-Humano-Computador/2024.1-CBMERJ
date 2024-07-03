@@ -20,7 +20,7 @@ Fonte: autores.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 13/06/2024 | Criação da página de Apresentação 8     | [Lucas Avelar](https://github.com/LucasAvelar2711) [Lucas Avelar](https://github.com/LucasAvelar2711)    |  
+| `1.0`   | 13/06/2024 | Criação da página de Apresentação 8     | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Lucas Avelar](https://github.com/LucasAvelar2711)    |  
 | `2.0`   | 13/06/2024 | Adição da Apresentação 8     | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Lucas Avelar](https://github.com/LucasAvelar2711)   | 
 
 
