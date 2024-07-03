@@ -3,9 +3,9 @@ O relato dos resultaos do protótipo de alta fidelidade é essencial para obter 
 
 
 ## Metodologia
-<!-- Por se tratar de um protótipo de alta fidelidade, os métodos utilizados para avaliar a usabilidade e apropriação com a tecnologia foram o de observação através do teste de usabilidade, juntamente com o de investigação, através de entrevistas. 
+Por se tratar de um protótipo de alta fidelidade, os métodos utilizados para avaliar a usabilidade e apropriação com a tecnologia foram o de observação através do teste de usabilidade, juntamente com o de investigação, através de entrevistas. Assim, enquanto o primeiro método citado consegue avaliar o uso do site, determinando o que ficou palpável ou não ao usuário, o segundo método citado evidencia o relato do usuário com perguntas focadas no processo que teve ao usufruir da funcionalidade.
 
-Assim, enquanto o primeiro método citado consegue avaliar o uso do site, determinando o que ficou palpável ou não ao usuário, o segundo método citado evidencia o relato do usuário com perguntas focadas no processo que teve ao usufruir da funcionalidade. -->
+Cada fucionalidade deve ser avaliada por no mínimo três participantes, seguindo a técnica de Krug, com três ou quatro participantes, a maioria dos problemas é detectada, tornando possível fazer a análise no mesmo dia. (1) Em uma única sessão todas as funcionalidades serão avaliadas, o grupo se dividiu em três duplas, onde cada dupla acompanhou um participante durante a avaliação de duas funcionalidades. Dessa forma, alternamos até que todas as avaliações fossem concluídas.
 
 ## Objetivos e Escopos
 Os objetivos selecionados foram:
@@ -492,6 +492,9 @@ Segue a seguir na tabela (COLOQUE O NÚMERO DA TABELA AQUI), os resultados das e
 
 ## Bibliografia
 > - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
+
+## Referências Bibliográficas
+> 1. Avaliação E Projeto No Design De Interfaces - Autor: José Guilherme Santa Rosa - Ano: Capa comum – 1 janeiro 2010. [Capítulo 9, p. 144]
 
 ## Histórico de Versões
 
