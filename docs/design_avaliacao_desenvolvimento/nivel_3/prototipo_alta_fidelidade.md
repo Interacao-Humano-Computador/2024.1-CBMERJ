@@ -45,7 +45,7 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
 
 ### Funcionalidade: Checar e Gerar Certificados - Responsável: Genilson Silva
 
-[Link visualizar direto no Figma](https://www.figma.com/design/Njelyeqc5J3pMRurbkwhyJ/Funcionalidade-Mari?node-id=0-1&t=t9W9vjuEwE3jjSxq-1)
+[Link visualizar direto no Figma](https://www.figma.com/design/NAAuIUw5IWxLU7pc8TOJgt/Chegar-e-Gerar-Certificado---IHC?node-id=0-1&t=cEhyLQxL0MuH3xnt-1)
 
 <center>
 
