@@ -43,6 +43,20 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao), 2024.
 
 Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
 
+### Funcionalidade: Checar e Gerar Certificados - Responsável: Genilson Silva
+
+[Link visualizar direto no Figma](https://www.figma.com/design/Njelyeqc5J3pMRurbkwhyJ/Funcionalidade-Mari?node-id=0-1&t=t9W9vjuEwE3jjSxq-1)
+
+<center>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/design/NAAuIUw5IWxLU7pc8TOJgt/Chegar-e-Gerar-Certificado---IHC?m=dev&node-id=0-1&t=cEhyLQxL0MuH3xnt-1" allowfullscreen></iframe>
+
+<p>Protótipo 4: Checar e Gerar Certificados</p>
+
+Fonte: [Genilson Silva](https://github.com/GenilsonJrs), 2024.
+
+
+
 ### Funcionalidade: x - Responsável: y
 ### Funcionalidade: x - Responsável: y
 ### Funcionalidade: x - Responsável: y
@@ -57,3 +71,4 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
 | `2.0`   | 03/07/2024 | Adição do protótipo de solicitar ficha de atendimento   | [Bruna Lima](https://github.com/libruna) | |
 | `3.0`   | 03/07/2024 | Adição do protótipo de Agendamento de Atendimento Presencial   | [Daniela Alarcão](https://github.com/danialarcao) | |
 | `4.0`   | 03/07/2024 | Adição do protótipo de Obter declaração do registro de ocorrência   | [Mariana Letícia](https://github.com/Marianannn) | |
+| `5.0`   | 03/07/2024 | Adição do protótipo de Checar e Gerar Certificados   | [Genilson Silva](https://github.com/GenilsonJrs) | |
