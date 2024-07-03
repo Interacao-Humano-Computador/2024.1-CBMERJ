@@ -66,23 +66,26 @@ Segue abaixo na tabela 2, o cronograma das entrevistas feitas:
 
 <center>
 
-Vídeo entrevista 1: <iframe width="560" height="315" src="https://www.youtube.com/embed/3JndRz_d2X8?si=MzxRHnMM0GPWvn9Z&amp;start=254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3JndRz_d2X8?si=MzxRHnMM0GPWvn9Z&amp;start=254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 1: Avaliação 1 - Obter declaração de registro de ocorrência</p>
 
-Fonte: [Daniela Alarcão](https://github.com/danialarcao) e [Mariana Letícia](https://github.com/Marianannn).
+Fonte: Daniela Alarcão e Mariana Letícia.
 
-Vídeo entrevista 2: <iframe width="560" height="315" src="https://www.youtube.com/embed/46u387tNL5U?si=eFrINBXa3BTK_52z&amp;start=233" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/46u387tNL5U?si=eFrINBXa3BTK_52z&amp;start=233" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 2: Avaliação 1 - Obter declaração de registro de ocorrência</p>
 
-Fonte: [Daniela Alarcão](https://github.com/danialarcao) e [Mariana Letícia](https://github.com/Marianannn).
+Fonte: Daniela Alarcão e Mariana Letícia.
 
-Vídeo entrevista 3: <iframe width="560" height="315" src="https://www.youtube.com/embed/iVIAximsSHE?si=m1YCXjmYUmcih2x-&amp;start=253" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iVIAximsSHE?si=m1YCXjmYUmcih2x-&amp;start=253" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 3: Avaliação 1 - Obter declaração de registro de ocorrência</p>
 
-Fonte: [Daniela Alarcão](https://github.com/danialarcao) e [Mariana Letícia](https://github.com/Marianannn).
+Fonte: Daniela Alarcão e Mariana Letícia.
 
 </center>
 </details>
@@ -131,11 +134,21 @@ Segue a seguir na tabela 3, os resultados das entrevistas:
 <!-- 
 <details>
 <summary>Vídeos da funcionalidade (COLOCAR O NOME DA SUA FUNCIONALIDADE AQUI)</summary>
-
 (COLOCAR OS VÍDEOS AQUI)
+
+
+
+<br>
 <p>Vídeo (COLOCAR O NUMERO DO VÍDEO): Avaliação (COLOCAR O NUMERO DA AVALIAÇÃO) - (COLOCAR O NOME DA FUNCIONALIDADE)</p>
 
-Fonte: [(COLOCAR SEU NOME)](https://github.com/SEU_GIT) e [(COLOCAR NOME DA SUA DUPLA)](https://github.com/NOME_SUA_DUPLA).
+<br>
+<p>Vídeo (COLOCAR O NUMERO DO VÍDEO): Avaliação (COLOCAR O NUMERO DA AVALIAÇÃO) - (COLOCAR O NOME DA FUNCIONALIDADE)</p>
+
+<br>
+<p>Vídeo (COLOCAR O NUMERO DO VÍDEO): Avaliação (COLOCAR O NUMERO DA AVALIAÇÃO) - (COLOCAR O NOME DA FUNCIONALIDADE)</p>
+
+Fonte: Colocar seu nome e de sua dupla
+
 </details>
 
 <br>
