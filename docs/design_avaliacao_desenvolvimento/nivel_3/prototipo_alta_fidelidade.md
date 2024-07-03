@@ -43,7 +43,16 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao), 2024.
 
 Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
 
-### Funcionalidade: x - Responsável: y
+### Funcionalidade: CB Cursos *(curso de primeiros socorros e acidentes domiciliares ) - Responsável: Lucas e Pedro 
+[Link visualizar direto no Figma](https://www.figma.com/design/fAyA2N5Zxb47IZZWCdeod9/Figma-basics?node-id=601-96&t=zczRCcjemjBoydZd-0)
+
+<center>
+
+<iframe <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FfAyA2N5Zxb47IZZWCdeod9%2FFigma-basics%3Fnode-id%3D601-96%26t%3DZtf4HXADDiCnzMzs-1" allowfullscreen></iframe>
+
+<p>Protótipo 4 e 5: CB Cursos</p>
+
+Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711), 2024.
 ### Funcionalidade: x - Responsável: y
 ### Funcionalidade: x - Responsável: y
 
@@ -57,3 +66,4 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
 | `2.0`   | 03/07/2024 | Adição do protótipo de solicitar ficha de atendimento   | [Bruna Lima](https://github.com/libruna) | |
 | `3.0`   | 03/07/2024 | Adição do protótipo de Agendamento de Atendimento Presencial   | [Daniela Alarcão](https://github.com/danialarcao) | |
 | `4.0`   | 03/07/2024 | Adição do protótipo de Obter declaração do registro de ocorrência   | [Mariana Letícia](https://github.com/Marianannn) | |
+| `5.0`   | 03/07/2024 | Adição do protótipo do CB Cursos   | [Lucas Avelar](https://github.com/LucasAvelar2711) | |
