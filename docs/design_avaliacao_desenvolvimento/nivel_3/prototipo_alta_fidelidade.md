@@ -43,6 +43,7 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao), 2024.
 
 Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
 
+<<<<<<< HEAD
 ### Funcionalidade: CB Cursos *(curso de primeiros socorros e acidentes domiciliares ) - Responsável: Lucas e Pedro 
 [Link visualizar direto no Figma](https://www.figma.com/design/fAyA2N5Zxb47IZZWCdeod9/Figma-basics?node-id=601-96&t=zczRCcjemjBoydZd-0)
 
@@ -53,6 +54,23 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
 <p>Protótipo 4 e 5: CB Cursos</p>
 
 Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711), 2024.
+=======
+### Funcionalidade: Checar e Gerar Certificados - Responsável: Genilson Silva
+
+[Link visualizar direto no Figma](https://www.figma.com/design/NAAuIUw5IWxLU7pc8TOJgt/Chegar-e-Gerar-Certificado---IHC?node-id=0-1&t=cEhyLQxL0MuH3xnt-1)
+
+<center>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FNAAuIUw5IWxLU7pc8TOJgt%2FChegar-e-Gerar-Certificado---IHC%3Fnode-id%3D0-1%26t%3DcEhyLQxL0MuH3xnt-1" allowfullscreen></iframe>
+
+<p>Protótipo 4: Checar e Gerar Certificados</p>
+
+Fonte: [Genilson Silva](https://github.com/GenilsonJrs), 2024.
+
+
+
+### Funcionalidade: x - Responsável: y
+>>>>>>> f766dfd4ec01edf9b07f4eb9e3fca2466db7e5bf
 ### Funcionalidade: x - Responsável: y
 ### Funcionalidade: x - Responsável: y
 
@@ -66,4 +84,8 @@ Fonte: [Lucas Avelar](https://github.com/LucasAvelar2711), 2024.
 | `2.0`   | 03/07/2024 | Adição do protótipo de solicitar ficha de atendimento   | [Bruna Lima](https://github.com/libruna) | |
 | `3.0`   | 03/07/2024 | Adição do protótipo de Agendamento de Atendimento Presencial   | [Daniela Alarcão](https://github.com/danialarcao) | |
 | `4.0`   | 03/07/2024 | Adição do protótipo de Obter declaração do registro de ocorrência   | [Mariana Letícia](https://github.com/Marianannn) | |
+<<<<<<< HEAD
 | `5.0`   | 03/07/2024 | Adição do protótipo do CB Cursos   | [Lucas Avelar](https://github.com/LucasAvelar2711) | |
+=======
+| `5.0`   | 03/07/2024 | Adição do protótipo de Checar e Gerar Certificados   | [Genilson Silva](https://github.com/GenilsonJrs) | |
+>>>>>>> f766dfd4ec01edf9b07f4eb9e3fca2466db7e5bf
