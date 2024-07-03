@@ -49,7 +49,7 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
 
 <center>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/design/NAAuIUw5IWxLU7pc8TOJgt/Chegar-e-Gerar-Certificado---IHC?m=dev&node-id=0-1&t=cEhyLQxL0MuH3xnt-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FNAAuIUw5IWxLU7pc8TOJgt%2FChegar-e-Gerar-Certificado---IHC%3Fnode-id%3D0-1%26t%3DcEhyLQxL0MuH3xnt-1" allowfullscreen></iframe>
 
 <p>Protótipo 4: Checar e Gerar Certificados</p>
 
