@@ -15,6 +15,9 @@
 | <img alt="Logo" src="../img/Meet.png" width="60px">  | Google Meet | Canal secundário de realização de reuniões.  | 
 | <img alt="Logo" src="../img/Draw.png" width="60px">  | Drawio | Ferramenta para criação de diagramas e fluxogramas.  | 
 | <img alt="Logo" src="../img/Aprender.png" width="60px">  | MoodleAprender | Plataforma da UnB para controle das disciplinas.  | 
+| <img alt="Logo" src="../img/Figma.jpg" width="60px">  | Figma | Ferramenta para a criação de protótipos de alta fidelidade.  | 
+| <img alt="Logo" src="../img/Youtube.jpg" width="60px">  | YouTube | Repositório de vídeos de reuniões e avaliações.  | 
+| <img alt="Logo" src="../img/StoryboardThat.png" width="60px">  | Storyboard That | Desenvolvimento de StoryBoards.  | 
 
 
 ## Bibliografia
@@ -32,3 +35,4 @@
 | `1.0`   | 07/04/2024 | Criação da página.                         | [Daniela Alarcão](https://github.com/danialarcao) |   [Mariana Letícia](https://github.com/Marianannn) |
 | `2.0`   | 08/04/2024 | Adição de conteúdo e envio ao git pages.                        | [Daniela Alarcão](https://github.com/danialarcao) |   [Mariana Letícia](https://github.com/Marianannn) |
 | `3.0`   | 06/05/2024 | Atualização com novas ferramentas.                        | [Daniela Alarcão](https://github.com/danialarcao) |   [Mariana Letícia](https://github.com/Marianannn) |
+| `4.0`   | 04/07/2024 | Atualização de novas ferramentas.                        | [Daniela Alarcão](https://github.com/danialarcao) |   [Mariana Letícia](https://github.com/Marianannn) |
