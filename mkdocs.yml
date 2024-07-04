@@ -164,14 +164,14 @@ nav:
                       - Relato dos Resultados: verificacao_artefatos/verificacao_nosso_grupo/etapa_4/nivel_1/storyboard/relato_resultados.md
                       - Storyboards: verificacao_artefatos/verificacao_nosso_grupo/etapa_4/nivel_1/storyboard/storyboard.md
   - Entrega Final:
-      - Site Escolhido: site_escolhido.md
-      - Ciclo de Vida Utilizado: ciclo_de_vida_utilizado.md
-      - Planejamento dos Recursos e das Entregas (Cronograma): cronogramas.md
-      - Execução do Projeto: execucao_do_projeto.md
-      - Resultados Alcançados com a Execução do Projeto: resultados_alcancados.md
-      - Ferramentas Utilizadas: ferramentas.md
-      - Técnicas Utilizadas: tecnicas.md
-      - Artefatos Criados: artefatos_criados.md
-      - Síntese das Avaliações: sintese_avaliacoes.md
-      - Síntese das Verificações: sintese_verificacoes.md
-      - Síntese das Apresentações: sintese_apresentacoes.md
+      - Site Escolhido: entrega_final/site_escolhido.md
+      - Ciclo de Vida Utilizado: entrega_final/ciclo_de_vida_utilizado.md
+      - Planejamento dos Recursos e das Entregas (Cronograma): entrega_final/cronogramas.md
+      - Execução do Projeto: entrega_final/execucao_do_projeto.md
+      - Resultados Alcançados com a Execução do Projeto: entrega_final/resultados_alcancados.md
+      - Ferramentas Utilizadas: entrega_final/ferramentas.md
+      - Técnicas Utilizadas: entrega_final/tecnicas.md
+      - Artefatos Criados: entrega_final/artefatos_criados.md
+      - Síntese das Avaliações: entrega_final/sintese_avaliacoes.md
+      - Síntese das Verificações: entrega_final/sintese_verificacoes.md
+      - Síntese das Apresentações: entrega_final/sintese_apresentacoes.md
