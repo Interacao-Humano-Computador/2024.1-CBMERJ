@@ -123,8 +123,7 @@ nav:
               - Cenários: verificacao_artefatos/verificacao_grupo_8/etapa_2/cenarios.md
               - Análise de tarefas: verificacao_artefatos/verificacao_grupo_8/etapa_2/analise_tarefas.md
           - Etapa 3:
-              - Planejamento da Verificação: verificacao_artefatos/verificacao_grupo_8/etapa_3/01_planejamento.md
-              - Características Gerais: verificacao_artefatos/verificacao_grupo_8/etapa_3/05_caracteristicas_gerais.md
+              - Características Gerais da Plataforma: verificacao_artefatos/verificacao_grupo_8/etapa_3/05_caracteristicas_gerais.md
               - Guia de Estilo: verificacao_artefatos/verificacao_grupo_8/etapa_3/04_guia_de_estilo.md
               - Metas de Usabilidade: verificacao_artefatos/verificacao_grupo_8/etapa_3/03_metas_usabilidade.md
               - Princípios Gerais: verificacao_artefatos/verificacao_grupo_8/etapa_3/02_princípios_gerais.md
@@ -173,5 +172,5 @@ nav:
       - Técnicas Utilizadas: entrega_final/tecnicas.md
       - Artefatos Criados: entrega_final/artefatos_criados.md
       - Síntese das Avaliações: entrega_final/sintese_avaliacoes.md
-      - Síntese das Verificações: entrega_final/sintese_verificacoes.md
+      - Síntese das Verificações dos artefatos: entrega_final/sintese_verificacoes.md
       - Síntese das Apresentações: entrega_final/sintese_apresentacoes.md

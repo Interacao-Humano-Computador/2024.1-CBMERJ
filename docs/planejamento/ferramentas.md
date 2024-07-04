@@ -1,5 +1,5 @@
 ## Introdução
-<p>Para o desenvolvimento do projeto, algumas ferramentas serão utilizadas. O processo de escolha destas ferramentas foi realizado buscando alinhar familiaridade e eficiencia, para que o projeto se desenvolva de forma flúida e alcance bons resultados. </p>
+<p style="text-align: justify;">Para o desenvolvimento do projeto, algumas ferramentas serão utilizadas. O processo de escolha destas ferramentas foi realizado buscando alinhar familiaridade e eficiencia, para que o projeto se desenvolva de forma flúida e alcance bons resultados. </p>
 
 ## Ferramentas utilizadas
 <strong>Tabela 1 - Ferramentas utilizadas</strong><br>
