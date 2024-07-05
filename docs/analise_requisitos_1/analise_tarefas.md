@@ -95,7 +95,11 @@ Regras de Seleção (Selection Rules): As regras de seleção determinam qual m�
 
 **Árvores de Tarefas Concorrentes:** A figura 3 apresenta a análise dessa tarefa, representada em diagrama, com o uso da técnica de Árvores de Tarefas Concorrentes. 
 
---- Inserir imagem!
+<center>
+
+![](img/ArvoreDani.png)
+
+</center>
 
 <p align="center">Figura 3 - Diagrama da Árvores de Tarefas Concorrentes do "Agendamento de atendimento presencial" (Fonte: Daniela Alarcão, 2024). </p>
 
