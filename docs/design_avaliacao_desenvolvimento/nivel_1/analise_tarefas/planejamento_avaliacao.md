@@ -175,7 +175,7 @@ O teste piloto, apesar de ser sido inicialmente marcado para o dia 29 de maio de
 
 <center>
 
-<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/eTXeOmb7bmk?si=HtuCI2QS5fthyMSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eTXeOmb7bmk?si=HtuCI2QS5fthyMSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Video 1: Teste Piloto de Obter Declaração de Resgistro de Ocorrência.</p>
 
