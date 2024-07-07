@@ -83,6 +83,6 @@ Planejada para ocorrer em 14 de junho de 2024.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 28/05/2024 | criação da ata | [Bruna Lima](https://github.com/https://github.com/libruna) |  | 
-
+| `1.0`   | 28/05/2024 | criação da ata | [Bruna Lima](https://github.com/https://github.com/libruna) | [Mariana Letícia](https://github.com/https://github.com/Marianannn) | 
+| `2.0`   | 07/07/2024 | Adição de informações sobre a ata | [Mariana Letícia](https://github.com/https://github.com/Marianannn) | [Bruna Lima](https://github.com/https://github.com/libruna) | 
 </center>

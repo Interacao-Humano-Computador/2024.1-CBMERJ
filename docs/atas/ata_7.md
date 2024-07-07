@@ -68,10 +68,10 @@
 Segue abaixo a reunião gravada no horário da aula de Interação Humano-Computador com a autorização do professor.
 
 <audio controls>
-    <source scr="reunioes_audio/reuniao_6_2.mp4" type="audio/mp4">
+    <source scr="reunioes_audio/reuniao_7.mp4" type="audio/mp4">
     <p>
         Seu navegador pode não suportar o "audio HTML5". Aqui está o 
-        <a href="reunioes_audio/reuniao_6_2.mp4">link para o áudio</a> .
+        <a href="reunioes_audio/reuniao_7.mp4">link para o áudio</a> .
     </p>
 </audio>
 
@@ -85,6 +85,7 @@ Planejada para ocorrer em 20 de junho de 2024.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 13/06/2024 | criação da ata | [Bruna Lima](https://github.com/https://github.com/libruna) |  | 
+| `1.0`   | 13/06/2024 | criação da ata | [Bruna Lima](https://github.com/https://github.com/libruna) | [Mariana Letícia](https://github.com/https://github.com/Marianannn) | 
+| `2.0`   | 07/07/2024 | Adição de informações sobre a ata | [Mariana Letícia](https://github.com/https://github.com/Marianannn) | [Bruna Lima](https://github.com/https://github.com/libruna) | 
 
 </center>
