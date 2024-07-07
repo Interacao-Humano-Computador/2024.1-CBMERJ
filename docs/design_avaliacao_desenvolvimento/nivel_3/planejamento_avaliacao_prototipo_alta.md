@@ -137,13 +137,13 @@ Este teste piloto não influenciará a coleta nem a interpretação dos dados. O
 <center>
 
 #### Teste Piloto 1: Obter Declaração do Registro de Ocorrência - Mariana 
-
+</center>
 <center>
 
 #### Teste Piloto 2: Agendar Atendimento Presencial - Daniela 
 
 [Link para assistir no YouTube](https://www.youtube.com/watch?v=uso73t4Mt6w&t=1s)
-
+</center>
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uso73t4Mt6w?si=EQynQil6xNwJ4yno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -151,13 +151,13 @@ Este teste piloto não influenciará a coleta nem a interpretação dos dados. O
 <p>Video 2: Teste Piloto de Agendar Atendimento Presencial.</p>
 
 Fonte: [Daniela Alarcão](https://github.com/danialarcao), 2024.
-
+</center>
 <center>
 
 #### Teste Piloto 3: Checar e Gerar Certificado - Genilson
 
 [Link para assistir no YouTube](https://www.youtube.com/watch?v=loFzbvE9tUs)
-
+</center>
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/loFzbvE9tUs?si=bM0lWt6CJAKKOQtS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -165,13 +165,13 @@ Fonte: [Daniela Alarcão](https://github.com/danialarcao), 2024.
 <p>Video 3: Teste Piloto de Checar e Gerar Certificado.</p>
 
 Fonte: [Genlson Silva](https://github.com/GenilsonJrs), 2024.
-
+</center>
 <center>
 
 #### Teste Piloto 4: Solicitar Ficha de Atendimento - Bruna Lima
 
 [Link para assistir no YouTube](https://youtu.be/P_3T3NdC2KY)
-
+</center>
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P_3T3NdC2KY?si=xqUTYAKELqfGBIEn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -179,13 +179,13 @@ Fonte: [Genlson Silva](https://github.com/GenilsonJrs), 2024.
 <p>Video 4: Teste Piloto de Solicitar Ficha de Atendimento.</p>
 
 Fonte: [Bruna Lima](https://github.com/libruna), 2024.
-
+</center>
 <center>
 
 #### Teste Piloto 5 e 6: Cursos: Acidentes Domiciliares e Primeiros Socorros - Lucas e Pedro
 
 [Link para assistir no YouTube](https://youtu.be/a-qpN63sQx8)
-
+</center>
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-qpN63sQx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -193,8 +193,7 @@ Fonte: [Bruna Lima](https://github.com/libruna), 2024.
 <p>Video 5: Teste Piloto dos Cursos: Acidementes Domiciliares e Primeiro Socorros</p>
 
 Fonte: [Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https://github.com/LucasAvelar2711), 2024.
-
-<center>
+</center>
 
 ## Bibliografia
 > - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. (2021). Acesso em: 03 de junho de 2024.
