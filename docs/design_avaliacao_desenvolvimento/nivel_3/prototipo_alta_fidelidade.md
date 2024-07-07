@@ -78,9 +78,9 @@ Fonte: [Genilson Silva](https://github.com/GenilsonJrs), 2024.
 
 | Versão  | Data       | Descrição                 | Autor(es)                   | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | --------------------------- | ---------------------------------------------- |
-| `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
-| `2.0`   | 03/07/2024 | Adição do protótipo de solicitar ficha de atendimento   | [Bruna Lima](https://github.com/libruna) | |
-| `3.0`   | 03/07/2024 | Adição do protótipo de Agendamento de Atendimento Presencial   | [Daniela Alarcão](https://github.com/danialarcao) | |
-| `4.0`   | 03/07/2024 | Adição do protótipo de Obter declaração do registro de ocorrência   | [Mariana Letícia](https://github.com/Marianannn) | |
-| `5.0`   | 03/07/2024 | Adição do protótipo do CB Cursos   | [Lucas Avelar](https://github.com/LucasAvelar2711) | |
-| `6.0`   | 03/07/2024 | Adição do protótipo de Checar e Gerar Certificados   | [Genilson Silva](https://github.com/GenilsonJrs) | |
+| `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn) |
+| `2.0`   | 03/07/2024 | Adição do protótipo de solicitar ficha de atendimento   | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn) |
+| `3.0`   | 03/07/2024 | Adição do protótipo de Agendamento de Atendimento Presencial   | [Daniela Alarcão](https://github.com/danialarcao) | [Mariana Letícia](https://github.com/Marianannn) |
+| `4.0`   | 03/07/2024 | Adição do protótipo de Obter declaração do registro de ocorrência   | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)|
+| `5.0`   | 03/07/2024 | Adição do protótipo do CB Cursos   | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Mariana Letícia](https://github.com/Marianannn) |
+| `6.0`   | 03/07/2024 | Adição do protótipo de Checar e Gerar Certificados   | [Genilson Silva](https://github.com/GenilsonJrs) | [Mariana Letícia](https://github.com/Marianannn) |

@@ -219,11 +219,11 @@ Fonte: [Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https:
 
 | Versão  | Data       | Descrição                 | Autor(es)                   | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | --------------------------- | ---------------------------------------------- |
-| `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
-| `2.0`   | 13/06/2024 | Adição de introdução, metodologia, e dos objetivos do planejamento | [Mariana Letícia](https://github.com/Marianannn) | |
+| `1.0`   | 13/06/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)|
+| `2.0`   | 13/06/2024 | Adição de introdução, metodologia, e dos objetivos do planejamento | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Silva](https://github.com/GenilsonJrs)|
 | `3.0`   | 13/06/2024 | Adição da questões práticas e aspectos éticos | [Bruna Lima](https://github.com/libruna) | [Pedro Henrique](https://github.com/PedroHhenriq)|
 | `3.1`   | 18/06/2024 | Adição da seleção de participantes e cronograma | [Bruna Lima](https://github.com/libruna) | [Pedro Henrique](https://github.com/PedroHhenriq) |
-| `3.2`   | 03/07/2024 | Atualização do cronograma e preparação | [Bruna Lima](https://github.com/libruna) | |
-| `4.0`   | 03/07/2024 | Adição do Teste Piloto | [Daniela Alarcão](https://github.com/danialarcao) | |
-| `5.0`   | 03/07/2024 | Adição do Teste Piloto Cursos | [Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https://github.com/LucasAvelar2711)  | |
-| `6.0`   | 07/07/2024 | Adição do Teste Piloto de Checar e Gerar Certificados e Ajustes no Documento | [Genilson Silva](https://github.com/GenilsonJrs) | |
+| `3.2`   | 03/07/2024 | Atualização do cronograma e preparação | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)|
+| `4.0`   | 03/07/2024 | Adição do Teste Piloto | [Daniela Alarcão](https://github.com/danialarcao) | [Mariana Letícia](https://github.com/Marianannn)|
+| `5.0`   | 03/07/2024 | Adição do Teste Piloto Cursos | [Pedro Henrique](https://github.com/PedroHhenriq) e [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Mariana Letícia](https://github.com/Marianannn)|
+| `6.0`   | 07/07/2024 | Adição do Teste Piloto de Checar e Gerar Certificados e Ajustes no Documento | [Genilson Silva](https://github.com/GenilsonJrs) |[Mariana Letícia](https://github.com/Marianannn) |
