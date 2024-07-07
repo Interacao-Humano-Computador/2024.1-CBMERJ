@@ -133,6 +133,21 @@ Após a execução do teste piloto, se qualquer problema for identificado, iremo
 Fonte: [Genlson Silva](https://github.com/GenilsonJrs), 2024.
 </center>
 
+<center>
+
+#### Teste Piloto 2: Obter Declaração do Registro de Ocorrência - Mariana Letícia
+
+[Link para assistir no YouTube](https://youtu.be/R4VEKPl93Hw?si=hhhLaulcaRirBxEt)
+</center>
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R4VEKPl93Hw?si=_BJiQfBjEMPSOJ1D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Video 2: Teste Piloto Obter Declaração do Registro de Ocorrência.</p>
+
+Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
+</center>
+
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário.
 
