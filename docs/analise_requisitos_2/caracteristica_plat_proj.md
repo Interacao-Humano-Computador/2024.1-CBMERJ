@@ -83,5 +83,4 @@ Utilizando o atalho "Ctrl + U" na tela inicial do site do Corpo de Bombeiros, fo
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 07/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |     [Lucas Avelar](https://github.com/LucasAvelar2711)    |
 | `1.1`   | 13/05/2024 | Atualização da pagina                         | [Lucas Avelar](https://github.com/LucasAvelar2711) |     [Mariana Letícia](https://github.com/Marianannn)    |
-| `1.2`   | 13/05/2024 | Revisão da pagina                           | [Mariana Letícia](https://github.com/Marianannn) |     [Lucas Avelar](https://github.com/LucasAvelar2711)    |
 | `2.0`   | 13/05/2024 | Correção pós Revisão                       | [Lucas Avelar](https://github.com/LucasAvelar2711) |     [Mariana Letícia](https://github.com/Marianannn)    |

@@ -66,7 +66,7 @@
 - Sobre tópicos da etapa 3
     - Metas de usabilidade: Mariana
     - Princípios gerais de projeto: Bruna e Pedro
-    - Guia de estilo: Genivaldo e Daniela
+    - Guia de estilo: Genilson e Daniela
     - Característica da plataforma do projeto: Lucas
 
 
