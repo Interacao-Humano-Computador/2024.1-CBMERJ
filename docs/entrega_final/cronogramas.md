@@ -25,8 +25,6 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 ### Cronogramas etapa 1
 
-<details>
-<summary>Planejado</summary>
 
 <center>
 
@@ -46,10 +44,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 <br>
-<details>
-<summary> Executado </summary>
 
 <center>
 
@@ -69,12 +64,9 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 
 ### Cronogramas etapa 2
 
-<details>
-<summary>Planejado</summary>
 
 <center>
 
@@ -93,10 +85,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 <br>
-<details>
-<summary> Executado </summary>
 
 <center>
 
@@ -115,12 +104,8 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
-
 ### Cronogramas etapa 3
 
-<details>
-<summary>Planejado</summary>
 
 <center>
 
@@ -137,10 +122,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 <br>
-<details>
-<summary> Executado </summary>
 
 <center>
 
@@ -157,12 +139,9 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 
 ### Cronogramas etapa 4
 
-<details>
-<summary>Planejado</summary>
 
 <center>
 
@@ -179,10 +158,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 <br>
-<details>
-<summary> Executado </summary>
 
 <center>
 
@@ -199,12 +175,9 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 
 ### Cronogramas etapa 5
 
-<details>
-<summary>Planejado</summary>
 
 <center>
 
@@ -221,10 +194,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 <br>
-<details>
-<summary> Executado </summary>
 
 <center>
 
@@ -241,12 +211,9 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 
 ### Cronogramas etapa 6.1
 
-<details>
-<summary>Planejado</summary>
 
 <center>
 
@@ -262,10 +229,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 <br>
-<details>
-<summary> Executado </summary>
 
 <center>
 
@@ -281,12 +245,9 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 
 ### Cronogramas etapa 6.2
 
-<details>
-<summary>Planejado</summary>
 
 <center>
 
@@ -302,10 +263,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 <br>
-<details>
-<summary> Executado </summary>
 
 <center>
 
@@ -321,12 +279,10 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 
 ### Cronogramas etapa 7
 
-<details>
-<summary>Planejado</summary>
+
 
 <center>
 
@@ -342,10 +298,8 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 <br>
-<details>
-<summary> Executado </summary>
+
 
 <center>
 
@@ -361,12 +315,10 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
+
 
 ### Cronogramas etapa 8
 
-<details>
-<summary>Planejado</summary>
 
 <center>
 
@@ -380,10 +332,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
 <br>
-<details>
-<summary> Executado </summary>
 
 <center>
 
@@ -397,12 +346,10 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
+
 
 ### Cronogramas etapa final
 
-<details>
-<summary>Planejado</summary>
 
 <center>
 
@@ -426,10 +373,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
-
-<details>
-<summary>Executado</summary>
+<br>
 
 <center>
 
@@ -453,7 +397,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 </center>
 
-</details>
+
 
 ## Bibliografia
 
