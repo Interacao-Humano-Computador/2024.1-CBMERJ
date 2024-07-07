@@ -172,7 +172,7 @@ O teste piloto, apesar de ser sido inicialmente marcado para o dia 29 de maio de
 #### Teste Piloto 1: Obter Declaração de Resgistro de Ocorrência - Mariana Letícia
 
 [Link para assistir no YouTube](https://www.youtube.com/watch?v=eTXeOmb7bmk)
-
+</center>
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eTXeOmb7bmk?si=HtuCI2QS5fthyMSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -180,13 +180,13 @@ O teste piloto, apesar de ser sido inicialmente marcado para o dia 29 de maio de
 <p>Video 1: Teste Piloto de Obter Declaração de Resgistro de Ocorrência.</p>
 
 Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
-
+</center>
 <center>
 
 #### Teste Piloto 2: Checar e Gerar Certificado - Genilson
 
 [Link para assistir no YouTube](https://www.youtube.com/watch?v=0KDvauA_Als)
-
+</center>
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0KDvauA_Als?si=upFFQDjtkqcwaMoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -194,8 +194,8 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
 <p>Video 2: Teste Piloto de Checar e Gerar Certificado.</p>
 
 Fonte: [Genlson Silva](https://github.com/GenilsonJrs), 2024.
+</center>
 
-<center>
 
 ## Referências Bibliográficas
 
