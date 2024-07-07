@@ -20,12 +20,10 @@ O trabalho em grupo foi fundamental para a realização de entrevistas, storyboa
 
 </center>
 
-<center>
-  <img src="../entrega_final/imgs/CBMRJ_Inicio.png" alt="Inicio CBMRJ" width="50%" />
-
-Figura 1 - Tela Inicial CBMRJ (Fonte: Genilson Junior, 2024)
-
-</center>
+<p align="center">
+  <img src="../imgs/CBMRJ_Inicio.png" alt="Inicio CBMRJ" width="50%" />
+</p>
+<p align="center">Figura 1 - Tela Inicial CBMRJ (Fonte: Genilson Junior, 2024)  </p>
 
 <center>
 
@@ -34,7 +32,7 @@ Figura 1 - Tela Inicial CBMRJ (Fonte: Genilson Junior, 2024)
 </center>
 
 <p align="center">
-  <img src="../entrega_final/imgs/CBMRJ_Final.png" alt="Final CBMRJ" width="50%" />
+  <img src="../imgs/CBMRJ_Final.png" alt="Final CBMRJ" width="50%" />
 </p>
 <p align="center">Figura 2 - Tela Pós Ajustes CBMRJ (Fonte: Genilson Junior, 2024)  </p>
 
