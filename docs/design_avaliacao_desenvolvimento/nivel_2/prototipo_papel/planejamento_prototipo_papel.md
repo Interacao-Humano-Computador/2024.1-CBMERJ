@@ -123,7 +123,7 @@ Após a execução do teste piloto, se qualquer problema for identificado, iremo
 #### Teste Piloto 1: Checar e Gerar Certificado - Genilson
 
 [Link para assistir no YouTube](https://www.youtube.com/watch?v=nSFyJgmqCgU)
-
+</center>
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nSFyJgmqCgU?si=8MJIFuloWeaVobbZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -131,8 +131,7 @@ Após a execução do teste piloto, se qualquer problema for identificado, iremo
 <p>Video 1: Teste Piloto de Checar e Gerar Certificado.</p>
 
 Fonte: [Genlson Silva](https://github.com/GenilsonJrs), 2024.
-
-<center>
+</center>
 
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário.
