@@ -32,7 +32,7 @@ O trabalho em grupo foi fundamental para a realização de entrevistas, storyboa
 </center>
 
 <p align="center">
-  <img src="../imgs/CBMRJ_Final.png" alt="Final CBMRJ" width="50%" />
+  <img src="../imgs/CBMRJ_FInal.png" alt="Final CBMRJ" width="50%" />
 </p>
 <p align="center">Figura 2 - Tela Pós Ajustes CBMRJ (Fonte: Genilson Junior, 2024)  </p>
 
