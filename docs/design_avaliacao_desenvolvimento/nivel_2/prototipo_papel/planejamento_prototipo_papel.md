@@ -75,19 +75,17 @@ Os dispositivos a serem utilizados incluem um celular e/ou um notebook. Eles ser
 ### Prazos
 Na Tabela 1, apresentamos o cronograma planejado das sessões para avaliação de cada uma das seis funcionalidades. Cada simulação, inclui os avaliadores, o participante, a tarefa que será simulada, a data, o horário e o local.
 
-<center> 
+<center>
   
-|    Avaliadores         | Participante      | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
+|    Entrevistador(es)   | Entrevistado(s)   | Horário do Início  |  Horário do Fim  |    Data    |    Tarefa(s)    |      Local     |
 | :--------------------: | :---------------: | :----------------: | :--------------: | :--------: | :-------------: | :------------: |
-| [Bruna Lima](https://github.com/libruna) e [Genilson Silva](https://github.com/GenilsonJrs) | Liander Medeiros | 13:00 | 13:30 | 14/06/24 | Solicitação de Ficha de Atendimento | FGA |
-| [Daniela Alarcão](https://github.com/danialarcao) e [Lucas Avelar](https://github.com/LucasAvelar2711) | Felipe Pereira | 12:00 | 12:30 | 12/06/24 | Agendamento de atendimento presencial | FGA |
-| [Genilson Silva](https://github.com/GenilsonJrs) e [Bruna Lima](https://github.com/libruna) | Dylan Medeiros | 11:00 | 11:30 | 14/06/24 | Checar e Gerar Certificado de Vistoria | FGA |
-| [Lucas Avelar](https://github.com/LucasAvelar2711) e [Daniela Alarcão](https://github.com/danialarcao) | Rafaella Porto | 19:00 | 19:30 | 13/06/24 | CB Cursos 1 | FGA |
-| [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq) | Bernado Machado | 10:00 | 10:30 | 11/06/24 | Solicitar declaração de registro de ocorrência | FGA |
-| [Pedro Henrique](https://github.com/PedroHhenriq) e [Mariana Letícia](https://github.com/Marianannn) | Lucas Monteiro | 12:00 | 12:30 | 14/06/24 | CB Cursos 2 | FGA |
+| [Mariana Letícia](https://github.com/Marianannn) e [Bruna Lima](https://github.com/libruna) | João Victor | 14:00 | 14:20 | 19/06/2024 | Solicitar declaração de registro de ocorrência e Solicitação de Ficha de Atendimento  | FGA |
+| [Daniela Alarcão](https://github.com/danialarcao) e [Lucas Avelar](https://github.com/LucasAvelar2711) | Cainã Freitas | 10:00 | 10:20 | 18/06/2024 | Agendamento de atendimento presencial e CB Cursos 1 | FGA |
+| [Pedro Henrique](https://github.com/PedroHhenriq) e [Genilson](https://github.com/GenilsonJrs) |     Rafael    |      10:00     |     10:20     |  18/06/2024  |   CB Cursos 2 e Checar e Gerar Certificado   | FGA |
 
-<p style="text-align: center">Tabela 1: Cronograma para avaliação do protótipo em papel.</p>
-<p style="text-align: center">Fonte: Bruna Lima</p>
+
+<p style="text-align: center">Tabela 1: Cronograma planejado de avaliações do protótipo de papel.</p>
+<p style="text-align: center">Fonte: Mariana Letícia</p>
 
 </center>
 
