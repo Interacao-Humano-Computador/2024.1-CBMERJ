@@ -40,6 +40,6 @@
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 10/06/2024 | Criação da página                         | [Daniela Alarcão](https://github.com/danialarcao) |   |
-| `2.0`   | 12/06/2024 | Aplicando checklist da Característica da Plataforma                         | [Pedro Henrique](https://github.com/PedroHhenriq) |   |
-| `3.0`   | 04/07/2024 | Correção da página   | [Daniela Alarcão](https://github.com/danialarcao) |   |
+| `1.0`   | 10/06/2024 | Criação da página                         | [Daniela Alarcão](https://github.com/danialarcao) | [Mariana Letícia](https://github.com/Marianannn)  |
+| `2.0`   | 12/06/2024 | Aplicando checklist da Característica da Plataforma                         | [Pedro Henrique](https://github.com/PedroHhenriq) | [Mariana Letícia](https://github.com/Marianannn)   |
+| `3.0`   | 04/07/2024 | Correção da página   | [Daniela Alarcão](https://github.com/danialarcao) |  [Mariana Letícia](https://github.com/Marianannn)  |
