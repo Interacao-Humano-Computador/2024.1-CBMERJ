@@ -4,6 +4,15 @@
 ## Objetivo do Guia de Estilo
 <p style="text-align: justify;">Ao incorporar elementos como layout, tipografia, simbolismo, cores, visualização de informação e design de telas, o guia busca assegurar uma abordagem uniforme, coerente e agradável em toda a interface do sistema. Essa abordagem não só promove a clareza e consistência visual, mas também visa atender às necessidades e expectativas específicas dos usuários do site. <br><br>Portanto, este guia de estilo emerge como um recurso fundamental para orientar o desenvolvimento de interfaces, sendo destinado a designers e desenvolvedores envolvidos na criação e manutenção da interface dos usuários do site do Corpo de Bombeiros do Rio de Janeiro.</p>
 
+## Organização e Conteúdo
+
+A organização deve ser padronizada para garantir que todos os membros da equipe possam utilizá-lo de forma eficaz e consistente. Isso inclui descrições detalhadas e ilustrações dos elementos de interface e interação, bem como diretrizes sobre vocabulário e padrões do site, garantindo que o design seja coeso e alinhado com os objetivos do projeto.
+
+## Público Alvo
+O guia de estilo deve definir claramente o público-alvo para garantir que as diretrizes sejam relevantes e aplicáveis. Esse público pode incluir desenvolvedores, designers, gerentes de produto e qualquer outra parte interessada no desenvolvimento e manutenção do sistema. A descrição deve considerar as necessidades e expectativas desses usuários, fornecendo informações que lhes permitam seguir as normas estabelecidas de forma eficaz. Ao compreender o público-alvo, o guia de estilo pode ser mais preciso e útil, facilitando a consistência e a qualidade do projeto.
+
+Dito isso, O público-alvo do guia de estilo são os próprios desenvolvedores e designers do projeto. A definição clara desse público garante que as diretrizes sejam relevantes e aplicáveis, ajudando a equipe a seguir as normas estabelecidas de maneira eficaz. Com essa abordagem, o guia facilita a consistência e a qualidade no desenvolvimento e manutenção do sistema.
+
 ## Como utilizar o Guia de Estilo
 <p style="text-align: justify;">Este guia de estilo foi desenvolvido para ser utilizado como uma referência ao longo de todo o ciclo de vida do projeto de Interação Humano-Computador, abrangendo desde o seu  desenvolvimento até a sua manutenção. Ele oferece diretrizes claras para elementos de design como layout, tipografia, simbolismo e cores, garantindo consistência na interface. Durante a produção, ajuda a manter a coesão visual e facilita a colaboração da equipe. Na manutenção, permite ajustes mantendo a integridade do design. </p> 
 
