@@ -25,7 +25,6 @@
 <summary>Elementos de interface, interação e ação </summary>
 <center>
 
-### Logos
 ![](../analise_requisitos_2/img/Logos.png)
 
 ### Cores
