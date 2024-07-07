@@ -145,9 +145,10 @@ Fonte: Bruna Lima, 2024.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 10/06/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) |   |
-| `2.0`   | 12/06/2024 | Adição do checklist | [Bruna Lima](https://github.com/libruna) |   |
-| `3.0`   | 12/06/2024 | Adição do checklist da Funcionalidade Compartilhamento de Trajeto| [Pedro Henrique](https://github.com/PedroHhenriq) |   |
-| `4.0`   | 12/06/2024 | Adição do checklist da Funcionalidade Histórico de passagens compradas| [Daniela Alarcão](https://github.com/danialarcao) |   |
-| `5.0`   | 12/06/2024 | Adição do verificação do storyboard de "comprar passagem" | [Bruna Lima](https://github.com/libruna) | 
-| `6.0`   | 12/06/2024 | Adição da verificação do storyboard de "Rastreamento de ônibus em tempo real" | [Genilson Silva](https://github.com/GenilsonJrs) |   |
+| `1.0`   | 10/06/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) |  [Mariana Letícia](https://github.com/Marianannn)  |
+| `2.0`   | 12/06/2024 | Adição do checklist | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)   |
+| `3.0`   | 12/06/2024 | Adição do checklist da Funcionalidade Compartilhamento de Trajeto| [Pedro Henrique](https://github.com/PedroHhenriq) |  [Mariana Letícia](https://github.com/Marianannn)  |
+| `4.0`   | 12/06/2024 | Adição do checklist da Funcionalidade Histórico de passagens compradas| [Daniela Alarcão](https://github.com/danialarcao) |  [Mariana Letícia](https://github.com/Marianannn)  |
+| `5.0`   | 12/06/2024 | Adição do verificação do storyboard de "comprar passagem" | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn) |
+| `6.0`   | 12/06/2024 | Adição da verificação do storyboard de "Rastreamento de ônibus em tempo real" | [Genilson Silva](https://github.com/GenilsonJrs) | [Mariana Letícia](https://github.com/Marianannn)   |
+| `7.0`   | 12/06/2024 | Adição da verificação do storyboard de "Acompanhar pedido de compra de passagem" | [Mariana Letícia](https://github.com/Marianannn)  | [Genilson Silva](https://github.com/GenilsonJrs)   |

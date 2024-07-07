@@ -50,6 +50,6 @@ O avaliador responsável pelo desenvolvimento da lista de verificação desse ar
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 10/06/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) |   |
-| `2.0`   | 12/06/2024 |   Criação da lista de verificação do planj. do relato de result. da Analise de Tarefas                      | [Pedro Henrique](https://github.com/PedroHhenriq) | 
-| `3.0`   | 12/06/2024 | Adição do Checklist do planejamento do relato dos resultados                    | [Genilson Silva](https://github.com/GenilsonJrs) |  |
+| `1.0`   | 10/06/2024 | Criação da página                         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)   |
+| `2.0`   | 12/06/2024 |   Criação da lista de verificação do planj. do relato de result. da Analise de Tarefas                      | [Pedro Henrique](https://github.com/PedroHhenriq) |[Mariana Letícia](https://github.com/Marianannn)  |
+| `3.0`   | 12/06/2024 | Adição do Checklist do planejamento do relato dos resultados                    | [Genilson Silva](https://github.com/GenilsonJrs) | [Mariana Letícia](https://github.com/Marianannn)  |
