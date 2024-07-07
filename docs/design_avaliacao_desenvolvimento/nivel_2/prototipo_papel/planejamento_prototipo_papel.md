@@ -112,6 +112,28 @@ Membros da equipe do projeto conduzirão um teste piloto para validar e otimizar
 
 - Está agendado para ocorrer em 06 de junho de 2024, às 12:00 pela plataforma Microsoft Teams.
 
+## Teste Piloto
+
+Serão realizados testes pilotos, um para cada funcionalidade, com o objetivo de validar e otimizar o planejamento da simulação com o protótipo de papel antes de sua execução oficial. No teste piloto de cada funcionalidade, um outro integrante do grupo fará o papel do participante.
+
+Após a execução do teste piloto, se qualquer problema for identificado, iremos revisar o planejamento. Essa revisão é importante para garantir que os ajustes necessários sejam feitos e que a avaliação principal ocorra da forma esperada.
+
+<center>
+
+#### Teste Piloto 1: Checar e Gerar Certificado - Genilson
+
+[Link para assistir no YouTube](https://www.youtube.com/watch?v=nSFyJgmqCgU)
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nSFyJgmqCgU?si=8MJIFuloWeaVobbZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Video 1: Teste Piloto de Checar e Gerar Certificado.</p>
+
+Fonte: [Genlson Silva](https://github.com/GenilsonJrs), 2024.
+
+<center>
+
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário.
 
@@ -128,3 +150,4 @@ Membros da equipe do projeto conduzirão um teste piloto para validar e otimizar
 | `3.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Daniela Alarcão](https://github.com/danialarcao) |  [Lucas Avelar](https://github.com/LucasAvelar2711)   |
 | `4.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Pedro Henrique](https://github.com/PedroHhenriq)     |
 | `4.1`   | 03/06/2024 | Adição do cronograma e planejamento do teste piloto | [Bruna Lima](https://github.com/libruna)|  [Daniela Alarcão](https://github.com/danialarcao)   |
+| `5.0`   | 03/06/2024 | Adição do teste piloto de Checar e Gerar Certificado | [Genilson Silva](https://github.com/GenilsonJrs)|    |
