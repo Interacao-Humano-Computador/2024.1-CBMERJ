@@ -167,24 +167,39 @@ O teste piloto, apesar de ser sido inicialmente marcado para o dia 29 de maio de
 - Ele foi feito por [Mariana Letícia](https://github.com/Marianannn), a entrevistadora e [Genilson Junior](https://github.com/GenilsonJrs), o entrevistado. O local da entrevista foi na FGA. 
 - Foram utilizados celular, computador, tripé para celular, folhas com o termo de concentimento e com o storyboard, lápis, papel e caneta. Ademais a entrevista foi gravada pelo Microsoft Teams.
 
-Esse teste piloto foi da funcionalidade Obter declaração de resgistro de ocorrência. Nele foi mostrado não só a análise de tarefas como também o storyboard da funcionalidade.   
+<center>
 
-Segue abaixo o vídeo 1 no youtube com a gravação do teste piloto da análise de tarefas. 
+#### Teste Piloto 1: Obter Declaração de Resgistro de Ocorrência - Mariana Letícia
+
+[Link para assistir no YouTube](https://www.youtube.com/watch?v=eTXeOmb7bmk)
 
 <center>
 
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/eTXeOmb7bmk?si=HtuCI2QS5fthyMSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>Vídeo 1: Teste piloto </p>
+<p>Video 1: Teste Piloto de Obter Declaração de Resgistro de Ocorrência.</p>
 
-Fonte: [Mariana Letícia](https://github.com/Marianannn).
+Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
 
-</center>
+<center>
+
+#### Teste Piloto 2: Checar e Gerar Certificado - Genilson
+
+[Link para assistir no YouTube](https://www.youtube.com/watch?v=0KDvauA_Als)
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0KDvauA_Als?si=upFFQDjtkqcwaMoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Video 2: Teste Piloto de Checar e Gerar Certificado.</p>
+
+Fonte: [Genlson Silva](https://github.com/GenilsonJrs), 2024.
+
+<center>
 
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-
 
 ## Histórico de Versões
 
@@ -193,3 +208,4 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn).
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)    |
 | `2.0`   | 22/05/2024 | Adição do planejamento da avaliação                         | [Genilson Junior](https://github.com/GenilsonJrs) |  [Daniela Alarcão](https://github.com/danialarcao)   |
 | `3.0`   | 25/05/2024 | Adição da gravação do teste piloto                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
+| `4.0`   | 07/07/2024 | Adição da gravação do teste piloto de Checar e Gerar Certificado | [Genilson Silva](https://github.com/GenilsonJrs) |    |
