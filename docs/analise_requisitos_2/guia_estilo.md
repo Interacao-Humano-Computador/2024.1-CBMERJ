@@ -21,10 +21,10 @@
 
 </center>
 
-<details>
-<summary>Elementos de interface, interação e ação </summary>
+
 <center>
 
+### Logos
 ![](../analise_requisitos_2/img/Logos.png)
 
 ### Cores
@@ -46,8 +46,6 @@
 ![](../analise_requisitos_2/img/Tipografia.png)
 
 </center>
-</details>
-<br>
 
 <p style="text-align: justify;">Os elementos de um site consistem nos diversos componentes visuais e funcionais que compõem sua estrutura e funcionalidade. Isso inclui elementos de interface, como menus de navegação, botões, campos de formulário e barras laterais, bem como elementos de conteúdo, como texto, imagens e vídeos. Cada elemento desempenha um papel específico na experiência do usuário e na interação com o site, contribuindo para a facilidade de uso, acessibilidade e eficácia geral do design.</p>
 
