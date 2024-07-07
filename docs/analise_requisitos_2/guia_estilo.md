@@ -17,10 +17,13 @@
 <center>
 
 <figure markdown><p style="text-align: center">Figura 1 - Elementos da Interface.</p>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2F6OAfimHizydIUygovbMkTb%2FGuia-de-Estilo---CBMERJ%3Fnode-id%3D0-1%26t%3DPQyXhcxXNTm8BwSv-1" allowfullscreen></iframe><figcaption> Fonte: Genilson Silva e Daniela Alarcão, 2023.</figcaption></figure>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2F6OAfimHizydIUygovbMkTb%2FGuia-de-Estilo---CBMERJ%3Fnode-id%3D0-1%26t%3DPQyXhcxXNTm8BwSv-1" allowfullscreen></iframe><figcaption> Fonte: Genilson Silva e Daniela Alarcão, 2024.</figcaption></figure>
 
 </center>
+
 <details>
+<summary>Elementos de interface, interação e ação </summary>
+<center>
 
 ### Logos
 ![](../analise_requisitos_2/img/Logos.png)
@@ -43,6 +46,7 @@
 ### Tipografia
 ![](../analise_requisitos_2/img/Tipografia.png)
 
+</center>
 </details>
 <br>
 
