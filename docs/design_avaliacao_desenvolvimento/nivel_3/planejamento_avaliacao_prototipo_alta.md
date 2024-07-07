@@ -138,7 +138,16 @@ Este teste piloto não influenciará a coleta nem a interpretação dos dados. O
 
 #### Teste Piloto 1: Obter Declaração do Registro de Ocorrência - Mariana 
 </center>
+
 <center>
+
+[Link para assistir no YouTube](https://youtu.be/gaJHyeYr44I?si=lk5DBD7EyEMJmarl)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gaJHyeYr44I?si=lk5DBD7EyEMJmarl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Video 1: Teste Piloto Obter Declaração do Registro de Ocorrência.</p>
+
+Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
 
 #### Teste Piloto 2: Agendar Atendimento Presencial - Daniela 
 
