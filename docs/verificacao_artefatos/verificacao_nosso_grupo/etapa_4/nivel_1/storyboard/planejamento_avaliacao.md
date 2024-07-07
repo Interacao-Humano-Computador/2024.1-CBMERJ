@@ -89,7 +89,7 @@ A lista de verificações abaixo detalha os aspectos que serão analisados duran
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) |   |
+| `1.0`   | 18/06/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Bruna Lima](https://github.com/libruna)  |
 | `2.0`   | 25/06/2024 | Adição do checklist | [Bruna Lima](https://github.com/libruna) |  [Mariana Letícia](https://github.com/Marianannn) |
 | `3.0`   | 26/06/2024 | Resultado do checklist | [Daniela Alarcão](https://github.com/danialarcao) | [Mariana Letícia](https://github.com/Marianannn)  |
 | `4.0`   | 26/06/2024 | Adição de vídeo verificando artefato | [Daniela Alarcão](https://github.com/danialarcao) |  [Mariana Letícia](https://github.com/Marianannn) |

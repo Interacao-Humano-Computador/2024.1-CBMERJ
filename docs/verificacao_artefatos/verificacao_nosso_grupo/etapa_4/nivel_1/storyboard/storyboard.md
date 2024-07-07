@@ -186,7 +186,7 @@ Fonte: autor, 2024.
 
 | Versão |  Data  | Descrição  | Autor(es) | Revisor(es) |
 | ------ | :----: | ---------- | --------- | ----------- |
-| `1.0`   | 25/06/2024 | Criação da página e adição do checklist | [Bruna Lima](https://github.com/libruna) |   |
+| `1.0`   | 25/06/2024 | Criação da página e adição do checklist | [Bruna Lima](https://github.com/libruna) |  [Mariana Letícia](https://github.com/Marianannn)  |
 | `2.0`   | 26/06/2024 | Adição do checklist do storyboard primeiros socorros  | [Daniela Alarcão](https://github.com/danialarcao) |  [Bruna Lima](https://github.com/libruna) |
 | `3.0`   | 26/06/2024 | Adição do checklist do storyboard checar e gerar certificado  | [Bruna Lima](https://github.com/libruna) |  [Mariana Letícia](https://github.com/Marianannn) |
 | `4.0`   | 26/06/2024 | Adição do checklist do Agendamento de atendimento presencial  | [Pedro Henrique](https://github.com/PedroHhenriq) | [Bruna Lima](https://github.com/libruna)  |
