@@ -25,6 +25,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 ### Cronogramas etapa 1
 
+#### Planejado
 
 <center>
 
@@ -45,6 +46,8 @@ Segue então as tabelas de cronogramas de 1 a 20:
 </center>
 
 <br>
+
+#### Executado
 
 <center>
 
@@ -67,6 +70,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 ### Cronogramas etapa 2
 
+#### Planejado
 
 <center>
 
@@ -87,6 +91,8 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 <br>
 
+#### Executado
+
 <center>
 
 | Atividade                                      | Local           | Período de desenvolvimento | Responsáveis                                    | Período de Revisão      | Revisores                                       |
@@ -106,6 +112,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 ### Cronogramas etapa 3
 
+#### Planejado
 
 <center>
 
@@ -123,6 +130,8 @@ Segue então as tabelas de cronogramas de 1 a 20:
 </center>
 
 <br>
+
+#### Executado
 
 <center>
 
@@ -142,6 +151,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 ### Cronogramas etapa 4
 
+#### Planejado
 
 <center>
 
@@ -159,6 +169,8 @@ Segue então as tabelas de cronogramas de 1 a 20:
 </center>
 
 <br>
+
+#### Executado
 
 <center>
 
@@ -178,6 +190,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 ### Cronogramas etapa 5
 
+#### Planejado
 
 <center>
 
@@ -195,6 +208,8 @@ Segue então as tabelas de cronogramas de 1 a 20:
 </center>
 
 <br>
+
+#### Executado
 
 <center>
 
@@ -214,6 +229,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 ### Cronogramas etapa 6.1
 
+#### Planejado
 
 <center>
 
@@ -230,6 +246,8 @@ Segue então as tabelas de cronogramas de 1 a 20:
 </center>
 
 <br>
+
+#### Executado
 
 <center>
 
@@ -248,6 +266,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 ### Cronogramas etapa 6.2
 
+#### Planejado
 
 <center>
 
@@ -264,6 +283,8 @@ Segue então as tabelas de cronogramas de 1 a 20:
 </center>
 
 <br>
+
+#### Executado
 
 <center>
 
@@ -282,7 +303,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 ### Cronogramas etapa 7
 
-
+#### Planejado
 
 <center>
 
@@ -300,6 +321,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 <br>
 
+#### Executado
 
 <center>
 
@@ -319,6 +341,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 ### Cronogramas etapa 8
 
+#### Planejado
 
 <center>
 
@@ -334,6 +357,8 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 <br>
 
+#### Executado
+
 <center>
 
 | Atividade                                                          | Local           | Período de desenvolvimento | Responsáveis                                    | Período de Revisão      | Revisores                                       |
@@ -342,7 +367,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 | Gravar apresentação                                                | Microsoft Teams | 03/07/2024 a 03/07/2024    | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 03/07/2024 a 03/07/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro |
 | Implementar no git page                                               | --              | 02/07/2024 a 03/07/2024    | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro | 03/07/2024 a 03/07/2024 | Bruna, Daniela, Genilson, Lucas, Mariana, Pedro |
 
-<p style="text-align: justify;">Tabela 18: Cronograma Planejado da etapa 7 (Fonte: Mariana Letícia, 2024)</p>
+<p style="text-align: justify;">Tabela 18: Cronograma Executado da etapa 8 (Fonte: Mariana Letícia, 2024)</p>
 
 </center>
 
@@ -350,6 +375,7 @@ Segue então as tabelas de cronogramas de 1 a 20:
 
 ### Cronogramas etapa final
 
+#### Planejado
 
 <center>
 
@@ -374,6 +400,8 @@ Segue então as tabelas de cronogramas de 1 a 20:
 </center>
 
 <br>
+
+#### Executado
 
 <center>
 
