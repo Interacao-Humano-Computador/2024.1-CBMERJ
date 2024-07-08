@@ -20,7 +20,7 @@ Optamos pelo Ciclo de Vida de Mayhew por alguns motivos:
 - É recomendado para equipes inexperientes, fornecendo uma estrutura clara e passos bem definidos.
 - Organiza diversas atividades de Interação Humano-Computador (IHC), proporcionando uma orientação eficaz para o trabalho de design.
 
-Assim, o planejamento do projeto foi estruturado com base nas etapas de Análise de Requisitos, Design, Avaliação e Desenvolvimento do Ciclo de Vida de Mayhew.
+Assim, o planejamento do projeto foi estruturado com base nas etapas de Análise de Requisitos, Design, Avaliação e Desenvolvimento e Instalação do Ciclo de Vida de Mayhew.
 
 Ao adotar esse método, conseguimos ter uma compreensão mais clara de todas as etapas do processo e da aplicação das atividades de IHC, o que foi fundamental para aprendizado de todo o grupo.
 
