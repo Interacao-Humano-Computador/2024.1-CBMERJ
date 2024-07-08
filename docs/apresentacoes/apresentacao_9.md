@@ -22,7 +22,7 @@ Fonte: autores.
 | 5  | Gravação do teste piloto? | **Sim** |
 | 6  | Gravação de cada avaliação realizada? | **Sim** |
 
-<p>Tabela 1: Checklist da entrega 9 (Fonte: Bruna Lima)</p>
+<p>Tabela 1: Checklist da entrega 9 (Fonte: Bruna Lima, 2024)</p>
 
 </center>
 
