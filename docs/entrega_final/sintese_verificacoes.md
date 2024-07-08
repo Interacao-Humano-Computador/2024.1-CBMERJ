@@ -419,4 +419,5 @@
 
 | Versão  | Data       | Descrição                 | Autor(es)                                | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | ---------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
+| `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | [Bruna Lima](https://github.com/libruna) |
+| `1.1`   | 04/07/2024 | Adição das verificações dos artefatos    | [Daniela Alarcão](https://github.com/danialarcao) | [Bruna Lima](https://github.com/libruna) |

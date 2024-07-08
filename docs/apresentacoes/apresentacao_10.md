@@ -19,15 +19,6 @@ Fonte: autores.
 | 1  | A gravação da apresentação dessa etapa? | **Sim** |
 | 2  | O histórico de versão padronizado? | **Sim**  | 
 | 3  | O(s) autor(es) e o(s) revisor(es) para cada artefato? | **Sim** |
-| 4  | O relato de resultados de cada avaliação realizada? | **Sim** |
-| 5  | Gravação do teste piloto? | **Sim** |
-| 6  | Gravação de cada avaliação realizada? | **Sim** |
-
-| Nº | Questão | Resposta (Sim / Não / Incompleto)|
-|:--:|---------|----------------------------------|
-| 1  | A gravação da apresentação dessa etapa? | **Sim** |
-| 2  | O histórico de versão padronizado? | **Sim**  | 
-| 3  | O(s) autor(es) e o(s) revisor(es) para cada artefato? | **Sim** |
 | 4  | O site selecionado para o projeto? | **Sim** |
 | 5  | O ciclo de vida utilizado no projeto? | **Sim** |
 | 6  | O planejamento dos recusos e das entregas (cronogramas)? | **Sim** |

@@ -145,5 +145,5 @@ Fonte: autores.
 
 | Versão  | Data       | Descrição                 | Autor(es)                                | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | ---------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
-| `2.0`   | 07/07/2024 | Criação da Introdução, Tabela das apresentações e sumarização dos vídeos         | [Pedro Henrique](https://github.com/PedroHhenriq) | |
+| `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | [Pedro Henrique](https://github.com/PedroHhenriq)|
+| `2.0`   | 07/07/2024 | Criação da Introdução, Tabela das apresentações e sumarização dos vídeos         | [Pedro Henrique](https://github.com/PedroHhenriq) | [Bruna Lima](https://github.com/libruna)|
