@@ -116,4 +116,4 @@ Fonte: [Genilson Silva](https://github.com/GenilsonJrs), 2024.
 | Versão  | Data       | Descrição                 | Autor(es)                                | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | ---------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) |[Genilson Silva](https://github.com/GenilsonJrs) |
-| `2.0`   | 07/07/2024 | Adição de Conteúdo         | [Genilson Silva](https://github.com/GenilsonJrs) | |
+| `2.0`   | 07/07/2024 | Adição de Conteúdo         | [Genilson Silva](https://github.com/GenilsonJrs) | [Lucas Avelar](https://github.com/LucasAvelar2711) |
