@@ -8,11 +8,12 @@
 
 <center>
 
-**Tabela 1:** tabela de horário, data e local da reunião
-
 | Data       | Horário | Local           |
 | :--------: | :-----: |:--------------: |
 | 03/07/2024 | 23:37   | Microsoft Teams             |
+
+**Tabela 1:** Data, horário e local da reunião realizada. <br>
+**Fonte:** Mariana Letícia, 2024.
 
 </center>
 
@@ -32,6 +33,9 @@
 | [Lucas Avelar](https://github.com/LucasAvelar2711)| sim
 | [Mariana Letícia](https://github.com/Marianannn) | sim
 | [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) | sim
+
+**Tabela 2:** Lista de participantes da reunião. <br>
+**Fonte:** Mariana Letícia, 2024.
 
 </center>
 
@@ -59,14 +63,12 @@
     - 9 e 10 - Daniela
     - 11 e 12 - Pedro
 
-
-
 ## Gravação da Reunião
 Segue abaixo a reunião gravada no vídeo 1:
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TkQD18sESpM?si=-3cZ87x80aQHggiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/TkQD18sESpM?si=-3cZ87x80aQHggiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Vídeo 1:** Reunião final IHC (fonte: Mariana Letícia, 2024)
 
@@ -82,7 +84,7 @@ Não planejamos próxima reunião pois esta, em tese, seria a última.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 13/06/2024 | criação da ata | [Bruna Lima](https://github.com/https://github.com/libruna) | [Mariana Letícia](https://github.com/https://github.com/Marianannn) | 
-| `2.0`   | 07/07/2024 | Adição de informações sobre a ata | [Mariana Letícia](https://github.com/https://github.com/Marianannn) | [Bruna Lima](https://github.com/https://github.com/libruna) | 
+| `1.0`   | 13/06/2024 | Criação da ata | [Mariana Letícia](https://github.com/https://github.com/Marianannn) | [Bruna Lima](https://github.com/https://github.com/libruna)| 
+| `1.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |  | 
 
 </center>

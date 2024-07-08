@@ -4,14 +4,16 @@
 
 ## Data/Horário
 
-<p>Segue abaixo na tabela 1, informações sobre a data, horário e local onde ocorreu a reunião 1:</p>
+<p>Segue abaixo na tabela 1, informações sobre a data, horário e local onde ocorreu a reunião 4:</p>
 
 <center>
-**Tabela 1:** tabela de horário, data e local da reunião
 
 | Data | Horário | Local
 | :--: | :-----: |:----: 
 | 16/05/2024 | 19:18 - 20:00 | Microsoft Teams
+
+**Tabela 1:** Data, horário e local da reunião realizada. <br>
+**Fonte:** Mariana Letícia, 2024.
 
 </center>
 
@@ -20,7 +22,6 @@
 <p>Segue abaixo na Tabela 2, informações sobre quais participantes estiveram presentes na reunião:</p>
 
 <center>
-**Tabela 2:**  tabela de participantes.
 
 | Participantes | Presentes na reunião 
 | :-----------: | :----------------------: 
@@ -30,6 +31,9 @@
 | [Lucas Avelar](https://github.com/LucasAvelar2711)| não
 | [Mariana Letícia](https://github.com/Marianannn) | sim
 | [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) | não
+
+**Tabela 2:** Lista de participantes da reunião. <br>
+**Fonte:** Mariana Letícia, 2024.
 
 </center>
 
@@ -73,11 +77,16 @@ Em relação ao storyboard:<br>
 
 ## Gravação da Reunião
 
-[link da gravação da reunião](https://youtu.be/o1qRY9X4EOY)
+[link para a gravação da reunião 4](https://youtu.be/o1qRY9X4EOY)
+
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/o1qRY9X4EOY?si=2LRzZPpwBTCNcDU-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Vídeo 1:** Gravação da reunião 4. <br>
+**Fonte:** [Bruna Lima](https://github.com/libruna) e [Mariana Letícia](https://github.com/Marianannn).
 
 ## Próxima reunião
 
-19h00 dia 23/05
+Prevista para o dia 23 de maio às 19h00.
 
 ## Histórico de Versões
 
@@ -85,7 +94,8 @@ Em relação ao storyboard:<br>
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 16/05/2024 | criação da ata | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)   | 
+| `1.0`   | 16/05/2024 | Criação da ata | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)   | 
 | `2.0`   | 16/05/2024 | Modificação do template de ata | [Mariana Letícia](https://github.com/Marianannn) |   [Bruna Lima](https://github.com/libruna)   | 
+| `2.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |  | 
 
 </center>

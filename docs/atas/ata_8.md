@@ -1,17 +1,19 @@
-<h1 align="center"> Ata 6 </h1>
+<h1 align="center"> Ata 8 </h1>
 
 **Redator(a):** Bruna Lima
 
 ## Data/Horário
 
-<p>Segue abaixo na tabela 1, informações sobre a data, horário e local onde ocorreu a reunião 1:</p>
+<p>Segue abaixo na tabela 1, informações sobre a data, horário e local onde ocorreu a reunião 8:</p>
 
 <center>
-**Tabela 1:** tabela de horário, data e local da reunião
 
 | Data       | Horário | Local |
 | :--------: | :-----: |:----: |
-| 10/06/2024 | 08:30   | FGA   |
+| 18/06/2024 | 09:50   | FGA   |
+
+**Tabela 1:** Data, horário e local da reunião realizada. <br>
+**Fonte:** Bruna Lima, 2024.
 
 </center>
 
@@ -20,8 +22,6 @@
 <p>Segue abaixo na Tabela 2, informações sobre quais participantes estiveram presentes na reunião:</p>
 
 <center>
-
-**Tabela 2:**  tabela de participantes.
 
 | Participantes | Presentes na reunião 
 | :-----------: | :----------------------: 
@@ -32,23 +32,24 @@
 | [Mariana Letícia](https://github.com/Marianannn) | sim
 | [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) | sim
 
+**Tabela 2:** Lista de participantes da reunião. <br>
+**Fonte:** Bruna Lima, 2024.
+
 </center>
 
 ## Pautas
 
-- Planejamento da verificação;
-- Alinhamento sobre organização do GitPages;
-- Alinhamento sobre desenvolvimento das verificações.
+- Planejamento da verificação da etapa 6.2;
+- Alinhamento sobre desenvolvimento das verificações da etapa 6.2.
 
 ## Assuntos tratados
 
 ### Apresentação
 
-- Foram apresentadas as pautas;
-- Foram apresentadas dúvidas em relação as etapas 6.1.
+- Foram apresentadas as pautas.
 
 ### Definição
-
+- Decidimos manter a estrutura de verificação de tarefas evidenciada no [planejamento de verificação](../verificacao_artefatos/verificacao_nosso_grupo/planejamento_verificacao.md).
 - Divisão de tarefas para documentação do planejamento alinhado em grupo;
 - Divisão de tarefas para o desenvolvimento das listas de verificação para cada integrante;
 - Divisão de tarefas para o desenvolvimento das inspeções.
@@ -63,19 +64,11 @@
     - **Responsáveis:** Bruna, Daniela, Genilson, Lucas, Mariana e Pedro.
 
 ## Gravação da Reunião
-Essa reunião aconteceu durante a aula destinada a desenvolvimento de projeto, dessa forma gravamos o audio da reunião.
-
-<audio controls>
-    <source scr="reunioes_audio/reuniao_6_1.mp4" type="audio/mp4">
-    <p>
-        Seu navegador pode não suportar o "audio HTML5". Aqui está o 
-        <a href="reunioes_audio/reuniao_6_1.mp4">link para o áudio</a> .
-    </p>
-</audio>
+Essa reunião aconteceu durante a aula destinada a desenvolvimento de projeto. Por motivos de erros técnicos, não foi possível recuperar o áudio da reunião.
 
 ## Próxima reunião
 
-Planejada para ocorrer em 14 de junho de 2024.
+Planejada para ocorrer em 03 de julho de 2024.
 
 ## Histórico de Versões
 
@@ -85,4 +78,6 @@ Planejada para ocorrer em 14 de junho de 2024.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 28/05/2024 | criação da ata | [Bruna Lima](https://github.com/https://github.com/libruna) | [Mariana Letícia](https://github.com/https://github.com/Marianannn) | 
 | `2.0`   | 07/07/2024 | Adição de informações sobre a ata | [Mariana Letícia](https://github.com/https://github.com/Marianannn) | [Bruna Lima](https://github.com/https://github.com/libruna) | 
+| `2.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |  | 
+
 </center>

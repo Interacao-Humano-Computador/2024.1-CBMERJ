@@ -4,15 +4,16 @@
 
 ## Data/Horário
 
-<p>Segue abaixo na tabela 1, informações sobre a data, horário e local onde ocorreu a reunião 1:</p>
+<p>Segue abaixo na tabela 1, informações sobre a data, horário e local onde ocorreu a reunião 7:</p>
 
 <center>
-
-**Tabela 1:** tabela de horário, data e local da reunião
 
 | Data       | Horário | Local           |
 | :--------: | :-----: |:--------------: |
 | 13/06/2024 | 09:30   | FGA             |
+
+**Tabela 1:** Data, horário e local da reunião realizada. <br>
+**Fonte:** Bruna Lima, 2024.
 
 </center>
 
@@ -22,8 +23,6 @@
 
 <center>
 
-**Tabela 2:**  tabela de participantes.
-
 | Participantes | Presentes na reunião 
 | :-----------: | :----------------------: 
 | [Bruna Lima](https://github.com/libruna) | sim
@@ -32,6 +31,9 @@
 | [Lucas Avelar](https://github.com/LucasAvelar2711)| sim
 | [Mariana Letícia](https://github.com/Marianannn) | sim
 | [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) | sim
+
+**Tabela 2:** Lista de participantes da reunião. <br>
+**Fonte:** Bruna Lima, 2024.
 
 </center>
 
@@ -75,6 +77,9 @@ Segue abaixo a reunião gravada no horário da aula de Interação Humano-Comput
     </p>
 </audio>
 
+**Audio 1:** Gravação de audio da reunião 7. <br>
+**Fonte:** [Bruna Lima](https://github.com/libruna), [Genilson Silva](https://github.com/GenilsonJrs), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
 ## Próxima reunião
 
 Planejada para ocorrer em 20 de junho de 2024.
@@ -87,5 +92,6 @@ Planejada para ocorrer em 20 de junho de 2024.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | criação da ata | [Bruna Lima](https://github.com/https://github.com/libruna) | [Mariana Letícia](https://github.com/https://github.com/Marianannn) | 
 | `2.0`   | 07/07/2024 | Adição de informações sobre a ata | [Mariana Letícia](https://github.com/https://github.com/Marianannn) | [Bruna Lima](https://github.com/https://github.com/libruna) | 
+| `2.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |  | 
 
 </center>

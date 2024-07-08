@@ -6,7 +6,7 @@
 
 [Link para o vídeo da apresentação 8](https://youtu.be/jYDBm0_AUHY)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jYDBm0_AUHY?si=J9VXWCFwe-MEsDHr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/jYDBm0_AUHY?si=J9VXWCFwe-MEsDHr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 1: apresentação 8</p>
 Fonte: autores.
@@ -22,6 +22,7 @@ Fonte: autores.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página de Apresentação 8     | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Lucas Avelar](https://github.com/LucasAvelar2711)    |  
 | `2.0`   | 13/06/2024 | Adição da Apresentação 8     | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Lucas Avelar](https://github.com/LucasAvelar2711)   | 
+| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)|  |
 
 
 

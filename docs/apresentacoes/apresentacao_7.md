@@ -6,7 +6,7 @@
 
 [Link para o vídeo da apresentação 7](https://youtu.be/n8GcaS20aGo)
 
-<iframe width="882" height="496" src="https://www.youtube.com/embed/n8GcaS20aGo?si=gY5wOH2d6bcxBhwC" title="Apresentação 6.1 - Verificação (CBMERJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/n8GcaS20aGo?si=gY5wOH2d6bcxBhwC" title="Apresentação 6.1 - Verificação (CBMERJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 1: apresentação 7</p>
 Fonte: autores.
@@ -22,4 +22,5 @@ Fonte: autores.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página de Apresentação 7     | [Bruna Lima](https://github.com/libruna) |[Genilson Silva](https://github.com/GenilsonJrs)    |  
 | `2.0`   | 13/06/2024 | Adição da Apresentação 7     | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna)   | 
+| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)|  |
 

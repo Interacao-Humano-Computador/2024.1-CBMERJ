@@ -4,14 +4,16 @@
 
 ## Data/Horário
 
-<p>Segue abaixo na tabela 1, informações sobre a data, horário e local onde ocorreu a reunião 1:</p>
+<p>Segue abaixo na tabela 1, informações sobre a data, horário e local onde ocorreu a reunião 5:</p>
 
 <center>
-**Tabela 1:** tabela de horário, data e local da reunião
 
 | Data | Horário | Local
 | :--: | :-----: |:----: 
 | 28/05/2024 | 09:40 | FGA
+
+**Tabela 1:** Data, horário e local da reunião realizada. <br>
+**Fonte:** Pedro Henrique, 2024.
 
 </center>
 
@@ -20,7 +22,6 @@
 <p>Segue abaixo na Tabela 2, informações sobre quais participantes estiveram presentes na reunião:</p>
 
 <center>
-**Tabela 2:**  tabela de participantes.
 
 | Participantes | Presentes na reunião 
 | :-----------: | :----------------------: 
@@ -30,6 +31,9 @@
 | [Lucas Avelar](https://github.com/LucasAvelar2711)| sim
 | [Mariana Letícia](https://github.com/Marianannn) | sim
 | [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) | sim
+
+**Tabela 2:** Lista de participantes da reunião. <br>
+**Fonte:** Pedro Henrique, 2024.
 
 </center>
 
@@ -69,9 +73,12 @@ Para essa reunião, foi autorizado pelo professor da disciplina gravar apenas o 
     </p>
 </audio>
 
+**Audio 1:** Gravação de audio da reunião 6. <br>
+**Fonte:** [Bruna Lima](https://github.com/libruna), [Daniela Alarcão](https://github.com/danialarcao), [Genilson Silva](https://github.com/GenilsonJrs), [Lucas Avelar](https://github.com/LucasAvelar2711), [Mariana Letícia](https://github.com/Marianannn) e [Pedro Henrique](https://github.com/PedroHhenriq).
+
 ## Próxima reunião
 
-06/06/2024 às 20:00
+Prevista para o dia 06 de junho às 20:00.
 
 ## Histórico de Versões
 
@@ -81,5 +88,6 @@ Para essa reunião, foi autorizado pelo professor da disciplina gravar apenas o 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 28/05/2024 | criação da ata | [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) |   [Mariana Letícia](https://github.com/Marianannn)    | 
 | `2.0`   | 30/05/2024 | adicionando conteúdo ao template de ata | [Mariana Letícia](https://github.com/Marianannn) |   [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq)   | 
+| `2.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |  | 
 
 </center>

@@ -6,7 +6,7 @@
 
 [Link para o vídeo da apresentação 6](https://www.youtube.com/watch?v=QxFZtbuAVRs)
 
-<iframe width="882" height="496" src="https://www.youtube.com/embed/QxFZtbuAVRs" title="Apresentação 6.1 - Verificação (CBMERJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/QxFZtbuAVRs" title="Apresentação 6.1 - Verificação (CBMERJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 1: apresentação 6</p>
 Fonte: autores.
@@ -22,4 +22,4 @@ Fonte: autores.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 12/06/2024 | Criação da página de Apresentação 6     | [Bruna Lima](https://github.com/libruna) |    | 
 | `1.1`   | 12/06/2024 | Adição do vídeo da Apresentação 6      | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Genilson Silva](https://github.com/GenilsonJrs)   | 
-
+| `1.2`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)|  |

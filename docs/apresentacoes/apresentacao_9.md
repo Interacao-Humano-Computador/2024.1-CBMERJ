@@ -6,7 +6,7 @@
 
 [Link para o vídeo da apresentação 9](https://youtu.be/zfyqrfHSqg8?si=TxVVmjthLy69mvoI)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zfyqrfHSqg8?si=TxVVmjthLy69mvoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/zfyqrfHSqg8?si=TxVVmjthLy69mvoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 1: apresentação 9</p>
 Fonte: autores.
@@ -22,7 +22,7 @@ Fonte: autores.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 03/07/2024 | Criação da página de Apresentação 9     | [Daniela Alarcão](https://github.com/danialarcao)|  |
 | `2.0`   | 03/07/2024 | Adição da Apresentação 9     | [Daniela Alarcão](https://github.com/danialarcao)|  |
-
+| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)|  |
 
 
 

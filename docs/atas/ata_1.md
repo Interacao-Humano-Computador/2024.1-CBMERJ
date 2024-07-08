@@ -12,7 +12,9 @@
 | :--: | :-----: |:----: 
 | 02/04 | 20h30 até 21h30 | Google Meets
 
-**Tabela 1:**  tabela de data e horário.
+**Tabela 1:** Data, horário e local da reunião realizada. <br>
+**Fonte:** Mariana Letícia, 2024.
+
 </center>
 
 ## Participantes
@@ -31,26 +33,28 @@
 | [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) | não
   
 
-**Tabela 2:**  tabela de participantes.
+**Tabela 2:** Lista de participantes da reunião. <br>
+**Fonte:** Mariana Letícia, 2024.
+
 </center>
 
 ## Pautas
 
-- Heatmap
-- Quais seriam os horários das reuniões
-- Criação do cronograma da etapa 1
-- Escolher site para o projeto
+- Heatmap;
+- Definir os horários para as reuniões;
+- Criação do cronograma da etapa 1;
+- Escolher o site para o projeto.
 
 ## Assuntos tratados
 
 ### Apresentação
 
-- apresentação da plataforma notion por onde organizaremos o projeto
+- Apresentação da plataforma Notion por onde organizaremos alguns pontos do projeto.
 
 ### Definição
 
-- definição do site escolhido ( CBMERJ )
-- Realização e finaliação do Heatmap
+- Definição do site escolhido: [CBMRJ](https://www.cbmerj.rj.gov.br/).
+- Realização e finalização do Heatmap.
 
 #### Definição do cronograma de atividades da etapa
 
@@ -63,10 +67,10 @@
 - Daniela ficou responsável pela implementação do gitpages
 
 ## Gravação da Reunião
-A reunião não foi gravada por ter sido feita no google meets
+A reunião não foi gravada por ter sido feita no Google Meets.
 
 ## Próxima reunião
-Não foi definida a data da próxima reunião
+Não foi definida a data da próxima reunião.
 
 ## Histórico de Versões
 
@@ -76,6 +80,7 @@ Não foi definida a data da próxima reunião
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 02/04/2024 | criação da ata | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)         | 
 | `2.0`   | 07/04/2024 | adição da ata no git pages | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)        | 
-| `3.0`   | 13/04/2024 | Correção de erros de português | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)        | 
+| `3.0`   | 13/04/2024 | Correção de erros de português | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)  | 
+| `3.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |  | 
 
 </center>
