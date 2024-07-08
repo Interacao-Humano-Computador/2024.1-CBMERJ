@@ -35,5 +35,5 @@ Projeto grupo 7 de Ihc
 
 | Versão  | Data       | Descrição                 | Autor(es)                                | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | ---------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
-| `2.0` | 07/07/2024   | Criação da Tabela         | [Lucas Avelar](https://github.com/LucasAvelar2711) |  |
+| `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | [Genilson Silva](https://github.com/GenilsonJrs)|
+| `2.0` | 07/07/2024   | Criação da Tabela         | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Genilson Silva](https://github.com/GenilsonJrs) |
