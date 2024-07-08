@@ -20,8 +20,9 @@ Fonte: autores.
 | 3  | O(s) autor(es) e o(s) revisor(es) para cada artefato? | **Sim** |
 | 4  | Cada integrante do grupo desenvolveu pelo menos uma lista de verificação? | **Sim** |
 | 5  | Cada integrante do grupo realizou pelo menos uma inspeção? | **Sim** |
+| 6  | Cada item do checklist cita a fonte da informação apresentada? | **Sim** |
 
-<p>Tabela 1: Checklist da entrega 6 (Fonte: Bruna Lima)</p>
+<p>Tabela 1: Checklist da entrega 6 (Fonte: Bruna Lima, 2024)</p>
 
 </center>
 

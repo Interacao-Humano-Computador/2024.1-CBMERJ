@@ -31,7 +31,7 @@ Fonte: autores.
 | 13 | Uma tabela sintetizando o método de verificação dos artefatos com autor e revisor?| **Sim** |
 | 14 | Uma tabela sintetizando quais os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participante(s) do grupo que participaram das gravações? | **Sim** |
 
-<p>Tabela 1: Checklist da entrega 10 (Fonte: Bruna Lima)</p>
+<p>Tabela 1: Checklist da entrega 10 (Fonte: Plano de Ensino de IHC, 2024.1)</p>
 
 </center>
 
