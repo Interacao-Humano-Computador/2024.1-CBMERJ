@@ -3,33 +3,33 @@ A tradução de "story" significa história e "board" significa quadro. O Storyb
 
 ## Metodologia 
 
-### 1. Solicitação de Ficha de Atendimento
+### 1. Solicitação de Ficha de Atendimento - Bruna Lima
 O storyboard da funcionalidade de Solicitação de Ficha de Atendimento apresentado na figura 1 foi inicialmente esboçado à mão e posteriormente produzido e aprimorado com o auxílio da ferramenta do [Storyboard That](https://www.storyboardthat.com/pt/).
 
 ![](img/storyboard1.png)
 <p align="center">Figura 1 - Storyboard da funcionalidade de "Solicitação de Ficha de Atendimento" (Fonte: Bruna Lima, 2024). </p>
 
 
-### 2. Obter declaração de registro de ocorrência
+### 2. Obter declaração de registro de ocorrência - Mariana Letícia
 O storyboard da funcionalidade de obter declaração de registro de ocorrência apresentado na figura 2 foi feito à mão e depois melhorado com o auxílio da ferramenta do [Storyboard That](https://www.storyboardthat.com/pt/).
 
 ![](img/storyboard2_1.png)
 ![](img/storyboard2_2.png)
 <p align="center">Figura 2 - Storyboard da funcionalidade de "Solicitação de Ficha de Atendimento" (Fonte: Mariana Letícia, 2024). </p>
 
-### 3. Agendamento de atendimento presencial
+### 3. Agendamento de atendimento presencial - Daniela Alarcão
 O storyboard da funcionalidade de agendamento de atendimento presencial apresentado na figura 3 foi feito à mão e depois melhorado com o auxílio da ferramenta [Canva](https://www.canva.com/).
 
 ![](img/StoryboardTDaniela.jpg)
 <p align="center">Figura 3 - Storyboard da funcionalidade de "Agendamento de Atendimento Presencial" (Fonte: Daniela Alarcão, 2024). </p>
 
-### 4. Curso do Corpo de Bombeiros - Primeiro Socorros
+### 4. Curso do Corpo de Bombeiros - Primeiro Socorros - Pedro Henrique
 O storyboard da funcionalidade "Curso do Corpo de Bombeiros - Primeiros Socorros" apresentado na figura 4 foi realizado à mão em um papel conforme pode ser identificado abaixo:
 
 ![](img/StoryboardCursoCB.png)
 <p align="center">Figura 4 - Storyboard da funcionalidade de "Curso do Corpo de Bombeiros - Primeiro Socorros" (Fonte: Pedro Henrique, 2024). </p>
 
-### 5. Curso do Corpo de Bombeiros 2 - Primeiro Socorros
+### 5. Curso do Corpo de Bombeiros 2 - Primeiro Socorros - Lucas Avelar
 O storyboard da funcionalidade "Curso do Corpo de Bombeiros 2 - Primeiros Socorros" apresentado na figura 5 foi realizado à mão em um papel conforme pode ser identificado abaixo:
 
 ![](img/StoryboardLucas.jpg)

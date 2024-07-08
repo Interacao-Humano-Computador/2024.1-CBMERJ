@@ -50,7 +50,7 @@ Regras de Seleção (Selection Rules): As regras de seleção determinam qual m�
 
 ## Análise de Tarefas
 
-### 1. Solicitação de Ficha de Atendimento
+### 1. Solicitação de Ficha de Atendimento - Bruna Lima
 
 <p style="text-align: justify;">A sugestão de incluir a funcionalidade de "Solicitação de Ficha de Atendimento" no site do Corpo de Bombeiros do Rio de Janeiro surgiu ao observar a utilidade desse serviço já oferecido no site do Corpo de Bombeiros do Distrito Federal. Essa funcionalidade proporcionará aos cidadãos e empresas a conveniência de solicitar e agendar online atendimentos para diversos serviços prestados pelo Corpo de Bombeiros, tais como: vistorias, credenciamento inicial ou renovação para empresas de formação de brigadistas, relatório de ocorrência, entre outros.</p>
 
@@ -77,7 +77,7 @@ Regras de Seleção (Selection Rules): As regras de seleção determinam qual m�
 ![](img/ctt-diagrama1.png)
 <p align="center">Figura 2 - Diagrama da Árvores de Tarefas Concorrentes da "Solicitação de Ficha de Atendimento" (Fonte: Bruna Lima, 2024). </p>
 
-### 2. Agendamento de atendimento presencial
+### 2. Agendamento de atendimento presencial - Daniela Alarcão
 <p style="text-align: justify;">Agendamento de atendimento presencial é uma funcionalidade importante que permite ao usuário resolver suas pendencias presencialmente. Para a análise dessa funcionalidade, foram aplicadas as técnicas de Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes. </p>
 
 **Análise Hierárquica de Tarefas:** A tabela 2 apresenta a análise hierárquica dessa tarefa em sua forma textual.
@@ -104,7 +104,7 @@ Regras de Seleção (Selection Rules): As regras de seleção determinam qual m�
 <p align="center">Figura 3 - Diagrama da Árvores de Tarefas Concorrentes do "Agendamento de atendimento presencial" (Fonte: Daniela Alarcão, 2024). </p>
 
 
-### 3. Checar e Gerar Certificado
+### 3. Checar e Gerar Certificado - Genilson Silva
 
 O acesso a funcionalidade de Checar e Gerar Certificado refere-se a um meio de ver o estágio do andamento da solicitação de um certificado de forma simples e rápida, podendo checar a prontidão e posteriormente descarregar o arquivo. Também é possível acessar certificados já solicitados anteriormente e descarrega-los quando desejado.
 
@@ -124,7 +124,7 @@ A figura 4 e 5 apresentadas a seguir nesta ordem, mostra a Análise Hierárquica
 </p>
 <p align="center">Figura 5 - Árvores de Tarefas Concorrentes (Fonte: Genilson Junior, 2024)  </p>
 
-### 4. Obter declaração de atendimento de ocorrência do Corpo de Bombeiros
+### 4. Obter declaração de atendimento de ocorrência do Corpo de Bombeiros - Mariana Letícia
 
 <p>Em relação a declaração de atendimento de ocorrência do Corpo de Bombeiros, essa é uma funcionalidade do  site com o objetivo de gerar uma declaração constatando que houve um atendimento de alguma ocorrência. Segue abaixo a análise dessa tarefa.</p>
 
@@ -191,7 +191,7 @@ Logo baixo, há a figura 6 a qual demonstra a tabela 3 acima de modo visual:
 
 <br>
 
-### 5. Curso CBMERJ - Acidentes Domicilares
+### 5. Curso CBMERJ - Acidentes Domicilares - Pedro Henrique
 <p style="text-align: justify;"> O Cursos CBMERJ - Acidentes domiciliares é uma funcionalidade que introduz um curso de Acidentes Domiciliares para o site do CBMRJ. 
 
 Desta maneira, foram utilizadas duas das seguintes técnicas de analise de tarefas (Análise Hierárquica de Tarefas e Árvores de Tarefas Concorrentes), conforme pode ser visto abaixo: </p>
@@ -232,7 +232,7 @@ Ação: Selecionar a aba “Cursos EAD” no menu suspenso do site |
 ![](img/CTT_Cursos_AD.png)
 <p align="center">Figura 9 - Diagrama da Árvore de Tarefa Concorrente do "Cursos - Acidente Domiciliares" (Fonte: Pedro Henrique, 2024). </p>
 
-### 6. Curso dos Bombeiros.
+### 6. Curso dos Bombeiros. - Lucas Avelar
 
 A proposta é adicionar ao site do corpo de bombeiros, uma funcionalidade de cursos para o cidadão, afim de democratizar o acesso a conhecimento e  ser algo que possam usar em suas vidas. Esse é um dos motivos da funcionalidade dar um certificado ao final da conclusão dos cursos, valido em todo o território nacional.
 

@@ -35,7 +35,7 @@ Quesitos como objetivos, seleção de participantes e metodologia não serão ab
 
 No contexto da análise de tarefas, abordaremos as perguntas gerais feitas e perguntas sobre a análise de tarefas. Ademais, serão descritas as respostas coletadas.
 
-## Entrevista 1 - Obter Declaração do registro de ocorrência
+## Entrevista 1 - Obter Declaração do registro de ocorrência - Mariana Letícia
 
 <center>
 
@@ -91,7 +91,7 @@ As perguntas e respostas estão explícitos abaixo na **tabela 2**:
     - Uma outra sugestão foi uma pesquisa dessas declarações caso a listagem seja implementada.
 
 
-## Entrevista 2 - Solicitar Ficha de Atendimento
+## Entrevista 2 - Solicitar Ficha de Atendimento - Bruna Lima
 
 <center>
 
@@ -136,7 +136,7 @@ As perguntas e suas respectivas respostas podem ser encontradas na **Tabela 3** 
 
 - **Sugestões de melhoria:** Dado que a entrevistada não apresentou problemas ou dificuldades durante a execução do fluxo, não há sugestões de melhoria a serem destacadas neste momento. 
 
-## Entrevista 3 - Agendamento de Atendimento Presencial
+## Entrevista 3 - Agendamento de Atendimento Presencial - Daniela Alarcão
 
 <center>
 [Link para o vídeo da entrevista](https://youtu.be/Lt-4Gh-kDgg?si=FAY51G0M0CZZiijN)
@@ -186,7 +186,7 @@ As perguntas e suas respectivas respostas podem ser encontradas na <strong>Tabel
 <li>Acrescentar ao fluxo da funcionalidade a possibilidade de reagendar ou cancelar agendamentos. </li>
 </ul></ul>
 
-## Entrevista  4 - Curso do Corpo de Bombeiros - Acidentes Domiciliares
+## Entrevista  4 - Curso do Corpo de Bombeiros - Acidentes Domiciliares - Pedro Henrique
 
 <center>
 
@@ -251,7 +251,7 @@ Desta maneira a entrevistada foi Lorrane, de 23 anos, gruanda em Fisioterapia. A
     - Uma vez que as relações das tarefas e a forma como foi conduzida e explicada pareceu ter sido bastante clara para a entrevistada, não foi apresentado nenhuma sugestão ou melhoria em relação a Analise de Tarefas em si. Além disso, também não houve sugestão em relação a possíveis tarefas ou ideias que podem auxiliar em aperfeiçoar alguma delas.
 
 
-## Entrevista 5 - Checar e Gerar Certificado
+## Entrevista 5 - Checar e Gerar Certificado - Genilson Silva
 
 <center>
 
@@ -304,7 +304,7 @@ Fonte: [Genilson Junior](https://github.com/GenilsonJrs).
     - A sugestão dada pelo participante diz respeito a Filtros, Detalhamento, Pesquisa, Icones e Utilização correta de cores.
 
 
-## Entrevista 6 - CB Cursos
+## Entrevista 6 - CB Cursos - Lucas Avelar
 
 <center>
 
