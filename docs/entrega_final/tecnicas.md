@@ -5,11 +5,11 @@ Diversas tecnicas foram utilizadas em varias etapas do projeto, aqui encontra-se
 
 | Técnica | Objetivo para uso da tecnica      | Membros que usaram e/ou desenvolveram   | 
 | ------- | :-------------------------------: | --------------------------------- | 
-| Hetmap | Definir horario de trabalho em comum com outros membros|Todos os integrantes usaram |                                          
-| HTA e GOMS| Técnicas usadas para realizar <br> a alise de tarefas  em cada funcionalidade| Todos os Integrantes usaram  |
-| Cronogramas|Definir etapas de desenvolvimento e prazos | Lucas, Mariana,|
-| Ciclo de vida Mayhew| Definir passos de desenvolvimento e nortear o desenvolvimento| Todos os integrantes usaram |
-| Grupo de foco| Seleção de um grupo específico para conduzir testes com o mesmo e definir o perfil do usuário | Bruna e Mariana |
+| Heatmap | Definir horário de trabalho em comum com outros membros|Todos os integrantes usaram |                                          
+| HTA e GOMS| Técnicas usadas para realizar <br> a análise de tarefas  em cada funcionalidade| Todos os Integrantes usaram  |
+| Cronogramas | Definir etapas de desenvolvimento e prazos | Lucas, Mariana,|
+| Ciclo de vida Mayhew | Definir passos de desenvolvimento e nortear o desenvolvimento| Todos os integrantes usaram |
+| Grupo de foco | Seleção de um grupo específico para conduzir testes com o mesmo e definir o perfil do usuário | Bruna e Mariana |
 | Técnica de analise <br> de acordo com Norman (1988)   | Realizar a Anlise do site do CBMERJ  | Mariana, Bruna e Pedro|
 | Metodologia de Nielsen<br> em metas de usabilidade | Usada no desenvolvimento das metas de usabilidade,<br> com foco na engeneharia de usabilidade | Mariana e Lucas |
 | Técnica DECIDE | Traçar um plano de ação, técnica usada em diversos pontos durante o Projeto | Todos os integrantes usaram |
