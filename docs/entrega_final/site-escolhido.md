@@ -15,6 +15,7 @@ Para que o site fosse considerado para o projeto, ele deveria possuir algumas ca
 - Apresentar funcionalidades com nível de complexidade adequado para o projeto.
 
 ## Escolha do site
+O site do [CBMRJ](https://www.cbmerj.rj.gov.br/) foi escolhido pelo grupo considerando os seguintes motivos:
 
 ### O público-alvo
 O site inclui cidadãos comuns, bombeiros e aspirantes a bombeiro. O site não se limita apenas a informações básicas sobre a atuação dos bombeiros, como combate a incêndios, mas também abrange temas administrativos, concursos, registro de alvará de funcionamento, entre outros. Isso torna o site acessível para avaliadores e oferece potencial para interação tanto com profissionais da área quanto com o público em geral.
@@ -37,7 +38,7 @@ Dessa forma, trabalhamos nas funcionalidades apresentadas na Tabela 1:
 | Obter Declaração de Registro de Ocorrência        | [Mariana Letícia](https://github.com/Marianannn)   |
 | Curso Corpo de Bombeiros - Acidentes Domiciliares | [Pedro Henrique](https://github.com/PedroHhenriq)  | 
 
-**Tabela 1:** Funcionalidades trabalhadas no projeto.
+**Tabela 1:** Funcionalidades trabalhadas no projeto. <br>
 **Fonte:** Bruna Lima, 2024.
 
 </center>
