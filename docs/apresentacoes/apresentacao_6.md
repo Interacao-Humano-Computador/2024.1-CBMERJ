@@ -20,6 +20,6 @@ Fonte: autores.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 12/06/2024 | Criação da página de Apresentação 6     | [Bruna Lima](https://github.com/libruna) |    | 
+| `1.0`   | 12/06/2024 | Criação da página de Apresentação 6     | [Bruna Lima](https://github.com/libruna) |   [Mariana Letícia](https://github.com/Marianannn) | 
 | `1.1`   | 12/06/2024 | Adição do vídeo da Apresentação 6      | [Pedro Henrique](https://github.com/PedroHhenriq) |  [Genilson Silva](https://github.com/GenilsonJrs)   | 
-| `1.2`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)|  |
+| `1.2`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)| [Mariana Letícia](https://github.com/Marianannn) |

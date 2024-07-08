@@ -20,9 +20,9 @@ Fonte: autores.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 03/07/2024 | Criação da página de Apresentação 9     | [Daniela Alarcão](https://github.com/danialarcao)|  |
-| `2.0`   | 03/07/2024 | Adição da Apresentação 9     | [Daniela Alarcão](https://github.com/danialarcao)|  |
-| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)|  |
+| `1.0`   | 03/07/2024 | Criação da página de Apresentação 9     | [Daniela Alarcão](https://github.com/danialarcao)| [Mariana Letícia](https://github.com/Marianannn) |
+| `2.0`   | 03/07/2024 | Adição da Apresentação 9     | [Daniela Alarcão](https://github.com/danialarcao)| [Mariana Letícia](https://github.com/Marianannn) |
+| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)| [Mariana Letícia](https://github.com/Marianannn) |
 
 
 

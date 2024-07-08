@@ -22,5 +22,5 @@ Fonte: autores.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página de Apresentação 7     | [Bruna Lima](https://github.com/libruna) |[Genilson Silva](https://github.com/GenilsonJrs)    |  
 | `2.0`   | 13/06/2024 | Adição da Apresentação 7     | [Genilson Silva](https://github.com/GenilsonJrs) | [Bruna Lima](https://github.com/libruna)   | 
-| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)|  |
+| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)| [Mariana Letícia](https://github.com/Marianannn) |
 

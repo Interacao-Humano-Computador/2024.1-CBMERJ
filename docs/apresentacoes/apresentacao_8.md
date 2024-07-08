@@ -22,7 +22,7 @@ Fonte: autores.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página de Apresentação 8     | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Lucas Avelar](https://github.com/LucasAvelar2711)    |  
 | `2.0`   | 13/06/2024 | Adição da Apresentação 8     | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Lucas Avelar](https://github.com/LucasAvelar2711)   | 
-| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)|  |
+| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)|  [Mariana Letícia](https://github.com/Marianannn)|
 
 
 

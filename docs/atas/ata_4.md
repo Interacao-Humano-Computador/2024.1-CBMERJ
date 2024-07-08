@@ -96,6 +96,6 @@ Prevista para o dia 23 de maio às 19h00.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 16/05/2024 | Criação da ata | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)   | 
 | `2.0`   | 16/05/2024 | Modificação do template de ata | [Mariana Letícia](https://github.com/Marianannn) |   [Bruna Lima](https://github.com/libruna)   | 
-| `2.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |  | 
+| `2.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn) | 
 
 </center>

@@ -98,6 +98,6 @@ Dia 16 de maio de 2024 às 21h00
 | `1.0`   | 09/05/2024 | criação da ata | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)   | 
 | `2.0`   | 09/05/2024 | Adicionando informações à ata | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)     | 
 | `2.1`   | 13/05/2024 | Correção da definição da reunião | [Mariana Letícia](https://github.com/Marianannn) |    [Bruna Lima](https://github.com/libruna)     | 
-| `2.2`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |  | 
+| `2.2`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |  [Mariana Letícia](https://github.com/Marianannn)| 
 
 </center>

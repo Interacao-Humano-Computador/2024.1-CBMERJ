@@ -81,6 +81,6 @@ Não foi definida a data da próxima reunião.
 | `1.0`   | 02/04/2024 | criação da ata | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)         | 
 | `2.0`   | 07/04/2024 | adição da ata no git pages | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)        | 
 | `3.0`   | 13/04/2024 | Correção de erros de português | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)  | 
-| `3.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |  | 
+| `3.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn) | 
 
 </center>

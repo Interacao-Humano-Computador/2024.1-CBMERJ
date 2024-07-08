@@ -85,6 +85,6 @@ Não planejamos próxima reunião pois esta, em tese, seria a última.
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da ata | [Mariana Letícia](https://github.com/https://github.com/Marianannn) | [Bruna Lima](https://github.com/https://github.com/libruna)| 
-| `1.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |  | 
+| `1.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn) | 
 
 </center>

@@ -88,6 +88,6 @@ Prevista para o dia 06 de junho às 20:00.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 28/05/2024 | criação da ata | [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq) |   [Mariana Letícia](https://github.com/Marianannn)    | 
 | `2.0`   | 30/05/2024 | adicionando conteúdo ao template de ata | [Mariana Letícia](https://github.com/Marianannn) |   [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq)   | 
-| `2.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |  | 
+| `2.1`   | 08/07/2024 | Correções e adição de fontes | [Bruna Lima](https://github.com/libruna) |[Mariana Letícia](https://github.com/Marianannn)  | 
 
 </center>
