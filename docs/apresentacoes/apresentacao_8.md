@@ -11,6 +11,19 @@
 <p>Vídeo 1: apresentação 8</p>
 Fonte: autores.
 
+<br><p>Na tabela 01 apresentamos o checklist utilizado para verificação de alguns aspectos dos artefatos entregues:</p>
+
+| Nº | Questão | Resposta (Sim / Não / Incompleto)|
+|:--:|---------|----------------------------------|
+| 1  | A gravação da apresentação dessa etapa? | **Sim** |
+| 2  | O histórico de versão padronizado? | **Sim**  | 
+| 3  | O(s) autor(es) e o(s) revisor(es) para cada artefato? | **Sim** |
+| 4  | O relato de resultados de cada avaliação realizada? | **Sim** |
+| 5  | Gravação do teste piloto? | **Sim** |
+| 6  | Gravação de cada avaliação realizada? | **Sim** |
+
+<p>Tabela 1: Checklist da entrega 6 (Fonte: Bruna Lima)</p>
+
 </center>
 
 ## Bibliografia
@@ -22,7 +35,7 @@ Fonte: autores.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 13/06/2024 | Criação da página de Apresentação 8     | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Lucas Avelar](https://github.com/LucasAvelar2711)    |  
 | `2.0`   | 13/06/2024 | Adição da Apresentação 8     | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Lucas Avelar](https://github.com/LucasAvelar2711)   | 
-| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)|  [Mariana Letícia](https://github.com/Marianannn)|
+| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo e tabela de verificação | [Bruna Lima](https://github.com/libruna)| [Mariana Letícia](https://github.com/Marianannn) |
 
 
 
