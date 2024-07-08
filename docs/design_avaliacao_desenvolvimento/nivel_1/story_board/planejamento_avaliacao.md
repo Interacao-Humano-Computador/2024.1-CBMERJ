@@ -145,4 +145,4 @@ Fonte: [Genlson Silva](https://github.com/GenilsonJrs), 2024.
 | `3.0`   | 20/05/2024 | Inserção do Termo de Consentimento                         | [Daniela Alarcão](https://github.com/danialarcao) |  [Genilson Silva](https://github.com/GenilsonJrs)    |
 | `4.0`   | 22/05/2024 | Complementação do framework DECIDE                         | [Daniela Alarcão](https://github.com/danialarcao) | [Genilson Silva](https://github.com/GenilsonJrs)     |
 | `5.0`   | 25/05/2024 | Adição da gravação do teste piloto                         | [Mariana Letícia](https://github.com/Marianannn) |  [Daniela Alarcão](https://github.com/danialarcao)   |
-| `6.0`   | 07/07/2024 | Adição da gravação do teste piloto de Checar e Gerar Certificado e Ajustes no Documento                     | [Genilson Silva](https://github.com/GenilsonJrs) |    |
+| `6.0`   | 07/07/2024 | Adição da gravação do teste piloto de Checar e Gerar Certificado e Ajustes no Documento                     | [Genilson Silva](https://github.com/GenilsonJrs) |  [Mariana Letícia](https://github.com/Marianannn)  |

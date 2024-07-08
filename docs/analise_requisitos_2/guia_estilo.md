@@ -80,4 +80,4 @@ Dito isso, O público-alvo do guia de estilo são os próprios desenvolvedores e
 | 2.0   | 12/05/2024 | Criação de tópicos e adição de conteúdo                        | [Daniela Alarcão](https://github.com/danialarcao) | [Lucas Avelar](https://github.com/LucasAvelar2711)        |
 | 3.0   | 13/05/2024 | Criação do Figma e tópicos                    | [Genilson Junior](https://github.com/GenilsonJrs) | [Lucas Avelar](https://github.com/LucasAvelar2711)        |
 | 4.0   | 04/07/2024 | Remoção do Figma para melhor disposição de imagens                    | [Daniela Alarcão](https://github.com/danialarcao) | [Lucas Avelar](https://github.com/LucasAvelar2711)        |
-| 5.0   | 07/07/2024 | Ajustes no Documento                    | [Genilson Silva](https://github.com/GenilsonJrs) |      |
+| 5.0   | 07/07/2024 | Ajustes no Documento                    | [Genilson Silva](https://github.com/GenilsonJrs) |  [Mariana Letícia](https://github.com/Marianannn)    |

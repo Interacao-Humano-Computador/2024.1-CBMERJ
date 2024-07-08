@@ -162,4 +162,4 @@ Fonte: [Mariana Letícia](https://github.com/Marianannn), 2024.
 | `3.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Daniela Alarcão](https://github.com/danialarcao) |  [Lucas Avelar](https://github.com/LucasAvelar2711)   |
 | `4.0`   | 03/06/2024 | Adição de conteúdo DECIDE    | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Pedro Henrique](https://github.com/PedroHhenriq)     |
 | `4.1`   | 03/06/2024 | Adição do cronograma e planejamento do teste piloto | [Bruna Lima](https://github.com/libruna)|  [Daniela Alarcão](https://github.com/danialarcao)   |
-| `5.0`   | 03/06/2024 | Adição do teste piloto de Checar e Gerar Certificado | [Genilson Silva](https://github.com/GenilsonJrs)|    |
+| `5.0`   | 03/06/2024 | Adição do teste piloto de Checar e Gerar Certificado | [Genilson Silva](https://github.com/GenilsonJrs)|  [Mariana Letícia](https://github.com/Marianannn)  |

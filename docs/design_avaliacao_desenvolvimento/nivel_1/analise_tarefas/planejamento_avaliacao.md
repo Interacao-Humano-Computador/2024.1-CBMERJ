@@ -208,4 +208,4 @@ Fonte: [Genlson Silva](https://github.com/GenilsonJrs), 2024.
 | `1.0`   | 16/05/2024 | Criação da página                         | [Mariana Letícia](https://github.com/Marianannn) | [Genilson Junior](https://github.com/GenilsonJrs)    |
 | `2.0`   | 22/05/2024 | Adição do planejamento da avaliação                         | [Genilson Junior](https://github.com/GenilsonJrs) |  [Daniela Alarcão](https://github.com/danialarcao)   |
 | `3.0`   | 25/05/2024 | Adição da gravação do teste piloto                         | [Mariana Letícia](https://github.com/Marianannn) |  [Bruna Lima](https://github.com/libruna)   |
-| `4.0`   | 07/07/2024 | Adição da gravação do teste piloto de Checar e Gerar Certificado | [Genilson Silva](https://github.com/GenilsonJrs) |    |
+| `4.0`   | 07/07/2024 | Adição da gravação do teste piloto de Checar e Gerar Certificado | [Genilson Silva](https://github.com/GenilsonJrs) |  [Mariana Letícia](https://github.com/Marianannn)  |

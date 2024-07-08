@@ -1,19 +1,3 @@
-## Sumário
-* [Introdução](#introdução)
-* [Metodologia](#metodologia)
-* [Objetivos e escopo](#objetivos-e-escopo)
-* [Seleção de Participantes](#seleção-de-participantes)
-* [Cronograma Executado de entrevistas](#cronograma-executado-de-entrevistas)
-* [Avaliações](#avaliações)
-* [Avaliação 1 checar e gerar certificado - Genilson Silva](#avaliação-1-checar-e-gerar-certificado)
-* [Avaliação 2 agendar atendimento presencial - Daniela Alarcão](#avaliação-2-agendar-atendimento-presencial)
-* [Avaliação 3 cursos-acidentes-domiciliares - Pedro Henrique](#avaliação-3-cursos-acidentes-domiciliares)
-* [Avaliação 4 solicitar ficha de atendimento - Bruna Lima](#avaliação-4-solicitar-ficha-de-atendimento)
-* [Avaliação 5 obter declaração do registro de ocorrência - Mariana Letícia](#avaliação-5-obter-declaração-do-registro-de-ocorrência)
-* [Conclusão](#conclusão)
-* [Bibliografia](#bibliografia)
-* [Referências Bibliográfica](#referências-bibliográficas)
-
 ## Introdução
 O relato dos resultados e sua devida interpretação se trata de conceber os dados técnicamente e endendê-los de modo a acrescentar soluções e opiniões vindas do usuário nos protótipos e nas funcionalidades
 ## Metodologia
