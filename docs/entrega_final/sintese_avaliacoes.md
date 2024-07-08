@@ -14,5 +14,5 @@
 
 | Versão  | Data       | Descrição                 | Autor(es)                                | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | ---------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
-| `2.0`   | 04/07/2024 | Síntese das avaliações         | [Daniela Alarcão](https://github.com/danialarcao) | |
+| `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) |[Genilson Silva](https://github.com/GenilsonJrs) |
+| `2.0`   | 04/07/2024 | Síntese das avaliações         | [Daniela Alarcão](https://github.com/danialarcao) | [Genilson Silva](https://github.com/GenilsonJrs)|
