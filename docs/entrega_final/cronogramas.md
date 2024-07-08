@@ -436,4 +436,4 @@ Segue então as tabelas de cronogramas de 1 a 20:
 | Versão |    Data    | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | :--------: | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 04/07/2024 | Criação da página                           | [Bruna Lima](https://github.com/libruna)         | [Mariana Letícia](https://github.com/Marianannn) |
-| `2.0`  | 07/07/2024 | Adição de introdução, metodologia e tabelas | [Mariana Letícia](https://github.com/Marianannn) |                                                  |
+| `2.0`  | 07/07/2024 | Adição de introdução, metodologia e tabelas | [Mariana Letícia](https://github.com/Marianannn) | [Pedro Henrique](https://github.com/PedroHhenriq)                                                 |

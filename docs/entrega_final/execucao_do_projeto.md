@@ -37,4 +37,4 @@ Logo abaixo, na tabela 1, serão exclarecidos os nomes das etapas do Ciclo Mayhe
 | Versão |    Data    | Descrição         | Autor(es)                                        | Revisor(es)                                      |
 | ------ | :--------: | ----------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 04/07/2024 | Criação da página | [Bruna Lima](https://github.com/libruna)         | [Mariana Letícia](https://github.com/Marianannn) |
-| `2.0`  | 07/07/2024 | Criação da página | [Mariana Letícia](https://github.com/Marianannn) |                                                  |
+| `2.0`  | 07/07/2024 | Criação da página | [Mariana Letícia](https://github.com/Marianannn) |  [Pedro Henrique](https://github.com/PedroHhenriq)   |
