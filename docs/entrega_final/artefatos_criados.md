@@ -1,5 +1,5 @@
 ## Introdução
-No deccorer do projeto, diversos artefatos foram criados para realizar o projeto, logo asbaixo está uma tabela com os artefatos criados mostrando tambem os autores e revisores de cada um.
+No deccorer do projeto, diversos artefatos foram criados para realizar o projeto, logo abaixo está uma tabela com os artefatos criados mostrando também os autores e revisores de cada um.
 
 
 ## Tabela dos artefatos criados

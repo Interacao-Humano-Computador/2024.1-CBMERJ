@@ -1,5 +1,5 @@
 ## Introdução
-Diversas tecnicas foram utilizadas em varias etapas do projeto, aqui encontra-se cada uma dessas tecnicas, quam utilizou o o objetivo de uso dessa tecnicas,
+Diversas tecnicas foram utilizadas em várias etapas do projeto, aqui encontra-se cada uma dessas técnicas, quem utilizou e o objetivo de uso dessa tecnicas,
 
 ## Taebela
 
