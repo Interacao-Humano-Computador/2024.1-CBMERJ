@@ -4,10 +4,9 @@
 
 <center>
 
-[Link para o vídeo da apresentação 10]()
+[Link para o vídeo da apresentação 10](https://youtu.be/-z5XRH0HnTo?si=3vlcZ9lztHF6wLnF)
 
-<!-- Adicionar iframe aqui
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-z5XRH0HnTo?si=3vlcZ9lztHF6wLnF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 1: apresentação 10</p>
 Fonte: autores. 
@@ -42,7 +41,9 @@ Fonte: autores.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 08/07/2024 | Criação da página de Apresentação 10 |  [Bruna Lima](https://github.com/libruna) | | 
+| `1.0`   | 08/07/2024 | Criação da página de Apresentação 10 |  [Bruna Lima](https://github.com/libruna) |[Mariana Letícia](https://github.com/Marianannn) | 
+| `2.0`   | 08/07/2024 | Adição do vídeo da apresentação final |  [Bruna Lima](https://github.com/libruna) |[Mariana Letícia](https://github.com/Marianannn) | 
+
 
 
 
