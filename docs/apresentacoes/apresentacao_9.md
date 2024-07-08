@@ -18,18 +18,9 @@ Fonte: autores.
 | 1  | A gravação da apresentação dessa etapa? | **Sim** |
 | 2  | O histórico de versão padronizado? | **Sim**  | 
 | 3  | O(s) autor(es) e o(s) revisor(es) para cada artefato? | **Sim** |
-| 4  | O site selecionado para o projeto? | **Sim** |
-| 5  | O ciclo de vida utilizado no projeto? | **Sim** |
-| 6  | O planejamento dos recusos e das entregas (cronogramas)? | **Sim** |
-| 7  | A execução do projeto (de cada etapa do ciclo de vida)? | **Sim** |
-| 8  | O(s) resultado(s) alcançado(s) com a execução do projeto (em relação ao objetivo do projeto)? | **Sim** |
-| 9  | Uma tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto? | **Sim** |
-| 10 | Uma tabela sintetizando quais técnicas foram utilizadas na execução do projeto? | **Sim** |
-| 11 | Uma tabela sintetizando quais artefatos foram criados no projeto em cada etapa com autor e revisor? | **Sim** |
-| 12 | Uma tabela sintetizando quais avaliações dos protótipos com entrevistadores e o número de participantes com os nomes? | **Sim** |
-| 13 | Uma tabela sintetizando o método de verificação dos artefatos com autor e revisor?| **Sim** |
-| 14 | Uma tabela sintetizando quais os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participante(s) do grupo que participaram das gravações? | **Sim** |
-
+| 4  | O relato de resultados de cada avaliação realizada? | **Sim** |
+| 5  | Gravação do teste piloto? | **Sim** |
+| 6  | Gravação de cada avaliação realizada? | **Sim** |
 
 <p>Tabela 1: Checklist da entrega 9 (Fonte: Bruna Lima)</p>
 

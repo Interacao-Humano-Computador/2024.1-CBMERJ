@@ -18,9 +18,8 @@ Fonte: autores.
 | 1  | A gravação da apresentação dessa etapa? | **Sim** |
 | 2  | O histórico de versão padronizado? | **Sim**  | 
 | 3  | O(s) autor(es) e o(s) revisor(es) para cada artefato? | **Sim** |
-| 4  | O relato de resultados de cada avaliação realizada? | **Sim** |
-| 5  | Gravação do teste piloto? | **Sim** |
-| 6  | Gravação de cada avaliação realizada? | **Sim** |
+| 4  | Cada integrante do grupo desenvolveu pelo menos uma lista de verificação? | **Sim** |
+| 5  | Cada integrante do grupo realizou pelo menos uma inspeção? | **Sim** |
 
 <p>Tabela 1: Checklist da entrega 6 (Fonte: Bruna Lima)</p>
 
