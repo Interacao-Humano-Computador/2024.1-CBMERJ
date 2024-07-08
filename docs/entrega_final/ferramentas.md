@@ -48,5 +48,6 @@ A tabela a seguir apresenta uma síntese das principais ferramentas utilizadas a
 
 | Versão  | Data       | Descrição                 | Autor(es)                                | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | ---------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
-| `2.0`   | 07/07/2024 | Criação da Introdução e Tabela das Ferramentas       | [Pedro Henrique](https://github.com/PedroHhenriq) | |
+| `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | [Daniela Alarcão](https://github.com/danialarcao)|
+| `2.0`   | 07/07/2024 | Criação da Introdução e Tabela das Ferramentas       | [Pedro Henrique](https://github.com/PedroHhenriq) | [Daniela Alarcão](https://github.com/danialarcao)|
+
