@@ -118,18 +118,18 @@ nav:
   - Verificação dos artefatos:
       - Verificação de Artefatos - Grupo 8:
           - Planejamento da Verificação: verificacao_artefatos/verificacao_grupo_8/planejamento_verificacao.md
-          - Etapa 2:
+          - Análise de Requisitos I:
               - Aspectos Éticos: verificacao_artefatos/verificacao_grupo_8/etapa_2/aspectos_eticos.md
               - Perfil do Usuário: verificacao_artefatos/verificacao_grupo_8/etapa_2/perfil_usuario.md
               - Personas: verificacao_artefatos/verificacao_grupo_8/etapa_2/personas.md
               - Cenários: verificacao_artefatos/verificacao_grupo_8/etapa_2/cenarios.md
               - Análise de tarefas: verificacao_artefatos/verificacao_grupo_8/etapa_2/analise_tarefas.md
-          - Etapa 3:
+          - Análise de Requisitos II:
               - Características Gerais da Plataforma: verificacao_artefatos/verificacao_grupo_8/etapa_3/05_caracteristicas_gerais.md
               - Guia de Estilo: verificacao_artefatos/verificacao_grupo_8/etapa_3/04_guia_de_estilo.md
               - Metas de Usabilidade: verificacao_artefatos/verificacao_grupo_8/etapa_3/03_metas_usabilidade.md
               - Princípios Gerais: verificacao_artefatos/verificacao_grupo_8/etapa_3/02_princípios_gerais.md
-          - Etapa 4:
+          -  Design, Avaliação e Desenvolvimento:
               - Nível 1:
                   - Análise de tarefas: 
                       - Planejamento da Avaliação: verificacao_artefatos/verificacao_grupo_8/etapa_4/nivel_1/analise_tarefas/planejamento_avaliacao.md
@@ -142,17 +142,17 @@ nav:
                       - Storyboards: verificacao_artefatos/verificacao_grupo_8/etapa_4/nivel_1/storyboard/storyboards.md
       - Verificação de Artefatos - Grupo 7:
           - Planejamento da Verificação: verificacao_artefatos/verificacao_nosso_grupo/planejamento_verificacao.md
-          - Etapa 2:
+          - Análise de Requisitos I:
               - Aspectos Éticos: verificacao_artefatos/verificacao_nosso_grupo/etapa_2/aspectos_eticos.md
               - Perfil do Usuário: verificacao_artefatos/verificacao_nosso_grupo/etapa_2/perfil_usuario.md
               - Personas: verificacao_artefatos/verificacao_nosso_grupo/etapa_2/personas.md
               - Cenários: verificacao_artefatos/verificacao_nosso_grupo/etapa_2/cenarios.md
               - Análise de tarefas: verificacao_artefatos/verificacao_nosso_grupo/etapa_2/analise_tarefas.md
-          - Etapa 3:
+          - Análise de Requisitos II:
               - Guia de estilo: verificacao_artefatos/verificacao_nosso_grupo/etapa_3/guia_estilo.md
               - Metas de Usabilidade: verificacao_artefatos/verificacao_nosso_grupo/etapa_3/metas_usabilidade.md
               - Princípios Gerais: verificacao_artefatos/verificacao_nosso_grupo/etapa_3/principios_gerais.md
-          - Etapa 4:
+          -  Design, Avaliação e Desenvolvimento:
               - Nível 1:
                   - Análise de tarefas: 
                       - Planejamento da avaliação: verificacao_artefatos/verificacao_nosso_grupo/etapa_4/nivel_1/analise_tarefas/planejamento_avaliacao.md

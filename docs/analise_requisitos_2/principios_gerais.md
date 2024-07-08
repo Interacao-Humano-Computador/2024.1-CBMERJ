@@ -11,6 +11,8 @@ Após revisão dos princípios e diretrizes gerais, realizamos uma análise do s
 
 **Análise:** Ao acessar ao site, conseguimos identificar que ele atende conforme a expectativa do usuário, uma vez que com a função principalmente informativa, apresenta suas inteções e ações possíveis de forma clara. Desta forma, a partir da figura 1 e 1.1 e 1.2, podemos observar que o menu apresenta um ícone com seta para baixo ao lado de menus suspensos com objetivo de orientar ao usuário para que possa escolher suas determinadas opções e apartir delas seguir o seus processos.
 
+**Sugestão de ação corretiva:** Não se aplica.
+
 ![](img/Menus.png)
 <p align="center">Figura  1- Menus (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
 
@@ -25,6 +27,8 @@ Após revisão dos princípios e diretrizes gerais, realizamos uma análise do s
 
 **Análise:** Podemos identificar que a estrutura das tarefas realizadas pelo CBMERJ é bem simples, como demonstrado no exemplo da figura 2.1 e 2.2 ao emitir um boleto de multa, podemos executar a maior parte das tarefas simplesmente escolhendo por meio dos menus supensos o que desejamos, sendo redirecionados para um página que já concluí o processo desejado dentro dela mesma ou para uma página que orienta e guia para um outro processo de forma clara. 
 
+**Sugestão de ação corretiva:** Não se aplica.
+
 ![](img/MenuEmitirBoleto.png)
 <p align="center">Figura 2 - Menu - Emitir Boleto de Multa (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
 
@@ -36,13 +40,17 @@ Após revisão dos princípios e diretrizes gerais, realizamos uma análise do s
 
 **Análise:** Por conta da estrutura informativa do site, não há muita abertura para o controle do usuário em determinadas tarefas, uma vez que a maior parte das interações serão feitas em pouquíssimos cliques. No entanto, conforme a figura 3 demonstra, por meio do menu suspenso de acessibilidade, o usuário tem opções de controlar alguns aspectos visuais do site que podem auxiliá-lo caso possua alguma dificuldade, podendo assim, ativar, desativar ou reiniciar, assim que deseja. 
 
+**Sugestão de ação corretiva:** Não se aplica.
+
 ![](img/Opcoesdeacessibilidade.png)
 <p align="center">Figura  3 - Opções de acessibilidade (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
   
 ### 4. Consistência e padronização
 **Definição:** Garante que elementos de interface se comportem da mesma maneira em diferentes partes do sistema, já que isso pode ajudar os usuários a compreender como as coisas funcionam de uma forma melhor e ajudar a reduzir a curva de aprendizado.
 
-**Análise:** Conforme pode ser observado na figura 4, figura 4.1 e figura 4.2, identificamos que o site apresente elementos aparentemente iguais parecem ter propósitos diferentes. Desta maneira, indo ao menu "Para o cidadão" aparecem dois itens com mesmo nome, "Requerimento padrão", sem explicação direito ao usuário, em abas distintas, que levam para páginas com mesmo nome, mas com itens e opções diferentes, o que pode confundir o usuário. 
+**Análise:** Conforme pode ser observado na figura 4, figura 4.1 e figura 4.2, identificamos que o site apresenta elementos que são aparentemente iguais, mas que possuem propósitos diferentes. Desta maneira, indo ao menu "Para o cidadão" aparecem dois itens com mesmo nome, "Requerimento padrão", sem explicação direito ao usuário, que levam para páginas com mesmo nome, mas com itens e opções diferentes, o que pode confundir o usuário. 
+
+**Sugestão de ação corretiva:** Reformular os nomes para que sejam mais intuitivos para o usuário, diferenciando os dois tipos de requerimento padrão.
 
 ![](img/MenuParaCidadao.png)
 <p align="center">Figura 4 - Menu "Para Cidadão com Requerimento Padrões" (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
@@ -58,6 +66,8 @@ Após revisão dos princípios e diretrizes gerais, realizamos uma análise do s
 
 **Análise:** Por meio da figura, podemos identificar itens que auxiliam ao usuário para que possa otimizar seu tempo. Assim, logo ao entrar na página inicial do site, um pouco abaixo, temos uma sequência de menus com principais serviços destinados tanto ao público quanto aos servidores do CBMERJ que servem como atalhos para sua determinadas páginas. 
 
+**Sugestão de ação corretiva:** Não se aplica.
+
 ![](img/MenuAcessivel.png)
 <p align="center">Figura 5 - Menu acessível (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
   
@@ -65,6 +75,8 @@ Após revisão dos princípios e diretrizes gerais, realizamos uma análise do s
 **Definição:** Busca prever as necessidades do usuário antes mesmo que ele as expresse, isso envolve fornecer informações e ferramentas relevantes em cada etapa do processo. As estratégias incluem oferecer informações adicionais úteis e lembrar das ações do usuário para facilitar sua execução. A definição cuidadosa de valores padrão também é destacada, considerando que os usuários frequentemente aceitam os padrões sem questionar.
 
 **Análise:** Há recursos que antecipam as necessidades do usuário, prevendo situações comuns. Por exemplo, na figura 6, são oferecidos recursos de ajuda durante o preenchimento de campos, facilitando a compreensão. Além disso, na figura 7, observamos o uso de valores padrão nos campos, o que também contribui para antecipar as ações do usuário.
+
+**Sugestão de ação corretiva:** Não se aplica.
 
 ![](img/antecipacao1.png)
 <p align="center">Figura 6 - Recurso de ajuda em Solicitação de Requimento Padrão (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
@@ -77,6 +89,8 @@ Após revisão dos princípios e diretrizes gerais, realizamos uma análise do s
 
 **Análise:** 
 Ao acessar o site, percebemos imediatamente o menu bem estruturado, organizado em seções que facilitam a navegação. Ao escolher uma seção, como exemplificado na Figura 8 com "Emissão de Boletos", o usuário é direcionado diretamente ao formulário correspondente, agilizando a interação. De modo geral, a interface transmite clareza em relação aos estados e ações disponíveis.
+
+**Sugestão de ação corretiva:** Não se aplica.
 
 ![](img/visibilidade.png)
 <p align="center">Figura 8 - Formulário para Emissão de Boleto (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
@@ -91,6 +105,8 @@ Ao acessar o site, percebemos imediatamente o menu bem estruturado, organizado e
 
 Por outro lado, na figura 10, observamos que embora haja opções de acessibilidade, ao selecioná-las, elas se aplicam apenas à página atual. Ao navegar para outras páginas, o site retorna às configurações padrão, o que pode dificultar a experiência de usuários que dependem dessas opções.
 
+**Sugestão de ação corretiva:** Uma vez que o site for acessado e as configurações de acessibilidades adicionadas, salvar a configuração e aplicar para todas as páginas acessadas durante a navegação no site.
+
 ![](img/conteudoRevelante2.png)
 <p align="center">Figura 10 - Opções de acessibilidade (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
 
@@ -98,6 +114,8 @@ Por outro lado, na figura 10, observamos que embora haja opções de acessibilid
 **Definição:** Envolve antecipar e facilitar a recuperação de erros por parte do usuário. isso inclui projetar sistemas exploráveis, onde é fácil reverter operações e difícil realizar ações irreversíveis. Recomenda-se evitar erros sempre que possível e, caso ocorram, o sistema deve detectá-los e oferecer mecanismos simples para tratá-los. As mensagens de erro devem ser claras, indicando o problema e sugerindo uma solução construtiva. Além disso, é importante oferecer ajuda e documentação de alta qualidade para esclarecer dúvidas dos usuários durante a interação.
 
 **Análise:** Ao tentar imprimir o requerimento padrão sem preencher alguns campos, um aviso de erro é exibido. No entanto, a mensagem sobre o motivo do erro não é clara, apenas uma mensagem de erro interno do sistema é exibida na tela sem que seja previamente tratada para compreensão do usuário, como mostrado na figura 11.
+
+**Sugestão de ação corretiva:** Tratar o erro e devolver com uma mensagem amigável que comunique de fato a causa do erro.
 
 ![](img/projetoParaErros.png)
 <p align="center">Figura 11 - Erro ao imprimir Requerimento Padrão (Fonte: Site do Corpo de Bombeiros do Rio de Janeiro).</p>
@@ -113,3 +131,4 @@ Por outro lado, na figura 10, observamos que embora haja opções de acessibilid
 | `1.1`   | 11/05/2024 | Adição da introdução e metodologia        | [Bruna Lima](https://github.com/libruna)         |   [Genilson Silva](https://github.com/GenilsonJrs)  |
 | `1.2`   | 12/05/2024 | Adição dos princícios                     | [Bruna Lima](https://github.com/libruna)         |   [Genilson Silva](https://github.com/GenilsonJrs)  |
 | `1.3`   | 13/05/2024 | Adição de outros princípios               | [Pedro Henrique](https://github.com/PedroHhenriq)  | [Genilson Silva](https://github.com/GenilsonJrs)     |
+| `1.4`   | 08/07/2024 | Adição de sugestões para ações corretivas | [Bruna Lima](https://github.com/libruna) |  [Genilson Silva](https://github.com/GenilsonJrs) |

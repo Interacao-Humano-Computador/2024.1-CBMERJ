@@ -9,7 +9,29 @@
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/zfyqrfHSqg8?si=TxVVmjthLy69mvoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Vídeo 1: apresentação 9</p>
-Fonte: autores.
+Fonte: autores. 
+
+<br><p>Na tabela 01 apresentamos o checklist utilizado para verificação de alguns aspectos dos artefatos entregues:</p>
+
+| Nº | Questão | Resposta (Sim / Não / Incompleto)|
+|:--:|---------|----------------------------------|
+| 1  | A gravação da apresentação dessa etapa? | **Sim** |
+| 2  | O histórico de versão padronizado? | **Sim**  | 
+| 3  | O(s) autor(es) e o(s) revisor(es) para cada artefato? | **Sim** |
+| 4  | O site selecionado para o projeto? | **Sim** |
+| 5  | O ciclo de vida utilizado no projeto? | **Sim** |
+| 6  | O planejamento dos recusos e das entregas (cronogramas)? | **Sim** |
+| 7  | A execução do projeto (de cada etapa do ciclo de vida)? | **Sim** |
+| 8  | O(s) resultado(s) alcançado(s) com a execução do projeto (em relação ao objetivo do projeto)? | **Sim** |
+| 9  | Uma tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto? | **Sim** |
+| 10 | Uma tabela sintetizando quais técnicas foram utilizadas na execução do projeto? | **Sim** |
+| 11 | Uma tabela sintetizando quais artefatos foram criados no projeto em cada etapa com autor e revisor? | **Sim** |
+| 12 | Uma tabela sintetizando quais avaliações dos protótipos com entrevistadores e o número de participantes com os nomes? | **Sim** |
+| 13 | Uma tabela sintetizando o método de verificação dos artefatos com autor e revisor?| **Sim** |
+| 14 | Uma tabela sintetizando quais os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participante(s) do grupo que participaram das gravações? | **Sim** |
+
+
+<p>Tabela 1: Checklist da entrega 9 (Fonte: Bruna Lima)</p>
 
 </center>
 
@@ -21,8 +43,8 @@ Fonte: autores.
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | `1.0`   | 03/07/2024 | Criação da página de Apresentação 9     | [Daniela Alarcão](https://github.com/danialarcao)| [Mariana Letícia](https://github.com/Marianannn) |
-| `2.0`   | 03/07/2024 | Adição da Apresentação 9     | [Daniela Alarcão](https://github.com/danialarcao)| [Mariana Letícia](https://github.com/Marianannn) |
-| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo  | [Bruna Lima](https://github.com/libruna)| [Mariana Letícia](https://github.com/Marianannn) |
+| `2.0`   | 03/07/2024 | Adição da Apresentação 9     | [Daniela Alarcão](https://github.com/danialarcao) | [Mariana Letícia](https://github.com/Marianannn) |
+| `2.1`   | 08/07/2024 | Ajuste apresentação do vídeo e tabela de verificação | [Bruna Lima](https://github.com/libruna)| [Mariana Letícia](https://github.com/Marianannn) |
 
 
 
