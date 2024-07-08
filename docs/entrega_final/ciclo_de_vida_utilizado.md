@@ -31,5 +31,5 @@ Ao adotar esse método, conseguimos ter uma compreensão mais clara de todas as 
 
 | Versão  | Data       | Descrição                 | Autor(es)                                | Revisor(es)                                    |
 | ------- | :--------: | ------------------------- | ---------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | |
-| `2.0`   | 07/07/2024 | Adição do ciclo de vida utilizado | [Bruna Lima](https://github.com/libruna) | |
+| `1.0`   | 04/07/2024 | Criação da página         | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)|
+| `2.0`   | 07/07/2024 | Adição do ciclo de vida utilizado | [Bruna Lima](https://github.com/libruna) | [Mariana Letícia](https://github.com/Marianannn)|
