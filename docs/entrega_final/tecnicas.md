@@ -1,7 +1,7 @@
 ## Introdução
 Diversas tecnicas foram utilizadas em várias etapas do projeto, aqui encontra-se cada uma dessas técnicas, quem utilizou e o objetivo de uso dessa tecnicas,
 
-## Taebela
+## Tabela da técnicas utilizadas
 
 | Técnica | Objetivo para uso da tecnica      | Membros que usaram e/ou desenvolveram   | 
 | ------- | :-------------------------------: | --------------------------------- | 
