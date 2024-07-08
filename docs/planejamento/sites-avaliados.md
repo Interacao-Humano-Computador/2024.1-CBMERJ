@@ -19,6 +19,7 @@ Na tabela 1 abaixo há os sites que foram avaliados e seus respectivos avaliador
 | [ -- ]()| [Pedro Henrique](https://github.com/https://github.com/PedroHhenriq)
 
 <b>Tabela 1:</b> Sites avaliados individualmente por cada membro da equipe.</p>
+<b>Fonte:</b> Mariana Letícia, 2024.</p>
 
 </center>
 
@@ -104,6 +105,7 @@ O site CBMERJ - Corpo de Bombeiros do Estado do Rio de Janeiro -, que teve como 
 | `1.3`   | 08/04/2024 | Inclusão da avaliação do Meu Sus Digital                        | [Daniela Alarcão](https://github.com/danialarcao) | [Mariana Letícia](https://github.com/Marianannn)    |
 | `1.4`   | 08/04/2024 | Inclusão da avaliação do Correios                        | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Daniela Alarcão](https://github.com/danialarcao)    |
 | `1.5`   | 08/04/2024 | Inclusão da avaliação do Caixa Tem                        | [Genilson Junior](https://github.com/GenilsonJrs) | [Lucas Avelar](https://github.com/LucasAvelar2711)         |  
-| `2.0`   | 13/04/2024 | Adicionando e corrigindo conteúdos sobre o site escolhido                        | [Mariana Letícia](https://github.com/Marianannn) | [Lucas Avelar](https://github.com/LucasAvelar2711)         |  
+| `1.6`   | 13/04/2024 | Adicionando e corrigindo conteúdos sobre o site escolhido                        | [Mariana Letícia](https://github.com/Marianannn) | [Lucas Avelar](https://github.com/LucasAvelar2711)         |  
+| `1.7`   | 08/07/2024 | Adicção de fonte da tabela | [Bruna Lima](https://github.com/libruna) | |  
 
 </center>
