@@ -3,8 +3,8 @@ No deccorer do projeto, diversos artefatos foram criados para realizar o projeto
 
 
 ## Tabela dos artefatos criados
-| Artefato  |  Autor(es)                                | Revisor(es)                                    |
-| -------   | :--------: | ------------------------- | ---------------------------------------- | 
+| Artefato  |  Autor(es)   | Revisor(es)             |
+| --------- | -------- | ------------------------- | 
 | Atas |  Mariana, Letícia e Lucas | Genilson |
 | Cronograma | Bruna, Mariana e Lucas| Bruna e Mariana |
 | Perfil de usuário e grupo de foco | Bruna, Mariana e Pedro | Genilson |
