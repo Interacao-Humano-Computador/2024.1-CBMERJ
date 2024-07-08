@@ -208,5 +208,6 @@ Este é o cronograma realizado, o qual representa o que e como de fato as ativid
 | `4.0`   | 13/05/2024 | Adição Ponto de controle 3                    | [Lucas Avelar](https://github.com/LucasAvelar2711)  | [Mariana Letícia](https://github.com/Marianannn)        | 
 | `5.0`   | 22/05/2024 | Adição Ponto de controle 4                   | [Bruna Lima](https://github.com/libruna)  |    [Mariana Letícia](https://github.com/Marianannn)    | 
 | `6.0`   | 03/05/2024 | Adição Ponto de controle 5                   | [Mariana Letícia](https://github.com/Marianannn)  |    [Bruna Lima](https://github.com/libruna)    | 
-| `7.0`   | 12/06/2024 | Adição Ponto de controle 6                   |  [Bruna Lima](https://github.com/libruna) |       | 
-| `8.0`   | 19/06/2024 | Adição Ponto de controle 7                   |  [Pedro Henrique](https://github.com/PedroHhenriq) |       | 
+| `7.0`   | 12/06/2024 | Adição Ponto de controle 6                   |  [Bruna Lima](https://github.com/libruna) |   [Mariana Letícia](https://github.com/Marianannn)    | 
+| `8.0`   | 19/06/2024 | Adição Ponto de controle 7                   |  [Pedro Henrique](https://github.com/PedroHhenriq) |    [Mariana Letícia](https://github.com/Marianannn)   | 
+| `9.0`   | 07/07/2024 | Correção das tabelas e adição das tabelas das etapas 8 e a final                  |  [Mariana Letícia](https://github.com/Marianannn) |   [Pedro Henrique](https://github.com/PedroHhenriq)    | 

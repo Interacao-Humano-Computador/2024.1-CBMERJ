@@ -14,4 +14,4 @@ Os dias e horários de maior disponibilidade de toda a equipe são, respectivame
 | Versão | Data       | Descrição            | Autor(es)                                         | Revisor(es)                                       |
 | ------ | ---------- | -------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | `1.0`  | 08/04/2024 | Inclusão do heatmap   | [Bruna Lima](https://github.com/libruna)         | [Genilson Silva](https://github.com/GenilsonJrs) |
-| `1.1`  | 08/07/2024 | Ajuste em chamada da figura | [Bruna Lima](https://github.com/libruna)         | |
+| `1.1`  | 08/07/2024 | Ajuste em chamada da figura | [Bruna Lima](https://github.com/libruna)         | [Mariana Letícia](https://github.com/Marianannn)|

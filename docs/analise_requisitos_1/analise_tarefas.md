@@ -263,4 +263,4 @@ Para essa análise, foram aplicadas as técnicas de Análise Hierárquica de Tar
 | `1.4`   | 06/05/2024 | Adição da tarefa "Locais certificados"                    | [Daniela Alarcão](https://github.com/danialarcao) | [Bruna Lima](https://github.com/libruna)         |
 | `1.5`   | 06/05/2024 | Adição da tarefa 5 "Catálogo Telefônico"                    | [Pedro Henrique](https://github.com/PedroHhenriq) | [Genilson Silva](https://github.com/GenilsonJrs)        |
 | `1.6`   | 06/05/2024 | Adição da tarefa 6 "sistema UPO"                    | [Lucas Avelar](https://github.com/LucasAvelar2711) | [Mariana Letícia](https://github.com/Marianannn) |
-| `2.0`   | 06/05/2024 | Adição e Correção da Analise Cursos - Acidentes Domiciliares                    | [Pedro Henrique](https://github.com/PedroHhenriq) | |
+| `2.0`   | 06/05/2024 | Adição e Correção da Analise Cursos - Acidentes Domiciliares                    | [Pedro Henrique](https://github.com/PedroHhenriq) | [Mariana Letícia](https://github.com/Marianannn)|
