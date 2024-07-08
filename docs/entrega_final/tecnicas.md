@@ -6,7 +6,7 @@ Diversas tecnicas foram utilizadas em várias etapas do projeto, aqui encontra-s
 | Técnica | Objetivo para uso da tecnica      | Membros que usaram e/ou desenvolveram   | 
 | ------- | :-------------------------------: | --------------------------------- | 
 | Heatmap | Definir horário de trabalho em comum com outros membros|Todos os integrantes usaram |                                          
-| HTA e GOMS| Técnicas usadas para realizar <br> a análise de tarefas em cada funcionalidade| Todos os Integrantes usaram  |
+| HTA e CTT| Técnicas usadas para realizar <br> a análise de tarefas em cada funcionalidade| Todos os Integrantes usaram  |
 | Cronogramas | Definir etapas de desenvolvimento e prazos | Lucas, Mariana,|
 | Ciclo de vida Mayhew | Definir passos de desenvolvimento e nortear o desenvolvimento| Todos os integrantes usaram |
 | Grupo de foco | Seleção de um grupo específico para conduzir testes com o mesmo e definir o perfil do usuário | Bruna e Mariana |
