@@ -15,6 +15,7 @@ A tabela a seguir sintetiza os vídeos das apresentações que foram produzidos 
 | 7 | Relato dos resultados do Protótipo de Papel; Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade. | [Link do vídeo [Apresentação 7]](https://youtu.be/n8GcaS20aGo) | Bruna, Daniela, Genilson, Mariana e Pedro Henrique |
 | 8 | Verificação dos artefatos do nosso grupo | [Link do vídeo [Apresentação 8]](https://youtu.be/jYDBm0_AUHY) | Bruna, Daniela, Lucas, Mariana e Pedro Henrique |
 | 9 | Relato dos resultados do Protótipo de alta fidelidade. | [Link do vídeo [Apresentação 9]](https://youtu.be/zfyqrfHSqg8?si=TxVVmjthLy69mvoI) | Bruna, Daniela, Genilson, Lucas, Mariana e Pedro Henrique |
+| 10 | Entrega Final. | [Link do vídeo [Apresentação 10]](https://youtu.be/-z5XRH0HnTo?si=3vlcZ9lztHF6wLnF) | Bruna, Daniela, Genilson, Lucas, Mariana e Pedro Henrique |
 
 ### Sumário das apresentações
 
@@ -135,6 +136,19 @@ Fonte: autores.
 
 <p>Vídeo 9: apresentação 9</p>
 Fonte: autores.
+
+</details>
+
+<details>
+
+<summary><b> Apresentação 10 </b></summary>
+
+**Vídeo 10: Apresentação 10**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-z5XRH0HnTo?si=3vlcZ9lztHF6wLnF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Vídeo 10: apresentação 10</p>
+Fonte: autores. 
 
 </details>
 
